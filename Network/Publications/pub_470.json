@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Investigation of multi-frequency SAR data to retrieve the soil moisture within a drip irrigation context using modified water cloud model",
+        "pub_year": 2022,
+        "citation": "Sensors 22 (2), 580, 2022",
+        "author": "Emna Ayari and Zeineb Kassouk and Zohra Lili-Chabaane and Nicolas Baghdadi and Mehrez Zribi",
+        "journal": "Sensors",
+        "volume": "22",
+        "number": "2",
+        "pages": "580",
+        "publisher": "MDPI",
+        "abstract": "The objective of this paper was to estimate soil moisture in pepper crops with drip irrigation in a semi-arid area in the center of Tunisia using synthetic aperture radar (SAR) data. Within this context, the sensitivity of L-band (ALOS-2) in horizontal-horizontal (HH) and horizontal-vertical (HV) polarizations and C-band (Sentinel-1) data in vertical-vertical (VV) and vertical-horizontal (VH) polarizations is examined as a function of soil moisture and vegetation properties using statistical correlations. SAR signals scattered by pepper-covered fields are simulated with a modified version of the water cloud model using L-HH and C-VV data. In spatially heterogeneous soil moisture cases, the total backscattering is the sum of the bare soil contribution weighted by the proportion of bare soil (one-cover fraction) and the vegetation fraction cover contribution. The vegetation fraction contribution is calculated as the volume scattering contribution of the vegetation and underlying soil components attenuated by the vegetation cover. The underlying soil is divided into irrigated and non-irrigated parts owing to the presence of drip irrigation, thus generating different levels of moisture underneath vegetation. Based on signal sensitivity results, the potential of L-HH data to retrieve soil moisture is demonstrated. L-HV data exhibit a higher potential to retrieve vegetation properties regarding a lower potential for soil moisture estimation. After calibration and validation of the proposed model, various simulations are performed to assess the model behavior patterns under different conditions of soil moisture and pepper biophysical properties. The results highlight the potential of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:wUn16MOA3RoC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=13290746321873133103",
+    "cites_id": [
+        "13290746321873133103"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/22/2/580",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:L94Tw1w3crgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 3
+    }
+}

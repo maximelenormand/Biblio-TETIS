@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An evaluation framework for comparing epidemic intelligence systems",
+        "pub_year": 2023,
+        "citation": "IEEE Access 11, 31880-31901, 2023",
+        "author": "Nejat Arinik and Roberto Interdonato and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "IEEE Access",
+        "volume": "11",
+        "pages": "31880-31901",
+        "publisher": "IEEE",
+        "abstract": "In the context of Epidemic Intelligence, many Event-Based Surveillance (EBS) systems have been proposed in the literature to promote the early identification and characterization of potential health threats from online sources of any nature. Each EBS system has its own surveillance definitions and priorities, therefore this makes the task of selecting the most appropriate EBS system for a given situation a challenge for end-users. In this work, we propose a new evaluation framework to address this issue. It first transforms the raw input epidemiological event data into a set of normalized events with multi-granularity, then conducts a descriptive retrospective analysis based on four evaluation objectives: spatial, temporal, thematic and source analysis. We illustrate its relevance by applying it to an Avian Influenza dataset collected by a selection of EBS systems, and show how our framework allows identifying their \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:D03iK_w7-QYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1786026310732369049",
+    "cites_id": [
+        "1786026310732369049"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10082884/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mUy0gnc9yRgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

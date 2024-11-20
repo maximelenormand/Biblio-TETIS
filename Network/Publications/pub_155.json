@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Bagging NFI, GEDI and Sentinel 2 data to produce high resolution maps of forest volume",
+        "pub_year": 2023,
+        "citation": "SilviLaser 2023, 2023",
+        "author": "Anouk Schleich and Cedric Vega and Jean-Pierre Renaud and Sylvie Durrieu",
+        "conference": "SilviLaser 2023",
+        "abstract": "GEDI data sample forest structures at very high density over large portion of the Earth surface and could contribute to the development of more precise and accurate estimation of forest attributes. One key issue with the use of GEDI data is the difficulty to get spatially matching field reference data for both the calibration and validation of models. A solution to bridge the gap between GEDI and National Forest Inventory (NFI) data consists in using continuous auxiliary information. Here we propose a solution based on a k-nearest neighbour (kNN) bagging approach. Bagging consists in sampling without replacement, with a sample size defined as a function of the population size. The approach was tested over the Vosges Mountains in France using Sentinel 2 images and a digital elevation model (DEM) as continuous data aggregated at 30 m resolution. The data vector included 10 GEDI RH values, Sentinel mean spectral bands and DEM derived metrics (i.e. mean altitude, slope, and aspect). The bagging experiment was repeated 1000 times with a sample size equal to the squared root of the population size and with kNN set with Euclidean distance and k = 1. For each 30 m cell, the GEDI footprint with the Rh profile best fitting the mean bagging profile was selected. Following the spatial matching, a conventional modelling approach was applied to predict volume using NFI plots. To evaluate the potential of this approach, a preliminary model was trained on 80% of the plots and tested on the remaining 20%. The model explained 57% of the variance of the field measured volume. The mean absolute error of the model was 90 m3.ha-1 or 31.6% on the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:M7yex6snE4oC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-04416497/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bIdAUiHgO_kJ:scholar.google.com/",
+    "cites_per_year": {}
+}

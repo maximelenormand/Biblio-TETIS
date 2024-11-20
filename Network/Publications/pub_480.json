@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Eucalyptus Leaf area index estimation from Sentinel 2 images: importance of genotype and sun and view acquisition geometry",
+        "pub_year": 2023,
+        "citation": "S\u00e9rie T\u00e9cnica IPEF 26 (48), 2023",
+        "author": "Vit\u00f3ria Barbosa Ferreira and Guerric le Maire and Jean-Baptiste Feret and Joann\u00e8s Guillemot and Otavio C Campoe",
+        "journal": "S\u00e9rie T\u00e9cnica IPEF",
+        "volume": "26",
+        "number": "48",
+        "abstract": "Brazil is a major producer of wood, with Eucalyptus plantations covering over 7 million hectares. Leaf area index (LAI) is a crucial parameter for determining stand carbon and water balance, and ultimately assessing the crop growth status. However, LAI is highly variable in space, within and between stands, and temporally, across rotations. This study aims to investigate the relationship between LAI and various vegetation indices derived from Sentinel 2 images, and develop empirical equations calibrated at the Eucflux site with Root Mean Squared Error values as low as 0.49 m2/m2. The incorporation of variables related to satellite and sun acquisition geometry significantly improves the accuracy of the prediction model. In addition, separating the model by genotypes greatly improves its performance, but may affect transferability."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:Y5dfb0dijaUC",
+    "num_citations": 0,
+    "pub_url": "https://www.ipef.br/PUBLICACOES/stecnica/nr48/ipef-sertec-48-113.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:v3yQ0mzjmnQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detecting trend on ecological river status\u2013how to deal with short incomplete bioindicator time series? Methodological and operational issues",
+        "pub_year": 2018,
+        "citation": "Proceedings of the International Association of Hydrological Sciences 379 \u2026, 2018",
+        "author": "Flavie Cernesson and Marie-George Tournoud and Nathalie Lalande",
+        "journal": "Proceedings of the International Association of Hydrological Sciences",
+        "volume": "379",
+        "pages": "169-174",
+        "publisher": "Copernicus Publications",
+        "abstract": "Among the various parameters monitored in river monitoring networks, bioindicators provide very informative data. Analysing time variations in bioindicator data is tricky for water managers because the data sets are often short, irregular, and non-normally distributed. It is then a challenging methodological issue for scientists, as it is in Sa\u00f4ne basin (30\u202f000\u202fkm, France) where, between 1998 and 2010, among 812 IBGN (French macroinvertebrate bioindicator) monitoring stations, only 71 time series have got more than 10 data values and were studied here. Combining various analytical tools (three parametric and non-parametric statistical tests plus a graphical analysis), 45 IBGN time series were classified as stationary and 26 as non-stationary (only one of which showing a degradation). Series from sampling stations located within the same hydroecoregion showed similar trends, while river size classes seemed to be non-significant to explain temporal trends. So, from a methodological point of view, combining statistical tests and graphical analysis is a relevant option when striving to improve trend detection. Moreover, it was possible to propose a way to summarise series in order to analyse links between ecological river quality indicators and land use stressors."
+    },
+    "filled": true,
+    "author_pub_id": "nbR473IAAAAJ:WbkHhVStYXYC",
+    "num_citations": 0,
+    "pub_url": "https://piahs.copernicus.org/articles/379/169/2018/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mNyQc8Q8oaYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

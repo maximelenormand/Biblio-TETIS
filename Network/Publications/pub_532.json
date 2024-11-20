@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of Gedi's Elevation Accuracy from the First and Second Data Product Releases Over Inland Waterbodies",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "Nicolas Baghdadi and Ibrahim Fayad and Fr\u00e9d\u00e9ric Frappart",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5614-5617",
+        "publisher": "IEEE",
+        "abstract": "In this study, water level estimates from the Global Ecosystem Dynamics Investigation Lidar (GEDI) were validated against in situ gauge station records over Lake Geneva. The performances of the first and second releases (respectively V1 and V2) of the GEDI data products were compared. The influence of the following parameters were analyzed: (1) the signal-over-noise ratio (SNR), (2) the width of water surface peak within the waveform (gwidth), (3) the amplitude of the water surface peak within the waveform (A), (4) the viewing angle of GEDI (VA), and (5) the acquiring beam. The comparison between V1 and V2 elevations showed that V2, overall, provided elevations with a more constant bias and fewer deviations to in situ data than V1. In addition, by choosing GEDI shots with VA \u2264 3.5\u00b0, the unbiased RMSE (ubRMSE) of GEDI elevations was 27.1 cm with V2 (r=0.66) and 42.8 cm with V1 (r=0.34). Results also \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:natZJ_-F0IUC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9883394/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aHZ5uc_SF-AJ:scholar.google.com/",
+    "cites_per_year": {}
+}

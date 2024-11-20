@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Are citizens willing to accept changes in public lighting for biodiversity conservation?",
+        "pub_year": 2022,
+        "citation": "Ecological Economics 200, 107527, 2022",
+        "author": "Chlo\u00e9 Beaudet and L\u00e9a Tardieu and Maia David",
+        "journal": "Ecological Economics",
+        "volume": "200",
+        "pages": "107527",
+        "publisher": "Elsevier",
+        "abstract": "Light pollution has significantly increased in recent years, in concert with urban sprawl. Light pollution consequences for nocturnal wildlife, human health, and energy consumption are numerous but are poorly tackled in urban policies. The regulation and mitigation of light pollution is possible, but requires an important shift in the lighting paradigm, including in public lighting often managed by local authorities. One of the main sources of reticence of local authorities to regulate light pollution is the potential rejection by citizens of lighting changes. In this article, we investigate citizens\u2019 willingness to accept the transition to more sustainable lighting regimes. We use a discrete choice experiment in a large French metropolis to measure the relative weight of different characteristics of public lighting \u2013 light intensity, light extinction, light colour \u2013 in respondents\u2019 decisions. We show that respondents are globally open to \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:k_IJM867U9cC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=6732093024696050386",
+    "cites_id": [
+        "6732093024696050386"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0921800922001896",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0qLkE_AybV0J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 6,
+        "2024": 1
+    }
+}

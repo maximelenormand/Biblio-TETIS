@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integration of spaceborne lidar data to improve the forest biomass map in madagascar",
+        "pub_year": 2017,
+        "citation": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2017",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Ibrahim Fayad and Ghislain Vieilledent and Jean-St\u00e9phane Bailly and Dinh Ho Tong Minh",
+        "conference": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "5786-5789",
+        "publisher": "IEEE",
+        "abstract": "This study aimed to assess the potential of GLAS (Geoscience Laser Altimeter System) LiDAR data to overcome the saturation at high AGB values of existing AGB map on Madagascar (Vieilledent's AGB map [1]). First, spatially distributed estimations of AGB were obtained from GLAS data. Second, the difference between the Vieilledent's AGB map and GLAS derived AGB at each GLAS footprints location was calculated and a spatially distributed additional correction factors were obtained. Thanks to the spatial structure of these additional correction factors, an ordinary kriging interpolation was thus performed to provide a continuous correction factor map. Finally, the existing and the correction factor map were summed to improve the Vieilledent's AGB map. Results showed that the integration of GLAS data overcome the saturation at high AGB of Vieilledent's AGB map and allow AGB estimation until 650 t/ha \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:4vMrXwiscB8C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=2696885483645274794",
+    "cites_id": [
+        "2696885483645274794"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8128323/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qoqVBA9DbSUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 1
+    }
+}

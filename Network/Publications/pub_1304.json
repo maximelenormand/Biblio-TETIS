@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modelling spatial distributions of alpine vegetation: A graph theory approach to delineate ecologically-consistent species assemblages",
+        "pub_year": 2015,
+        "citation": "Ecological Informatics 30 (doi:10.1016/j.ecoinf.2015.09.005), 196-202, 2015",
+        "author": "A. Mikolajczak and D. Mar\u00e9chal and T. Sanz and M. Isenmann and V. Thierionb and S. Luque",
+        "journal": "Ecological Informatics",
+        "volume": "30",
+        "number": "doi:10.1016/j.ecoinf.2015.09.005",
+        "pages": "196-202",
+        "publisher": "Elsevier",
+        "abstract": "Safeguarding biodiversity has been one of the most important issues on the environmental and forest policies agenda since the 1990s. The problem remains in terms of decisions and knowledge on where to set appropriate conservation targets. Hence, we need detailed and reliable information about habitat structure and composition and methods for estimating this information over the whole spatial domain. In answer to this target, in France, the Ministry of Ecology launched an ambitious project to map the terrestrial vegetation at a scale of 1:25,000 known as CarHAB. This project initiated in 2011, will be used as a strategic spatial planning tool in answer to key issues in relation to biodiversity, conservation, green infrastructures and to report on the conservation status of habitats and species of community interest.We use species-distribution models (SDMs) to identify areas that are ecologically suitable for the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:gnsKu8c89wgC",
+    "num_citations": 25,
+    "citedby_url": "/scholar?hl=en&cites=14583907225590214885",
+    "cites_id": [
+        "14583907225590214885"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S157495411500151X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5bCOUlpyZMoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 3,
+        "2018": 4,
+        "2019": 5,
+        "2020": 1,
+        "2021": 4,
+        "2022": 4,
+        "2023": 2
+    }
+}

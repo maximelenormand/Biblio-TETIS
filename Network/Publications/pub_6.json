@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A two-branch CNN architecture for land cover classification of PAN and MS imagery",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (11), 1746, 2018",
+        "author": "Raffaele Gaetano and Dino Ienco and Kenji Ose and Remi Cresson",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "11",
+        "pages": "1746",
+        "publisher": "MDPI",
+        "abstract": "The use of Very High Spatial Resolution (VHSR) imagery in remote sensing applications is nowadays a current practice whenever fine-scale monitoring of the earth\u2019s surface is concerned. VHSR Land Cover classification, in particular, is currently a well-established tool to support decisions in several domains, including urban monitoring, agriculture, biodiversity, and environmental assessment. Additionally, land cover classification can be employed to annotate VHSR imagery with the aim of retrieving spatial statistics or areas with similar land cover. Modern VHSR sensors provide data at multiple spatial and spectral resolutions, most commonly as a couple of a higher-resolution single-band panchromatic (PAN) and a coarser multispectral (MS) imagery. In the typical land cover classification workflow, the multi-resolution input is preprocessed to generate a single multispectral image at the highest resolution available by means of a pan-sharpening process. Recently, deep learning approaches have shown the advantages of avoiding data preprocessing by letting machine learning algorithms automatically transform input data to best fit the classification task. Following this rationale, we here propose a new deep learning architecture to jointly use PAN and MS imagery for a direct classification without any prior image sharpening or resampling process. Our method, namely MultiResoLCC, consists of a two-branch end-to-end network which extracts features from each source at their native resolution and lately combine them to perform land cover classification at the PAN resolution. Experiments are carried out on two real-world scenarios over large \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:hC7cP41nSMkC",
+    "num_citations": 70,
+    "citedby_url": "/scholar?hl=en&cites=1380886698130595116",
+    "cites_id": [
+        "1380886698130595116"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/11/1746",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LN0ivSLlKRMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 6,
+        "2020": 17,
+        "2021": 18,
+        "2022": 19,
+        "2023": 8,
+        "2024": 2
+    }
+}

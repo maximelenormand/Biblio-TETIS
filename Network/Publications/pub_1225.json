@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Enrichissement de sch\u00e9ma multidimensionnel en constellation gr\u00e2ce \u00e0 la Classification Ascendante Hi\u00e9rarchique",
+        "pub_year": 2016,
+        "citation": "16\u00e8me Journ\u00e9es Francophones Extraction et Gestion des Connaissances, EGC \u2026, 2016",
+        "author": "Lucile Sautot and Sandro Bimonte and Ludovic Journaux and Arnaud Larr\u00e8re and Kevin Saint Paul and Bruno Faivre",
+        "conference": "16\u00e8me Journ\u00e9es Francophones Extraction et Gestion des Connaissances, EGC 2016",
+        "pages": "511-516",
+        "abstract": "Les hi\u00e9rarchies sont des structures cruciales dans un entrep\u00f4t de don-n\u00e9es puisqu'elles permettent l'agr\u00e9gation de mesures dans le but de proposer une vue analytique plus ou moins globale sur les donn\u00e9es entrepos\u00e9es, selon le niveau hi\u00e9rarchique auquel on se place. Cependant, peu de travaux s' int\u00e9ressent \u00e0 la construction de hi\u00e9rarchies, via un algorithme de fouille de donn\u00e9es, pre-nant en compte le contexte multidimensionnel de la dimension concern\u00e9e. Dans cet article, nous proposons donc un algorithme, impl\u00e9ment\u00e9 sur une architecture ROLAP, permettant d'enrichir une dimension avec des donn\u00e9es factuelles."
+    },
+    "filled": true,
+    "author_pub_id": "NAGlML4AAAAJ:eQOLeE2rZwMC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01357667/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zjdp6kjoObMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

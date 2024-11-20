@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Le Syndicat des Avocats de France et le Syndicat de la Magistrature, des \u00absyndicats fr\u00e8res\u00bb 1?",
+        "pub_year": 2016,
+        "citation": "Les cahiers de la justice, 535-545, 2016",
+        "author": "Jean-Philippe Tonneau",
+        "journal": "Les cahiers de la justice",
+        "number": "3",
+        "pages": "535-545",
+        "publisher": "Cairn",
+        "abstract": "R\u00e9sum\u00e9L'article s'appuie sur l'id\u00e9e commune parmi les membres du champ judiciaire et juridique et certains observateurs ext\u00e9rieurs, selon lequel le Syndicat de la Magistrature, fond\u00e9 en 1968, et le Syndicat des Avocats de France, cr\u00e9\u00e9 en 1973, seraient des \u00ab syndicats fr\u00e8res \u00bb, pour aller \u00e0 rebours de cette vision. En effet, si les deux organisations et leurs membres partagent une ind\u00e9niable communaut\u00e9 de vues, il n'en demeure pas moins que leur histoire, leur position et prise de position divergent \u00e0 bien des \u00e9gards. Dans un premier temps, nous revenons sur l'histoire de chacune des deux organisations, puis, dans un deuxi\u00e8me temps, nous analysons les relations entre le SAF et le SM des ann\u00e9es 1970 jusqu'\u00e0 une p\u00e9riode tr\u00e8s contemporaine (2012)."
+    },
+    "filled": true,
+    "author_pub_id": "FcRgvV4AAAAJ:2osOgNQ5qMEC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5579915539248044832",
+    "cites_id": [
+        "5579915539248044832"
+    ],
+    "pub_url": "https://www.cairn.info/revue-les-cahiers-de-la-justice-2016-3-page-535.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:INuPiZ7Xb00J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1
+    }
+}

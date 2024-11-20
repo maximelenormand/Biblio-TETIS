@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Visible, near infrared, and thermal spectral radiance on-board UAVs for high-throughput phenotyping of plant breeding trials",
+        "pub_year": 2018,
+        "citation": "Biophysical and biochemical characterization and plant species studies, 275-299, 2018",
+        "author": "Scott C Chapman and Bangyou Zheng and B Andries and S Madec and B Solan and B George-jaeggli and G Hammer and D Jordan and PS Thenkabail and JG Lyon and A Huete",
+        "journal": "Biophysical and biochemical characterization and plant species studies",
+        "pages": "275-299",
+        "publisher": "CRC Press",
+        "abstract": "Together with increased scientific understanding of plant growth, improvements in instrument technology and survey platforms are now enabling the application of spectral techniques at higher resolutions (down to sub-centimeter) than have been previously possible in field-scale research. In field trials, we are interested in being able to measure the \u201cphenotypes\u201d of plants, which are any of the observable traits or derived calculations of traits that may vary across genotypes of the same species. Hence, compared to \u201cremote sensing,\u201d the \u201cproximal\u201d sensing (in the range of millimeters to 50 meters or so) that we are concerned with in this chapter is frequently related to fine-scale identification of objects and detection of signals from noncontiguous pixels. We consider here how proximal sensing can replace manual measurements of these objects and signals and extend the"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:Y0pCki6q_DkC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=13445600105794573902",
+    "cites_id": [
+        "13445600105794573902"
+    ],
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=YoqADwAAQBAJ&oi=fnd&pg=PA275&dq=info:ThbX8Q5emLoJ:scholar.google.com&ots=0u_gXtS_ni&sig=4bWJKcdPdHXICXX70jCVemSva50",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ThbX8Q5emLoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 3,
+        "2021": 6,
+        "2022": 4
+    }
+}

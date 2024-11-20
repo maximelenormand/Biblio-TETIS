@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spectral subdomains and prior estimation of leaf structure improves PROSPECT inversion on reflectance or transmittance alone",
+        "pub_year": 2021,
+        "citation": "Remote Sensing of Environment 252, 112176, 2021",
+        "author": "Lynsay Spafford and Guerric Le Maire and Andrew MacDougall and Florian De Boissieu and Jean-Baptiste F\u00e9ret",
+        "journal": "Remote Sensing of Environment",
+        "volume": "252",
+        "pages": "112176",
+        "publisher": "Elsevier",
+        "abstract": "Leaf biochemical and structural traits are vegetation characteristics related to various physiological processes. Taking advantage of the physical relationship between optical properties and leaf biochemistry, field-based spectroscopy has allowed for the rapid estimation of leaf biochemical constituents and repeated non-destructive measurements through time. Leaf constituent retrieval from leaf optical properties following inversion of the physically-based radiative transfer model PROSPECT is now a popular method, but some cases prompt poor retrieval success and this approach requires a strict inversion procedure. We investigated the performances of different inversion procedures for the estimation of leaf constituents, specifically chlorophyll a and b, carotenoids, water (EWT), and dry matter (LMA) from >1400 broadleaf samples, including the definition of optimal spectral subdomains, and the use of leaf \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:dshw04ExmUIC",
+    "num_citations": 31,
+    "citedby_url": "/scholar?hl=en&cites=12483330835605119225",
+    "cites_id": [
+        "12483330835605119225"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425720305496",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-WDsZUGzPa0J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 6,
+        "2022": 4,
+        "2023": 15,
+        "2024": 6
+    }
+}

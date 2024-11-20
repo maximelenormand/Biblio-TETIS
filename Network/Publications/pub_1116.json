@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation of vegetation dynamics using low-cost GPS receiver",
+        "pub_year": 2017,
+        "citation": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2017",
+        "author": "Mehrez Zribi and Erwan Motte and Pascal Fanise and Walid Zouaoui and Nicolas Baghdadi",
+        "conference": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "2899-2902",
+        "publisher": "IEEE",
+        "abstract": "The aim of this research is to analyze the potential use of Global Navigation Satellite System (GNSS) signals for the monitoring of local vegetation characteristics. A new instrument, based on the use of a pair of low-cost receivers and antennas, providing continuous measurements of all the available Global Positioning System (GPS) satellite signals is proposed for the determination of signal attenuation caused by vegetation cover. Experimental campaigns with this instrument, combined with ground-truth measurements of the vegetation, were performed over a non-irrigated sunflower test field for a period of more than two months, corresponding to a significant portion of the vegetation cycle. A high correlation is observed between the vegetation's water content and the GPS signals attenuation, and an empirical modeling is tested for the retrieval of signal behavior as a function of vegetation water content."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:cWzG1nlazyYC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8127604/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HtTjSp9klogJ:scholar.google.com/",
+    "cites_per_year": {}
+}

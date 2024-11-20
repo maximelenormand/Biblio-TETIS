@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Operative Mapping of Irrigated Areas Using Sentinel-1 and Sentinel-2 Time Series",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Mehrez Zribi",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5796-5799",
+        "publisher": "IEEE",
+        "abstract": "This study presents an effective tool for mapping irrigated areas at plot scale using Sentinel-1 (S1) and Sentinel-2 (S2) time series. Using supervised classification models, the absence of robust terrain reference dataset can limit the production of irrigated area maps. The proposed framework tends to generate automatically reference dataset of irrigated and rain-fed samples to train a random forest (RF) classifier in order to classify irrigated and rain-fed plots. The selection of reference training dataset is based on two irrigation metrics derived from S1 and S2 time series. The RF classifier is then built using the S1 and S2 time series data of the selected training samples. The framework was applied over a temperate study site located in the north-central France for four different years. The classification results show that the irrigation map accuracies variy between 72.8% and 93% depending on the climatic conditions of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:rOcdG6UcVlcC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9884653/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:z9hCmwf9VCQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

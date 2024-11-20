@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Scale equivariance in CNNs with vector fields",
+        "pub_year": 2018,
+        "citation": "ICML Workshops, 2018",
+        "author": "Diego Marcos and Benjamin Kellenberger and Sylvain Lobry and Devis Tuia",
+        "journal": "ICML Workshops",
+        "abstract": "We study the effect of injecting local scale equivariance into Convolutional Neural Networks. This is done by applying each convolutional filter at multiple scales. The output is a vector field encoding for the maximally activating scale and the scale itself, which is further processed by the following convolutional layers. This allows all the intermediate representations to be locally scale equivariant. We show that this improves the performance of the model by over  in the scale equivariant task of regressing the scaling factor applied to randomly scaled MNIST digits. Furthermore, we find it also useful for scale invariant tasks, such as the actual classification of randomly scaled digits. This highlights the usefulness of allowing for a compact representation that can also learn relationships between different local scales by keeping internal scale equivariance."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:MXK_kJrjxJIC",
+    "num_citations": 59,
+    "citedby_url": "/scholar?hl=en&cites=18103563799919118938,17065611583750130769",
+    "cites_id": [
+        "18103563799919118938",
+        "17065611583750130769"
+    ],
+    "pub_url": "https://arxiv.org/abs/1807.11783",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WsrM9lvHPPsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 7,
+        "2020": 12,
+        "2021": 16,
+        "2022": 11,
+        "2023": 10,
+        "2024": 3
+    }
+}

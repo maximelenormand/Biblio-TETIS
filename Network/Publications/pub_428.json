@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation des temp\u00e9ratures au d\u00e9but du dernier mill\u00e9naire dans l\u2019ouest du Groenland: r\u00e9sultats pr\u00e9liminaires issus de l\u2019application d\u2019un mod\u00e8le glaciologique de type degr\u00e9\u2011jour sur le glacier du Lyngmarksbr\u00e6en",
+        "pub_year": 2018,
+        "citation": "G\u00e9omorphologie: relief, processus, environnement 24 (1), 2018",
+        "author": "Melody Biette and Vincent Jomelli and Vincent Favier and Marie Chenet and Cecile Agosta and Xavier Fettweis and Dinh Ho Tong Minh and Kenji Ose",
+        "journal": "G\u00e9omorphologie: relief, processus, environnement",
+        "volume": "24",
+        "number": "1",
+        "publisher": "Groupe fran\u00e7ais de g\u00e9omorphologie",
+        "abstract": "Le dernier mill\u00e9naire est d\u00e9fini comme une p\u00e9riode climatique \u00ab stable \u00bb parsem\u00e9e d\u2019anomalies. La premi\u00e8re est l\u2019Optimum Climatique M\u00e9di\u00e9val (OCM : ~950 AD \u00e0 1250 AD), p\u00e9riode au moins aussi chaude qu\u2019aujourd\u2019hui et associ\u00e9e \u00e0 un retrait des glaciers dans l\u2019h\u00e9misph\u00e8re nord. La seconde est le Petit \u00c2ge Glaciaire (PAG : ~1450 AD \u00e0 1850 AD), marqu\u00e9e par des temp\u00e9ratures froides et associ\u00e9e \u00e0 une avanc\u00e9e des glaciers. Cependant, plusieurs \u00e9tudes ont montr\u00e9 que des avanc\u00e9es glaciaires s\u2019\u00e9taient produites pendant cette p\u00e9riode de l\u2019OCM en Terre de Baffin et sur l\u2019\u00eele de Disko dans l\u2019ouest du Groenland d\u2019une ampleur plus importante qu\u2019au PAG, sugg\u00e9rant un refroidissement marqu\u00e9 \u00e0 cette \u00e9poque en contradiction avec les reconstitutions de temp\u00e9ratures \u00e0 l\u2019\u00e9chelle h\u00e9misph\u00e9rique. Dans cette \u00e9tude, nous proposons d\u2019estimer les conditions de temp\u00e9ratures \u00e0 la fin de l\u2019OCM pouvant expliquer ces extensions glaciaires sur l\u2019\u00eele de Disko \u00e0 partir d\u2019un mod\u00e8le glaciologique de type degr\u00e9-jour contraint par les sorties du Mod\u00e8le Atmosph\u00e9rique R\u00e9gional (MAR). Cette simulation a \u00e9t\u00e9 r\u00e9alis\u00e9e sur le glacier du Lyngmarksbr\u00e6en qui montre une succession originale de moraines emboit\u00e9es dat\u00e9es du dernier mill\u00e9naire. Les r\u00e9sultats montrent que les sc\u00e9narios les plus probables reposent sur des temp\u00e9ratures de l\u2019air de l\u2019ordre de \u20111,3\u00b0C \u00e0 \u20111,6\u00b0C plus basses \u00e0 la fin de l\u2019OCM qu\u2019\u00e0 la fin du XXe si\u00e8cle si l\u2019on consid\u00e8re une variation d\u2019environ \u00b1 10 % des pr\u00e9cipitations. Des tests de sensibilit\u00e9 sont ensuite r\u00e9alis\u00e9s sur diff\u00e9rents param\u00e8tres du mod\u00e8le glaciologique afin de mieux contraindre l\u2019incertitude des estimations de temp\u00e9rature."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:NaGl4SEjCO4C",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=5448708493701405652,9331238052070653872",
+    "cites_id": [
+        "5448708493701405652",
+        "9331238052070653872"
+    ],
+    "pub_url": "https://journals.openedition.org/geomorphologie/11977",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1Nu5q4GznUsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 1,
+        "2021": 2,
+        "2022": 3
+    }
+}

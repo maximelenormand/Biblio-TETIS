@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Livestock at the heart of \u2018climate-smart\u2019landscapes in West Africa",
+        "pub_year": 2017,
+        "citation": "Living territories to transform, 111, 2017",
+        "author": "Jonathan Vayssi\u00e8res and Mohamed Habibou Assouma and Philippe Lecomte and Pierre Hiernaux and J\u00e9r\u00e9my Bourgoin and Fr\u00e9d\u00e9rique Jankowski and Christian Corniaux and Mathieu Vigne and Emmanuel Torquebiau and Alexandre Ickowicz",
+        "journal": "Living territories to transform",
+        "pages": "111",
+        "abstract": "In a context of strong human demographic growth, climate change is a challenge for West African agriculture, which is primarily rainfed and which remains highly dependant on local natural resources. It is therefore imperative to design a \u2018climatesmart\u20191 agriculture, one that is sufficiently productive in food, adapted to climatic variations and which releases limited amounts of greenhouse gases.The scientific literature indicates that options for mitigating or adapting to climate change are almost always analyzed at infra levels (plot, herd) or at meso levels (farm, household) in an isolated manner, disconnected from other components of the system. This chapter uses a holistic approach to show how the concept of the \u2018climate-smart\u2019landscape encourages us to reflect more on the possible synergies between the three objectives of production, mitigation and adaptation."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:mB3voiENLucC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=4840086861483916630",
+    "cites_id": [
+        "4840086861483916630"
+    ],
+    "pub_url": "https://library.oapen.org/bitstream/handle/20.500.12657/23963/1006172.pdf?sequence=1#page=113",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Vr3ITFtxK0MJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 3,
+        "2020": 0,
+        "2021": 2,
+        "2022": 1
+    }
+}

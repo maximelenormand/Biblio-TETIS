@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Les enjeux de la gouvernance territoriale: l\u2019exemple du Br\u00e9sil rural",
+        "pub_year": 2017,
+        "citation": "Des territoires vivants pour transformer le monde, 187-190, 2017",
+        "author": "Marc Piraux and Jean-Philippe Tonneau and Eric Sabourin and Eduardo Chia and Marcio Caniello and Etienne Polge and Gilles Massardier",
+        "journal": "Des territoires vivants pour transformer le monde",
+        "pages": "187-190",
+        "publisher": "Editions Quae",
+        "abstract": "Les politiques de d\u00e9veloppement territorial du Br\u00e9sil font aujourd\u2019hui r\u00e9f\u00e9rence dans le monde. C\u2019est notamment le cas du Programme national de d\u00e9veloppement territorial (Pronat) mis en place en 2004 par le gouvernement f\u00e9d\u00e9ral. Il \u00e9tait destin\u00e9 \u00e0 favoriser les investissements pour l\u2019agriculture familiale dans les territoires les plus marginalis\u00e9s gr\u00e2ce \u00e0 des \u00e9quipements collectifs. Dans cette conception, le d\u00e9veloppement territorial est avant tout un processus de construction et de gestion d\u2019un territoire constitu\u00e9 de plusieurs communes et dot\u00e9 d\u2019identit\u00e9s sp\u00e9cifiques. Ce programme national de d\u00e9veloppement territorial accorde une place centrale aux acteurs locaux pour ma\u00eetriser leur devenir. Il privil\u00e9gie la solidarit\u00e9 locale (entre acteurs, y compris les plus exclus) et la coh\u00e9sion nationale (en luttant contre les disparit\u00e9s spatiales). Il promeut \u00e9galement un principe d\u2019int\u00e9gration et de coh\u00e9rence entre secteurs \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:g3aElNc5_aQC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16408636708273596888",
+    "cites_id": [
+        "16408636708273596888"
+    ],
+    "pub_url": "https://www.torrossa.com/gs/resourceProxy?an=5063738&publisher=FZZ759#page=189",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2CkVRSYwt-MJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2
+    }
+}

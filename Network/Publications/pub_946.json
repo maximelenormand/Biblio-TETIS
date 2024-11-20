@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dealing with multipositive unlabeled learning combining metric learning and deep clustering",
+        "pub_year": 2022,
+        "citation": "IEEE Access 10, 51839-51849, 2022",
+        "author": "Amedeo Racanati and Roberto Esposito and Dino Ienco",
+        "journal": "IEEE Access",
+        "volume": "10",
+        "pages": "51839-51849",
+        "publisher": "IEEE",
+        "abstract": "Standard supervised classification methods make the assumption that the training data is fully annotated thus requiring an a-priory labelling process which is both costly and time-consuming. To relax this requirement, many different flavors of weakly supervised learning have been proposed. Among weakly supervised learning strategies, Positive Unlabelled learning (PUL) is gaining attention from the research community due to the wide spectrum of applications it can fit. However, the majority of research studies related to PUL only consider binary classification tasks while real-world applications commonly involve multiple categories. To deal with this limitation, Multi-Positive Unlabelled learning (MPUL) has been recently introduced to learn from examples labelled with multiple positive labels and a single unknown negative label. Up to today, only a limited number of research works were proposed to cope with this \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:5LPo_wSKItgC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9773176/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VNZAr-X2K5IJ:scholar.google.com/",
+    "cites_per_year": {}
+}

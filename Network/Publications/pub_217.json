@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "HYEP-Hyperspectral Imagery for Environmental Urban Planning",
+        "pub_year": 2018,
+        "citation": "Journ\u00e9es ADEME/ANR-La recherche au service de la transition \u00e9nerg\u00e9tique, 2018",
+        "author": "Christiane Weber and Xavier Briottet and Cl\u00e9ment Mallet and S\u00e9bastien Gadal and Yannick Devile and Jocelyn Chanussot and Thomas Houet",
+        "conference": "Journ\u00e9es ADEME/ANR-La recherche au service de la transition \u00e9nerg\u00e9tique",
+        "abstract": "IRD CIRAD INSU METEO UNIV-AVIGNON AGROPARISTECH UGA ONERA CNRS UNIV-AMU IRSTEA GIPSA ESPACE GIPSA-DIS GIPSA-SIGMAPHY OMP OMP-IRAP AGROPOLIS TETIS TDS-MACS UNIV-COTEDAZUR INRAE ESPACE_AIX-EN-PROVENCE INRAEOCCITANIEMONTPELLIER ANR IGN-ENSG UNIV-UT3 UT3-TOULOUSEINP MATHNUM"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:9pM33mqn1YgC",
+    "num_citations": 0,
+    "pub_url": "https://amu.hal.science/hal-01875894/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vC8Aoos3OLgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

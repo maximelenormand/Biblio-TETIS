@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Tree species diversity analysis using species distribution models: A Faidherbia albida parkland case study in Senegal",
+        "pub_year": 2022,
+        "citation": "Ecological Indicators 144, 109443, 2022",
+        "author": "Babacar Ndao and Louise Leroux and Aboubacar Hema and Abdoul Aziz Diouf and Agn\u00e8s B\u00e9gu\u00e9 and Bienvenu Sambou",
+        "journal": "Ecological Indicators",
+        "volume": "144",
+        "pages": "109443",
+        "publisher": "Elsevier",
+        "abstract": "Around the world, SDMs have been widely used to support forest management planning and biodiversity conservation. Beyond the prediction of species distribution provided by the SDMs, this study aimed to analyze the spatial distribution of tree species diversity using SDMs. The study area is a Faidherbia albida parkland in Central Senegal. It is characterized by a tree-based farming system dominated by Faidherbia albida.Using a robust and representative dataset of 9258 tree species occurrence, we first determined by an SDM the current potential spatial distribution of the 16 main tree species forming the parkland. Specifically, using 6 SDM algorithms and applying several modeling techniques with different categories of predictor variables (e.g., climate, topography, soil properties and human impact) we benchmarked 576 SDMs to achieve best model predictions for tree species. Then, tree species diversity maps \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:WC23djZS0W4C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=10311031351480713609",
+    "cites_id": [
+        "10311031351480713609"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1470160X22009165",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iYHsTGIkGI8J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 4,
+        "2024": 1
+    }
+}

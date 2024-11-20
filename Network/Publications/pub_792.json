@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessing spatial priority of Green Infrastructures using morphological analysis: a European approach",
+        "pub_year": 2018,
+        "citation": "sfecologie2018: International conference on ecological sciences, 1, 2018",
+        "author": "Maud Le Louarn and M Lenormand and Sandra Luque",
+        "conference": "sfecologie2018: International conference on ecological sciences",
+        "pages": "1",
+        "abstract": "Landscape connectivity is considered a key issue for the conservation of biodiversity, natural ecosystems stability and integrity, and ecosystem services that depend on fluxes of organisms and matter. Highlighting the spatial elements that influence the connectivity is a central question in conservation ecology with direct implications for land planning. Within this context, we need to gain a better understanding on the role of landscape connectivity for biodiversity by improving our ability to build efficient biodiversity networks (e.g. \"Trame Verte et Bleue\" in France). The European project BiodivERsA IMAGINE investigates how sustainably managing Green Infrastructure (GI) can succeed on a regional and landscape level. Networks of healthy ecosystems provide cost-effective alternatives to traditional 'grey' infrastructure and offer many other benefits for both human dwellers and biodiversity. GI is a strategically planned network of natural and semi-natural areas designed and managedto deliver a wide range of ecosystem services. With the implementation of the GI Strategy by the European Commission, the protection, restoration, and creation of GI become an integral part of territorial spatial planning. As part of the IMAGINE project, we selected six case study sites across Europe to analyze spatiotemporal key trends in the landscape pattern of GI cover. We applied Morphological Spatial Pattern Analysis (MSPA; Soille and Vogt, 2009) to classify GI according to seven categories (core, islet, perforation, edge, loop,bridge, branch) corresponding to different potential functional roles on six study sites across Europe. A productivity index, the Normalized \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:DrOLxFoABAwC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02608953/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Txbrfz8xd-AJ:scholar.google.com/",
+    "cites_per_year": {}
+}

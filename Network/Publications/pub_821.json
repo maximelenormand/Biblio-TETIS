@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Riverscape-scale airborne TIR assessment of weirs and riparian cover effects on lowland river temperature",
+        "pub_year": 2021,
+        "citation": "EGU General Assembly Conference Abstracts, EGU21-7134, 2021",
+        "author": "Baptiste Marteau and Andr\u00e9 Chandesris and Flavie Cernesson and Kristell Michel and Lise Vaudor and Herv\u00e9 Pi\u00e9gay",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "EGU21-7134",
+        "abstract": "The development of Airborne Infrared Thermal sensing (TIR) is an example of how technological advancements and the field that they focus on have fostered one another. The pace at which global change is occurring has fed the demand for better understanding of the thermal behaviour of rivers. In turn, the improvement of remote sensing and data processing techniques has provided researchers and managers with new tools to apprehend such aspects at ever larger scales. Still, recent studies have mostly focussed on rivers showing little human alteration, with a particular interest on groundwater-surface water interactions. Lowland streams are scarcely considered when it comes to the study of temperature despite their widespread occurrence, their relatively high degree of disturbance and the risks that they face in the light of temperature rising following climate change. Some of these streams already display \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nbR473IAAAAJ:ZuybSZzF8UAC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=3031527536693079042",
+    "cites_id": [
+        "3031527536693079042"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2021EGUGA..23.7134M/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AuxnnzsmEioJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

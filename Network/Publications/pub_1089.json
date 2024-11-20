@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Large scale forest parameter estimation through a deep learning-based fusion of Sentinel-2 and TanDEM-X data",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "Daniel Carcereri and Paola Rizzoli and Dino Ienco and Jos\u00e9-Luis Bueso-Bello and Carolina Gonz\u00e1lez and Stefano Puliti and Lorenzo Brurzone",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5773-5776",
+        "publisher": "IEEE",
+        "abstract": "The estimation of forest parameters, such as canopy height model (CHM) and above ground biomass (AGB), is of ut-most importance for forest monitoring, carbon-cycle modelling, disturbance analysis, resource inventorying and natural disaster prevention. In this work, we profit from the most recent advancements in deep learning research to propose a convolutional neural network (CNN) architecture for frequent forest parameter estimation at large scale. Our technique consists of a fully convolutional, multi-modal framework, which works on a single set of complementary multi-spectral and interferometric SAR data, acquired by ESA's Sentinel-2 and DLR's TanDEM-X missions, respectively. The regression performance of our framework has been tested over four tropical forest test sites in Gabon, Africa. The estimation of CHM shows promising early results when compared to state-of-the-art methods and has the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:hKjooKYXoHIC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4302556539918541153",
+    "cites_id": [
+        "4302556539918541153"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9884872/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YeHgi2DAtTsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

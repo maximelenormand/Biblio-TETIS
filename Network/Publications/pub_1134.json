@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Valuing health surveillance as an information system: interdisciplinary insights",
+        "pub_year": 2019,
+        "citation": "Frontiers in Public Health 7, 138, 2019",
+        "author": "Nicolas Antoine-Moussiaux and Olivier Vandenberg and Zisis Kozlakidis and C\u00e9cile Aenishaenslin and Marisa Peyre and Mathieu Roche and Pascal Bonnet and Andr\u00e9 Ravel",
+        "journal": "Frontiers in Public Health",
+        "volume": "7",
+        "pages": "138",
+        "publisher": "Frontiers Media SA",
+        "abstract": "The economic evaluation of health surveillance systems and of health information is a methodological challenge, as for information systems in general. Main present threads are considering cost-effectiveness solutions, minimizing costs for a given technically required output, or cost-benefit analysis, balancing costs with economic benefits of duly informed public interventions. The latter option, following a linear command-and-control perspective, implies considering a main causal link between information, decision, action, and health benefits. Yet, valuing information, taking into account its nature and multiple sources, the modalities of its processing cycle, from production to diffusion, decentralized use and gradual building of a shared information capital, constitutes a promising challenge. This work proposes an interdisciplinary insight on the value of health surveillance to get a renewed theoretical framework integrating information and informatics theory and information economics. The reflection is based on a typological approach of value, basically distinguishing between use and non-use values. Through this structured discussion, the main idea is to expand the boundaries of surveillance evaluation, to focus on changes and trends, on the dynamic and networked structure of information systems, on the contribution of diverse data, and on the added value of combining qualitative and quantitative information. Distancing itself from the command-and-control model, this reflection considers the behavioral fundaments of many health risks, as well as the decentralized, progressive and deliberative dimension of decision-making in risk management. The \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:HGTzPopzzJcC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=5104920050549221294",
+    "cites_id": [
+        "5104920050549221294"
+    ],
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fpubh.2019.00138/full",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rmfBK71R2EYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 3,
+        "2022": 6,
+        "2023": 3
+    }
+}

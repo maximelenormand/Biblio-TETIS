@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of Sentinel-1 radiometric stability and quality for land surface applications",
+        "pub_year": 2016,
+        "citation": "Remote Sensing 8 (5), 406, 2016",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi and S\u00e9bastien Angelliaume",
+        "journal": "Remote Sensing",
+        "volume": "8",
+        "number": "5",
+        "pages": "406",
+        "publisher": "Multidisciplinary Digital Publishing Institute",
+        "abstract": "Land monitoring using temporal series of Synthetic Aperture Radar (SAR) images requires radiometrically well calibrated sensors. In this paper, the radiometric stability of the new SAR Sentinel-1A \u201cS-1A\u201d sensor was first assessed by analyzing temporal variations of the backscattering coefficient (\u03c3\u00b0) returned from invariant targets. Second, the radiometric level of invariant targets was compared from S-1A and Radarsat-2 \u201cRS-2\u201d data. The results show three stable sub-time series of S-1A data. The first (between 1 October 2014 and 19 March 2015) and third (between 25 November 2015 and 1 February 2016) sub-time series have almost the same mean \u03c3\u00b0-values (a difference lower than 0.3 dB). The mean \u03c3\u00b0-value of the second sub-time series (between 19 March 2015 and 25 November 2015) is higher than that of the first and the third sub-time series by roughly 0.9 dB. Moreover, our results show that the stability of each sub-time series is better than 0.48 dB. In addition, the results show that S-1A images of the first and third sub-time series appear to be well calibrated in comparison to RS-2 data, with a difference between S-1A and RS-2 lower than 0.3 dB. However, the S-1A images of the second sub-time series have \u03c3\u00b0-values that are higher than those from RS-2 by roughly 1 dB."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:IaI1MmNe2tcC",
+    "num_citations": 44,
+    "citedby_url": "/scholar?hl=en&cites=6528811280253819748",
+    "cites_id": [
+        "6528811280253819748"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/8/5/406",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZJsXrUT_mloJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 6,
+        "2018": 6,
+        "2019": 11,
+        "2020": 4,
+        "2021": 5,
+        "2022": 7,
+        "2023": 3,
+        "2024": 1
+    }
+}

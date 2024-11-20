@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "On the relation between landscape beauty and land cover: A case study in the UK at Sentinel-2 resolution with interpretable AI",
+        "pub_year": 2021,
+        "citation": "ISPRS journal of Photogrammetry and Remote Sensing 177, 194-203, 2021",
+        "author": "Alex Levering and Diego Marcos and Devis Tuia",
+        "journal": "ISPRS journal of Photogrammetry and Remote Sensing",
+        "volume": "177",
+        "pages": "194-203",
+        "publisher": "Elsevier",
+        "abstract": "The environment where we live and recreate can have a significant effect on our well-being. More beautiful landscapes have considerable benefits to both health and quality of life. When we chose where to live or our next holiday destination, we do so according to some perception of the environment around us. In a way, we value nature and assign an ecosystem service to it. Landscape aesthetics, or scenicness, is one such service, which we consider in this paper as a collective perceived quality. We present a deep learning model called ScenicNet for the large-scale inventorisation of landscape scenicness from satellite imagery. We model scenicness with an interpretable deep learning model and learn a landscape beauty estimator based on crowdsourced scores derived from more than two hundred thousand landscape images in the United Kingdom. Our ScenicNet model learns the relationship between land \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:b0M2c_1WBrUC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=12363385143805534228",
+    "cites_id": [
+        "12363385143805534228"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271621001234",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FODexUiRk6sJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 7,
+        "2023": 4,
+        "2024": 3
+    }
+}

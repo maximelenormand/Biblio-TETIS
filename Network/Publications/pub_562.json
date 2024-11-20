@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Optimizing detectability of the endangered fan mussel using eDNA and ddPCR",
+        "pub_year": 2024,
+        "citation": "Ecology and Evolution, 2024",
+        "author": "Virginie Marques and Simon Blanchet and Geraldine Loot and C. Miaud and Serge Planes and Claire Peyran and Veronique Arnal and Coralie Calvet and Sylvain Pioch and Stephanie Manel",
+        "journal": "Ecology and Evolution",
+        "abstract": "Spatial and temporal monitoring of species threatened with extinction is of critical importance for conservation and ecosystem management. In the Mediterranean coast, the fan mussel (Pinna nobilis) is listed as critically endangered after suffering from a mass mortality event since 2016, leading to 100% mortality in most marine populations. Conventional monitoring for this macroinvertebrate is done using scuba, which is challenging in dense meadows or with low visibility. Here we developed an environmental DNA assay targeting the fan mussel and assessed the influence of several environmental parameters on the species detectability in situ. We developed and tested an eDNA molecular marker and collected 48 water samples in two sites at the Thau lagoon (France) with distinct fan mussel density, depths and during two seasons (summer and autumn). Our marker can amplify fan mussel DNA but lacks \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:k_IJM867U9cC",
+    "num_citations": 0,
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.10807",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TIRZni4689YJ:scholar.google.com/",
+    "cites_per_year": {}
+}

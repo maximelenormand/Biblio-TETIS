@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dual Polarimetric SAR Covariance Matrix Estimation Using Deep Learning",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Adugna G Mullissa and Diego Marcos and Martin Herold and Johannes Reiche",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "700-703",
+        "publisher": "IEEE",
+        "abstract": "A polarimetric Synthetic Aperture Radar (PoISAR) image is able to capture target backscattering properties in different polarimetric states, making it a rich source of information for target characterization. However, as with any SAR image, PolSAR images are affected by speckle. Therefore, to extract useful information about targets, the polarimetric covariance matrix has to be first estimated by reducing speckle. In this paper, we use a deep neural network to estimate the dual PolSAR covariance matrix. This application was compared against the state of the art PolSAR despeckling methods. Even if the method is agnostic on the structure of the covariance matrix, the deep learning based PolSAR covariance matrix estimation performed better than the state of the art PolSAR despeckling methods. These results showcase the potential of supervised deep learning for the improvement of PolSAR despeckling pipelines."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:cFHS6HbyZ2cC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9324333/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-lipL-fDb8EJ:scholar.google.com/",
+    "cites_per_year": {}
+}

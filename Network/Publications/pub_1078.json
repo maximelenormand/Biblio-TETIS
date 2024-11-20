@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "System Dynamics of Sustainable Rice Agriculture on the Mekong River Delta.",
+        "pub_year": 2019,
+        "citation": "Geophysical Research Abstracts 21, 2019",
+        "author": "Hal Voepel and Tristan Berchoux and Steve Darby and Craig Hutton and Chris Hill and Guy Poppy and Le Quan and Nguyen Hung and Van Tri and Paul Whitehead and Andrew Nicholas and Dan Parsons",
+        "journal": "Geophysical Research Abstracts",
+        "volume": "21",
+        "abstract": "Large river deltas across the globe are under increasing economic and environmental pressure due to overpopulation, climate change, and rising sea levels. River catchment sediments and associated discharge feed delta systems providing nutrients that not only enable higher yields in rice production but also the potential for flooding. Indeed, rice production on the Mekong River Delta (MRD) plays a main role in achieving food security for Vietnam, and provides significant export income for the Vietnamese economy (1.16% of GDP in 2018). To sustain high levels of rice production, the Vietnamese government has invested in a system of canals, flood dykes and sluice gates to control flooding of rice paddies and thereby extend the number of growing seasons from two to three rice harvests per year. However, these flood control measures have an unintended consequence in that, rather than allowing paddies to \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=3156733575576788031",
+    "cites_id": [
+        "3156733575576788031"
+    ],
+    "pub_url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10297006&AN=140493558&h=h4Fh5mGI3Ev5HApiae2NMS9f%2Bg%2F1%2FnoZCZwKJM2vcAHUEayiYn%2B%2B9v2ot8T8YC%2F2T5ArCrCMbTuzkycn5MCDkA%3D%3D&crl=c",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:P5zNPnb4zisJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

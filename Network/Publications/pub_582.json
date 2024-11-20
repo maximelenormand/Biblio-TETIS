@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analyse de s\u00e9ries chronologiques d'images satellitaires optiques pour des applications environnementales",
+        "pub_year": 2024,
+        "citation": "D\u00e9tection de changements et analyse des s\u00e9ries temporelles d\u2019images 2 \u2026, 2024",
+        "author": "Matthieu MOLINIER\u00b9 and Jukka MIETTINEN\u00b9 and Dino IENCO and QIU Shi and ZHU Zhe",
+        "journal": "D\u00e9tection de changements et analyse des s\u00e9ries temporelles d\u2019images 2: M\u00e9thodes supervis\u00e9es",
+        "pages": "125",
+        "publisher": "ISTE Group",
+        "abstract": "L'analyse de s\u00e9ries chronologiques d'images satellitaires (SITS) est de plus en plus mise \u00e0 profit pour r\u00e9pondre aux besoins li\u00e9s \u00e0 la surveillance de l'environnement, qu'il s' agisse de d\u00e9tecter des changements abrupts comme la d\u00e9forestation, les feux de for\u00eat ou les d\u00e9g\u00e2ts dus aux temp\u00eates, des tendances environnementales graduelles comme la repousse des for\u00eats ou des changements d'une lenteur similaire dans l'\u00e9cosyst\u00e8me, ou les deux types de changements simultan\u00e9ment.En cons\u00e9quence de la disponibilit\u00e9 et de la fr\u00e9quence d'acquisition progressivement croissantes de l'imagerie satellitaire libre et gratuite au cours des d\u00e9cennies pass\u00e9es, les m\u00e9thodes pour les SITS ont \u00e9volu\u00e9 depuis les anciennes<< s\u00e9ries chronologiques\u00bb triviales de deux images, vers des s\u00e9ries chronologiques annuelles (une image par an, habituellement acquise \u00e0 l'\u00e9poque la plus favorable de l'ann\u00e9e, ou par mosa\u00efquage d'images), jusqu'aux approches les plus r\u00e9centes de s\u00e9ries chronologiques"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:Ul_CLA4dPeMC",
+    "num_citations": 0,
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=Crr0EAAAQBAJ&oi=fnd&pg=PA125&dq=info:r3AL1BbXeUgJ:scholar.google.com&ots=XpYx7Q8bPV&sig=hQwKzV9ZOz8zDfMH9NwbtccNXwE",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:r3AL1BbXeUgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

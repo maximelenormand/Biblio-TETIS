@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar",
+        "pub_year": 2018,
+        "citation": "Remote Sensing of Environment 213, 206-214, 2018",
+        "author": "Dinh Ho Tong Minh and Emile Ndikumana and Ghislain Vieilledent and Doyle McKey and Nicolas Baghdadi",
+        "journal": "Remote Sensing of Environment",
+        "volume": "213",
+        "pages": "206-214",
+        "publisher": "Elsevier",
+        "abstract": "Reducing carbon emissions from deforestation and degradation (REDD) requires detailed insight into how the forest biomass is measured and distributed. Studies so far have estimated forest biomass stocks using rough assumptions and unreliable data. High-resolution data and robust methods are required to capture the spatial variability of forest biomass with sufficient precision. Here we aim to improve on previous approaches by using radar satellite ALOS PALSAR (25-m resolution) and optical Landsat-derived tree cover (30-m resolution) observations to estimate forest biomass stocks in Madagascar, for the years 2007\u20132010. The radar signal and in situ biomass were highly correlated (R2\u202f=\u202f0.71) and the root mean square error was 30% (for biomass ranging from 0 to 500\u202ft/ha). Using our map at 25-m resolution for the entire island of Madagascar, we estimated the total above-ground forest carbon for the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:OcBU2YAGkTUC",
+    "num_citations": 29,
+    "citedby_url": "/scholar?hl=en&cites=8524470876287926155",
+    "cites_id": [
+        "8524470876287926155"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425718302104",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:i_9N7xgBTXYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 5,
+        "2020": 2,
+        "2021": 10,
+        "2022": 4,
+        "2023": 6
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ITEXT-BIO: Intelligent Term EXTraction for BIOmedical analysis",
+        "pub_year": 2021,
+        "citation": "Health Information Science and Systems 9 (1), 2021",
+        "author": "Kafando Rodrique and Decoupes R\u00e9my and Sarah Valentin and Sautot Lucile and Teisseire Maguelonne and Mathieu Roche",
+        "journal": "Health Information Science and Systems",
+        "volume": "9",
+        "number": "1",
+        "publisher": "Springer Nature BV",
+        "abstract": "Here, we introduce ITEXT-BIO, an intelligent process for biomedical domain terminology extraction from textual documents and subsequent analysis. The proposed methodology consists of two complementary approaches, including free and driven term extraction. The first is based on term extraction with statistical measures, while the second considers morphosyntactic variation rules to extract term variants from the corpus. The combination of two term extraction and analysis strategies is the keystone of ITEXT-BIO. These include combined intra-corpus strategies that enable term extraction and analysis either from a single corpus (intra), or from corpora (inter). We assessed the two approaches, the corpus or corpora to be analysed and the type of statistical measures used. Our experimental findings revealed that the proposed methodology could be used:(1) to efficiently extract representative, discriminant and new \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:NMlhSUseqAsC",
+    "num_citations": 0,
+    "pub_url": "https://search.proquest.com/openview/32393fc7111732c3526a0eada94e980d/1?pq-origsite=gscholar&cbl=2040228",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:y2AXAdyyZXMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

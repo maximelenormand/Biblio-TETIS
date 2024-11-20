@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Aumento da Efici\u00eancia Global do Equipamento (OEE) atrav\u00e9s da identifica\u00e7\u00e3o e tratamento de problemas cr\u00f4nicos: um estudo de caso realizado em uma ind\u00fastria de refrat\u00e1rios",
+        "pub_year": 2021,
+        "citation": "ENGENHARIA DE PRODU\u00c7\u00c3O: PLANEJAMENTO E CONTROLE DA PRODU\u00c7\u00c3O EM FOCO-VOLUME 2 \u2026, 2021",
+        "author": "Fernanda da Silveira S\u00e1 Borges and David Johnson Pinheiro Alencar and Caio Magalh\u00e3es Barbosa and Beatriz Rocha Alves do Nascimento and Barbara Livia Queir\u00f3s Alves and Ant\u00f4nia Kelly Moraes de Lima and Antonia Gabriela Freitas de Vasconcelos and Amanda Ferrer Vasconcelos and Alana Denise Ferreira and Mahara Ferreira Bevil\u00e1qua and Camila Ximenes Pinto and Ana Beatriz Queir\u00f3s Alves and Saulo Ribeiro Andrade Silva and Thayn\u00e1 Victoria Silva do Nascimento and Ricardo Rodrigues Jimenez and Romualdo Luciano da Silva and Adalberto Macedo and Mariana Oliveira and Daniel Nogueira and Lara Ribeiro and Fl\u00e1vio Fernandes and Rutieli Battisti and Paulo Henrique Braz and Geraldo Magela Pereira da Silva and Eduardo Gon\u00e7alves Magnani and Andressa Fagundes de Oliveira",
+        "journal": "ENGENHARIA DE PRODU\u00c7\u00c3O: PLANEJAMENTO E CONTROLE DA PRODU\u00c7\u00c3O EM FOCO-VOLUME 2",
+        "volume": "2",
+        "number": "1",
+        "pages": "48-68",
+        "publisher": "Editora Cient\u00edfica Digital",
+        "abstract": "O OEE (Overall Equipment Effectiveness) se trata de uma ferramenta bastante utilizada no ramo industrial para mensurar a efici\u00eancia dos equipamentos, identificando perdas em produtividade, performance e qualidade, alinhado \u00e0s estrat\u00e9gias de manuten\u00e7\u00e3o. Este trabalho tem como objetivo analisar e identificar os problemas cr\u00f4nicos atrav\u00e9s do hist\u00f3rico de dados do equipamento selecionado (prensa semiautom\u00e1tica modelo Laeis 2000). Atrav\u00e9s dos resultados encontrados \u00e9 poss\u00edvel observar que os baixos percentuais de OEE est\u00e3o diretamente relacionados com o problema de disponibilidade (paradas) do equipamento."
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:6yz0xqPARnAC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=11501273276645890350",
+    "cites_id": [
+        "11501273276645890350"
+    ],
+    "pub_url": "https://www.editoracientifica.com.br/artigos/aumento-da-eficiencia-global-do-equipamento-oee-atraves-da-identificacao-e-tratamento-de-problemas-cronicos-um-estudo-de-caso-realizado-em-uma-industria-de-refratarios",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ltkr1xu7nJ8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

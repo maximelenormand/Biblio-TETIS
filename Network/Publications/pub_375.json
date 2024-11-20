@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Web monitoring of emerging animal infectious diseases integrated in the French Animal Health Epidemic Intelligence System",
+        "pub_year": 2018,
+        "citation": "PLoS One 13 (8), e0199960, 2018",
+        "author": "Elena Arsevska and Sarah Valentin and Julien Rabatel and Jocelyn De Go\u00ebr de Herv\u00e9 and Sylvain Falala and Renaud Lancelot and Mathieu Roche",
+        "journal": "PLoS One",
+        "volume": "13",
+        "number": "8",
+        "pages": "e0199960",
+        "publisher": "Public Library of Science",
+        "abstract": "Since 2013, the French Animal Health Epidemic Intelligence System (in French: Veille Sanitaire Internationale, VSI) has been monitoring signals of the emergence of new and exotic animal infectious diseases worldwide. Once detected, the VSI team verifies the signals and issues early warning reports to French animal health authorities when potential threats to France are detected. To improve detection of signals from online news sources, we designed the Platform for Automated extraction of Disease Information from the web (PADI-web). PADI-web automatically collects, processes and extracts English-language epidemiological information from Google News. The core component of PADI-web is a combined information extraction (IE) method founded on rule-based systems and data mining techniques. The IE approach allows extraction of key information on diseases, locations, dates, hosts and the number of cases mentioned in the news. We evaluated the combined method for IE on a dataset of 352 disease-related news reports mentioning the diseases involved, locations, dates, hosts and the number of cases. The combined method for IE accurately identified (F-score) 95% of the diseases and hosts, respectively, 85% of the number of cases, 83% of dates and 80% of locations from the disease-related news. We assessed the sensitivity of PADI-web to detect primary outbreaks of four emerging animal infectious diseases notifiable to the World Organisation for Animal Health (OIE). From January to June 2016, PADI-web detected signals for 64% of all primary outbreaks of African swine fever, 53% of avian influenza, 25% of bluetongue and 19 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:9yKSN-GCB0IC",
+    "num_citations": 67,
+    "citedby_url": "/scholar?hl=en&cites=4266126083057835542",
+    "cites_id": [
+        "4266126083057835542"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199960",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ft6w0xFTNDsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 9,
+        "2020": 18,
+        "2021": 17,
+        "2022": 9,
+        "2023": 12
+    }
+}

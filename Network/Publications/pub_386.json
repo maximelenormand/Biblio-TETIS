@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-frequency radar signals for the retrieval of soil roughness parameters in a Mediterranean semi-arid region.",
+        "pub_year": 2019,
+        "citation": "Geophysical Research Abstracts 21, 2019",
+        "author": "Mehrez Zribi and Azza Gorrab and Nicolas Baghdadi and Mohammad El-Hajj and Safa Bousbih and Bernard Mougenot",
+        "journal": "Geophysical Research Abstracts",
+        "volume": "21",
+        "abstract": "Over bare agricultural areas, backscattered radar signal is very sensitive to physical soil characteristics particularly roughness and soil water content. Hence, different radar backscattering algorithms (theoretical, semi-empirical and empirical) were developed to modeling the relationship between backscattering coefficient and the soil parameters. Moreover, to retrieve these surface characteristics, mainly soil moisture content, by inversing backscattering models. However, the accuracy of the soil moisture estimation is affected by the influence of surface roughness parameter on backscattered radar signals. In this context, we propose to analyze the potential of a synergy between ALOS2 (L band), Sentinel1 (C band) and TerraSAR-X (X band) SAR measurements over bare soils to retrieve surface parameters. Ground campaigns were realized in central Tunisia (9 23'-10 17'E, 35 1'-35 55'N) during four years (2013 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:KaMxkj08jr0C",
+    "num_citations": 0,
+    "pub_url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10297006&AN=140481865&h=7DSCj3gcnjFz3oR%2FOiaKTGe%2BOj5t%2B%2BxtLLQ1AAxMk0z1WqsObnt5eUDkPuLMVSYZ5ijLUbcfJLDcZqr%2Fyz13Ug%3D%3D&crl=c",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RyIqvhEFrDkJ:scholar.google.com/",
+    "cites_per_year": {}
+}

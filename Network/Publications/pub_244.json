@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring and characterizing heterogeneous Mediterranean landscapes with continuous textural indices based on vhsr imagery",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (6), 868, 2018",
+        "author": "Marc Lang and Samuel Alleaume and Sandra Luque and Nicolas Baghdadi and Jean-Baptiste F\u00e9ret",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "6",
+        "pages": "868",
+        "publisher": "MDPI",
+        "abstract": "Remote sensing tools (RS) can contribute to a better understanding of the diversity of natural and semi-naturals habitats, their spatial distribution, and their conservation status. RS can also provide a generic set of derived indicators to support local to regional habitat monitoring. Here we propose a set of synthetic continuous textural indices computed from high spatial resolution airborne images for the characterization of vegetation structure in very heterogeneous landscape mosaics. These indices are based on Fourier-based textural ordination (FOTO) of very-high-resolution images. We investigate the relationship between textural indices and a set of common landscape metrics derived from vegetation maps, identifying four strata of interest: bare soil, herbs, low ligneous, and high ligneous. We identify two continuous textural indices, the first one being related to vegetation strata fragmentation and the second being related to the dominance of high ligneous. The combination of these two textural indices with the Normalized Difference Vegetation Index (NDVI) provides a synoptic and accurate overview of the spatial organization of the different vegetation strata. The methodological approach presented herein has a generic value in response to national conservation targets in the context of mapping relevant habitat indicators."
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=6522234361470451782",
+    "cites_id": [
+        "6522234361470451782"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/6/868",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RgBLcZihg1oJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 1,
+        "2020": 0,
+        "2021": 3,
+        "2022": 2,
+        "2023": 1
+    }
+}

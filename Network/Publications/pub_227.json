@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluation of the potential of Sentinel-1 and Sentinel-1 data for clay content mapping",
+        "pub_year": 2020,
+        "citation": "EGU General Assembly Conference Abstracts, 9332, 2020",
+        "author": "Safa Bousbih and Mehrez Zribi and Zohra Lili-Chabaane and Nicolas Baghdadi and Azza Gorrab and Nadhira Ben Aissa",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "9332",
+        "abstract": "Soil texture is a key parameter in agricultural processes and an important measure for agricultural prediction, water cycle, filtering of pollutants and carbon storage. Besides, its estimation is essential for agronomists, hydrologists, geologists and environmentalists and for modeling in these application areas. Several studies have been based on understanding and modeling the biological, physical and chemical processes in the soil. Regarding the texture of the soil, few researches propose soil texture spatialization, and are generally based on ground measurements. Among other things, field observations or laboratory analyzes are very expensive and are not very representative. Indeed, the soil texture presents a strong heterogeneity even at the scale of a field. It is then necessary to use precise and spatialized information on soils. These methods are generally based on remote sensing data and particularly optical \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:-6RzNnnwWf8C",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2020EGUGA..22.9332B/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FB_L3WYxJNUJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "EpidVis: A visual web querying tool for animal epidemiology surveillance",
+        "pub_year": 2020,
+        "citation": "Information Visualization 19 (1), 48-64, 2020",
+        "author": "Samiha Fadloun and Arnaud Sallaberry and Aliz\u00e9 Mercier and Elena Arsevska and Mathieu Roche and Pascal Poncelet",
+        "journal": "Information Visualization",
+        "volume": "19",
+        "number": "1",
+        "pages": "48-64",
+        "publisher": "SAGE Publications",
+        "abstract": "The use of electronic media for the detection and monitoring of animal disease outbreaks is crucial for disease surveillance and early warning systems. Animal health specialists regularly query web pages using various formulations to obtain up-to-date news on disease outbreaks. This task, however, is often manual and time-consuming. Visualization techniques can nevertheless facilitate their web searches, compared to traditional searches. This article presents EpidVis, a visual web query tool designed for experts in animal health, conducting epidemic intelligence activities from news sources on the Internet. It consists of several views that help the domain experts efficiently build and launch queries, as well as visualize the results. Moreover, it supports external information integration to help domain experts enrich their knowledge and adapt their queries. EpidVis was assessed considering usability (user study) and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:RoXSNcbkSzsC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=13892987568961580235",
+    "cites_id": [
+        "13892987568961580235"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/1473871619861786",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:y2zf9JXOzcAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 4,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Investigation of the Optical Performance of an Organic Light-Emitting Diode on a Parameter Space Map for Desired Color Performance",
+        "pub_year": 2019,
+        "citation": "Journal of the Korean Physical Society 75, 126-130, 2019",
+        "author": "Anh Dung Tran and Van Doan Le and Bongsoon Kang and Gi-Dong Lee and Huynchul Choi",
+        "journal": "Journal of the Korean Physical Society",
+        "volume": "75",
+        "pages": "126-130",
+        "publisher": "The Korean Physical Society",
+        "abstract": "In this study, we observed the color performance of an organic light-emitting diode (OLED) as functions of the optical lengths of the inorganic layers on the parameter space map in order to obtain the goal of increased color performance. To design the dominant wavelength and the bandwidth of the OLED, we employed the finite-difference time-domain method to calculate the optical characteristics of the light emitted from the emitting material layer. We only handled inorganic layers such as the cathode layer, the capping layer, and the indium-tin oxide layer in OLED layers to avoid changing the electro-optical characteristics of the light emerging from the organic layers. With this simple technique, we established the optimal conditions for the optical length of each layer without any intrusion into the organic layers. In this study, we demonstrated the parameter space map for a red OLED that exhibits a 24-nm \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:zLWjf1WUPmwC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=18309530989371033592",
+    "cites_id": [
+        "18309530989371033592"
+    ],
+    "pub_url": "https://link.springer.com/article/10.3938/jkps.75.126",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-Id3QW2FGP4J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

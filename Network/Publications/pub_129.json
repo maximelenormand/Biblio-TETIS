@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "On the interest of penetration depth, canopy area and volume metrics to improve Lidar-based models of forest parameters",
+        "pub_year": 2016,
+        "citation": "Remote Sensing of Environment 175, 32-42, 2016",
+        "author": "C\u00e9dric V\u00e9ga and Jean-Pierre Renaud and Sylvie Durrieu and Marc Bouvier",
+        "journal": "Remote Sensing of Environment",
+        "volume": "175",
+        "pages": "32-42",
+        "publisher": "Elsevier",
+        "abstract": "We proposed a new area-based approach to process Lidar point clouds and develop new sets of metrics to improve models dedicated to predict forest parameters. First, we introduced point normalization based on penetration depth below the outer canopy layer to avoid biases introduced by ground normalization and canopy surface heterogeneity during metric computation. Second, we proposed computation of area and volume metrics from canopy surface models computed from both first and last returns to better characterize the 3D plot heterogeneity. The set of proposed metrics were combined with traditional ones, based on point height above ground level, to measure their contribution to models of basal area (BA) and aboveground volume (AGV). The modeling framework included a wide range of forest types, canopy structures and Lidar characteristics. Models were developed for all sites grouped together or \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:k_IJM867U9cC",
+    "num_citations": 69,
+    "citedby_url": "/scholar?hl=en&cites=16294420897238908261",
+    "cites_id": [
+        "16294420897238908261"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425715302613",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZX2geHlpIeIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 3,
+        "2017": 10,
+        "2018": 12,
+        "2019": 10,
+        "2020": 8,
+        "2021": 7,
+        "2022": 12,
+        "2023": 3,
+        "2024": 1
+    }
+}

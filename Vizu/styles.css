@@ -1,0 +1,65 @@
+.outer {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.leaflet-popup-content {
+  width: 500px !important;
+}
+
+#control {
+  /* Appearance */
+  background-color: white;
+  padding: 0 20px 20px 20px;
+}
+
+#control1 {
+  /* Appearance */
+  background-color: white;
+  padding: 20 20 0 20;
+}
+
+#control2 {
+  /* Appearance */
+  background-color: white;
+  padding: 10px 10px 10px 10px;
+  cursor: move;
+  text-align: justify;
+  /* Fade out while not hovering */
+  opacity: 0.65;
+  zoom: 0.9;
+  transition: opacity 250ms 500ms;
+}
+#control2:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+  text-align: justify;
+}
+
+.navbar-default {
+    background-color: #4682B4;
+}
+
+/* .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus { */
+/*    color: white; /*Sets the text hover color on navbar*/
+/* }*/
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >
+        a:hover, .navbar-default .navbar-nav > .active > a:focus {
+      color: white;
+      background-color: #7DA7CA;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Remote sensing for agriculture: an analysis of R&D'offers' versus markets' demands",
+        "pub_year": 2017,
+        "citation": "2017 EFITA, 2, 2017",
+        "author": "Fran\u00e7ois Christiaens and Fr\u00e9d\u00e9ric Baret and Nicolas Baghdadi and G\u00e9rard Dedieu and Gabriel Marquette and V\u00e9ronique Vissac",
+        "conference": "2017 EFITA",
+        "pages": "2",
+        "abstract": "Remote sensing technologies induce services and products which improve our perception of Earth. Payloads provide measurements that are transformed into services, such as harvest estimates, environment protection, pandemic prevention... The goal of the study is to diagnose markets' opportunities, over a 5-10 years projection, to see them in the light of research topics, in order to determine the innovation strategic axis and to help enhance technology and skill transfers."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:AYInfyleIOsC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02606153/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F8XnSr6x7XcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

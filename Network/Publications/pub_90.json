@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The parable of arable land: Characterizing large scale land acquisitions through network analysis",
+        "pub_year": 2020,
+        "citation": "Plos one 15 (10), e0240051, 2020",
+        "author": "Roberto Interdonato and Jeremy Bourgoin and Quentin Grislain and Matteo Zignani and Sabrina Gaito and Markus Giger",
+        "journal": "Plos one",
+        "volume": "15",
+        "number": "10",
+        "pages": "e0240051",
+        "publisher": "Public Library of Science",
+        "abstract": "Land is a scarce resource and its depletion is related to a combination of demographic and economic factors. Hence, the changes in dietary habits and increase in world population that upturn the food demand, are intertwined with a context of increasing oil prices and rise of green capitalism that in turn impacts the demand in biofuel. A visible indicator of these phenomena is the increase, in recent years, of Large Scale Land Acquisitions (LSLAs) by private companies or states. Such land investments often lead to conflicts with local population and have raised issues regarding people\u2019s rights, the role of different production models and land governance. The aim of this work is to show how publicly available data about LSLAs can be modeled into complex network structures, thus showing how the application of advanced network analysis techniques can be used to better understand land trade dynamics. We use data collected by the Land Matrix Initiative on LSLAs to model three land trade networks: a multi-sector network, a network centered on the mining sector and a network centered on the agriculture one. Then we provide an extended analysis of such networks which includes: (i) a structural analysis, (ii) the definition of a score, namely LSLA-score, which allows to rank the countries based on their investing/target role in the land trade network, (iii) an analysis of the land trade context which takes into account the LSLA-score ranking and the correlation between network features and several country development indicators, (iv) an analysis centered on the discover and analysis of network motifs (i.e., recurring patterns in the land trade network \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:iH-uZ7U-co4C",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=5589445573608579784",
+    "cites_id": [
+        "5589445573608579784"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240051",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yKJRkiKzkU0J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 4,
+        "2023": 5,
+        "2024": 2
+    }
+}

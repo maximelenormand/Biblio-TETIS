@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The future of social-ecological systems at the crossroads of quantitative and qualitative methods",
+        "pub_year": 2023,
+        "citation": "Technological Forecasting and Social Change 193, 122624, 2023",
+        "author": "Camille Jahel and Robin Bourgeois and J\u00e9r\u00e9my Bourgoin and Marie De Lattre-Gasquet and Etienne Delay and Patrice Dumas and Christophe Le Page and Marc Piraux and R\u00e9mi Prudhomme",
+        "journal": "Technological Forecasting and Social Change",
+        "volume": "193",
+        "pages": "122624",
+        "publisher": "North-Holland",
+        "abstract": "Urgent calls to transform societies toward more sustainability make the practice of anticipation more and more necessary. The progressive development of computational technologies has opened room for a growing use of quantitative methods to explore the future of social-ecological systems, in addition to qualitative methods. This warrants investigating issues of power relationships and discontinuities and unknowns that arise when mingling quantitative and qualitative anticipatory methods. We first reflected on the semantics attached to these methods. We then conducted a comparative analysis on the way the articulation of quantitative and qualitative methods was conducted, based on an in-depth analysis of a set of eleven anticipatory projects completed by several external case studies. We propose insights to classify projects according to the timing (successive, iterative or convergent) and the purpose of the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:sSrBHYA8nusC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=7657954705025565857",
+    "cites_id": [
+        "7657954705025565857"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0040162523003098",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oYQUCzuFRmoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Coexistence of supply chains in a city\u2019s food supply: a factor for resilience?",
+        "pub_year": 2020,
+        "citation": "Review of Agricultural, Food and Environmental Studies 101, 391-414, 2020",
+        "author": "Yuna Chiffoleau and Anne-C\u00e9cile Brit and Milo Monnier and Gr\u00e9gori Akermann and Maxime Lenormand and Florent Sauc\u00e8de",
+        "journal": "Review of Agricultural, Food and Environmental Studies",
+        "volume": "101",
+        "pages": "391-414",
+        "publisher": "Springer Paris",
+        "abstract": "The objective of this article is to propose and test an approach to characterise a city\u2019s supply system and analyse its resilience. Anchored in economic and network sociology, the approach has been enriched by contributions from management sciences and geomatics, which have made it possible to conceptualise a city\u2019s supply system as a network that is both social and spatialised, structured by operators and circulating differentiated products. Tested in the city of Montpellier, a signatory of the Milan Pact, this research was based on the production of primary data from a variety of sellers and suppliers. While confirming the complementarity between short and long supply chains, the results show more broadly how the articulation of three spatialised markets favours the resilience of the city\u2019s supply, even if it is also a source of vulnerability. Therefore, these results make an original contribution to the intersection of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:fPk4N6BV_jEC",
+    "num_citations": 30,
+    "citedby_url": "/scholar?hl=en&cites=13680834118060475600,6568521802263644365",
+    "cites_id": [
+        "13680834118060475600",
+        "6568521802263644365"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s41130-020-00120-0",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0AQKbiUW3L0J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 6,
+        "2022": 7,
+        "2023": 12,
+        "2024": 1
+    }
+}

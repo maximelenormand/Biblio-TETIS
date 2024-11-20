@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Ecological equivalence assessment: The potential of genetic tools, remote sensing and metapopulation models to better apply the mitigation hierarchy",
+        "pub_year": 2022,
+        "citation": "Journal of Environmental Management 305, 114415, 2022",
+        "author": "Jules Boileau and Coralie Calvet and Sylvain Pioch and Sylvain Moulherat",
+        "journal": "Journal of Environmental Management",
+        "volume": "305",
+        "pages": "114415",
+        "publisher": "Academic Press",
+        "abstract": "Within the framework of the mitigation hierarchy, biodiversity offsetting is the main tool promoted to reach No Net Loss. One of the determining factors of offsetting success is the evaluation of ecological equivalence. Various equivalence assessment methods (EAMs) have been developed to provide a framework to evaluate the balance between expected biodiversity losses and gains. In the context of achieving No Net Loss, EAMs must address challenges of Operationality, Currency, Uncertainty, Spatial scale and Time frame. In this study, we investigated the way the most widely used EAMs address these challenges, positing that certain tools from ecological science could limit the trade-offs between these challenges and improve the ecological assessment process. To this end, we analysed the risks and benefits associated with the inclusion of genetic tools (landscape genetics and eDNA), remote sensing and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:qUcmZB5y_30C",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=17814063974611403616",
+    "cites_id": [
+        "17814063974611403616"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0301479721024774",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YMPLTM1EOPcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 4,
+        "2023": 9,
+        "2024": 2
+    }
+}

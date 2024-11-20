@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modelling the location and spatial pattern of a crop boom. A case study from Laos",
+        "pub_year": 2019,
+        "citation": "Environmental Science & Policy 99, 58-71, 2019",
+        "author": "Christine Ornetsm\u00fcller and Jean-Christophe Castella and Puwadej Thanichanon and Guillaume Lestrelin and Peter H Verburg",
+        "journal": "Environmental Science & Policy",
+        "volume": "99",
+        "pages": "58-71",
+        "publisher": "Elsevier",
+        "abstract": "Crop booms are phenomena of global environmental change that keep on occurring around the globe and frequently exploit or degrade the local socio-ecological resources (resulting in e.g. loss of biodiversity, soil erosion, indebtedness). While causal mechanisms were identified and summarized in several frameworks, the causal effects of the identified factors remained largely unknown. In this study, we set up a new application of a spatial land system model to examine the causes for the clustered spatial pattern of the maize boom between 2000 and 2016 in Sayaboury Province, Laos. The factors tested included market access (travel time to trader companies), land productivity and total net revenue (proxy for profitability), spatial differences in farm gate price of maize, slope, and soil types. While crop booms are commonly associated with high commodity prices and improved market accessibility, our simulation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:OU6Ihb5iCvQC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=7613711928467703485",
+    "cites_id": [
+        "7613711928467703485"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S146290111830683X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vcZ45qhWqWkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 3,
+        "2022": 2,
+        "2023": 4,
+        "2024": 1
+    }
+}

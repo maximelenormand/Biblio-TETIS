@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How to integrate text-mining and terminology extraction approaches in a multidisciplinary context?",
+        "pub_year": 2021,
+        "citation": "Natures Sciences Societes 29 (2), 223-232, 2021",
+        "author": "Mathieu Roche",
+        "journal": "Natures Sciences Societes",
+        "volume": "29",
+        "number": "2",
+        "pages": "223-232",
+        "publisher": "EDP Sciences",
+        "abstract": "The analysis of large amounts of data requires using methods that combine a range of fields such as computer science, mathematics, statistics, etc. All of these methods useful for data processing form the basis of \u201cdata science\u201d. In this context, text mining approaches allow the discovery of new and useful knowledge for experts generally originating from different application areas (e.g., epidemiological surveillance, food security, etc.). This paper provides an overview of the use of text mining methods in various projects related to agriculture and health. A generic methodological approach is then proposed and discussed. This is based on three stages:(1)Data collection. Corpus acquisition from the Web can be done with queries on search engines or RSS feeds.(2)Extraction of terminology using text-mining approaches. Terminology is automatically extracted using different parameters of the BioTex tool (e.g., F-TFIDF \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:YB4bud6kWLwC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=14690024791906986014",
+    "cites_id": [
+        "14690024791906986014"
+    ],
+    "pub_url": "https://www.cairn-int.info/load_pdf.php?ID_ARTICLE=E_NSS_292_0223&download=1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HihMl7dz3csJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3
+    }
+}

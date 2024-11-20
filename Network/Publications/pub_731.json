@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "BFASTm-L2, an unsupervised LULCC detection based on seasonal change detection\u2013An application to large-scale land acquisitions in Senegal",
+        "pub_year": 2023,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 121 \u2026, 2023",
+        "author": "Yasmine Ngadi Scarpetta and Valentine Lebourgeois and Anne-Elisabeth Laques and Mohamadou Dieye and J\u00e9r\u00e9my Bourgoin and Agn\u00e8s B\u00e9gu\u00e9",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "121",
+        "pages": "103379",
+        "publisher": "Elsevier",
+        "abstract": "In the context of Global Change Research, detection, monitoring and characterization of land use/land cover (LULC) changes are of prime importance. The increasing availability of dense satellite image time series (SITS) has led to a shift in the change detection paradigm, with algorithms able to exploit the full temporal information laid down in SITS. So far, most of these algorithms have focused on the detection of abrupt and gradual changes, and thus developed breakpoint detection based on significant deviations from the mean. However, LULC changes may manifest themselves in other patterns, particularly changes in seasonality (amplitude, number and length of the growing seasons) that are harder to detect. In this paper, we propose a simple method to automatically select the breakpoint linked to the biggest seasonal change in long and dense SITS with multiple breakpoints. This approach - BFASTm-L2 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:8AbLer7MMksC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1569843223002030",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MAh54iHHWzAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

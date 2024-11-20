@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fruit yield estimation using image analysis is also about correcting the number of detections",
+        "pub_year": 2022,
+        "citation": "XXXI International Horticultural Congress (IHC2022): III International \u2026, 2022",
+        "author": "Julien Sarron and L Tresch and H Bendahou and JMK Koffi and N Avlessi and Cheikh Amet Bassirou Sane and E Faye and J Lavarenne",
+        "journal": "XXXI International Horticultural Congress (IHC2022): III International Symposium on Mechanization, Precision Horticulture, and 1360",
+        "pages": "347-354",
+        "abstract": "The use of image analysis to estimate fruit tree yields is increasing. Tools are often based on RGB images acquired from the two opposite sides of the tree and fruit detection using machine learning algorithms. Due to fruit occlusion and detection errors, a correction model is needed to estimate the actual number of fruits from the number of detections. This study aimed to establish the best correction model for estimating mango yield in a diversity of orchards without using any other data extracted from the image than the number of detections. A set of images was acquired at the mature fruit stage on 325 \u2018Kent\u2019mango trees from 27 orchards representing the main cropping systems (from monoculture to diversified orchards) found in two distinct production regions in West Africa. Mangoes have been detected with a YOLOv5 neural network to obtain the detected count. The actual count of fruits was measured on all trees \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "A17UErUAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 0,
+    "pub_url": "https://www.actahort.org/books/1360/1360_42.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2VXd1QXBi2EJ:scholar.google.com/",
+    "cites_per_year": {}
+}

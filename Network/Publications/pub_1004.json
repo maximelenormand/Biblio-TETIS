@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping of aboveground biomass in Gabon",
+        "pub_year": 2019,
+        "citation": "Comptes Rendus G\u00e9oscience 351 (4), 321-331, 2019",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Nicolas Labri\u00e8re and Jean-St\u00e9phane Bailly and Ludovic Villard",
+        "journal": "Comptes Rendus G\u00e9oscience",
+        "volume": "351",
+        "number": "4",
+        "pages": "321-331",
+        "publisher": "No longer published by Elsevier",
+        "abstract": "The aim of this paper is to map the aboveground biomass (AGB) in Gabon. First, a random forest (RF) model that relates reference AGB values to remote sensing (RS)-derived variables (mainly radar and optical images) was built, and the significant predictive variables were determined. Second, the built RF model was applied to the significant RS-derived variables to predict AGB across Gabon. The results showed that the overall RMSE (Root Mean Square Error) on the RS-derived AGB map with a spatial resolution of 50 m was 63.3 t/ha (R2 = 0.53).To improve the accuracy of the RS-derived AGB map, the integration of LiDAR data provided by the Geoscience Laser Altimeter System (GLAS) onboard the Ice Cloud and Land Elevation Satellite (ICESat) was investigated. First, an RF model that relates reference AGB values to GLAS-derived metrics and a DEM (Digital Elevation Model) was built. Second, the calibrated \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:1taIhTC69MYC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=1714133213455482975",
+    "cites_id": [
+        "1714133213455482975"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1631071319300276",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:X4C2ZRPTyRcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 2,
+        "2022": 3,
+        "2023": 3,
+        "2024": 2
+    }
+}

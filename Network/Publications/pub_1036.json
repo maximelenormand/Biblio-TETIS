@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil surface parameters retrieving from TerraSAR-X SAR data",
+        "pub_year": 2016,
+        "citation": "TerraSAR/TanDEM-X Science Team Meeting, 1, 2016",
+        "author": "Mehrez Zribi and Azza Gorrab and N Baghdadi and Z Lili Chaba\u00e2ne",
+        "conference": "TerraSAR/TanDEM-X Science Team Meeting",
+        "pages": "1",
+        "abstract": "The goal of this study is to analyze the sensitivity of X-band SAR (TerraSAR-X) signals as a function of different physical bare soil parameters (soil moisture, soil roughness), and to demonstrate that it is possible to estimate of both soil moisture, roughness and texture from the same experimental campaign, using a single radar signal configuration (one incidence angle, one polarization). Discussions are based on experimental campaigns acquired on North Africa (Merguellil site, Tunisia) with ground measurements over more than fifteen test fields, simultaneously to seven TerraSAR-X images acquisitions at HH polarization and 36\u00b0 incidence angle. Firstly, we analyzed statistically the relationships between X-band SAR (TerraSAR-X) backscattering signals function of soil moisture and different roughness parameters (the root mean square height Hrms, the Zs parameter and the Zg parameter) at HH polarization and for an incidence angle about 36\u00b0, over a semi-arid site in Tunisia (North Africa). Results have shown a high sensitivity of real radar data to the two soil parameters: roughness and moisture. A linear relationship is obtained between volumetric soil moisture and radar signal. A logarithmic correlation is observed between backscattering coefficient and all roughness parameters. The highest dynamic sensitivity is obtained with Zg parameter. Then, we proposed to retrieve of both soil moisture and texture using these multi-temporal X-band SAR images. Our approach is based on the change detection method and combines the seven radar images with different continuous thetaprobe measurements. To estimate soil moisture from X-band SAR \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:JTqpx9DYBaYC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02604500/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PaN5te89aigJ:scholar.google.com/",
+    "cites_per_year": {}
+}

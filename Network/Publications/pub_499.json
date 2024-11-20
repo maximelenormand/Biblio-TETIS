@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapeamento do risco de introdu\u00e7\u00e3o da febre aftosa na fronteira do Brasil com o Paraguai",
+        "pub_year": 2016,
+        "citation": "Pesquisa Agropecu\u00e1ria Brasileira 51 (5), 661-670, 2016",
+        "author": "Tha\u00eds Basso Amaral and Valery Gond and Annelise Tran",
+        "journal": "Pesquisa Agropecu\u00e1ria Brasileira",
+        "volume": "51",
+        "number": "5",
+        "pages": "661-670",
+        "abstract": "O objetivo deste trabalho foi aplicar a metodologia de an\u00e1lise multicrit\u00e9rio difusa para tomada de decis\u00f5es em grupo, para determinar \u00e1reas de risco de introdu\u00e7\u00e3o da febre aftosa na fronteira do Brasil com o Paraguai. O estudo foi conduzido em tr\u00eas munic\u00edpios do Estado do Mato Grosso do Sul, localizados na fronteira com o Paraguai. Quatro cen\u00e1rios foram constru\u00eddos, tendo-se aplicado os seguintes quantificadores lingu\u00edsticos para descrever os fatores de risco: poucos, metade, muitos e maioria. Os tr\u00eas crit\u00e9rios considerados mais prov\u00e1veis de influenciar a vulnerabilidade \u00e0 introdu\u00e7\u00e3o da febre aftosa, de acordo com a opini\u00e3o dos especialistas, foram: a introdu\u00e7\u00e3o de animais na fazenda, a dist\u00e2ncia da fronteira e a exist\u00eancia do tipo de propriedade assentamentos. Os mapas resultantes mostram uma forte heterogeneidade espacial no risco de introdu\u00e7\u00e3o da febre aftosa. A metodologia utilizada traz uma nova abordagem que pode auxiliar pol\u00edticas p\u00fablicas no combate e na erradica\u00e7\u00e3o da febre aftosa."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:eflP2zaiRacC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=16982883714088055821",
+    "cites_id": [
+        "16982883714088055821"
+    ],
+    "pub_url": "https://seer.sct.embrapa.br/index.php/pab/article/view/20909",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DTT8P8JSr-sJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

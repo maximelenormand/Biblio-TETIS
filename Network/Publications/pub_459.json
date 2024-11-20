@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Use of sentinel-2 time-series images for classification and uncertainty analysis of inherent biophysical property: Case of soil texture mapping",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (5), 565, 2019",
+        "author": "C\u00e9cile Gomez and Subramanian Dharumarajan and Jean-Baptiste F\u00e9ret and Philippe Lagacherie and Laurent Ruiz and Muddu Sekhar",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "5",
+        "pages": "565",
+        "publisher": "MDPI",
+        "abstract": "The Sentinel-2 mission of the European Space Agency (ESA) Copernicus program provides multispectral remote sensing data at decametric spatial resolution and high temporal resolution. The objective of this work is to evaluate the ability of Sentinel-2 time-series data to enable classification of an inherent biophysical property, in terms of accuracy and uncertainty estimation. The tested inherent biophysical property was the soil texture. Soil texture classification was performed on each individual Sentinel-2 image with a linear support vector machine. Two sources of uncertainty were studied: uncertainties due to the Sentinel-2 acquisition date and uncertainties due to the soil sample selection in the training dataset. The first uncertainty analysis was achieved by analyzing the diversity of classification results obtained from the time series of soil texture classifications, considering that the temporal resolution is akin to a repetition of spectral measurements. The second uncertainty analysis was achieved from each individual Sentinel-2 image, based on a bootstrapping procedure corresponding to 100 independent classifications obtained with different training data. The Simpson index was used to compute this diversity in the classification results. This work was carried out in an Indian cultivated region (84 km2, part of Berambadi catchment, in the Karnataka state). It used a time-series of six Sentinel-2 images acquired from February to April 2017 and 130 soil surface samples, collected over the study area and characterized in terms of texture. The classification analysis showed the following: (i) each single-date image analysis resulted in moderate \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:ldfaerwXgEUC",
+    "num_citations": 56,
+    "citedby_url": "/scholar?hl=en&cites=9600839123165687425",
+    "cites_id": [
+        "9600839123165687425"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/5/565",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ga72qVAIPYUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 8,
+        "2021": 9,
+        "2022": 25,
+        "2023": 10,
+        "2024": 2
+    }
+}

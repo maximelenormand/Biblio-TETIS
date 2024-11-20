@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The French Land Data and Services Center: Theia",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Nicolas Baghdadi and Arnaud Sell\u00e9 and Hassan Bazzi and Mehrez Zribi and Isabelle Biagiotti and Fr\u00e9d\u00e9ric Huynh",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "3154-3157",
+        "publisher": "IEEE",
+        "abstract": "The TREIA land data and services center was created with the objective of increasing the use of space data in complementarity with other types of data (in particular in situ, airborne data) by the scientific community and more generally the public actors. TREIA is structuring the French science community through 1) a mutualized Service and Data Infrastructure (SDI) distributed between several centers, allowing access to a variety of products; 2) the setup of Regional Animation Networks (RAN) to federate users (scientists and public / private actors) and 3) Scientific Expertise Centers (SEC) clustering virtual research groups on a thematic domain. A strong relationship between SECs and RANs is being developed to both disseminate the outputs to the user communities and aggregate the user needs. The research works carried out in two SECs are presented. They are organized around the design and development of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:BmWJbWwHJAwC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9324217/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-sw90kkqY3wJ:scholar.google.com/",
+    "cites_per_year": {}
+}

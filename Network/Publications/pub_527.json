@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining pixel-and object-level information for land-cover mapping using time-series of Sentinel-2 satellite data",
+        "pub_year": 2022,
+        "citation": "Remote Sensing Letters 13 (2), 162-172, 2022",
+        "author": "Azza Abidi and A Ben Abbes and YJE Gbodjo and Dino Ienco and IR Farah",
+        "journal": "Remote Sensing Letters",
+        "volume": "13",
+        "number": "2",
+        "pages": "162-172",
+        "publisher": "Taylor & Francis",
+        "abstract": "In this letter, we propose a new methodology for Satellite Image Time Series (SITS) land cover mapping, named Two Branches Convolutional Neural Network (TwoBCNN). The main objective of the proposed methodology is to combine pixel- and object-level multi-variate time-series information in the classification process. Experiments were carried out on a study site located in the south-west of France, namely, Dordogne leveraging Sentinel-2 SITS data. Results are compared to those obtained by several standard used approaches to deal with SITS-based land cover mapping. Results demonstrate that TwoBCNN, based on a combination of pixel- and object-based information, achieved the highest classification performance with respect to the competing approaches."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:VnuxuLaQPLMC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=13041132921429313013",
+    "cites_id": [
+        "13041132921429313013"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/full/10.1080/2150704X.2021.2001071",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9UVyEkxp-7QJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

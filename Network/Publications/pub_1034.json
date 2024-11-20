@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ConvEntion: Classification des s\u00e9ries chronologiques d'images astronomiques \u00e0 l'aide d'attention convolutive",
+        "pub_year": 2022,
+        "citation": "GRETSI 2022-28e Colloque Francophone de Traitement du Signal et des Images, 2022",
+        "author": "Anass Bairouk and Marc Chaumont and Dominique Fouchez and J\u00e9rome Pasquet and Fr\u00e9d\u00e9ric Comby",
+        "conference": "GRETSI 2022-28e Colloque Francophone de Traitement du Signal et des Images",
+        "abstract": "L'utilisation de s\u00e9ries temporelles d'images astronomiques suscite un int\u00e9r\u00eat grandissant dans la communaut\u00e9 scientifique. Par ailleurs, avec la massification des donn\u00e9es, il est n\u00e9cessaire de proposer des solutions d'analyse automatique. Dans cet article, nous proposons une nouvelle approche bas\u00e9e sur l'apprentissage profond pour classer diff\u00e9rents types d'objets c\u00e9lestes en utilisant les s\u00e9quences d'images issues des t\u00e9lescopes. Nous appelons notre approche ConvEntion (abr\u00e9viation de CONVolutional attENTION). Elle est bas\u00e9e sur l'utilisation conjointe de convolutions et de transformeurs. Ceci constitue une innovation dans le domaine du traitement des s\u00e9ries temporelles d'images. Sur un sousensemble de donn\u00e9es issues de la base SDDS nous am\u00e9liorons la pr\u00e9cision de 7 % par rapport aux approches de l'\u00e9tat de l'art utilisant des s\u00e9ries temporelles d'images."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:Wp0gIr-vW9MC",
+    "num_citations": 0,
+    "pub_url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03815454/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XcwQUWumfZ4J:scholar.google.com/",
+    "cites_per_year": {}
+}

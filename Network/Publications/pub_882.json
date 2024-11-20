@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Theia-OZCAR: un syst\u00e8me d'information\" FAIR\" pour les donn\u00e9es d'observations in situ de la Zone Critique",
+        "pub_year": 2018,
+        "citation": "Conf\u00e9rence internationale \u00abEnjeux et actualit\u00e9s des observatoires de la Zone \u2026, 2018",
+        "author": "S Galle and Isabelle Braud and N Baghdadi and V Chaffard and C Coussot and Jean-Christophe Desconnets and P Juen and Amandine Sell\u00e9",
+        "conference": "Conf\u00e9rence internationale \u00abEnjeux et actualit\u00e9s des observatoires de la Zone Critique en Afrique\u00bb= Observatories of the Critical Zone in West Africa: current issues and findings",
+        "pages": "1",
+        "abstract": "Le p\u00f4le de donn\u00e9es Theia a pour objectif de rassembler les donn\u00e9es des Surfaces Continentales acquises par t\u00e9l\u00e9d\u00e9tection ou in situ de fa\u00e7on transparente pour l'utilisateur. Le portail de donn\u00e9es de t\u00e9l\u00e9d\u00e9tection est en production depuis 2012 et un premier prototype du portail de donn\u00e9es in situ sera mis en ligne d'ici fin 2018, en collaboration avec l'Infrastructure de Recherche OZCAR (Observatoires de la Zone Critique : Applications et Recherche). OZCAR rassemble des observatoires \u00e9chantillonnant la zone critique. Compte tenu de leur longue histoire, la plupart d'entre eux ont d\u00e9velopp\u00e9 leurs propres portails de donn\u00e9es / m\u00e9tadonn\u00e9es. Il y a cependant un besoin de rassembler toutes les donn\u00e9es dans un syst\u00e8me d'information commun pour rendre les donn\u00e9es visibles, trouvables et faciles \u00e0 explorer; permettre leur conservation et leur citation; favoriser leur r\u00e9utilisation et leur partage; \u00eatre interop\u00e9rable avec les infrastructures europ\u00e9ennes; respecter les normes internationales. Ces caract\u00e9ristiques d\u00e9finissent un syst\u00e8me d'information (SI) \u00ab FAIR \u00bb. L'\u00e9quipe projet du SI Theia-OZCAR a visit\u00e9 22 observatoires et 6 centres de donn\u00e9es fran\u00e7ais pour compiler leurs besoins. La consultation a mis en \u00e9vidence que la recherche par variable est le point d'int\u00e9r\u00eat commun des futurs utilisateurs. Le postulat de d\u00e9part est que les bases de donn\u00e9es resteront \u00e0 c\u00f4t\u00e9 des producteurs de donn\u00e9es, ce qui oblige le SI Theia-OZCAR \u00e0 g\u00e9rer une certaine h\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9 des jeux de donn\u00e9es mais garantit la meilleure qualit\u00e9 des donn\u00e9es. Un flux d'informations continu entre les observatoires et le SI Theia-OZCAR sera organis\u00e9 pour garder les \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:SIv7DqKytYAC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02607607/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zpfmfaaAT5wJ:scholar.google.com/",
+    "cites_per_year": {}
+}

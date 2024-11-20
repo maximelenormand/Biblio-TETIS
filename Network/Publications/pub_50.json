@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Food security prediction from heterogeneous data combining machine and deep learning methods",
+        "pub_year": 2022,
+        "citation": "Expert Systems with Applications 190, 116189, 2022",
+        "author": "Hugo Del\u00e9glise and Roberto Interdonato and Agn\u00e8s B\u00e9gu\u00e9 and Elodie Ma\u00eetre d\u2019H\u00f4tel and Maguelonne Teisseire and Mathieu Roche",
+        "journal": "Expert Systems with Applications",
+        "volume": "190",
+        "pages": "116189",
+        "publisher": "Pergamon",
+        "abstract": "After many years of decline, hunger in Africa is growing again. This represents a global societal issue that all disciplines concerned with data analysis are facing. The rapid and accurate identification of food insecurity situations is a complex challenge. Although a number of food security alert and monitoring systems exist in food insecure countries, the data and methodologies they are based on do not allow for comprehending food security in all its complexity. In this study, we focus on two key food security indicators: the food consumption score (F C S) and the household dietary diversity score (H D D S). Based on the observation that producing such indicators is expensive in terms of time and resources, we propose the F S P H D (Food Security Prediction based on Heterogeneous Data) framework, based on state-of-the-art machine and deep learning models, to enable the estimation of F C S and H D D S starting \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:NaGl4SEjCO4C",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=8282114566582880076",
+    "cites_id": [
+        "8282114566582880076"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417421015074",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TMdCWlH773IJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 13,
+        "2023": 18,
+        "2024": 3
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GEOBIA2018",
+        "pub_year": 2018,
+        "citation": "GEOBIA2018, 2018",
+        "author": "Christiane Weber",
+        "conference": "GEOBIA2018",
+        "abstract": "GEOBIA2018 - Archive ouverte HAL Acc\u00e9der directement au contenu Documentation FR \nFran\u00e7ais (FR) Anglais (EN) Se connecter HAL science ouverte Recherche Loading... \nRecherche avanc\u00e9e Information de documents Titres Titres Sous-titre Titre de l'ouvrage Titre du \nvolume (S\u00e9rie) Champ de recherche par d\u00e9faut (multicrit\u00e8res) + texte int\u00e9gral des PDF R\u00e9sum\u00e9 \nTexte int\u00e9gral index\u00e9 des documents PDF Mots-cl\u00e9s Tous les identifiants du document \nIdentifiant HAL du d\u00e9p\u00f4t Langue du document (texte) Pays (Texte) Ville \u00c0 para\u00eetre (true ou \nfalse) Ajouter Auteur Auteur (multicrit\u00e8res) Auteur (multicrit\u00e8res) Auteur : Nom complet Auteur : \nNom de famille Auteur : Pr\u00e9nom Auteur : Compl\u00e9ment de nom, deuxi\u00e8me pr\u00e9nom Auteur : \nOrganisme payeur Auteur : IdHal (cha\u00eene de caract\u00e8res) Auteur : Fonction Auteur : personID \n(entier) hal_authId_i Auteur : Identifiant de l'organisme payeur Auteur : Identifiant de la structure \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:DUooU5lO8OsC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01818384/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mwTmtHd0uK0J:scholar.google.com/",
+    "cites_per_year": {}
+}

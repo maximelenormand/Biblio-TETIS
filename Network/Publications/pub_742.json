@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection and Mapping of Cover Crops using Sentinel-1 SAR Remote Sensing data",
+        "pub_year": 2023,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023",
+        "author": "Sami Najem and Nicolas Baghdadi and Hassan Bazzi and Nathalie Lalande and Laurent Bouchet",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "publisher": "IEEE",
+        "abstract": "Cover crops are intermediary crops planted in between two main cash crops. They play a role in limiting nitrate leaching into groundwater. Currently, there is no database pertaining to cover crops despite their importance. The development period of cover crops is characterized by a dense cloud cover in Europe, which obstructs land surface monitoring using optical remote sensing. This study proposes a cover crops mapping method based on synthetic aperture radar remote sensing data from the Sentinel-1 (S1) constellation, which is unaffected by weather conditions. Our method is based on the dynamics of the S1 backscattering coefficient at the plot level. Using a decision tree, we mapped cover crops. In the decision tree algorithm, filters were added to eliminate other crops that temporally intersect with the cover crop, namely wheat and rapeseed. The proposed decision tree proved effective in detecting existing \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:cRMvf6lLvU8C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5965182566239850319",
+    "cites_id": [
+        "5965182566239850319"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10336411/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:T08UafCVyFIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Effect of planning policies on land use dynamics and livelihood opportunities under global environmental change: evidence from the Mekong Delta",
+        "pub_year": 2023,
+        "citation": "Land Use Policy 131, 106752, 2023",
+        "author": "Tristan Berchoux and Craig W Hutton and Oliver Hensengerth and Hal E Voepel and Van PD Tri and Pham T Vu and Nghia N Hung and Dan Parsons and Stephen E Darby",
+        "journal": "Land Use Policy",
+        "volume": "131",
+        "pages": "106752",
+        "publisher": "Pergamon",
+        "abstract": "The Mekong Delta faces significant challenges in supplying Vietnam and its export market countries with agricultural commodities, while ensuring livelihoods and providing living space to its growing population in the context of climate change and the country\u2019s agrarian transition. Anthropogenic factors, such as the construction of dykes to control river flooding, river sand mining, the further development of triple-cropping rice production, and infrastructure development, together with climate change impacts on sediment and water availability, are all combining to threaten agricultural production. One of the key challenges in sustainable development is the need to identify plausible future states of agricultural-based socio-ecological systems which draw upon differing strategies of land management, and to characterise the impacts of these systems on both the landscape and employment. It was hypothesised from the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:qUcmZB5y_30C",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=4837684195151637224",
+    "cites_id": [
+        "4837684195151637224"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0264837723002181",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6OqI8yToIkMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Enhancing forest attribute prediction by considering terrain and scan angles from Lidar point clouds: a neural network approach",
+        "pub_year": 2023,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2023",
+        "author": "Karun R Dayal and Sylvie Durrieu and Kamel Lahssini and Dino Ienco and Jean-Matthieu Monnet",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "16",
+        "pages": "3531-3544",
+        "publisher": "IEEE",
+        "abstract": "Sensitivity of lidar metrics to scan angle can affect the robustness of area-based approach (ABA) models, and modelling the interplay of scan geometry and terrain properties can be complex. The study hypothesizes that neural networks can manage the interplay of lidar acquisition parameters, terrain properties, and vegetation characteristics to improve ABA models. The study area is in Massif des Bauges Natural Regional Park, eastern France, comprising 291 field plots in a mountainous environment with broadleaf, coniferous, and mixed forest types. Field plots were scanned with a high overlap from multiple flight lines and the corresponding point clouds were considered independently to expand the standard ABA dataset (291 observations) to create a dataset containing 1095 independent observations. Computation of lidar, terrain, and scan angle metrics for each point cloud associated each observation in the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:ZfRJV9d4-WMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=3547931527673354373",
+    "cites_id": [
+        "3547931527673354373"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10101677/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hRhhOu3IPDEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

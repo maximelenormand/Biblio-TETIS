@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hyperspectral imagery for environmental urban planning",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Cody Weber and Rahim Aguejdad and Xavier Briottet and J Avala and Sophie Fabre and Jean Demuynck and Emmanuel Zenou and Yannick Deville and Moussa Sofiane Karoui and Fatima Zohra Benhalouche and S\u00e9bastien Gadal and W Ourghemmi and Cl\u00e9ment Mallet and Arnaud Le Bris and Nesrine Chehata",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "1628-1631",
+        "publisher": "IEEE",
+        "abstract": "A strong intern dynamic characterizes towns, a very high spatial heterogeneity of their elements, their 3D geometric shapes (horizontal and vertical) inducing shadows, and their large variety of materials. These characteristics make the collection of information of land surface properties and urban descriptors more delicate. Due to the enhancement of spatial to deepen the observation of urban areas. Nevertheless, such a type of sensors would not contribute to the characterization of the urban land surface properties (chemical composition of materials, species of vegetation, quality of soils, etc.). They and show great potentials might consider Hyperspectral imagery capacities as providing useful products but it becomes mandatory to define which type of information these different sensors can deliver. The ANR HYEP project has the purpose to demonstrate the benefit of a second generation of hyperspectral space \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:bz8QjSJIRt4C",
+    "num_citations": 38,
+    "citedby_url": "/scholar?hl=en&cites=5437587356200286071",
+    "cites_id": [
+        "5437587356200286071"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8519085/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dzd5EeQwdksJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 5,
+        "2020": 3,
+        "2021": 4,
+        "2022": 11,
+        "2023": 11,
+        "2024": 3
+    }
+}

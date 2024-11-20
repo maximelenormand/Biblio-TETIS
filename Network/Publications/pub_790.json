@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A change in the remote sensing paradigm when exploiting uav extremely high spatial resolution observations",
+        "pub_year": 2017,
+        "citation": "5. International Symposium on Recent Advances in Quantitative Remote Sensing \u2026, 2017",
+        "author": "Frederic Baret and Simon Madec and B De Solan and Alexis Comar and G Collombeau",
+        "conference": "5. International Symposium on Recent Advances in Quantitative Remote Sensing: RAQRS'V",
+        "pages": "221 p.",
+        "abstract": "The recent advances in the development of UAV platforms along with the increasing performances of sensors resulted in a boom in the exploitation of this new type of observation. UAV observations in the visible to near infrared domain are characterized by extremely high resolution images (down to a fraction of mm) in relation with the low flying altitude (few tenths of m), the possibility to easily acquire directional observations and to build digital surface model using large overlaps between adjacent images. This presentation illustrates the use of RGB and multispectral cameras aboard UAV for vegetation characterization. It includes estimates of plant, flower or reproductive organs population density, the description of the 3D envelope of plants including the derivation of plant height, the retrieval of green area index, the fraction of intercepted radiation, the leaf chlorophyll content, the scoring of disease symptoms on crops and the identification of specific stages. The exploitation of the image in satellite remote sensing is mostly restricted to the use of pixel information without taking into account its neighbors. Since most objects in the landscape have typical length scales smaller than the pixel size, satellite observations provides a statistical description of the pixel content. Conversely, the extremely high resolution available from UAV observations allows to clearly identify organs or plants, and in any case describe the image texture that potentially vehicles specific information on the target. The exploitation of such imagery forces to use new methods that are generally object centered. Some examples are given to illustrate these new algorithms. Machine \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:8k81kl-MbHgC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02737740/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RVaHhXlbfrMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

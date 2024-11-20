@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multiscale framework for rapid change analysis from SAR image time series: Case study of flood monitoring in the central coast regions of Vietnam",
+        "pub_year": 2022,
+        "citation": "Remote Sensing of Environment 269, 112837, 2022",
+        "author": "Thu Trang L\u00ea and Jean-Luc Froger and Dinh Ho Tong Minh",
+        "journal": "Remote Sensing of Environment",
+        "volume": "269",
+        "pages": "112837",
+        "publisher": "Elsevier",
+        "abstract": "Recently, the frequency of natural and environmental disasters has increased significantly, causing constant changes on the Earth's surface. Synthetic Aperture Radar (SAR) data have been proved to be useful for operational change monitoring tasks. The multiscale framework presented in this paper aims at detecting and analyzing changes using SAR image time series composed of large-size images. Spatio-temporal changes are initially detected at the subimage scale analysis stage to determine regions and image acquisition dates related to the change occurrence. Detailed changes are then identified at the pixel scale analysis stage between selected acquisitions at each recognized region. This framework was used for flood monitoring over a large area along the central coast of Vietnam (from Thua Thien Hue province to Quang Nam province). We exploited a Sentinel-1 image time series acquired during two \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:geHnlv5EZngC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=10817879224165940413",
+    "cites_id": [
+        "10817879224165940413"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425721005575",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vTx9u9bTIJYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 5,
+        "2023": 12,
+        "2024": 2
+    }
+}

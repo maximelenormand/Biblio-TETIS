@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modelling cropping plan strategies: What decision margin for farmers in Burkina Faso?",
+        "pub_year": 2018,
+        "citation": "Agricultural Systems 167, 17-33, 2018",
+        "author": "Camille Jahel and Xavier Augusseau and D Lo Seen",
+        "journal": "Agricultural Systems",
+        "volume": "167",
+        "pages": "17-33",
+        "publisher": "Elsevier",
+        "abstract": "In a context of strong climatic and economic uncertainty in West Africa, agricultural statistics reveal interannual variations in the proportions of crops. The underlying causes of these variations remain, however, poorly documented although their understanding is essential for crop production monitoring and agricultural policy-related decision-support. Regional scale cropping plan fluctuations arise directly from multiple individual farmer decisions. The purpose of this study is to understand the decision-making processes involved when farmers choose their cropping plans, in order to assess the respective weight of the different factors underlying the observed fluctuations in cropped areas. The study zone is the Tuy Province, occupying around 6000\u202fkm2 in central-western Burkina Faso. An initial field work showed how farmers' decision-making processes depend on external factors. This led to a separation and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "OIko0mMAAAAJ:hC7cP41nSMkC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=6761019777868999867",
+    "cites_id": [
+        "6761019777868999867"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0308521X18301008",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:u6xFo6r3010J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 3,
+        "2022": 0,
+        "2023": 1
+    }
+}

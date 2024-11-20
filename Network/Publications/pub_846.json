@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Gradually increasing forest fire activity during the Holocene in the northern Ural region (Komi Republic, Russia)",
+        "pub_year": 2019,
+        "citation": "The Holocene 29 (12), 1906-1920, 2019",
+        "author": "Ch\u00e9\u00efma Barhoumi and Odile Peyron and S\u00e9bastien Joannin and Dmitri Subetto and Alexander Kryshen and Igor Drobyshev and Martin P Girardin and Beno\u00eet Brossier and Laure Paradis and Thierry Pastor and Samuel Alleaume and Adam A Ali",
+        "journal": "The Holocene",
+        "volume": "29",
+        "number": "12",
+        "pages": "1906-1920",
+        "publisher": "Sage Publications",
+        "abstract": "In many boreal regions of Russia the past natural variability of forest fire activity remains largely undocumented, preventing accurate assessment of the impact of current climate warming on forest ecosystem dynamics. This study aims to reconstruct the Holocene fire history of the northern Ural mountain foothills, in the Komi Republic, based on analyses of charcoal particles from peatland deposits and coupled with dendrochronological investigations. The results show that there was a gradual increase in forest fire activity during the past 11,000 years. Between 11,000 and 5100 cal. yr BP, the mean fire return interval (FRI) oscillated between 600 and 200 years. During this period, regional data showed that cold temperature, humid climatic conditions, combined with steppe vegetation between 11,000\u20139000 cal. BP, and then the development of spruce-dominated forest between 9300 and 4600 cal. yr BP, were less \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:70eg2SAEIzsC",
+    "num_citations": 30,
+    "citedby_url": "/scholar?hl=en&cites=17845735830780840202",
+    "cites_id": [
+        "17845735830780840202"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/0959683619865593",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Cgkn9S_KqPcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 6,
+        "2021": 6,
+        "2022": 8,
+        "2023": 9,
+        "2024": 1
+    }
+}

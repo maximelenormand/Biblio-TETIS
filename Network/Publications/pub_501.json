@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas",
+        "pub_year": 2017,
+        "citation": "Remote Sensing 9 (3), 213, 2017",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Ibrahim Fayad and Ghislain Vieilledent and Jean-St\u00e9phane Bailly and Dinh Ho Tong Minh",
+        "journal": "Remote Sensing",
+        "volume": "9",
+        "number": "3",
+        "pages": "213",
+        "publisher": "MDPI",
+        "abstract": "Mapping forest AGB (Above Ground Biomass) is of crucial importance to estimate the carbon emissions associated with tropical deforestation. This study proposes a method to overcome the saturation at high AGB values of existing AGB map (Vieilledent\u2019s AGB map) by using a map of correction factors generated from GLAS (Geoscience Laser Altimeter System) spaceborne LiDAR data. The Vieilledent\u2019s AGB map of Madagascar was established using optical images, with parameters calculated from the SRTM Digital Elevation Model, climatic variables, and field inventories. In the present study, first, GLAS LiDAR data were used to obtain a spatially distributed (GLAS footprints geolocation) estimation of AGB (GLAS AGB) covering Madagascar forested areas, with a density of 0.52 footprint/km2. Second, the difference between the AGB from the Vieilledent\u2019s AGB map and GLAS AGB at each GLAS footprint location was calculated, and additional spatially distributed correction factors were obtained. Third, an ordinary kriging interpolation was thus performed by taking into account the spatial structure of these additional correction factors to provide a continuous correction factor map. Finally, the existing and the correction factor maps were summed to improve the Vieilledent\u2019s AGB map. The results showed that the integration of GLAS data improves the precision of Vieilledent\u2019s AGB map by approximately 7 t/ha. By integrating GLAS data, the RMSE on AGB estimates decreases from 81 t/ha (R2 = 0.62) to 74.1 t/ha (R2 = 0.71). Most importantly, we showed that this approach using LiDAR data avoids underestimating high biomass values (new maximum \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:LI9QrySNdTsC",
+    "num_citations": 36,
+    "citedby_url": "/scholar?hl=en&cites=13672046571188591778",
+    "cites_id": [
+        "13672046571188591778"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/9/3/213",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ohxLPOvdvL0J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 11,
+        "2019": 10,
+        "2020": 2,
+        "2021": 2,
+        "2022": 5,
+        "2023": 3,
+        "2024": 1
+    }
+}

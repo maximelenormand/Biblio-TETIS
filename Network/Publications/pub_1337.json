@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Partage, mutualisation et mise en commun: des dispositifs indispensables pour acc\u00e9l\u00e9rer la recherche et la diffusion des innovations num\u00e9riques en agriculture",
+        "pub_year": 2016,
+        "citation": "Watch Letter-Lettre de veille du CIHEAM 38, 6, 2016",
+        "author": "V Bellon Maurel and M Tisseyre and T Crestey and P Maurel",
+        "journal": "Watch Letter-Lettre de veille du CIHEAM",
+        "volume": "38",
+        "pages": "6",
+        "abstract": "'Digital agriculture'deals with the development, testing and deployment of information and communication technologies (ICT) for agricultural benefits, either at the farm level (optimisation of farm operations), in the services (seed producers, advisors) or at larger scales (territory level, global value chain) to build a more inclusive society with regard to agriculture. ICT has entered agriculture in the 70's, with earth observation, and has known a growing interest in research starting in 2010's with smartphones, more earth observation satellites, high-throughput phenotyping, connected objects, IoT, big data. Today, the time for digital agriculture has come with a favorable technology-push/market-pull conjunction. On the one hand, ICT technologies are seen as an opportunity for agriculture for both European countries and developing countries in which\"[ICT] contributions to agriculture are both rapidly evolving and poorly understood [...] questions remain about how to make these innovations replicable, scalable, and sustainable for a larger and more diverse population\". Digital agriculture has recently been put forward by the\" Agriculture-Innovation 2025\" report as one of the 4 key technologies needing research to prepare a sustainable French agriculture in 2025. On the other hand,\" digital agriculture and food\" appears to ICT sector as one of the 10 key areas, with 3 main areas of interest: robotics, precision agriculture, and big data. To boost the convergence of these two worlds, ie agriculture and ICT, and to accelerate the building up and diffusion of innovation in agriculture, we made the hypothesis that it is essential to pool intellectual and material \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:4fKUyHm3Qg0C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02609350/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YWotTe3Ngo4J:scholar.google.com/",
+    "cites_per_year": {}
+}

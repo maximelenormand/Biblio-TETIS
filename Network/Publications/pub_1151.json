@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The impact of acquisition date on the prediction performance of topsoil organic carbon from Sentinel-2 for croplands",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (18), 2143, 2019",
+        "author": "Emmanuelle Vaudour and C\u00e9cile Gomez and Thomas Loiseau and Nicolas Baghdadi and Benjamin Loubet and Dominique Arrouays and Le\u00efla Ali and Philippe Lagacherie",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "18",
+        "pages": "2143",
+        "publisher": "MDPI",
+        "abstract": "The spatial assessment of soil organic carbon (SOC) is a major environmental challenge, notably for evaluating soil carbon stocks. Recent works have shown the capability of Sentinel-2 optical data to predict SOC content over temperate agroecosystems characterized by annual crops, using a single acquisition date. Considering a Sentinel-2 time series, this work intends to analyze the impact of acquisition date, and related weather and soil surface conditions on the prediction performance of topsoil SOC content (plough layer). A Sentinel-2 time-series was gathered, comprised of the dates corresponding to both the maximum of bare soil coverage and minimum of cloud coverage. Cross-validated partial least squares regression (PLSR) models were constructed between soil reflectance image spectra, and SOC content analyzed from 329 top soil samples collected over the study area. Cross-validation R2 ranged from 0.005 to 0.58, root mean square error from 5.86 to 3.02 g\u00b7kg\u22121 and residual prediction deviation values from 1.0 to 1.5 (without unit), according to date. The main factors influencing these differences were soil roughness, in conjunction with soil moisture, and the cloud and cloud shadow cover of the entire tile. The best performing dates were spring dates characterized by both lowest soil surface roughness and moisture content. Normalized difference vegetation index (NDVI) values below 0.35 did not influence prediction performance. This consolidates the previous results obtained during single date acquisitions and offers wider perspectives for the further use of Sentinel-2 into multidate mosaics for digital soil mapping."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:yxmsSjX2EkcC",
+    "num_citations": 55,
+    "citedby_url": "/scholar?hl=en&cites=2771844784503026344",
+    "cites_id": [
+        "2771844784503026344"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/18/2143",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qHLSSCWSdyYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 5,
+        "2021": 16,
+        "2022": 19,
+        "2023": 13,
+        "2024": 2
+    }
+}

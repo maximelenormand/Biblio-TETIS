@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Inertia-constrained pixel-by-pixel nonnegative matrix factorisation: A hyperspectral unmixing method dealing with intra-class variability",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (11), 1706, 2018",
+        "author": "Charlotte Revel and Yannick Deville and V\u00e9ronique Achard and Xavier Briottet and Christiane Weber",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "11",
+        "pages": "1706",
+        "publisher": "MDPI",
+        "abstract": "Blind source separation is a common processing tool to analyse the constitution of pixels of hyperspectral images. Such methods usually suppose that pure pixel spectra (endmembers) are the same in all the image for each class of materials. In the framework of remote sensing, such an assumption is no longer valid in the presence of intra-class variability due to illumination conditions, weathering, slight variations of the pure materials, etc. In this paper, we first describe the results of investigations highlighting intra-class variability measured in real images. Considering these results, a new formulation of the linear mixing model is presented leading to two new methods. Unconstrained pixel-by-pixel NMF (UP-NMF) is a new blind source separation method based on the assumption of a linear mixing model, which can deal with intra-class variability. To overcome the limitations of UP-NMF, an extended method is also proposed, named Inertia-constrained Pixel-by-pixel NMF (IP-NMF). For each sensed spectrum, these extended versions of NMF extract a corresponding set of source spectra. A constraint is set to limit the spreading of each source\u2019s estimates in IP-NMF. The proposed methods are first tested on a semi-synthetic data set built with spectra extracted from a real hyperspectral image and then numerically mixed. We thus demonstrate the interest of our methods for realistic source variabilities. Finally, IP-NMF is tested on a real data set and it is shown to yield better performance than state of the art methods."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:_FM0Bhl9EiAC",
+    "num_citations": 37,
+    "citedby_url": "/scholar?hl=en&cites=6395352839704167257",
+    "cites_id": [
+        "6395352839704167257"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/11/1706",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WUPaD4bbwFgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 8,
+        "2020": 9,
+        "2021": 7,
+        "2022": 6,
+        "2023": 6
+    }
+}

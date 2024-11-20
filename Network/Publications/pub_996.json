@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u00c9tude des r\u00e9seaux de neurones sur la st\u00e9ganalyse",
+        "pub_year": 2016,
+        "citation": "CORESA: COmpression et REpr\u00e9sentation des Signaux Audiovisuels, 2016",
+        "author": "Lionel Pibre and Marc Chaumont and Dino Ienco and J\u00e9r\u00f4me Pasquet",
+        "conference": "CORESA: COmpression et REpr\u00e9sentation des Signaux Audiovisuels",
+        "abstract": "Des travaux r\u00e9cents ont montr\u00e9 que les r\u00e9seaux de neu-rones ont un fort potentiel dans le domaine de la st\u00e9gana-lyse. L'avantage d'utiliser ce type d'architecture, en plus d'\u00eatre robuste, est que le r\u00e9seau apprend les vecteurs ca-ract\u00e9ristiques de mani\u00e8re automatique gr\u00e2ce aux couches de convolution. On peut dire qu'il cr\u00e9e des filtres intelli-gents. Dans cet article nous \u00e9tudions le deep learning dans le domaine de la st\u00e9ganalyse afin d'avoir une meilleure compr\u00e9hension de son fonctionnement. Dans ce document nous pr\u00e9sentons les travaux que nous avons effectu\u00e9s sur les r\u00e9seaux de neurones convolutionnels. Tout d'abord, nous expliquons les aspects th\u00e9oriques des r\u00e9seaux de neu-rones, puis nous pr\u00e9sentons nos protocoles exp\u00e9rimentaux et nous commentons les r\u00e9sultats obtenus. Mots clefs St\u00e9ganalyse, Deep Learning, r\u00e9seaux de neurones, cover source mismatch."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:zYLM7Y9cAGgC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=6728150905565181563",
+    "cites_id": [
+        "6728150905565181563"
+    ],
+    "pub_url": "https://hal.science/hal-01374095/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:e3Zv8ZkxX10J:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 0,
+        "2018": 1,
+        "2019": 1,
+        "2020": 1,
+        "2021": 1,
+        "2022": 1
+    }
+}

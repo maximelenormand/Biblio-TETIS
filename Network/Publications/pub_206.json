@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integrating methods for ecosystem service assessment: Experiences from real world situations",
+        "pub_year": 2018,
+        "citation": "Ecosystem Services 29, 499-514, 2018",
+        "author": "Rob Dunford and Paula Harrison and Alison Smith and Jan Dick and David N Barton and Berta Martin-Lopez and Ezsther Kelemen and Sander Jacobs and Heli Saarikoski and Francis Turkelboom and Wim Verheyden and Jennifer Hauck and Paula Antunes and R\u00e9ka Aszal\u00f3s and Ovidu Badea and Francesc Bar\u00f3 and Pam Berry and Laurence Carvalho and Giulio Conte and B\u00e1lint Cz\u00facz and Gemma Garcia Blanco and Dave Howard and Relu Giuca and Erik Gomez-Baggethun and Bruna Grizzetti and Zita Izakovicova and Leena Kopperoinen and Johannes Langemeyer and Sandra Luque and David M Lapola and Guillermo Martinez-Pastur and Raktima Mukhopadhyay and SB Roy and Jari Niemel\u00e4 and Lisa Norton and John Ochieng and David Odee and Ignacio Palomo and Patricia Pinho and Joerg Priess and Graciella Rusch and Sanna-Riikka Saarela and Rui Santos and Jan Tjalling van der Wal and Angheluta Vadineanu and \u00c1gnes V\u00e1ri and Helen Woods and Vesa Yli-Pelkonen",
+        "journal": "Ecosystem Services",
+        "volume": "29",
+        "pages": "499-514",
+        "publisher": "Elsevier",
+        "abstract": "The Ecosystem Services (ES) concept highlights the varied contributions the environment provides to humans and there are a wide range of methods/tools available to assess ES. However, in real-world decision contexts a single tool is rarely sufficient and methods must be combined to meet practitioner needs. Here, results from the OpenNESS project are presented to illustrate the methods selected to meet the needs of 24 real-world case studies and better understand why and how methods are combined to meet practical needs. Results showed that within the cases methods were combined to: i) address a range of ES; ii) assess both supply and demand of ES; iii) assess a range of value types; iv) reach different stakeholder groups v) cover weaknesses in other methods used and vi) to meet specific decision context needs. Methods were linked in a variety of ways: i) as input\u2013output chains of methods; ii) through \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:RgMnzfD6kpIC",
+    "num_citations": 110,
+    "citedby_url": "/scholar?hl=en&cites=18252062659801594903",
+    "cites_id": [
+        "18252062659801594903"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2212041617300190",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FzylF0laTP0J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 13,
+        "2019": 18,
+        "2020": 21,
+        "2021": 19,
+        "2022": 19,
+        "2023": 17,
+        "2024": 3
+    }
+}

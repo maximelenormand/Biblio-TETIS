@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SegVeg: Segmenting RGB images into green and senescent vegetation by combining deep and shallow methods",
+        "pub_year": 2022,
+        "citation": "Plant Phenomics, 2022",
+        "author": "Mario Serouart and Simon Madec and Etienne David and Kaaviya Velumani and Raul Lopez Lozano and Marie Weiss and Fr\u00e9d\u00e9ric Baret",
+        "journal": "Plant Phenomics",
+        "publisher": "AAAS",
+        "abstract": "Pixel segmentation of high-resolution RGB images into chlorophyll-active or nonactive vegetation classes is a first step often required before estimating key traits of interest. We have developed the SegVeg approach for semantic segmentation of RGB images into three classes (background, green, and senescent vegetation). This is achieved in two steps: A U-net model is first trained on a very large dataset to separate whole vegetation from background. The green and senescent vegetation pixels are then separated using SVM, a shallow machine learning technique, trained over a selection of pixels extracted from images. The performances of the SegVeg approach is then compared to a 3-class U-net model trained using weak supervision over RGB images segmented with SegVeg as groundtruth masks. Results show that the SegVeg approach allows to segment accurately the three classes. However, some \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:QIV2ME_5wuYC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=8876150912168043465",
+    "cites_id": [
+        "8876150912168043465"
+    ],
+    "pub_url": "https://spj.science.org/doi/full/10.34133/2022/9803570?adobe_mc=MCMID%3D22000649054056839993358493784186094648%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1687737600",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ySOJDDpsLnsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 15,
+        "2024": 2
+    }
+}

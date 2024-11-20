@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Impact des modes de gestion des parcs arbor\u00e9s sur la dynamique des paysages agricoles, un cas d\u2019\u00e9tude au S\u00e9n\u00e9gal",
+        "pub_year": 2018,
+        "citation": "VertigO 18 (2), 2018",
+        "author": "Marame Ba and J\u00e9r\u00e9my Bourgoin and Ibrahima Thiaw and Valerie Soti",
+        "journal": "VertigO",
+        "volume": "18",
+        "number": "2",
+        "publisher": "\u00c9rudit",
+        "abstract": "Au S\u00e9n\u00e9gal, on observe une diff\u00e9renciation remarquable des parcs arbor\u00e9s au sein de m\u00eames zones p\u00e9doclimatiques. Notre contribution s\u2019int\u00e9resse \u00e0 \u00e9tudier les modes de gestion de ces parcs dans deux sites du d\u00e9partement de Bambey situ\u00e9 dans le bassin arachidier du S\u00e9n\u00e9gal. Ces deux sites contrast\u00e9s, notamment en termes de densit\u00e9 d\u2019arbres, sont pourtant soumis aux m\u00eames politiques de gestion et de conservation des espaces arbor\u00e9s. Nous faisons ici l\u2019hypoth\u00e8se que les diff\u00e9rences paysag\u00e8res observ\u00e9es sont dues \u00e0 des d\u00e9terminants locaux et des pratiques de gestion diff\u00e9rentes. Pour comprendre les facteurs explicatifs de cette h\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9, nous avons enqu\u00eat\u00e9 un ensemble d\u2019acteurs intervenant dans la gestion de l\u2019arbre dans les deux sites d\u2019\u00e9tude. Plus particuli\u00e8rement, nous nous sommes int\u00e9ress\u00e9s aux questions de gouvernance locale, aux usages et utilit\u00e9s de l\u2019arbre, ainsi qu\u2019aux pratiques \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:NaGl4SEjCO4C",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=6385050673721152779",
+    "cites_id": [
+        "6385050673721152779"
+    ],
+    "pub_url": "https://www.erudit.org/en/journals/vertigo/1900-v1-n1-vertigo04601/1059927ar/abstract/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:C5UEIMJBnFgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 2,
+        "2023": 1
+    }
+}

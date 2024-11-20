@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dictionary-based sentiment analysis applied to specific domain using a web mining approach",
+        "pub_year": 2016,
+        "citation": "3rd. Annual Internacional Symposium on Information Management and Big Data, 80, 2016",
+        "author": "Laura Cruz and Jos\u00e9 Ochoa and Mathieu Roche and Pascal Poncelet",
+        "journal": "3rd. Annual Internacional Symposium on Information Management and Big Data",
+        "pages": "80",
+        "abstract": "In recent years, the Web and social media are growing exponentially. We are provided with documents which have opinions expressed about several topics. This constitute a rich source for Natural Language Processing tasks, in particular, Sentiment Analysis. In this work, we aim at constructing a sentiment dictionary based on words obtained from web pages related to a specific domain. To do so, we correlate candidate opinion words, seed words and domain using AcroDefMI3 and TrueSkill methods. This dictionarybased approach is compared to the SentiWordNet lexical resource. Experimental results show suitability of our approach for multiple domains and infrequent opinion words."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:LhH-TYMQEocC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=8439245153754625351",
+    "cites_id": [
+        "8439245153754625351"
+    ],
+    "pub_url": "https://www.researchgate.net/profile/Juan-Antonio-Lossio-Ventura/publication/313241954_ProceedingsSIMBig2016/data/5893886245851563f828ece3/ProceedingsSIMBig2016.pdf#page=80",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RzX7GcE4HnUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 2,
+        "2020": 3,
+        "2021": 2,
+        "2022": 3
+    }
+}

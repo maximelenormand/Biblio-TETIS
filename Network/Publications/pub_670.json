@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Is ground-based phenology of deciduous tree species consistent with the temporal pattern observed from sentinel-2 time series?",
+        "pub_year": 2018,
+        "citation": "ForestSAT 2018, 192 p., 2018",
+        "author": "Nicolas Karasiak and David Sheeren and Jean-Fran\u00e7ois Dejoux and Jean-Baptiste Feret and Jerome Willm and Claude Monteil",
+        "conference": "ForestSAT 2018",
+        "pages": "192 p.",
+        "abstract": "Characterizing green-leaf phenology from satellite imagery is crucial for many ecological applications. This information can also help to better discriminate tree species in forests taking into account the variations of leaf flush and coloring among species. Substantial advances in the assessment of phenological traits from satellite data have been made recently. However, a large part of the previous works was based on products of moderate spatial resolution (such as MODIS) or with, possibly cloudy, images with a limited temporal resolution (such as Landsat). The new optical Sentinel-2 (S2) image time series providing data every 5 days with a high spatial resolution offer new opportunities to address phenological studies. Dense observations increase the probability to get cloud-free images which can help to better classify tree species and to derive more accurate phenological metrics. In this study, we investigate the potentialities of dense S2 time series to (i) discriminate tree species in temperate forests and (ii) determine if the seasonal variations of spectral bands in the time series is related to phenological events observed in situ. To address this analysis, we conducted field observations of phenology every 10 days during the senescence and green-up periods (autumn 2017 and spring 2018 respectively). Field observations, based on a standard protocol, were carried out on a study site of 20 km x 25 km located in southwest France. Phenological events were collected in two distinct plots of 100 m\u00c2\u00b2 for 7 deciduous tree species (Oak, Red oak, Silver birch, Black locust, European ash, Aspen and Willow). Canopy closure was also measured from \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:abG-DnoFyZgC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02733751/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cZbU0pRCRCwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The effects of agribusiness investments on family farmers. The case of the Senegal River Valley",
+        "pub_year": 2018,
+        "citation": "Economie rurale 366 (4), 61-79, 2018",
+        "author": "Guillaume Soullier and Paule Moustier and J\u00e9r\u00e9my Bourgoin",
+        "journal": "Economie rurale",
+        "volume": "366",
+        "number": "4",
+        "pages": "61-79",
+        "publisher": "Soci\u00e9t\u00e9 Fran\u00e7aise d\u2019\u00c9conomie Rurale",
+        "abstract": "Agricultural policies in West Africa support investments from agribusiness on territories where family farmers live. The authors study the effects of these investments on the territorial governance, the land access, the income, the food security, and the agricultural practices of small-scale farmers. The conceptual framework is that of the governance of value chains and territories. The territory studied is the Senegal River Valley, where the authors carried out semi-structured interviews, two quantitative surveys, and one participatory workshop. Results show that the change in governance depends on the consideration of customary and legal institutions, and that the effects of vertical coordination are different according to the types of family producers."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:ldfaerwXgEUC",
+    "num_citations": 0,
+    "pub_url": "https://www.cairn-int.info/journal-economie-rurale-2018-4-page-61.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:U_-HizEJ-bQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

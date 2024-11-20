@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Geographic variations of the bird-borne structural risk of West Nile virus circulation in Europe",
+        "pub_year": 2017,
+        "citation": "PLoS One 12 (10), e0185962, 2017",
+        "author": "Benoit Durand and Annelise Tran and Gilles Balanca and Veronique Chevalier",
+        "journal": "PLoS One",
+        "volume": "12",
+        "number": "10",
+        "pages": "e0185962",
+        "publisher": "Public Library of Science",
+        "abstract": "The structural risk of West Nile Disease results from the usual functioning of the socio-ecological system, which may favour the introduction of the pathogen, its circulation and the occurrence of disease cases. Its geographic variations result from the local interactions between three components: (i) reservoir hosts, (ii) vectors, both characterized by their diversity, abundance and competence, (iii) and the socio-economic context that impacts the exposure of human to infectious bites. We developed a model of bird-borne structural risk of West Nile Virus (WNV) circulation in Europe, and analysed the association between the geographic variations of this risk and the occurrence of WND human cases between 2002 and 2014. A meta-analysis of WNV serosurveys conducted in wild bird populations was performed to elaborate a model of WNV seropositivity in European bird species, considered a proxy for bird exposure to WNV. Several eco-ethological traits of bird species were linked to seropositivity and the statistical model adequately fitted species-specific seropositivity data (area under the ROC curve: 0.85). Combined with species distribution maps, this model allowed deriving geographic variations of the bird-borne structural risk of WNV circulation. The association between this risk, and the occurrence of WND human cases across the European Union was assessed. Geographic risk variations of bird-borne structural risk allowed predicting WND case occurrence in administrative districts of the EU with a sensitivity of 86% (95% CI: 0.79\u20130.92), and a specificity of 68% (95% CI: 0.66\u20130.71). Disentangling structural and conjectural health risks is \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:dTyEYWd-f8wC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=10062779696221527718",
+    "cites_id": [
+        "10062779696221527718"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185962",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ph5MntEsposJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 6,
+        "2021": 7,
+        "2022": 4,
+        "2023": 3
+    }
+}

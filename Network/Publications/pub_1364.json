@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Between ecological integrity and economic efficiency: analysis of a\" ecological no net loss\" Policy",
+        "pub_year": 2019,
+        "citation": "Revue Juridique de l'Environnement 44 (3), 517-529, 2019",
+        "author": "Coralie Calvet and Jean-Michel Salles",
+        "journal": "Revue Juridique de l'Environnement",
+        "volume": "44",
+        "number": "3",
+        "pages": "517-529",
+        "abstract": "Defining and implementing a policy of no net loss of biodiversity raise many questions of an ecological, economic and social nature. In this article, we propose to analyze three of them from an economic perspective at the crossroads of ecological and social issues: Why implement a policy of no net loss based on a purely\" biophysical\" approach in France? How can the three-step mitigation sequence\" avoiding-reducing and compensating\" really be reinterpreted? How can effective compensation be implemented both economically and ecologically? The answers to these questions lead us to conclude on the validity of the no net loss policy by focusing on the question of territorial planning and economic needs."
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:hMod-77fHWUC",
+    "num_citations": 0,
+    "pub_url": "https://www.jle.com/en/revues/rje/e-docs/entre_integrite_ecologique_et_efficacite_economique_analyse_dune_politique_dabsence_de_perte_nette_ecologique_349173/article.phtml",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vELkMMeCMEoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

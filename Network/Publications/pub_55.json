@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Community-based delurking in social networks",
+        "pub_year": 2016,
+        "citation": "2016 IEEE/ACM International Conference on Advances in Social Networks \u2026, 2016",
+        "author": "Roberto Interdonato and Chiara Pulice and Andrea Tagarelli",
+        "conference": "2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+        "pages": "263-270",
+        "publisher": "IEEE",
+        "abstract": "The participation inequality phenomenon in online social networks between the niche of super contributors and the crowd of silent users, a.k.a. lurkers, has been witnessed in many domains. Within this view, understanding the role that lurkers take in the network is essential to develop innovative strategies to delurk them, i.e., to engage such users into a more active participation in the social network life. In this work, we leverage the boundary spanning theory to enhance our understanding of lurking behaviors, with the goal of improving the task of delurking in social networks. Assuming the availability of a global community structure, we first analyze how lurkers are related to users that take the role of bridges between different communities, unveiling insights into the bridging nature of lurkers and their tendency to acquire information from outside their own community. Moreover, based on a targeted influence \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:eQOLeE2rZwMC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=10943295778023458759",
+    "cites_id": [
+        "10943295778023458759"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7752244/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:x8cesYdl3pcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 3,
+        "2019": 1,
+        "2020": 2,
+        "2021": 2
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TomoSAR Platform: The New Irstea Service as Demand for SAR, Interferometry, Polarimetry and Tomography",
+        "pub_year": 2016,
+        "citation": "Living Planet Symposium 740, 386, 2016",
+        "author": "Dinh Ho Tong Minh and Yen-Nhi Ngo and Nicolas Baghdadi and Pierre Maurel",
+        "journal": "Living Planet Symposium",
+        "volume": "740",
+        "pages": "386",
+        "abstract": "Developing and improving methods to monitor both natural and non-natural environments such as forest and urban in space and time is a timely challenge. To overcome this challenge, we created a software platform-TomoSAR. The kernel of this platform supports the entire processing from SAR, Interferometry, Polarimetry, to Tomography (so called TomoSAR). The objective of this paper is to introduce this platform about its design architecture and its capacity. We showed four examples to highlight the TomoSAR platform capacities. First, the useful of the interferometric coherence of TOPS Sentinel-1 for land cover classification was highlighted. Second, a TOPS Sentinel-1 differential interferogram in a complex scenario volcano was successfully produced. Third, a TOPS Persistent Scatterers Interferometry analysis for estimating subsidence in Ho Chi Minh City area was demonstrated. Finally, the capability of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:EYYDruWGBe4C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=8919044221004776739",
+    "cites_id": [
+        "8919044221004776739"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016ESASP.740E.386H/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:I4X9wHbPxnsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping the likelihood of foot-and-mouth disease introduction along the border between Brazil and Paraguay",
+        "pub_year": 2016,
+        "citation": "Pesquisa Agropecu\u00e1ria Brasileira 51, 661-670, 2016",
+        "author": "Tha\u00eds Basso Amaral and Valery Gond and Annelise Tran",
+        "journal": "Pesquisa Agropecu\u00e1ria Brasileira",
+        "volume": "51",
+        "pages": "661-670",
+        "publisher": "Embrapa Secretaria de Pesquisa e Desenvolvimento, Pesquisa Agropecu\u00e1ria Brasileira",
+        "abstract": "The objective of this work was to apply fuzzy majority multicriteria group decision-making to determine risk areas for foot-and-mouth disease (FMD) introduction along the border between Brazil and Paraguay. The study was conducted in three municipalities in the state of Mato Grosso do Sul, Brazil, located along the border with Paraguay. Four scenarios were built, applying the following linguistic quantifiers to describe risk factors: few, half, many, and most. The three criteria considered to be most likely to affect the vulnerability to introduction of FMD, according to experts' opinions, were: the introduction of animals in the farm, the distance from the border, and the type of property settlements. The resulting maps show a strong spatial heterogeneity in the risk of FMD introduction. The used methodology brings out a new approach that can be helpful to policy makers in the combat and eradication of FMD."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:yD5IFk8b50cC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=9898209649726212615",
+    "cites_id": [
+        "9898209649726212615"
+    ],
+    "pub_url": "https://www.scielo.br/j/pab/a/jX8NTM9GkTFjgtBPYjqHdXh/?format=html&lang=en",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:B0pGxDuBXYkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 1,
+        "2019": 0,
+        "2020": 2,
+        "2021": 0,
+        "2022": 4,
+        "2023": 3,
+        "2024": 3
+    }
+}

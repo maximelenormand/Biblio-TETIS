@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Impact de la r\u00e9solution spatiale pour l\u2019identification d\u2019essences foresti\u00e8res en milieu temp\u00e9r\u00e9 \u00e0 partir d\u2019une image hyperspectrale du domaine r\u00e9flectif",
+        "pub_year": 2018,
+        "citation": "6. Colloque de la Soci\u00e9t\u00e9 Fran\u00e7aise de Photogramm\u00e9trie et T\u00e9l\u00e9d\u00e9tection \u2026, 2018",
+        "author": "Thierry Erudel and Philippe Deliot and Sophie Fabre and Xavier Briottet and Jean-Baptiste F\u00e9ret and Mathieu Fauvel and Harold Clenet and David Sheeren",
+        "conference": "6. Colloque de la Soci\u00e9t\u00e9 Fran\u00e7aise de Photogramm\u00e9trie et T\u00e9l\u00e9d\u00e9tection-Groupe Hyperspectrale (SFPT-GH)",
+        "pages": "np",
+        "abstract": "Impact de la r\u00e9solution spatiale pour l\u2019identification d\u2019essences foresti\u00e8res en milieu temp\u00e9r\u00e9 \u00e0 partir d\u2019une image hyperspectrale du domaine r\u00e9flectif. 6. Colloque de la Soci\u00e9t\u00e9 Fran\u00e7aise de Photogramm\u00e9trie et T\u00e9l\u00e9d\u00e9tection - Groupe Hyperspectrale (SFPT-GH)"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:70eg2SAEIzsC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01990157/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d4lti7p-vbkJ:scholar.google.com/",
+    "cites_per_year": {}
+}

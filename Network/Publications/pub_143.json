@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving GEDI footprint geolocation using a high resolution digital terrain model",
+        "pub_year": 2023,
+        "citation": "Authorea Preprints, 2023",
+        "author": "Anouk Schleich and Sylvie Durrieu and Maxime Soma and C\u00e9dric Vega",
+        "journal": "Authorea Preprints",
+        "publisher": "Authorea",
+        "abstract": "GEDI (Global Ecosystem Dynamics Investigation) is a lidar system on-board the International Space Station designed to study forest ecosystems. However, GEDI footprint low accuracy geolocation is a major impediment to the optimal benefit of the data. We thus proposed a geolocation correction method, GeoGEDI, only based on high-resolution digital terrain models (DTMs) and GEDI derived ground elevations. For each footprint, an error map between GEDI ground estimates and reference DTM was computed, and a flow accumulation algorithm was used to retrieve the optimal footprint position. GeoGEDI was tested on 150 000 footprints in Landes and Vosges, two French forests with various stands and topographic conditions. It was applied to GEDI versions 1 (v1) and 2 (v2), by either a single or four full-power laser beam tracks. GeoGEDI output accuracy was evaluated by analyzing shift distributions and comparing GEDI ground elevations and surface heights to reference data. GeoGEDI corrections were greater for v1 than for v2 and agreed with errors announced by NASA. Within forests, GeoGEDI improved the RMSE of ground elevation in Landes by 26.8 % (0.34 m) and by 13.3 % (0.14 m) for v1 and v2, respectively. For Vosges, ground elevation RMSE improved by 59.6 % (3.82 m) and 36.2 % (1.41 m), for v1 and v2, respectively. Regarding surface heights, except for v2 in Landes, where insufficient variations in topography combined to GEDI ground detection issues might have penalized the adjustment, GeoGEDI improved GEDI estimates. Using GeoGEDI showed efficient to improve positioning bias and precision."
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:HE397vMXCloC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5771862899158274486",
+    "cites_id": [
+        "5771862899158274486"
+    ],
+    "pub_url": "https://www.techrxiv.org/doi/full/10.36227/techrxiv.21915267.v1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ttGV5LnGGVAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

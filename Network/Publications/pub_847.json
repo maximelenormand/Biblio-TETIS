@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial data lake for smart cities: From design to implementation",
+        "pub_year": 2020,
+        "citation": "AGILE: GIScience Series 1, 8, 2020",
+        "author": "Rodrique Kafando and R\u00e9my Decoupes and Lucile Sautot and Maguelonne Teisseire",
+        "journal": "AGILE: GIScience Series",
+        "volume": "1",
+        "pages": "8",
+        "publisher": "Copernicus Publications",
+        "abstract": "In this paper, we propose a methodology for designing data lake dedicated to Spatial Data and an implementation of this specific framework. Inspired from previous proposals on general data lake Design and based on the Geographic information \u2013 Metadata normalization (ISO 19115), the contribution presented in this paper integrates, with the same philosophy, the spatial and thematic dimensions of heterogeneous data (remote sensing images, textual documents and sensor data, etc). To support our proposal, the process has been implemented in a real data project in collaboration with Montpellier M\u00e9tropole M\u00e9diterran\u00e9e (3M), a metropolis in the South of France. This framework offers a uniform management of the spatial and thematic information embedded in the elements of the data lake."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:MhiOAD_qIWkC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=15268726471895936791",
+    "cites_id": [
+        "15268726471895936791"
+    ],
+    "pub_url": "https://agile-giss.copernicus.org/articles/1/8/2020/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F-_1OdRp5dMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 5,
+        "2023": 2
+    }
+}

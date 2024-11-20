@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How can text mining improve the explainability of food security situations?",
+        "pub_year": 2023,
+        "citation": "Journal of Intelligent Information Systems, 1-24, 2023",
+        "author": "Hugo Del\u00e9glise and Agn\u00e8s B\u00e9gu\u00e9 and Roberto Interdonato and Elodie Ma\u00eetre d\u2019H\u00f4tel and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Journal of Intelligent Information Systems",
+        "pages": "1-24",
+        "publisher": "Springer US",
+        "abstract": "Food Security (FS) is a major concern in West Africa, particularly in Burkina Faso, which has been the epicenter of a humanitarian crisis since the beginning of this century. Early warning systems for FS and famines rely mainly on numerical data for their analyses, whereas textual data, which are more complex to process, are rarely used. However, this data is easy to access and represents a source of relevant information that is complementary to commonly used data sources. This study explores methods for obtaining the explanatory context associated with FS from textual data. Based on a corpus of local newspaper articles, we analyze FS over the last ten years in Burkina Faso. We propose an original and dedicated pipeline that combines different textual analysis approaches to obtain an explanatory model evaluated on real-world and large-scale data. The results of our analyses have proven how our approach \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:KxtntwgDAa4C",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s10844-023-00832-x",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:97l2RIunSzgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

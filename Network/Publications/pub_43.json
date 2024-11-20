@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Boundary Spanning Lurking",
+        "pub_year": 2018,
+        "citation": "Mining Lurkers in Online Social Networks: Principles, Models, and \u2026, 2018",
+        "author": "Andrea Tagarelli and Roberto Interdonato and Andrea Tagarelli and Roberto Interdonato",
+        "journal": "Mining Lurkers in Online Social Networks: Principles, Models, and Computational Methods",
+        "pages": "67-76",
+        "publisher": "Springer International Publishing",
+        "abstract": "The social boundary spanning theory explains how OSN users share and transfer their knowledge through the network. In this chapter, we consider two aspects related to the role of lurkers in boundary spanning contexts. In the first part, we concentrate on the relation between lurkers and OSN communities, discussing how the user\u2019s capability of across-community boundary spanning can relate with the role s/he may take in the community, and to what extent lurkers match community-based bridge users. In the second part, we introduce the problem of alternate lurker-contributor behaviors, under a framework of multilayer network modeling cross-platform user behaviors, and describe solutions based on ranking methods."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:_kc_bZDykSQC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-00229-9_7",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jZioLisFk7YJ:scholar.google.com/",
+    "cites_per_year": {}
+}

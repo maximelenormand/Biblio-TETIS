@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeospatRE: extraction and geocoding of spatial relation entities in textual documents",
+        "pub_year": 2023,
+        "citation": "Cartography and Geographic Information Science, 1-16, 2023",
+        "author": "Mehtab Alam Syed and Elena Arsevska and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Cartography and Geographic Information Science",
+        "pages": "1-16",
+        "publisher": "Taylor & Francis",
+        "abstract": "Spatial information extraction from textual documents and its accurate geo-referencing are important steps in epidemiology, with many applications such as outbreak detection and disease surveillance and control. However, inaccuracy in extraction of such geospatial information will result into inaccurate location identification, which in consequence may produce erroneous information for outbreak investigation and disease surveillance. One of the problems is the extraction of geospatial relations associated with spatial entities in the text documents. In order to identify such geospatial relations, we categorized them into three major relations: 1) Level-1, e.g. center, north, south; 2) Level-2, e.g. nearby, border; 3) Level-3, e.g. distance from spatial entities e.g. 30\u2009km, 20\u2009miles, 100\u2009m, etc., respectively. This work introduces a novel approach for extracting and georeferencing spatial information from textual documents \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:QUX0mv85b1cC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=11112202486655842432",
+    "cites_id": [
+        "11112202486655842432"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/15230406.2023.2264753",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gHhVYUl5NpoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

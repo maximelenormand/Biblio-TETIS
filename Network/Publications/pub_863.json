@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Les Grandes \u00c9tapes vers l'\u00e9co-traitement des requ\u00eates-Thinking Smart",
+        "pub_year": 2021,
+        "citation": "Revue Africaine de Recherche en Informatique et Math\u00e9matiques Appliqu\u00e9es 34, 2021",
+        "author": "Simon Pierre Dembele and Ladjel Bellatreche and Carlos Ordonez and Nabil Gmati and Mathieu Roche and Tri Nguyen-Huu and Laurent Debreu",
+        "journal": "Revue Africaine de Recherche en Informatique et Math\u00e9matiques Appliqu\u00e9es",
+        "volume": "34",
+        "publisher": "Episciences. org",
+        "abstract": "Computers and electronic machines in businesses consume a significant amount of electricity, releasing carbon dioxide (CO2), which contributes to greenhouse gas emissions. Energy efficiency is a pressing concern in IT systems, ranging from mobile devices to large servers in data centers, in order to be more environmentally responsible. In order to meet the growing demands in the awareness of excessive energy consumption, many initiatives have been launched on energy efficiency for big data processing covering electronic components, software and applications. Query optimizers are one of the most power consuming components of a DBMS. They can be modified to take into account the energetical cost of query plans by using energy-based cost models with the aim of reducing the power consumption of computer systems. In this paper, we study, describe and evaluate the design of three energy cost models whose values of energy sensitive parameters are determined using the Nonlinear Regression and the Random Forests techniques. To this end, we study in depth the operating principle of the selected DBMS and present an analysis comparing the performance time and energy consumption of typical queries in the TPC benchmark. We perform extensive experiments on a physical testbed based on PostreSQL, MontetDB and Hyrise systems using workloads generated using our chosen benchmark to validate our proposal."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:-yGd096yOn8C",
+    "num_citations": 0,
+    "pub_url": "https://arima.episciences.org/7311/pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uEH6v_DxcbYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

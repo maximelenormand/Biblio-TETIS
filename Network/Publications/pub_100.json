@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Accelerating Non-Negative and Bounded-Variable Linear Regression Algorithms with Safe Screening",
+        "pub_year": 2022,
+        "citation": "arXiv preprint arXiv:2202.07258, 2022",
+        "author": "Cassio Dantas and Emmanuel Soubies and C\u00e9dric F\u00e9votte",
+        "journal": "arXiv preprint arXiv:2202.07258",
+        "abstract": "Non-negative and bounded-variable linear regression problems arise in a variety of applications in machine learning and signal processing. In this paper, we propose a technique to accelerate existing solvers for these problems by identifying saturated coordinates in the course of iterations. This is akin to safe screening techniques previously proposed for sparsity-regularized regression problems. The proposed strategy is provably safe as it provides theoretical guarantees that the identified coordinates are indeed saturated in the optimal solution. Experimental results on synthetic and real data show compelling accelerations for both non-negative and bounded-variable problems."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:Zph67rFs4hoC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6893346045845034945",
+    "cites_id": [
+        "6893346045845034945"
+    ],
+    "pub_url": "https://arxiv.org/abs/2202.07258",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wddvyLQVql8J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

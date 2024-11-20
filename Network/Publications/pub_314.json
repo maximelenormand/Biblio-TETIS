@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Correcting GEDI water level estimates for inland waterbodies using machine learning",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (10), 2361, 2022",
+        "author": "Ibrahim Fayad and Nicolas Baghdadi and Jean-St\u00e9phane Bailly and Fr\u00e9d\u00e9ric Frappart and N\u00faria Pantaleoni Reluy",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "10",
+        "pages": "2361",
+        "publisher": "MDPI",
+        "abstract": "The Global Ecosystem Dynamics Investigation (GEDI) LiDAR on the International Space Station has acquired more than 35 billion shots globally in the period between April 2019 and August 2021. The acquired shots could offer a significant database for the measure and monitoring of inland water levels over the Earth\u2019s surface. Nonetheless, previous and current studies have shown that the provided GEDI elevation estimates are significantly less accurate than any available radar or LiDAR altimeter. Indeed, our analysis of GEDI\u2019s altimetric capabilities to retrieve water levels over the five North American Great Lakes presented estimates with a bias that ranged between 0.26 and 0.35 m and a root mean squared error (RMSE) ranging between 0.54 and 0.68 m. Therefore, our objective in this study is to post-process the original GEDI water level estimates from an error model taking instrumental, atmospheric, and lakes surface state factors as proxies, which affect the physical shape of the waveforms, hence introducing uncertainties on the elevation estimates. The first tested model, namely a random forest regressor (RFICW) with the instrumental, atmospheric, and water surface state factors as inputs, was validated temporally (trained on a given year and validated on another) and spatially (trained on a given lake and validated on the remaining four). The results showed a significant decrease in elevation estimation errors both temporally and spatially. The temporally validated models showed an RMSE on the corrected elevation estimates of 0.18 m. Concerning the spatially validated model, the results varied based on the lake data used for training \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:KS-xo-ZNxMsC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=2086459361186376357",
+    "cites_id": [
+        "2086459361186376357"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/10/2361",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pWrNBbyX9BwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    }
+}

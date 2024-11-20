@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Coupling radar and optical data for soil moisture retrieval over agricultural areas",
+        "pub_year": 2018,
+        "citation": "QGIS and Applications in Agriculture and Forest 2, 1-45, 2018",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi and Hassan Bazzi",
+        "journal": "QGIS and Applications in Agriculture and Forest",
+        "volume": "2",
+        "pages": "1-45",
+        "publisher": "John Wiley & Sons, Inc.",
+        "abstract": "This chapter shows how to map the surface soil moisture over agricultural plots and grasslands using the free and open\u2010source software quantum geographic information system (QGIS), by coupling radar (synthetic aperture radar (SAR)) and optical images acquired at high spatial resolution (~10 m x 10 m). The chapter describes the implementation of QGIS functions that lead to obtaining the soil moisture maps by coupling radar and optical data. It also describes the steps that lead to the production of soil moisture maps on crop areas and grasslands. The networks are trained using a simulated dataset of radar backscattering coefficients obtained from the water cloud model (WCM). The chapter develops an inversion approach using neural networks. For a given radar acquisition date, the radar signals in VV and VH polarizations as well as the local incidence angle and the normalized difference vegetation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:OTTXONDVkokC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=3603408448458829884",
+    "cites_id": [
+        "3603408448458829884"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119457107.ch1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PLAHZ-TgATIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

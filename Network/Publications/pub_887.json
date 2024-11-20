@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Discovering of new Spatial Entities and Relations from SMS",
+        "pub_year": 2016,
+        "citation": "TALN: Traitement Automatique des Langues Naturelles, 2016",
+        "author": "Sarah Zenasni and Eric Kergosien and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "TALN: Traitement Automatique des Langues Naturelles",
+        "abstract": "Dans le contexte des masses de donne\u0301es aujourd\u2019hui disponibles, de nombreux travaux lie\u0301s a\u0300 l\u2019analyse de l\u2019information spatiale s\u2019appuient sur l\u2019exploitation des donne\u0301es textuelles. La communication me\u0301die\u0301e (SMS, tweets, etc.) ve\u0301hiculant des informations spatiales prend une place pre\u0301ponde\u0301rante. L\u2019objectif du travail pre\u0301sente\u0301 dans cet article consiste a\u0300 extraire ces informations spatiales a\u0300 partir d\u2019un corpus authentique de SMS en franc\u0327ais. Nous proposons un processus dans lequel, dans un premier temps, nous extrayons de nouvelles entite\u0301s spatiales (par exemple, motpellier, montpeul a\u0300 associer au toponyme Montpellier). Dans un second temps, nous identifions de nouvelles relations spatiales qui pre\u0301ce\u0300dent les entite\u0301s spatiales (par exemple, sur, par, pres, etc.). La ta\u0302che est difficile et complexe en raison de la spe\u0301cificite\u0301 du langage SMS qui repose sur une e\u0301criture peu standardise\u0301e (apparition de \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:w1MjKQ0l0TYC",
+    "num_citations": 0,
+    "pub_url": "https://hal.univ-lille.fr/hal-01358585v1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KaL2VTpxVMEJ:scholar.google.com/",
+    "cites_per_year": {}
+}

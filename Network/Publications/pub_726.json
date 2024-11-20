@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hantavirus seropositivity in rodents in relation to habitat heterogeneity in human-shaped landscapes of Southeast Asia",
+        "pub_year": 2016,
+        "citation": "Spatial and Spatio-temporal Epidemiology 17, 27-35, 2016",
+        "author": "Kim Blasdell and Serge Morand and Heikki Henttonen and Annelise Tran and Philippe Buchy",
+        "journal": "Spatial and Spatio-temporal Epidemiology",
+        "volume": "17",
+        "pages": "27-35",
+        "publisher": "Elsevier",
+        "abstract": "To establish how the conversion of natural habitats for agricultural purposes may impact the distribution of hantaviruses in Southeast Asia, we tested how habitat structure affects hantavirus infection prevalence of common murine rodents that inhabit human-dominated landscapes in this region. For this, we used geo-referenced data of rodents analysed for hantavirus infection and land cover maps produced for the seven study sites in Thailand, Cambodia and Lao PDR where they were collected. Rodents were tested by serological methods that detect several hantaviruses, including pathogenic ones. Rodents with a seropositive status were more likely to be found near to agriculture on steep land, and also in environments with a high proportion of agriculture on steep land. These results suggest that in Southeast Asia, hantaviruses, which are often associated with generalist rodent species with a preference for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:j3f4tGmQtD8C",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=17609329748499753267",
+    "cites_id": [
+        "17609329748499753267"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877584515300113",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:M-kLqBvoYPQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 3,
+        "2018": 0,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

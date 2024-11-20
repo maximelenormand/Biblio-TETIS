@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison Stripmap Cosmos SkyMed X-Band and TOPS Sentinel-1C Band in Estimating Ground Subsidence Using Irstea TomoSAR Platform: Ho Chi Minh City Case Study",
+        "pub_year": 2016,
+        "citation": "Living Planet Symposium 740, 73, 2016",
+        "author": "Dinh Ho Tong Minh and Quoc Viet Vuong and Van Trung Le and Yen-Nhi Ngo",
+        "journal": "Living Planet Symposium",
+        "volume": "740",
+        "pages": "73",
+        "abstract": "The objective of this paper is to provide a better understanding of Persistent Scatterers Interferometry (PSI) capabilities in subsidence estimations of TOPSAR Sentinel-1 data. This work has presented an advanced PSI analysis, to provide unprecedented spatial extent and continuous temporal coverage of the subsidence in Ho Chi Minh City by using 49 stripmap Cosmos SkyMED (CSK) X-band and TOPS Sentinel-1 C-band 23 images acquired from 2014 to 2016. The analysis was carried out by using the Irstea TomoSAR platform, which supports the entire processing from SAR, Interferometry, Polarimetry, to Tomography (so called TomoSAR). The study shows that the performance of stripmap CSK and TOPS Sentinel-1 is quite similar and effective to detect the subsidence phenomena. Subsidence is most severe in the Holocene silt loam areas along Sai Gon river and in the Southwest of the city, with the maximum \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:bEWYMUwI8FkC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=13482152592309501661",
+    "cites_id": [
+        "13482152592309501661"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016ESASP.740E..73H/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3T446Fk6GrsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

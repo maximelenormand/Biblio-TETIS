@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Near real-time irrigation detection at plot scale using sentinel-1 data",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (9), 1456, 2020",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Ibrahim Fayad and Mehrez Zribi and Hatem Belhouchette and Val\u00e9rie Demarez",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "9",
+        "pages": "1456",
+        "publisher": "MDPI",
+        "abstract": "In the context of monitoring and assessment of water consumption in the agricultural sector, the objective of this study is to build an operational approach capable of detecting irrigation events at plot scale in a near real-time scenario using Sentinel-1 (S1) data. The proposed approach is a decision tree-based method relying on the change detection in the S1 backscattering coefficients at plot scale. First, the behavior of the S1 backscattering coefficients following irrigation events has been analyzed at plot scale over three study sites located in Montpellier (southeast France), Tarbes (southwest France), and Catalonia (northeast Spain). To eliminate the uncertainty between rainfall and irrigation, the S1 synthetic aperture radar (SAR) signal and the soil moisture estimations at grid scale (10 km \u00d7 10 km) have been used. Then, a tree-like approach has been constructed to detect irrigation events at each S1 date considering additional filters to reduce ambiguities due to vegetation development linked to the growth cycle of different crops types as well as the soil surface roughness. To enhance the detection of irrigation events, a filter using the normalized differential vegetation index (NDVI) obtained from Sentinel-2 optical images has been proposed. Over the three study sites, the proposed method was applied on all possible S1 acquisitions in ascending and descending modes. The results show that 84.8% of the irrigation events occurring over agricultural plots in Montpellier have been correctly detected using the proposed method. Over the Catalonian site, the use of the ascending and descending SAR acquisition modes shows that 90.2% of the non \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:ce2CqMG-AY4C",
+    "num_citations": 38,
+    "citedby_url": "/scholar?hl=en&cites=12828920137542998482",
+    "cites_id": [
+        "12828920137542998482"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/9/1456",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0hkbAuV6CbIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 7,
+        "2022": 16,
+        "2023": 11,
+        "2024": 1
+    }
+}

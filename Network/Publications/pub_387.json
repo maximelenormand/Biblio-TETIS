@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation of Forest Stand Volume Using ICESat/GLAS Data in Mountainous Forests in the North of Iran",
+        "pub_year": 2016,
+        "citation": "Iranian Journal of Remote Sensing & GIS 7 (4), 85-98, 2016",
+        "author": "M Rajabpour Rahmati and AA Darvishsefat and N Baghdadi and Manochehr Namiranian and Nosrat Ollah Zargham",
+        "journal": "Iranian Journal of Remote Sensing & GIS",
+        "volume": "7",
+        "number": "4",
+        "pages": "85-98",
+        "publisher": "Iranian Remote Sensing & GIS Society",
+        "abstract": "Forest volume as an important factor in forest management was aimed to be measured in mountainous forests in the North of Iran using spaceborne LiDar. Two missions of GLAS (L3K and L3I) were preprocessed to remove inappropriate waveforms. Several waveform metrics including waveform extent (Wext), lead edge extent (Hlead), trail edge extent (Htrail) and quartile heights (H25, H50, H75 and H100) were extracted. Principal component analysis (PCA) was also applied to reduce noises from waveform signals and produce new components (PCs). In order to decrease the effect of terrain slope on waveforms, terrain index (TI) describing topographic information was extracted from a digital elevation model (DEM). Forest stand volume was measured on 60 circle plots with diameter of 70 m for developing volume models and their validation. Multiple regression and artificial neural network models were built based \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:zUl2_INMlC4C",
+    "num_citations": 0,
+    "pub_url": "https://gisj.sbu.ac.ir/index.php/article_95956.html?lang=en",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MhI_t7wdtQYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

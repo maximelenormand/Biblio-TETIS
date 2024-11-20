@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SNEToolkit: Spatial named entities disambiguation toolkit",
+        "pub_year": 2023,
+        "citation": "SoftwareX 23, 101480, 2023",
+        "author": "Rodrique Kafando and R\u00e9my Decoupes and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "SoftwareX",
+        "volume": "23",
+        "pages": "101480",
+        "publisher": "Elsevier",
+        "abstract": "\u201cCan you tell me where San Jose is located?\u201d \u201cUh! Do you know that there are more than 1700 locations named San Jose in the world?\u201d The official name of a location is often not the name with which we are familiar. Spatial named entity (SNE) disambiguation is the process of identifying and assigning precise coordinates to a place name that can be identified in a text. This task is not always straightforward, especially when the place name in question is ambiguous for various reasons. In this context, we are interested in the disambiguation of spatial named entities that can be identified in a textual document on a country level. The solution that we propose is based on a set of techniques that allow us to disambiguate the spatial entity considering the context in which it is mentioned from a certain number of characteristics that are specific to it. The solution uses as input a textual document and extricates the named \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:kF1pexMAQbMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=9881665862621256850",
+    "cites_id": [
+        "9881665862621256850"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352711023001760",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ktykKr-6IokJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

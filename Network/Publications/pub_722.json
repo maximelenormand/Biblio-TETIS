@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Positive and unlabeled learning in categorical data",
+        "pub_year": 2016,
+        "citation": "Neurocomputing 196, 113-124, 2016",
+        "author": "Dino Ienco and Ruggero G Pensa",
+        "journal": "Neurocomputing",
+        "volume": "196",
+        "pages": "113-124",
+        "publisher": "Elsevier",
+        "abstract": "In common binary classification scenarios, the presence of both positive and negative examples in training data is needed to build an efficient classifier. Unfortunately, in many domains, this requirement is not satisfied and only one class of examples is available. To cope with this setting, classification algorithms have been introduced that learn from Positive and Unlabeled (PU) data. Originally, these approaches were exploited in the context of document classification. Only few works address the PU problem for categorical datasets. Nevertheless, the available algorithms are mainly based on Naive Bayes classifiers. In this work we present a new distance based PU learning approach for categorical data: Pulce. Our framework takes advantage of the intrinsic relationships between attribute values and exceeds the independence assumption made by Naive Bayes. Pulce, in fact, leverages on the statistical properties of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:rOcdG6UcVlcC",
+    "num_citations": 39,
+    "citedby_url": "/scholar?hl=en&cites=816921199664593208",
+    "cites_id": [
+        "816921199664593208"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0925231216003118",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:OHl-u4BJVgsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 5,
+        "2018": 6,
+        "2019": 5,
+        "2020": 6,
+        "2021": 6,
+        "2022": 5,
+        "2023": 5,
+        "2024": 1
+    }
+}

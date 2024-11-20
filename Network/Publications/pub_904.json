@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A novel framework for biomedical entity sense induction",
+        "pub_year": 2018,
+        "citation": "Journal of biomedical informatics 84, 31-41, 2018",
+        "author": "Juan Antonio Lossio-Ventura and J Bian and Cl\u00e9ment Jonquet and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Journal of biomedical informatics",
+        "volume": "84",
+        "pages": "31-41",
+        "publisher": "Academic Press",
+        "abstract": "Rapid advancements in biomedical research have accelerated the number of relevant electronic documents published online, ranging from scholarly articles to news, blogs, and user-generated social media content. Nevertheless, the vast amount of this information is poorly organized, making it difficult to navigate. Emerging technologies such as ontologies and knowledge bases (KBs) could help organize and track the information associated with biomedical research developments. A major challenge in the automatic construction of ontologies and KBs is the identification of words with its respective sense(s) from a free-text corpus. Word-sense induction (WSI) is a task to automatically induce the different senses of a target word in the different contexts. In the last two decades, there have been several efforts on WSI. However, few methods are effective in biomedicine and life sciences.We \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:F9fV5C73w3QC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=15423569495404418745",
+    "cites_id": [
+        "15423569495404418745"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1532046418301138",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uZYhDr2GC9YJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 2,
+        "2021": 4,
+        "2022": 1,
+        "2023": 4
+    }
+}

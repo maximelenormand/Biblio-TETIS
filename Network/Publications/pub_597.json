@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection and mapping of clear\u2010cuts with optical satellite images",
+        "pub_year": 2018,
+        "citation": "QGIS and Applications in Agriculture and Forest 2, 153-180, 2018",
+        "author": "Kenji Ose",
+        "journal": "QGIS and Applications in Agriculture and Forest",
+        "volume": "2",
+        "pages": "153-180",
+        "publisher": "John Wiley & Sons, Inc.",
+        "abstract": "The French Ministry of Agriculture, in charge of forest policies, has commissioned the development of a clear\u2010cuts detection method with optical satellite images. Mapping the clear\u2010cuts relies on a change detection method based on two satellite images acquired between two consecutive years, during summer when trees show their leaves. This chapter presents a practical application of the clear\u2010cuts detection on a couple of Landsat 8 images acquired during summer 2015 and 2016, between Tours and Besancon. The clear\u2010cut detection method uses basic functionalities of quantum geographic information system (QGIS) to process raster and vector data. This choice allows anyone to apply processings without the need to install extensions. Of course, some steps of the method can be carried out with more efficient tools, in particular the Orfeo ToolBox (OTB) image processing library developed by CNES."
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:qjMakFHDy7sC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=5069179664065621276",
+    "cites_id": [
+        "5069179664065621276"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119457107.ch5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HO1D-wtYWUYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    }
+}

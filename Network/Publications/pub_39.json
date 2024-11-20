@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A constrastive semi-supervised deep learning framework for land cover classification of satellite time series with limited labels",
+        "pub_year": 2024,
+        "citation": "Neurocomputing 567, 127031, 2024",
+        "author": "Dino Ienco and Raffaele Gaetano and Roberto Interdonato",
+        "journal": "Neurocomputing",
+        "volume": "567",
+        "pages": "127031",
+        "publisher": "Elsevier",
+        "abstract": "In this work, we present a new semi-supervised learning framework to cope with satellite image time series (SITS) classification in a data paucity scenario, considering extreme low levels of supervision. The proposed methodology, referred as S 3 ITS (Semi-Supervised Satellite Image Time Series classification method), is based on temporal convolutional neural networks and it takes advantage of both labelled and unlabelled information. S 3 ITS enforces the data to be projected in a discriminative manifold via contrastive learning, in order to produce a data representation where samples belonging to the same category are closer than the ones belonging to different ones. Pseudo-labelling is employed on unlabelled samples to take the most out of the available unlabelled information. Experiments on two study sites described by SITS of Sentinel-2 images highlight the quality of the proposed method with respect to \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:UxriW0iASnsC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0925231223011542",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:C7zY-D-CZPoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

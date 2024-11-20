@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "R\u00e9gler le processus d\u2019exploration dans l\u2019analyse relationnelle de concepts. le cas de donn\u00e9es hydro\u00e9cologiques",
+        "pub_year": 2019,
+        "citation": "Actes de la 19e conf\u00e9rence sur l\u2019extraction et la gestion de connaissances \u2026, 2019",
+        "author": "Amirouche Ouzerdine and Agn\u00e8s Braud and Xavier Dolques and Marianne Huchard and Florence Le Ber and Cristina Nica and Agn\u00e8s Braud and Florence Le Ber and Priscilla Keip and Alain Gutierrez and Marianne Huchard and Florence Le Ber and Samira Sarter and Pierre Silvie and Pierre Martin and Agn\u00e8s Braud and Xavier Dolques and Marianne Huchard and Florence Le Ber and Florence Le Ber and Jean Lieber and Marc Beno\u00eet and Cristina Nica and Agn\u00e8s Braud and Florence Le Ber and Carine Heitz and Stella Marc-Zwecker and Romaric Mathis and Florence Le Ber and Florence Le Ber and Xavier Dolques and Laura Martin and Alain Mille and Marc Beno\u00eet and Florence Le Ber and Xavier Dolques and Laura Martin and Alain Mille and Marc Beno\u00eet and Cristina Nica and Agn\u00e8s Braud and Florence Le Ber and Marine Ciron and Florence Le Ber and Stella Marc-Zwecker and Carine Heitz and Juliane Wiederkehr and Corinne Grac and Bruno Fontan and Fr\u00e9d\u00e9ric Labat and Florence Le Ber and Mich\u00e8le Tr\u00e9moli\u00e8res and Xavier Dolques and Florence Le Ber and Marianne Huchard and Corinne Grac and Cristina Nica and Agn\u00e8s Braud and Xavier Dolques and Marianne Huchard and Florence Le Ber and S\u00e9bastien Da Silva and Florence Le Ber and Claire Lavigne and Cristina Nica and Agn\u00e8s Braud and Xavier Dolques and Marianne Huchard and Florence Le Ber and Cristina Nica and Agn\u00e8s Braud and Xavier Dolques and Marianne Huchard and Florence Le Ber and Xavier Dolques and Florence Le Ber and Marianne Huchard and Cl\u00e9mentine Nebut and Micka\u00ebl Fabr\u00e8gue and Agn\u00e8s Braud and Sandra Bringay and Florence Le Ber and Maguelonne Teisseire and Juliane Wiederkehr and Corinne Grac and Micka\u00ebl Fabr\u00e8gue and Bruno Fontan and Fr\u00e9d\u00e9ric Labat and Florence Le Ber and Mich\u00e8le Tr\u00e9moli\u00e8res and Sandro Bimonte and Kamal Boulil and Agn\u00e8s Braud and Sandra Bringay and Flavie Cernesson and Xavier Dolques and Micka\u00ebl Fabr\u00e8gue and Corinne Grac and Nathalie Lalande and Florence Le Ber",
+        "journal": "Actes de la 19e conf\u00e9rence sur l\u2019extraction et la gestion de connaissances (EGC 2019). Nouvelles Technologies de l\u2019Information",
+        "abstract": "Cet article s\u2019 int\u00e9resse \u00e0 l\u2019exploration de jeux de donn\u00e9es multi-relationnelles, et aux diff\u00e9rentes mani\u00e8res de les analyser en utilisant l\u2019analyse relationnelle de concepts (ARC), une variante de l\u2019analyse formelle de concepts. L\u2019ARC utilise plusieurs quantifieurs d\u2019\u00e9chelonnage qui rendent le processus d\u2019analyse finement r\u00e9glable, permettant une grande flexibilit\u00e9 dans l\u2019exploration et dans ses r\u00e9sultats. En contrepartie, l\u2019analyste peut \u00eatre submerg\u00e9 par l\u2019ensemble des choix qu\u2019il doit faire au cours de l\u2019analyse. Pour traiter ce probl\u00e8me, nous proposons trois sur-couches qui aident l\u2019analyste \u00e0 anticiper et contr\u00f4ler les r\u00e9sultats de ses choix. Notre proposition est appliqu\u00e9e \u00e0 un jeu de donn\u00e9es sur la qualit\u00e9 des eaux de rivi\u00e8res."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:4xDN1ZYqzskC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=7616463180295613822",
+    "cites_id": [
+        "7616463180295613822"
+    ],
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=MveCDwAAQBAJ&oi=fnd&pg=PA57&dq=info:fq1cougcs2kJ:scholar.google.com&ots=UyR7xteBaS&sig=UvWu5DVr1f2ECU8lYBvkqy0fDE4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fq1cougcs2kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1
+    }
+}

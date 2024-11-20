@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Unit-level Small Area Estimation of Forest Inventory with GEDI Auxiliary Information",
+        "pub_year": 2021,
+        "citation": "# PLACEHOLDER_PARENT_METADATA_VALUE#, 136-138, 2021",
+        "author": "Shaohui Zhang and C\u00e9dric V\u00e9ga and Olivier Bouriaud and Sylvie Durrieu and Jean-Pierre Renaud",
+        "conference": "# PLACEHOLDER_PARENT_METADATA_VALUE#",
+        "pages": "136-138",
+        "abstract": "National Forest Inventories (NFIs) play an important role in understanding the state of forests at the national and regional levels. Forest inventory for small territorial areas, such as municipalities, is also important for decision-makers. However, information is relatively limited at this level. As a result, developing small area estimation (SAE) approaches has gained increasing popularity in the field of forest inventory. It enables prediction of forest attributes for sub-populations using regression models based on auxiliary data commonly derived from remote sensing techniques over an area of interest (AOI). It has been reported that SAE can improve the precision of forest inventory without increasing costs (Mandallaz, Breschan and Hill 2013) and may produce reliable predictions of forest attributes locally, even when field plots are not available (Rao 2014). Tomppo (2006) is a pioneer in the use of auxiliary data for multi-source forest inventory. Previously, common sources of auxiliary data often came from satellite-based imagery (McRoberts et al. 2007), digital aerial photogrammetry (Breidenbach et al. 2018), and airborne laser scanning (Magnussen et al. 2014). NASA\u2019s newly-launched Global Ecosystem Dynamics Investigation (GEDI) is a full waveform LiDAR instrument aboard the International Space Station (ISS). Its products consist of footprint measurements projected to cover 4% of the global land surface by the end of its mission (Dubayah et al. 2020). This will provide an unprecedented opportunity to systematically collect samples of forest information that can be used in SAE on a large scale. The objective of this study is to explore the possibility of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:olpn-zPbct0C",
+    "num_citations": 0,
+    "pub_url": "https://www.researchgate.net/profile/Jean-Pierre-Renaud/publication/357534743_Unit-level_Small_Area_Estimation_of_Forest_Inventory_with_GEDI_Auxiliary_Information/links/61d2f0dbda5d105e5517e46c/Unit-level-Small-Area-Estimation-of-Forest-Inventory-with-GEDI-Auxiliary-Information.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:10CFmX0BCb8J:scholar.google.com/",
+    "cites_per_year": {}
+}

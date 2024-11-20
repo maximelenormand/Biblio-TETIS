@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hybrid methodology using sentinel-1/sentinel-2 for soil moisture estimation",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (10), 2434, 2022",
+        "author": "Simon Nativel and Emna Ayari and Nemesio Rodriguez-Fernandez and Nicolas Baghdadi and Remi Madelon and Clement Albergel and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "10",
+        "pages": "2434",
+        "publisher": "MDPI",
+        "abstract": "Soil moisture is an essential parameter for a better understanding of water processes in the soil\u2013vegetation\u2013atmosphere continuum. Satellite synthetic aperture radar (SAR) is well suited for monitoring water content at fine spatial resolutions on the order of 1 km or higher. Several methodologies are often considered in the inversion of SAR signals: machine learning techniques, such as neural networks, empirical models and change detection methods. In this study, we propose two hybrid methodologies by improving a change detection approach with vegetation consideration or by combining a change detection approach together with a neural network algorithm. The methodology is based on Sentinel-1 and Sentinel-2 data with the use of numerous metrics, including vertical\u2013vertical (VV) and vertical\u2013horizontal (VH) polarization radar signals, the classical change detection surface soil moisture (SSM) index ISSM, radar incidence angle, normalized difference vegetation index (NDVI) optical index, and the VH/VV ratio. Those approaches are tested using in situ data from the ISMN (International Soil Moisture Network) with observations covering different climatic contexts. The results show an improvement in soil moisture estimations using the hybrid algorithms, in particular the change detection with the neural network one, for which the correlation increases by 54% and 33% with respect to that of the neural network or change detection alone, respectively."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:7Frjd3zlGBUC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=12648597360738538082",
+    "cites_id": [
+        "12648597360738538082"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/10/2434",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YpLD0UjYiK8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 6,
+        "2024": 1
+    }
+}

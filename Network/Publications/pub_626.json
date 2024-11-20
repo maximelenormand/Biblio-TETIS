@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "De la collecte \u00e0 l\u2019analyse d\u2019un corpus de SMS authentiques: une d\u00e9marche pluridisciplinaire",
+        "pub_year": 2016,
+        "citation": "Histoire Epist\u00e9mologie Langage 38 (2), 73-85, 2016",
+        "author": "Rachel Panckhurst and Mathieu Roche and C\u00e9dric Lopez and Bertrand Verine and Catherine D\u00e9trie and Claudine Mo\u00efse",
+        "journal": "Histoire Epist\u00e9mologie Langage",
+        "volume": "38",
+        "number": "2",
+        "pages": "73-85",
+        "publisher": "EDP Sciences",
+        "abstract": "Nous pr\u00e9sentons notre approche fond\u00e9e sur les donn\u00e9es authentiques, en nous concentrant sur des recherches r\u00e9centes, portant sur le recueil, le traitement et l\u2019analyse d\u2019un grand corpus de SMS en fran\u00e7ais, intitul\u00e9 88milSMS (http://88milsms.huma-num.fr/, Panckhurst, D\u00e9trie, Lopez, Mo\u00efse, Roche, Verine, 2014), incluant un questionnaire sociolinguistique soumis aux donateurs au moment de la collecte ainsi que leurs r\u00e9ponses. Puis nous expliquons pourquoi, dans une d\u00e9marche pluridisciplinaire (situ\u00e9e entre sciences du langage, informatique et traitement automatique du langage naturel), nous avons d\u00e9cid\u00e9 de fournir \u00e0 la communaut\u00e9 scientifique et au grand public le corpus de SMS."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:u-coK7KVo8oC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=6657105141828056602",
+    "cites_id": [
+        "6657105141828056602"
+    ],
+    "pub_url": "https://www.hel-journal.org/articles/hel/abs/2016/02/hel20163802p73/hel20163802p73.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GnYWC9vJYlwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 3
+    }
+}

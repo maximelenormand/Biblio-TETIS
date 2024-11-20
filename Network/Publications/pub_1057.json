@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-1 and sentinel-2 data for the characterisation of the states of continental surface over a semi-arid region En Tunisia",
+        "pub_year": 2020,
+        "citation": "2020 Mediterranean and Middle-East Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Safa Bousbih and Mehrez Zribi and Zohra Lili-Chabaane and Bernard Mougenot and Charlotte Pelletier and Mohammad El Hajj and Nicolas Baghdadi",
+        "conference": "2020 Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)",
+        "pages": "285-288",
+        "publisher": "IEEE",
+        "abstract": "Radar and optical data have shown great potential for monitoring soil and canopy parameters. In this context, Sentinel-1 (S-1) and Sentinel-2 (S-2) time series were used to retrieve different parameters using models and different algorithms. The main objective of this study is to analyze the potential a synergetic use of radar and optical data for the estimation of soil moisture, irrigation detection and soil texture over agricultural areas for sustainable management of water and soil resources.First, the radar signal is simulated using a semi-empirical backscattering model over bare soil and vegetation cover. The Water Cloud Model parameterized with NDVI for vegetation contribution allows a good estimation of soil moisture by inversion techniques. Soil moisture time series were then developed for the spatialization of irrigation and soil texture. In this study, both products have shown good agreement with in situ \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:ghEM2AJqZyQC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=17420372572005813097",
+    "cites_id": [
+        "17420372572005813097"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9105158/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aUtdoY6YwfEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3
+    }
+}

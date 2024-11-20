@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Classification multi-modale de l'occupation du sol \u00e0 partir de r\u00e9seaux de neurones convolutifs et de l'auto-distillation",
+        "pub_year": 2021,
+        "citation": "ORASIS 2021, 2021",
+        "author": "Yawogan Jean Eudes Gbodjo and Dino Ienco",
+        "conference": "ORASIS 2021",
+        "abstract": "Plusieurs \u00e9tudes ont \u00e9t\u00e9 men\u00e9es ces derni\u00e8res ann\u00e9es afin d\u2019exploiter la compl\u00e9mentarit\u00e9 entre les donn\u00e9es multimodales de t\u00e9l\u00e9d\u00e9tection pour des applications notables telles que la cartographie de l\u2019occupation des sols. Afin de franchir une \u00e9tape suppl\u00e9mentaire dans l\u2019exploitation de donn\u00e9es multi-modales, par rapport aux \u00e9tudes pr\u00e9c\u00e9dentes qui ont \u00e9tudi\u00e9 la combinaison de donn\u00e9es multitemporelles radar et optique ou de donn\u00e9es optiques multitemporelles et multi-\u00e9chelles, nous proposons dans ce travail une m\u00e9thode combinant simultan\u00e9ment toutes ces sources d\u2019entr\u00e9es, en particulier des s\u00e9ries temporelles d\u2019images radar et optique \u00e0 \u00e9chelle moyenne ainsi qu\u2019une image optique \u00e0 \u00e9chelle fine. La m\u00e9thode propos\u00e9e est une architecture multi-branche de r\u00e9seaux de neurones convolutifs (CNN) qui exploite un encodeur CNN par source. De plus, elle est \u00e9quip\u00e9e d\u2019une strat\u00e9gie d\u2019auto-distillation afin de renforcer les encodeurs par source et permettre au r\u00e9seau \u00ab d\u2019apprendre de lui-m\u00eame \u00bb. Les exp\u00e9riences sont men\u00e9es sur un site d\u2019\u00e9tude, \u00e0 savoir l\u2019\u00eele de la R\u00e9union, un territoire fran\u00e7ais d\u2019outre-mer o\u00f9 les donn\u00e9es de r\u00e9f\u00e9rence ont \u00e9t\u00e9 collect\u00e9es sous des contraintes op\u00e9rationnelles et sont annot\u00e9es de mani\u00e8re \u00e9parse. Les r\u00e9sultats obtenus, notamment une pr\u00e9cision globale de classification d\u2019environ 94%, t\u00e9moignent de l\u2019efficacit\u00e9 de la m\u00e9thode propos\u00e9e. Notre \u00e9tude confirme \u00e0 nouveau l\u2019avantage de l\u2019analyse multi-modale pour des t\u00e2ches de cartographie de l\u2019occupation du sol."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:sJK75vZXtG0C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03339628/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4aFxfwAMp8oJ:scholar.google.com/",
+    "cites_per_year": {}
+}

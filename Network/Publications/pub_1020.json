@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Application of Sentinel-1 Synthetic aperture radar (SAR) Data in Aquatic Ecosystem Study",
+        "pub_year": 2020,
+        "citation": "Iran-Water Resources Research 16 (2), 259-270, 2020",
+        "author": "Saeideh Maleki and Vahid Rahdari and Nicolas Baghdadi and Ahmad Pahlevanravi",
+        "journal": "Iran-Water Resources Research",
+        "volume": "16",
+        "number": "2",
+        "pages": "259-270",
+        "publisher": "Iranian Water Resources Association",
+        "abstract": "Wetlands are valuable ecosystems that provide services to support the life of stakeholders. These ecosystems should be protected against the widespread degradation because of human and climate change. Monitoring and restoration of wetlands need information from all ecological parameters. But providing these information is complicated because of the vast area and complexity of land cover in wetlands. In this paper the Synthetic aperture radar (SAR) data were applied to map the land cover of Hamoun-e-Hirmand in 4 dates include 3 images in flooded period and 1image in dry condition. The radar backscatter of land-cover classes was investigated. Then the Support vector machine classification method was applied to classify the images. The results of this paper show the ability of radar date to map the flooded vegetation classes. Also, it shows the ability of these images to study the dry plants when the water resource dries out. The results of this paper are applicable in monitoring of wetlands and providing the data for ecosystem management and conservation."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:t-hv7AR41mYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7570529221642009034",
+    "cites_id": [
+        "7570529221642009034"
+    ],
+    "pub_url": "http://www.iwrr.ir/article_113051_42c99917a25f698d6a6cd5d4751c09ee.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yrmveTfsD2kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

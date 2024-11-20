@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Results of IndexMed GRAIL Days 2016: How to use standards to build GRAphs and mIne data for environmentaL research",
+        "pub_year": 2016,
+        "citation": "TDWG 2016 ANNUAL CONFERENCE, 2016",
+        "author": "Romain David and Jean-Pierre F\u00e9ral and Anne-Sophie Archambeau and David Auber and Nicolas Bailly and Cyrille Blanpain and Vincent Breton and Alrick Dias and Anna Cohen-Nabeiro and Aur\u00e9lie Delavaud and Sophie Gachet and Robin Goffaux and Karina Gibert and Manuel Herrera and Dino Ienco and Romain Julliard and Julien Lecubin and Yannick Legre and Gr\u00e9goire Lo\u00efs and Victor M\u00e9ndez Mu\u00f1oz and Jean-Charles Meunier and Isabelle Mougenot and Sophie Pamerlon and Genevi\u00e8ve Romier and Alison Specht and Christian Surace and Thierry Tatoni",
+        "conference": "TDWG 2016 ANNUAL CONFERENCE",
+        "abstract": "Data produced by biodiversity research projects that evaluate and monitor \u2018Good Environmental Status\u2019 have a high potential for use by stakeholders involved in [marine] environmental management. The lack of specific scientific objectives, poor organizational logic, and a characteristically disorganized collection of information leads to a decentralized data distribution, hampering environmental research. In such a heterogeneous system across different organizations and data formats, it is difficult to efficiently harmonize the outputs. There are few tools available to assist."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:h168fVGZblEC",
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=5531810341437961969&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8fY9XjLwxEwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

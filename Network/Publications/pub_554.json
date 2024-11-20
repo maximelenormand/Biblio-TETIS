@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integration of remote sensing derived parameters in a crop model: Case of hay",
+        "pub_year": 2016,
+        "citation": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2016",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Bruno Cheviron and Gilles Belaud and Mehrez Zribi",
+        "conference": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "7149-7152",
+        "publisher": "IEEE",
+        "abstract": "The aim of this study is to assess the interests of integrating remote-sensing-derived parameters (LAI, harvest and irrigation dates) in a crop model (PILOTE) that simulates vegetation growth for hay crop."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:zLWjf1WUPmwC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5912464492470816450",
+    "cites_id": [
+        "5912464492470816450"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7730865/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wk7VXCFLDVIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1
+    }
+}

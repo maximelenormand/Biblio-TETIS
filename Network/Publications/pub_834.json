@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of p-band sar tomography in forest type classification",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (4), 696, 2021",
+        "author": "Dinh Ho Tong Minh and Yen-Nhi Ngo and Thu Trang Le",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "4",
+        "pages": "696",
+        "publisher": "MDPI",
+        "abstract": "Forest type classification using spaceborne remote sensing is a challenge. Low-frequency Synthetic Aperture Radar (SAR) signals (i.e., P-band, \u223c0.69 m wavelength) are needed to penetrate a thick vegetation layer. However, this measurement alone does not guarantee a good performance in forest classification tasks. SAR tomography, a technique employing multiple acquisitions over the same areas to form a three-dimensional image, has been demonstrated to improve SAR\u2019s capability in many applications. Our study shows the potential value of SAR tomography acquisitions to improve forest classification. By using P-band tomographic SAR data from the German Aerospace Center F-SAR sensor during the AfriSAR campaign in February 2016, the vertical profiles of five different forest types at a tropical forest site in Mondah, Gabon (South Africa) were analyzed and exploited for the classification task. We demonstrated that the high sensitivity of SAR tomography to forest vertical structure enables the improvement of classification performance by up to 33%. Interestingly, by using the standard Random Forest technique, we found that the ground (i.e., at 5\u201310 m) and volume layers (i.e., 20\u201340 m) play an important role in identifying the forest type. Together, these results suggested the promise of the TomoSAR technique for mapping forest types with high accuracy in tropical areas and could provide strong support for the next Earth Explorer BIOMASS spaceborne mission which will collect P-band tomographic SAR data."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:p2g8aNsByqUC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=12904597915527465243",
+    "cites_id": [
+        "12904597915527465243"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/4/696",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:G8lCxG5XFrMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 4
+    }
+}

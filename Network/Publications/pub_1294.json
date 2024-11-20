@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring marine habitats with photogrammetry: a cost-effective, accurate, precise and high-resolution reconstruction method",
+        "pub_year": 2019,
+        "citation": "Frontiers in Marine Science, 276, 2019",
+        "author": "Guilhem Marre and Florian Holon and Sandra Luque and Pierre Boissery and Julie Deter",
+        "journal": "Frontiers in Marine Science",
+        "pages": "276",
+        "publisher": "Frontiers",
+        "abstract": "Underwater photogrammetry has been increasingly used to study and monitor the three-dimensional characteristics of marine habitats, despite a lack of knowledge on the quality and reliability of the reconstructions. More particularly, little attention has been paid to exploring and estimating the relative contribution of multiple acquisition parameters on the model resolution (distance between neighbour vertices), accuracy (closeness to true positions / measures) and precision (variability of positions / measures). On the other hand, some studies used expensive or cumbersome camera systems that can restrict the number of users of this technology for the monitoring of marine habitats. This study aimed at developing a simple and cost-effective protocol able to produce accurate and reproducible high-resolution models. Precisely, the effects of the camera system, flying elevation, camera orientation and number of images on the resolution and accuracy of marine habitat reconstructions was tested through two experiments. A first experiment allowed for testing all combinations of acquisition parameters through the building of 192 models of the same 36 m\u00b2 study site. The flying elevation and camera system strongly affected the model resolution, while the photo density mostly affected bundle adjustment accuracy and total processing time. The camera orientation, in turn, mostly affected the reprojection error. The best combination of parameters was used in a second experiment to assess the accuracy and precision of the resulting reconstructions. The average model resolution was 3.4 mm, and despite a decreasing precision in the positioning of markers \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:FwTEoIZreccC",
+    "num_citations": 39,
+    "citedby_url": "/scholar?hl=en&cites=10023174409562067",
+    "cites_id": [
+        "10023174409562067"
+    ],
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fmars.2019.00276/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Marine_Science&id=456477",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0yc0JgacIwAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 10,
+        "2021": 7,
+        "2022": 8,
+        "2023": 10,
+        "2024": 3
+    }
+}

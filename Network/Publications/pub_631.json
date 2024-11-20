@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Experimental setup for Weak Interaction Studies with Radioactive ion-beams WISArD",
+        "pub_year": 2023,
+        "citation": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators \u2026, 2023",
+        "author": "D Atanasov and F Cresto and L Nies and M Pomorski and M Versteegen and P Alfaurt and V Araujo-Escalona and P Ascher and B Blank and L Daudin and D Guillet and X Fl\u00e9chard and J Ha and A Husson and M Gerbaux and J Giovinazzo and S Gr\u00e9vy and T Kurtukian-Nieto and L Leterrier and R Lica and E Li\u00e9nard and C Mihai and C Neacsu and A Ortega-Moral and G Pascovici and M Roche and N Severijns and S Vanlangendonck and A Welker and D Z\u00e1kouck\u00fd",
+        "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+        "volume": "1050",
+        "pages": "168159",
+        "publisher": "North-Holland",
+        "abstract": "The article describes the commissioning and technical development of the Weak Interaction Studies with 32 Ar Decay (WISArD) experiment, installed at the radioactive ion-beam facility ISOLDE/CERN. The experiment aims to extend the present limits on scalar and tensor currents in the weak interaction and hence search for physics beyond the Standard Model. The evaluation of these limits relies on measuring the proton energy in beta-delayed proton emission, sensitive to both the beta-neutrino angular correlation coefficient a \u03b2 \u03bd and the Fierz interference term b. The method tries to improve previous studies by considering the positron-proton coincidences when determining the kinematic shift in the energy of the emitted protons. Using this coincidence technique, the a \u03b2 \u03bd and b coefficients will be measured at the per mil level. Simulations were employed to optimize the ion beam transport efficiency and validate \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:VRfTbSk87rEC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4624974206233673271",
+    "cites_id": [
+        "4624974206233673271"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0168900223001493",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:N_7mUYk1L0AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    }
+}

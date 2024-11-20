@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Ce qu\u2019\u00eatre avocat communiste signifie",
+        "pub_year": 2021,
+        "citation": "Emulations-Revue de sciences sociales, 2021",
+        "author": "Jean-Philippe Tonneau",
+        "journal": "Emulations-Revue de sciences sociales",
+        "abstract": "L\u2019objectif de notre article est de saisir la mani\u00e8re dont les avocats communistes articulent leur profession et leur engagement. L\u2019id\u00e9e d\u00e9fendue est que cette articulation d\u00e9pend d\u2019une part des propres trajectoires politiques et professionnelles des avocats communistes et d\u2019autre part des configurations historiques du Parti communiste Fran\u00e7ais (PCF). Deux g\u00e9n\u00e9rations d\u2019avocats sont consid\u00e9r\u00e9es, celle ayant adh\u00e9r\u00e9 au PCF avant la Deuxi\u00e8me Guerre mondiale et \u00e9tant entr\u00e9e au Barreau \u00e0 la Lib\u00e9ration, et celle qui lui succ\u00e8de, entr\u00e9e au PCF et au Barreau apr\u00e8s la guerre. La deuxi\u00e8me g\u00e9n\u00e9ration comprend les fondateurs du Syndicat des Avocats de France (SAF). Cr\u00e9\u00e9 en 1973, le SAF marque la volont\u00e9 du Parti de compter au Barreau. Plus encore, il participe d\u2019une red\u00e9finition de l\u2019engagement des avocats communistes. L\u2019article aborde le monde des avocats communistes dans cette nouvelle configuration puis se focalise sur la cr\u00e9ation du SAF. Les relations entre le Syndicat et le Parti nous renseignent sur le r\u00f4le qu\u2019entend donner dans ces ann\u00e9es le PCF aux avocats. Ces relations ne r\u00e9sistent pas \u00e0 la fin de la configuration d\u2019ouverture du PCF, des tensions entre les deux organisations favorisent l\u2019autonomisation du SAF du PCF tandis que des \u00e9v\u00e8nements nationaux et internationaux participent du d\u00e9sengagement communiste des fondateurs."
+    },
+    "filled": true,
+    "author_pub_id": "FcRgvV4AAAAJ:MXK_kJrjxJIC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4011193612688921787",
+    "cites_id": [
+        "4011193612688921787"
+    ],
+    "pub_url": "https://journals.openedition.org/emulations/1586",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:u5SjqVafqjcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1
+    }
+}

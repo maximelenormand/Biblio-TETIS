@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Plot-Scale Irrigation Dates and Amount Detection Using Surface Soil Moisture Derived from Sentinel-1 SAR Data in the Optirrig Crop Model",
+        "pub_year": 2023,
+        "citation": "Remote Sensing 15 (16), 4081, 2023",
+        "author": "Mohamad Hamze and Bruno Cheviron and Nicolas Baghdadi and Dominique Courault and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "15",
+        "number": "16",
+        "pages": "4081",
+        "publisher": "MDPI",
+        "abstract": "This study aimed to develop an approach using Sentinel-1 synthetic aperture radar (SAR) data and the Optirrig crop growth and irrigation model to detect irrigation dates and amounts for maize crops in the Occitanie region, Southern France. The surface soil moisture (SSM) derived from SAR data was analyzed for changes indicating irrigation events at the plot scale in four reference plots located in Montpellier (P1) and Tarbes (P2, P3, and P4). As rain most likely covers several square kilometers, while irrigation is decided at the plot scale, a difference between SSM signals at the grid scale (10 km \u00d7 10 km) and plot scale is a clear indication of a recent irrigation event. Its date and amount are then sought by forcing irrigation dates and amounts in Optirrig, selecting the most relevant (date, amount) combination from an appropriate criterion. As the observed SSM values hold for a depth of a few centimeters, while the modeled SSM values hold for exactly 10 cm, the best irrigation combination is the one that gives similar relative changes in SSM values rather than similar SSM values. The irrigation dates were detected with an overall accuracy (recall) of 86.2% and a precision of 85.7%, and thus, with relatively low numbers of missed or false irrigation detections, respectively. The performance of the method in detecting seasonal irrigation amounts varied with climatic conditions. For the P1 plot in the semi-arid climate of Montpellier, the mean absolute error percentage (MAE%) was 16.4%, showing a higher efficiency when compared with the humid climate of Tarbes (P2, P3, and P4 plots), where a higher MAE% of 50% was recorded, indicating a larger \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:h168fVGZblEC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=10116719826979491006",
+    "cites_id": [
+        "10116719826979491006"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/15/16/4081",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:voxD-xTPZYwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

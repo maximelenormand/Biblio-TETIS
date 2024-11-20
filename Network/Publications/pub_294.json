@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Qui a peur du changement climatique?",
+        "pub_year": 2019,
+        "citation": "Spatial Analysis and GEOmatics (SAGEO 2019), 2019",
+        "author": "Lucile Sautot and Eric Chraibi and Jacques Fize and S\u00e9bastien Peillet and Ludovic Journaux and Flavie Cernesson",
+        "conference": "Spatial Analysis and GEOmatics (SAGEO 2019)",
+        "abstract": "The French \"Grand D\u00e9bat National\" (Great National Debate) was animportant political event in 2019. Using the online proposals collected during thisconsultation, we propose a representation of the feeling of the impact of climate changeamong the contributors to the \"Grand D\u00e9bat National\" in Metropolitan France. Weanalyze the causes of this feeling, through a supervised analysis of the contributions(via the Great Annotation) and we show the complementary interest of an unsuper-vised analysis (by extracting keywords). We show the richness of the data set that constitutes the \"Grand D\u00e9bat National\", and the analytical stakes around these data.We also point out some important limitations to be taken into account, including therepresentativeness of the dataset."
+    },
+    "filled": true,
+    "author_pub_id": "nbR473IAAAAJ:fQNAKQ3IYiAC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=3413986230654021777",
+    "cites_id": [
+        "3413986230654021777"
+    ],
+    "pub_url": "https://hal.science/hal-02430220/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kTA1gmPqYC8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Rift Valley fever in northern Senegal: A modelling approach to analyse the processes underlying virus circulation recurrence",
+        "pub_year": 2020,
+        "citation": "Plos Neglected Tropical Diseases 14 (6), e0008009, 2020",
+        "author": "Benoit Durand and Moustapha Lo Modou and Annelise Tran and Aminata Ba and Fafa Sow and Jaber Belkhiria and Assane Gueye Fall and Biram Biteye and Vladimir Grosbois and V\u00e9ronique Chevalier",
+        "journal": "Plos Neglected Tropical Diseases",
+        "volume": "14",
+        "number": "6",
+        "pages": "e0008009",
+        "publisher": "Public Library of Science",
+        "abstract": "Rift Valley fever (RVF) is endemic in northern Senegal, a Sahelian area characterized by a temporary pond network that drive both RVF mosquito population dynamics and nomadic herd movements. To investigate the mechanisms that explain RVF recurrent circulation, we modelled a realistic epidemiological system at the pond level integrating vector population dynamics, resident and nomadic ruminant herd population dynamics, and nomadic herd movements recorded in Younoufere area. To calibrate the model, serological surveys were performed in 2015\u20132016 on both resident and nomadic domestic herds in the same area. Mosquito population dynamics were obtained from a published model trained in the same region. Model comparison techniques were used to compare five different scenarios of virus introduction by nomadic herds associated or not with vertical transmission in Aedes vexans. Our serological results confirmed a long lasting RVF endemicity in resident herds (IgG seroprevalence rate of 15.3%, n = 222), and provided the first estimation of RVF IgG seroprevalence in nomadic herds in West Africa (12.4%, n = 660). Multivariate analysis of serological data suggested an amplification of the transmission cycle during the rainy season with a peak of circulation at the end of that season. The best scenario of virus introduction combined yearly introductions of RVFV from 2008 to 2015 (the study period) by nomadic herds, with a proportion of viraemic individuals predicted to be larger in animals arriving during the 2nd half of the rainy season (3.4%). This result is coherent with the IgM prevalence rate (4%) found in nomadic herds \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:4MWp96NkSFoC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=14265145596343357738",
+    "cites_id": [
+        "14265145596343357738"
+    ],
+    "pub_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008009",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KhFGA1f698UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 4,
+        "2022": 3,
+        "2023": 5
+    }
+}

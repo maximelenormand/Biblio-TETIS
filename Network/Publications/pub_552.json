@@ -1,0 +1,37 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Advancing urban ecology toward a science of cities",
+        "pub_year": 2016,
+        "citation": "BioScience 66 (3), 198-212, 2016",
+        "author": "Timon McPhearson and Steward TA Pickett and Nancy B Grimm and Jari Niemel\u00e4 and Marina Alberti and Thomas Elmqvist and Christiane Weber and Dagmar Haase and J\u00fcrgen Breuste and Salman Qureshi",
+        "journal": "BioScience",
+        "volume": "66",
+        "number": "3",
+        "pages": "198-212",
+        "publisher": "Oxford University Press",
+        "abstract": "Urban ecology is a field encompassing multiple disciplines and practical                     applications and has grown rapidly. However, the field is heterogeneous as a                     global inquiry with multiple theoretical and conceptual frameworks, variable                     research approaches, and a lack of coordination among multiple schools of                     thought and research foci. Here, we present an international consensus on how                     urban ecology can advance along multiple research directions. There is potential                     for the field to mature as a holistic, integrated science of urban systems. Such                     an integrated science could better inform decisionmakers who need increased                     understanding of complex relationships among social, ecological, economic, and                     built infrastructure systems. To advance the field requires conceptual                     synthesis, knowledge and data \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:-_dYPAW6P2MC",
+    "num_citations": 665,
+    "citedby_url": "/scholar?hl=en&cites=7386962530902442899",
+    "cites_id": [
+        "7386962530902442899"
+    ],
+    "pub_url": "https://academic.oup.com/bioscience/article-abstract/66/3/198/2470145",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:k4OPt0jDg2YJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 3,
+        "2016": 22,
+        "2017": 41,
+        "2018": 70,
+        "2019": 78,
+        "2020": 98,
+        "2021": 132,
+        "2022": 102,
+        "2023": 94,
+        "2024": 12
+    }
+}

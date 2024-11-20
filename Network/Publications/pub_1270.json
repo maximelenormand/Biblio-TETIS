@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Object-based delineation of homogeneous landscape units at regional scale based on MODIS time series",
+        "pub_year": 2015,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 37, 72-82, 2015",
+        "author": "Mar Bisquert and Agn\u00e8s B\u00e9gu\u00e9 and Michel Deshayes",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "37",
+        "pages": "72-82",
+        "publisher": "Elsevier",
+        "abstract": "Landscapes can be described by seasonal and spatial patterns linked to vegetation type and phenology, environmental conditions, and human activities. The objective of this work is to propose and test an approach for delineating homogeneous landscape units at a regional scale by using only Earth observation data. We used MODIS (Moderate Imaging Spectroradiometer) images from 2007 to 2011, acquired over the whole continental French territory at 250 m spatial resolution. The data set includes time series of the Enhanced Vegetation Index (EVI) and time series of five Haralick texture indices. A principal components analysis (PCA) allowed us to choose the most representative indices (spectral and textural) and dates to be used in the region-growing segmentation. Different combinations of input data, as well as different segmentation parameters, were tested and compared using unsupervised evaluation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:PR6Y55bgFSsC",
+    "num_citations": 32,
+    "citedby_url": "/scholar?hl=en&cites=5893776311172131322",
+    "cites_id": [
+        "5893776311172131322"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S030324341400227X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-ukGFVTmylEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2014": 1,
+        "2015": 2,
+        "2016": 4,
+        "2017": 3,
+        "2018": 10,
+        "2019": 6,
+        "2020": 1,
+        "2021": 2,
+        "2022": 1,
+        "2023": 1
+    }
+}

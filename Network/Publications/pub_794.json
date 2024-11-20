@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An analysis of surface and bottom effects on CALIOP-derived waveforms in shallow waters of the Gulf of Saint Lawrence",
+        "pub_year": 2016,
+        "citation": "American Geophysical Union 2016, IS11A-05, 2016",
+        "author": "Martin Alejandro Montes-Hugo and Jean-Stephane Bailly and Nicolas Baghdadi and A Vuorenkoski and Fraser Dalgleish",
+        "journal": "American Geophysical Union",
+        "volume": "2016",
+        "pages": "IS11A-05",
+        "abstract": "The Canadian coastline is the longest in the world and is undergoing a major retreat due to regional climate change and human activities. These changes are expected to be associated to specific patterns of water turbidity. Here, the influence of waves, bubbles and bottom characteristics (depth and reflectance) on volume backscattering profiles derived from the spaceborne Lidar sensor CALIOP is investigated in adjacent waters to La Boule Bay, Canada. Case studies are investigated based on a Lidar simulator (Wav-Lid) and inherent optical properties computed from remote sensing reflectance measurements as derived from MODIS-Aqua. For a concentration of suspended particulate matter of 0.1, 1 and 10 g m-3, the impact of bottom contribution to total backscattering signal was minimal when the bottom depth was 30, 10 and 1 m respectively. These results are valid as long as the sea surface is flat and the Lidar \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:eq2jaN3J8jMC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016AGUOSIS11A..05M/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DngebYvTwooJ:scholar.google.com/",
+    "cites_per_year": {}
+}

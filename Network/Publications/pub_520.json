@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Wetland land-cover mapping using TerraSAR-X data",
+        "pub_year": 2018,
+        "citation": "ICEST 2018 9th International Conference on Environmental Science and \u2026, 2018",
+        "author": "S Maleki and N Baghdadi and AL Soffianian and M El Hajj and S Soltani Koupaei",
+        "conference": "ICEST 2018 9th International Conference on Environmental Science and Technology",
+        "pages": "7",
+        "publisher": "IOP Science Publishing",
+        "abstract": "Wetland mapping is the first step in wetland monitoring and conservation process. But the dynamic conditions and narrow boundaries of wetlands make it difficult to map. In this regards, Synthetic Aperture Radar (SAR) systems are useful, because these data can be used to map the surface water extent, saturated soils, flooded vegetation, and changes in wetland vegetation cover. In this paper, TerraSAR-X with two incidence angles were applied in wetland land-cover mapping. TerraSAR-X-53 was acquired in 15/05/2017 and TerraSAR-X-22 was acquired in 29/05/2017. The backscattering analysis were done to determine the trend in X-band backscattering over the wetland land-cover classes. The support vector machine (SVM) method was used to classify the TerraSAR-X image. Based on our results TerraSAR-X-53 is the best incidence angle to map the water body. TerraSAR-X-22 is useful to separate submergent from emergent classes. Using TerraSAR-X-53 it is possible to determine the wet meadow. And both incidence angles have enough ability to separate the flooded vegetation from water. The results of this paper shows although both images were acquired in the same wave-length but incidence angle is effective in separating wetland land-cover classes. Thus the combination of low and high incidence angle is the best suggestion for wetland land-cover mapping."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:AHdEip9mkN0C",
+    "num_citations": 0,
+    "pub_url": "https://www.researchgate.net/profile/Saeideh-Maleki/publication/327593574_Wetland_land-cover_mapping_using_TerraSAR-X_data/links/5b98cbd0a6fdcc59bf885f51/Wetland-land-cover-mapping-using-TerraSAR-X-data.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8dQfPstIrPcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

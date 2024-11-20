@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Waveform simulations and analysis of Lidar data for the development of a space-based vegetation lidar system",
+        "pub_year": 2016,
+        "citation": "International Workshop on Vegetation Lidar and Application from Space, 40, 2016",
+        "author": "S Durrieu and Eloi Grau and Jean-Philippe Gastellu-Etchegorry and Gr\u00e9goire Vincent and C\u00e9cile Antin and J Costeraste and J Lochard and F Tinto and H Debise and M Bouvier and C Lavalley and F Fabre",
+        "conference": "International Workshop on Vegetation Lidar and Application from Space",
+        "pages": "40",
+        "abstract": "Primary objective is to provide spatialized information on forest 3D structure and on its dynamicsSecondary objectives:"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:g5m5HwL7SMYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=11045766406479075305",
+    "cites_id": [
+        "11045766406479075305"
+    ],
+    "pub_url": "https://www.researchgate.net/profile/Sylvie-Durrieu/publication/302586322_Waveform_simulations_and_analysis_of_Lidar_data_for_the_development_of_a_space-based_vegetation_lidar_system/links/5731a79b08ae100ae558229b/Waveform-simulations-and-analysis-of-Lidar-data-for-the-development-of-a-space-based-vegetation-lidar-system.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6dcgEgZySpkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

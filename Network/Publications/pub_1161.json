@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detecting irrigation events using Sentinel-1 data",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 6355 \u2026, 2021",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Ibrahim Fayad and Mehrez Zribi and Val\u00e9rie Demarez and Yann Pageot and Hatem Belhouchette",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "6355-6358",
+        "publisher": "IEEE",
+        "abstract": "Better management of water consumption in irrigated agriculture is essential in order to save water resources. The objective of this study is to propose a new model capable of detecting the irrigation events using the Sentinel-1 (S1) C-band SAR (synthetic-aperture radar) in a near real-time approach. The proposed irrigation detection model relies on the change detection in the S1 backscattering coefficients at plot scale. A tree-based approach has been constructed to detect irrigation events by studying the behavior of the S1 backscattering coefficients following irrigation events at plot scale over three study sites located in Montpellier (southeast France), Tarbes (southwest France) and Catalonia (northeast Spain). Auxiliary data such as the NDVI (Normalized Difference Vegetation Index) and the soil moisture estimations were integrated as additional filters to reduce ambiguities related to vegetation growth and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:ijdKiLOsEJMC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=5532324381230183769",
+    "cites_id": [
+        "5532324381230183769"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9553587/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WTV1lbbDxkwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 1
+    }
+}

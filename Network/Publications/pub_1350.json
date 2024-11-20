@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "L\u2019intelligence territoriale dans le bassin de Thau: un observatoire pour penser et piloter l\u2019action",
+        "pub_year": 2016,
+        "citation": "Partenariats pour le d\u00e9veloppement territorial, 59-73, 2016",
+        "author": "Philippe Lemoisson and Jean-Philippe Tonneau and Pierre Maurel",
+        "journal": "Partenariats pour le d\u00e9veloppement territorial",
+        "pages": "59-73",
+        "publisher": "Versailles, \u00e9ditions Qu\u00e6",
+        "abstract": "Les questions de planification et de gestion des territoires se posent aujourd\u2019hui dans des contextes profond\u00e9ment nouveaux, fa\u00e7onn\u00e9s par l\u2019\u00e9mergence du concept de d\u00e9veloppement durable, par la g\u00e9n\u00e9ralisation de la participation et par l\u2019av\u00e8nement de la soci\u00e9t\u00e9 de l\u2019information. L\u2019\u00ab\u00e9cologisation\u00bb des politiques publiques est un fait. Les services environnementaux et \u00e9cosyst\u00e9miques, les continuit\u00e9s \u00e9cologiques et la biodiversit\u00e9 sont pris en compte dans la gestion des territoires. La d\u00e9centralisation et la philosophie de la participation transforment progressivement le pilotage de l\u2019action publique en passant d\u2019un \u00c9tat centralis\u00e9 \u00e0 une gouvernance multiacteur et multiniveau, avec une mont\u00e9e en puissance de la \u00absoci\u00e9t\u00e9 civile\u00bb(Douillet, 2003; Chautard et al., 2003; Gaudin, 1998). L\u2019information est surabondante, mais parcellaire, dispers\u00e9e et fragment\u00e9e, parfois incoh\u00e9rente. Cette abondance est parfois vue comme une contrainte, une \u00abinfob\u00e9sit\u00e9\u00bb rendant de plus en plus difficile la s\u00e9lection de l\u2019information pertinente n\u00e9cessaire \u00e0 l\u2019action (Eppler et Mengis, 2004). Elle est aussi vue comme une chance dans le cadre de la \u00abSoci\u00e9t\u00e9 de l\u2019information\u00bb(Mi\u00e8ge, 2008). Le concept traduit \u00e0 la fois l\u2019accroissement spectaculaire de la quantit\u00e9 de donn\u00e9es disponibles et le d\u00e9veloppement des outils technologiques permettant de mieux les g\u00e9rer (Petit, 1998). Comment dans ces conditions penser et piloter, dans la dur\u00e9e, l\u2019action au c\u0153ur des territoires? La notion d\u2019intelligence territoriale appara\u00eet comme une r\u00e9ponse possible \u00e0 ces enjeux (Bertacchini, 2004). Elle est comprise comme une conduite intelligente des territoires gr\u00e2ce \u00e0 la mobilisation des \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:pyW8ca7W8N0C",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=7521558333890963776",
+    "cites_id": [
+        "7521558333890963776"
+    ],
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=qAeICwAAQBAJ&oi=fnd&pg=PA59&dq=info:QCnzKHTxYWgJ:scholar.google.com&ots=qtn4zMh1dl&sig=ltCjIJe84j8j1ygQ7rcXGPTX-D8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QCnzKHTxYWgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 6,
+        "2018": 3,
+        "2019": 0,
+        "2020": 2,
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    }
+}

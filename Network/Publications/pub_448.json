@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Land observatories, discourses and struggles beyond the smokescreen. A case study in Senegal",
+        "pub_year": 2023,
+        "citation": "Land Use Policy 132, 106783, 2023",
+        "author": "Quentin Grislain and Jeremy Bourgoin",
+        "journal": "Land Use Policy",
+        "volume": "132",
+        "pages": "106783",
+        "publisher": "Pergamon",
+        "abstract": "Sub-Saharan Africa is confronted with land issues such as the private appropriation of farmland, land use conflicts, and access to land for women and younger generations. These diverse issues and the promotion of evidence-based policies encourage actors in land reform to equip themselves with steering, evaluation, and monitoring tools capable of producing information to accompany decision-making processes for land policy. Land observatories are viewed as mechanisms of information production and diffusion that can inform choices and help in these processes. In this context, they also occupy a central place in the international development discourse among research institutes, national institutions, and civil society organizations. This is generally the case in Africa where the concept of land observatories has had undeniable success in the development field in recent years. This success is manifest in the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:LPZeul_q3PIC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12894186966508785519",
+    "cites_id": [
+        "12894186966508785519"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0264837723002491",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:b086zrpa8bIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

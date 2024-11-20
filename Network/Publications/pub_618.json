@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep recurrent neural network for agricultural classification using multitemporal SAR Sentinel-1 for Camargue, France",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (8), 1217, 2018",
+        "author": "Emile Ndikumana and Dinh Ho Tong Minh and Nicolas Baghdadi and Dominique Courault and Laure Hossard",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "8",
+        "pages": "1217",
+        "publisher": "MDPI",
+        "abstract": "The development and improvement of methods to map agricultural land cover are currently major challenges, especially for radar images. This is due to the speckle noise nature of radar, leading to a less intensive use of radar rather than optical images. The European Space Agency Sentinel-1 constellation, which recently became operational, is a satellite system providing global coverage of Synthetic Aperture Radar (SAR) with a 6-days revisit period at a high spatial resolution of about 20 m. These data are valuable, as they provide spatial information on agricultural crops. The aim of this paper is to provide a better understanding of the capabilities of Sentinel-1 radar images for agricultural land cover mapping through the use of deep learning techniques. The analysis is carried out on multitemporal Sentinel-1 data over an area in Camargue, France. The data set was processed in order to produce an intensity radar data stack from May 2017 to September 2017. We improved this radar time series dataset by exploiting temporal filtering to reduce noise, while retaining as much as possible the fine structures present in the images. We revealed that even with classical machine learning approaches (K nearest neighbors, random forest, and support vector machines), good performance classification could be achieved with F-measure/Accuracy greater than 86% and Kappa coefficient better than 0.82. We found that the results of the two deep recurrent neural network (RNN)-based classifiers clearly outperformed the classical approaches. Finally, our analyses of the Camargue area results show that the same performance was obtained with two different \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:P7Ujq4OLJYoC",
+    "num_citations": 260,
+    "citedby_url": "/scholar?hl=en&cites=360910573735677930",
+    "cites_id": [
+        "360910573735677930"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/8/1217",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6o8yL0E2AgUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 4,
+        "2019": 32,
+        "2020": 47,
+        "2021": 69,
+        "2022": 44,
+        "2023": 54,
+        "2024": 7
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial Opinion Mining from COVID-19 Twitter Data",
+        "pub_year": 2022,
+        "citation": "International Journal of Infectious Diseases 116, S27, 2022",
+        "author": "MA Syed and R Decoupes and E Arsevska and M Roche and M Teisseire",
+        "journal": "International Journal of Infectious Diseases",
+        "volume": "116",
+        "pages": "S27",
+        "publisher": "Elsevier",
+        "abstract": "In the first quarter of 2020, World Health Organization (WHO) declared COVID-19 as a public health emergency around the globe. Therefore, different users from all over the world shared their thoughts about COVID-19 on social media platforms i.e., Twitter, Facebook etc. So, it is important to analyze public opinions about COVID-19 from different regions over different period of time. To fulfill the spatial analysis issue, a previous work called H-TF-IDF (Hierarchy-based measure for tweet analysis) for term extraction from tweet data has been proposed. In this work, we focus on the sentiment analysis performed on terms selected by H-TF-IDF for spatial tweets groups to know local situations during the ongoing epidemic COVID-19 over different time frames.The primary step is to extract terms from tweets using H-TF-IDF approach. Moreover, these terms are utilized in two ways i.e., 1) select \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:rHJHxKgnXwkC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7953616327563861606",
+    "cites_id": [
+        "7953616327563861606"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1201971221009577",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Zt4w7OjrYG4J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

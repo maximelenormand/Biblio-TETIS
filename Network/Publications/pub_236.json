@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "When a few clicks make all the difference: Improving weakly-supervised wildlife detection in UAV images",
+        "pub_year": 2019,
+        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2019",
+        "author": "Benjamin Kellenberger and Diego Marcos and Devis Tuia",
+        "conference": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops",
+        "pages": "0-0",
+        "abstract": "Automated object detectors on Unmanned Aerial Vehicles (UAVs) are increasingly employed for a wide range of tasks. However, to be accurate in their specific task they need expensive ground truth in the form of bounding boxes or positional information. Weakly-Supervised Object Detection (WSOD) overcomes this hindrance by localizing objects with only image-level labels that are faster and cheaper to obtain, but is not on par with fully-supervised models in terms of performance. In this study we propose to combine both approaches in a model that is principally apt for WSOD, but receives full position ground truth for a small number of images. Experiments show that with just 1% of densely annotated images, but simple image-level counts as remaining ground truth, we effectively match the performance of fully-supervised models on a challenging dataset with scarcely occurring wildlife on UAV images from the African savanna. As a result, with a very limited amount of precise annotations our model can be trained with ground truth that is orders of magnitude cheaper and faster to obtain while still providing the same detection performance."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:TQgYirikUcIC",
+    "num_citations": 27,
+    "citedby_url": "/scholar?hl=en&cites=43577969373739472",
+    "cites_id": [
+        "43577969373739472"
+    ],
+    "pub_url": "http://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Kellenberger_When_a_Few_Clicks_Make_All_the_Difference_Improving_Weakly-Supervised_CVPRW_2019_paper.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0PmNqO7RmgAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 6,
+        "2022": 11,
+        "2023": 4,
+        "2024": 2
+    }
+}

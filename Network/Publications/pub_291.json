@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Apport de l\u2019imagerie hyperspectrale pour la planification urbaine",
+        "pub_year": 2016,
+        "citation": "SAGEO 2016: Spatial Analysis and Geomatics 2016, 2016",
+        "author": "Christiane Weber and S\u00e9bastien Gadal and Xavier Briottet and Cl\u00e9ment Mallet",
+        "conference": "SAGEO 2016: Spatial Analysis and Geomatics 2016",
+        "abstract": "L\u2019ANR \u00abHyperspectral imagery for Environmental urban Planning\u2013HYEP\u00bb est un projet dont l\u2019objectif principal est de favoriser l\u2019usage de l\u2019imagerie hyperspectrale pour des applications de planification et de gestion urbaine. L\u2019imagerie hyperspectrale diff\u00e8re des moyens optiques usuels par la richesse des informations obtenues et les choix m\u00e9thodologiques \u00e0 r\u00e9aliser. Le projet a identifi\u00e9 un certain nombre de verrous \u00e0 lever permettant d\u2019am\u00e9liorer les traitements de classification ou de caract\u00e9risation des \u00e9l\u00e9ments urbains (toits, les infrastructures routi\u00e8res, les espaces de v\u00e9g\u00e9tation etc.). Apr\u00e8s avoir pr\u00e9sent\u00e9 les sp\u00e9cificit\u00e9s de ce type d\u2019imagerie, le projet HYEP et ses avanc\u00e9es sont d\u00e9velopp\u00e9s notamment les efforts r\u00e9alis\u00e9s pour la constitution d\u2019un regroupement des bases de donn\u00e9es spectrales en une base accessible dont les informations (spectres) puissent \u00eatre compl\u00e9t\u00e9es par des indicateurs morphologiques par exemple. La d\u00e9marche g\u00e9n\u00e9rale propos\u00e9e est r\u00e9sum\u00e9 ainsi que l\u2019articulation envisag\u00e9e avec les acteurs de la M\u00e9tropole de Toulouse (France) et la ville de Kaunas (Lituanie).The HYEP project (Hyperspectral imagery for Environmental urban Planning) is dedicated to the use and the development of hyperspectral imagery for urban planning and management. Hyperspectral imagery differs from other optical products by the number of bands and so by the richness of information provided. HYEP has identified several locks that have to be locked up to promote hyperspectral imagery. This document presents the specificities of the sensor product and the methodological and technical advances we have realized. The \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:4MWp96NkSFoC",
+    "num_citations": 0,
+    "pub_url": "https://www.researchgate.net/profile/Sebastien-Gadal/publication/322581232_Apport_de_l'imagerie_hyperspectrale_pour_la_planification_urbaine/links/5a60edd9a6fdccb61c501bf4/Apport-de-limagerie-hyperspectrale-pour-la-planification-urbaine.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tGFE40VtKswJ:scholar.google.com/",
+    "cites_per_year": {}
+}

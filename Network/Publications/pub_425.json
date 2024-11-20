@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Generality of leaf spectroscopic models for predicting key foliar functional traits across continents: A comparison between physically-and empirically-based approaches",
+        "pub_year": 2023,
+        "citation": "Remote Sensing of Environment 293, 113614, 2023",
+        "author": "Zhihui Wang and Jean-Baptiste F\u00e9ret and Nanfeng Liu and Zhongyu Sun and Long Yang and Shoubao Geng and Hui Zhang and Adam Chlus and Eric L Kruger and Philip A Townsend",
+        "journal": "Remote Sensing of Environment",
+        "volume": "293",
+        "pages": "113614",
+        "publisher": "Elsevier",
+        "abstract": "Leaf spectroscopy provides an efficient way of predicting foliar functional traits, commonly using physically- and empirically-based models. However, the generality of both models has not been fully investigated, and it is not clear if inversion strategies of physically-based models can be transferred across datasets. In this study, we evaluated the generality of leaf spectroscopic models for predicting key foliar functional traits and compared the performance of physically- and empirically-based approaches. Two extensive datasets compiling a total of 3861 foliar samples were collected from 24 field sites in eastern United States and south China. The leaf radiative transfer model PROSPECT was coupled with COSINE (PROCOSINE) to retrieve foliar traits from leaf bidirectional reflectance factor (BRF). A commonly used empirically-based model, partial least squares regression (PLSR) was performed as a comparison \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:bnK-pcrLprsC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=11692762084467193420",
+    "cites_id": [
+        "11692762084467193420"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425723001657",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TLbSNyoJRaIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 6
+    }
+}

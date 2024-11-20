@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards combined semantic and lexical scores based on a new representation of textual data to extract experimental data from scientific publications",
+        "pub_year": 2022,
+        "citation": "International Journal of Intelligent Information and Database Systems 15 (1 \u2026, 2022",
+        "author": "Martin Lentschat and Patrice Buche and Juliette Dibie-Barthelemy and Mathieu Roche",
+        "journal": "International Journal of Intelligent Information and Database Systems",
+        "volume": "15",
+        "number": "1",
+        "pages": "78-103",
+        "publisher": "Inderscience Publishers (IEL)",
+        "abstract": "This article presents an ontological and terminological resource guided process for targeted extraction of scientific experimental data. Our method relies on the scientific publication representation (SciPuRe) describing the extracted data through ontological, lexical and structural (using segments in the scientific documents) features. Relevance scores based on these features are computed to rank the results and filter out the numerous false positives. Linear and sequential combinations of these scores are presented and evaluated. Experiments were carried out on a corpus of 50 English language scientific papers in the food packaging field. They revealed that article segment are an effective criterion for filtering out a majority of the quantitative entity false positives using lexical scores. Moreover the best symbolic entity extraction results were obtained with a sequential combinations of semantic and lexical scores \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:LGlY6t8CeOMC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=13833877482408898272",
+    "cites_id": [
+        "13833877482408898272"
+    ],
+    "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIIDS.2022.120146",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4O5BdUbO-78J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

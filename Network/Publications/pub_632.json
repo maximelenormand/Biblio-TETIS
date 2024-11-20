@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integration of Text- and Web-Mining Results in EpidVis",
+        "pub_year": 2018,
+        "citation": "Natural Language Processing and Information Systems: 23rd International \u2026, 2018",
+        "author": "Samiha Fadloun and Arnaud Sallaberry and Aliz\u00e9 Mercier and Elena Arsevska and Pascal Poncelet and Mathieu Roche",
+        "conference": "Natural Language Processing and Information Systems: 23rd International Conference on Applications of Natural Language to Information Systems, NLDB 2018, Paris, France, June 13-15, 2018, Proceedings 23",
+        "pages": "437-440",
+        "publisher": "Springer International Publishing",
+        "abstract": "The new and emerging infectious diseases are an incising threat to countries due to globalisation, movement of passengers and international trade. In order to discover articles of potential importance to infectious disease emergence it is important to mine the Web with an accurate vocabulary. In this paper, we present a new methodology that combines text-mining results and visualisation approach in order to discover associations between hosts and symptoms related to emerging infectious disease outbreaks."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:1lhNe0rCu4AC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4373826244373211253",
+    "cites_id": [
+        "4373826244373211253"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-91947-8_45",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dWgltcvzsjwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Unveil the unseen: Using LiDAR to capture time\u2010lag dynamics in the herbaceous layer of European temperate forests",
+        "pub_year": 2022,
+        "citation": "Journal of Ecology 110 (2), 282-300, 2022",
+        "author": "Jonathan Lenoir and Eva Gril and Sylvie Durrieu and Helene Horen and Marianne Laslier and Jonas J Lembrechts and Florian Zellweger and Samuel Alleaume and Boris Brasseur and Jerome Buridant and Karun Dayal and Pieter De Frenne and Emilie Gallet\u2010Moron and Ronan Marrec and Camille Meeussen and Duccio Rocchini and Koenraad Van Meerbeek and Guillaume Decocq",
+        "journal": "Journal of Ecology",
+        "volume": "110",
+        "number": "2",
+        "pages": "282-300",
+        "abstract": "  To understand time\u2010lag dynamics in the response of biodiversity to contemporary environmental changes (e.g. macroclimate warming and atmospheric pollution), we need to consider former anthropogenic forcing factors such as past land uses and management practices that can have both compounding and confounding effects. This is especially true in European temperate forests, where legacies from past human activities have left strong imprints on today\u2019s understorey plant species composition, generating long\u2010term lagging effects which can be mistakenly attributed to more recent macro\u2010environmental changes. By combining the expertise of plant, soil and historical ecologists together with remote sensing scientists, we review the potential of light detection and ranging (LiDAR) to unveil ghosts from the past in terms of former land uses and management practices. We show that imprints from past land uses \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:WA5NYHcadZ8C",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=11704285005944456754",
+    "cites_id": [
+        "11704285005944456754"
+    ],
+    "pub_url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13837",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MgZAcTP5baIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 11,
+        "2024": 1
+    }
+}

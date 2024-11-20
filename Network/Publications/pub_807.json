@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Description and validation of a \u201cnon path-dependent\u201d model for projecting contrasting urban growth futures",
+        "pub_year": 2016,
+        "citation": "Cybergeo : European Journal of Geography, 2016",
+        "author": "Guillaume Battaia et Keith Clarke Thomas Houet and Rahim Aguejdad and Omar Doukari",
+        "journal": "Cybergeo : European Journal of Geography",
+        "number": "759",
+        "abstract": "This paper presents a model (SLEUTH*) for projecting contrasting urban growth futures. It is derived from the SLEUTH model, which has been modified in order to incorporate an additional spatially explicit factor, and to be used in a fully controlled forecasting mode. Our aim is to spatially allocate urban growth, its amount and pattern, according to predefined prospective scenarios and assuming a non path-dependency approach. This modelling approach aims at being used under a \"story and simulation\" (SAS) approach, which constrains the model validation. To assess model efficiency, three types of tests have been undertaken: (1) sensitivity tests; (2) reproduction of known changes over a past period; and (3) simulation of changes that break trends. Results show that SLEUTH* conveniently simulates expected urban changes for exploring contrasting scenarios that are the basis for land planning strategies."
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:3fE2CSJIrl8C",
+    "num_citations": 46,
+    "citedby_url": "/scholar?hl=en&cites=8318060003414693911",
+    "cites_id": [
+        "8318060003414693911"
+    ],
+    "pub_url": "https://journals.openedition.org/cybergeo/27397",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F9jqi4Cvb3MJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 8,
+        "2017": 5,
+        "2018": 5,
+        "2019": 4,
+        "2020": 5,
+        "2021": 9,
+        "2022": 5,
+        "2023": 3
+    }
+}

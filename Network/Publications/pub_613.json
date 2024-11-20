@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping mobile service usage diversity in cities",
+        "pub_year": 2023,
+        "citation": "arXiv preprint arXiv:2311.06269, 2023",
+        "author": "Maxime Lenormand",
+        "journal": "arXiv preprint arXiv:2311.06269",
+        "abstract": "The growing accessibility to mobile phone data, including Internet traffic information, has enabled us over the past ten years to explore human behaviors and cities' structures and functions at high spatio-temporal resolutions. In this article, we explore and map the diversity of mobile service usages in 20 French cities by focusing on the hourly traffic volume information of six social network services at a high spatial resolution. We relied on diversity and similarity metrics to investigate the diversities of mobile service usage in space and time at different scales with an emphasis on the difference between regular and holiday weeks. In particular, we show that the diversity is globally lower during holiday than during regular weeks. We also identified a significant difference in mobile service usage diversity between cities located in the southern and northern half of France. We finally demonstrate that based on the similarity in mobile service usage it is possible to divide each city in three regions whose spatial structure varies in time."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:vRqMK49ujn8C",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2311.06269",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8fXaMRCPYW0J:scholar.google.com/",
+    "cites_per_year": {}
+}

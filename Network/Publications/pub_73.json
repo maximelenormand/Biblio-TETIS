@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Characterizing large scale land acquisitions through network analysis",
+        "pub_year": 2020,
+        "citation": "Complex Networks and Their Applications VIII: Volume 2 Proceedings of the \u2026, 2020",
+        "author": "Roberto Interdonato and Jeremy Bourgoin and Quentin Grislain and Matteo Zignani and Sabrina Gaito and Markus Giger",
+        "conference": "Complex Networks and Their Applications VIII: Volume 2 Proceedings of the Eighth International Conference on Complex Networks and Their Applications COMPLEX NETWORKS 2019 8",
+        "pages": "152-163",
+        "publisher": "Springer International Publishing",
+        "abstract": "Large Scale Land Acquisitions (LSLAs) by private companies or states have seen a sudden increase in recent years, mainly due to combined and increasing demands for biofuel (i.e., caused by the increase in oil prices) and food (i.e., caused by the increase in world population and changes in dietary habits). These highly controversial phenomena raise many questions about production models, people\u2019s rights, resource governance, and are often at the root of conflicts with local populations. A valuable source of open access information about LSLAs, which fosters the study of such phenomena, is the database collected by the Land Matrix initiative. The database lists land deals of at least 200 ha and details for example, their nature (e.g. agriculture, infrastructure, mining), their current status (e.g. ongoing, abandoned, pending), and the investing companies. The information about land deals collected in the Land \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:IWHjjKOFINEC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=15907551197495897085",
+    "cites_id": [
+        "15907551197495897085"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-36683-4_13",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_SsVRYj5wtwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

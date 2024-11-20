@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new combination of automated detection and classification of Mediterranean pollen grains from annual pollen traps",
+        "pub_year": 2023,
+        "citation": "INQUA, 2023",
+        "author": "Betty Gimenez and Odile Peyron and Celine Devaux and S\u00e9bastien Joannin and Doris Barboni and Luc L Beaufort and Laurent Bouby and Sandrine Canal and Nathalie Combourieu-Nebout and Yves Gally and Thibault de Garidel-Thoron and Sarah Ivorra and Bertrand Limier and Jean-Fr\u00e9d\u00e9ric Terral and Jerome Pasquet",
+        "conference": "INQUA",
+        "abstract": "Pollen is a valuable proxy for reconstructing current and past vegetation. Automating identification and counting of pollen grains could greatly help palynologists, by increasing sample size, and thus their spatial and temporal resolutions, and standardizing methods and results. Several recent studies have already shown the potential of deep learning for automatic pollen recognition, especially for aeropalynology. Studies on pollen traps and fossil samples remain scarce, most probably because they contain many non-pollen particles and damaged pollen grains, increasing the difficulty of the task. Here, we test a new combination of last-generation deep-learning algorithms for automatic detection and classification of pollen from annual traps containing as many as 70 Mediterranean taxa, and many debris types. A total of 16 traps were collected each of three consecutive years in six locations in France. For each trap, one slide was mounted, and photographed partially with an automatic microscope. This operation produced 1,024 images of 204x204\u00b5m per slide, which contained a few pollen grains, that could be damaged, cut, or clumped, and many debris. We first trained YOLOv5 to detect the single category of pollen on 85% of 4,096 images (256 images per slide) containing 12,344 manually detected pollen grains. On the remaining 15% of the annotated images, the model left 0.7% pollen undetected, and falsely detected 12% of debris which are meant to be excluded by the subsequent classification. We then applied the model on the remaining 12,288 images and obtained 42,156 additional pollen grains. For the classification, we have trained \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:ZeXyd9-uunAC",
+    "num_citations": 0,
+    "pub_url": "https://inria.hal.science/hal-04168515/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rOEsT6Kw8_QJ:scholar.google.com/",
+    "cites_per_year": {}
+}

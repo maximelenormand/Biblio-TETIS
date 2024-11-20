@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation mapping using Sentinel-1 and Sentinel-2 data",
+        "pub_year": 2022,
+        "citation": "2022 6th International Conference on Advanced Technologies for Signal and \u2026, 2022",
+        "author": "Mehrez Zribi and Ehsan Elwan and Michel Le Page and Lionel Jarlan and Luca Brocca and Sara Modanesi and Jacopo Dari and Pere Quintana Segui",
+        "conference": "2022 6th International Conference on Advanced Technologies for Signal and Image Processing (ATSIP)",
+        "pages": "1-4",
+        "publisher": "IEEE",
+        "abstract": "The main objective of this study is to develop an operational approach for mapping irrigated agricultural plots using Sentinel-1 (S1) and Sentinel-2 (S2) data. The application is carried out on two agricultural sites in Europe with two different climatic contexts. Different classifiers are identified to allow the separation between irrigated and rainfed areas. From the time series of S1 and S2 data and at two different scales, that of the agricultural plot and that of 5 km, we have proposed different statistical variables. The Support Vector Machine SVM classification method is used with different options to assess the potential of each variable. Results confirm the interest of using multi-sensor data and more than one scale for training. The best classification result is produced using mixed training data from both sites. In this case, an accuracy of 85% is achieved in the mapping of irrigated areas."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Azgs6IHzeyYC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9805877/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ucXBRAHhWXwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

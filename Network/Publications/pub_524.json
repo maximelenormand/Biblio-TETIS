@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-temporal and multi-source remote sensing image classification by nonlinear relative normalization",
+        "pub_year": 2016,
+        "citation": "ISPRS Journal of Photogrammetry and Remote Sensing 120, 1-12, 2016",
+        "author": "Devis Tuia and Diego Marcos and Gustau Camps-Valls",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "volume": "120",
+        "pages": "1-12",
+        "publisher": "Elsevier",
+        "abstract": "Remote sensing image classification exploiting multiple sensors is a very challenging problem: data from different modalities are affected by spectral distortions and mis-alignments of all kinds, and this hampers re-using models built for one image to be used successfully in other scenes. In order to adapt and transfer models across image acquisitions, one must be able to cope with datasets that are not co-registered, acquired under different illumination and atmospheric conditions, by different sensors, and with scarce ground references. Traditionally, methods based on histogram matching have been used. However, they fail when densities have very different shapes or when there is no corresponding band to be matched between the images. An alternative builds upon manifold alignment. Manifold alignment performs a multidimensional relative normalization of the data prior to product generation that can cope \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 68,
+    "citedby_url": "/scholar?hl=en&cites=900163110647081793",
+    "cites_id": [
+        "900163110647081793"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271616301903",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QasHcpQFfgwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 6,
+        "2018": 5,
+        "2019": 14,
+        "2020": 11,
+        "2021": 9,
+        "2022": 11,
+        "2023": 10,
+        "2024": 1
+    }
+}

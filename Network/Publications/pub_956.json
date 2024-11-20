@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An operational high resolution soil moisture retrieval algorithm using sentinel-1 images",
+        "pub_year": 2019,
+        "citation": "EGU General Assembly, 1, 2019",
+        "author": "M El Hajj and N Baghdadi and Mehrez Zribi",
+        "conference": "EGU General Assembly",
+        "pages": "1",
+        "abstract": "Monitoring the surface soil moisture (SSM) in agricultural areas at plot scale helps in many applications such as irrigation planning and crop management. Over the last decade, SAR (Synthetic Aperture Radar) data have shown great potential in the estimation SSM in agriculture areas. Today, Sentinel-1 (S1) and Sentinel-2 (S2) satellites present a good opportunity for operational SSM estimates in agricultural areas because they provide free and open access data at high spatial resolution (10 m x 10 m) and high revisit time (6 days over Europe). An operational approach for mapping soil moisture at high spatial resolution (plot scale) in agriculture areas was developed by coupling S1 and S2 images. The proposed approach is based on the inversion of the Water Cloud Model (WCM) combined with the modified IEM (Integral Equation Model). It use the neural networks technique. Comparison between estimated soil moisture and in situ measurements showed that the precision of the estimated soil moisture in agricultural areas is approximately 5 vol.%. The developed algorithm is currently used in operational mode on many study sites. For example, S1 soil moisture maps for the Occitanie region (South France) at high spatial resolution (up to plot scale) are available since September 2016 as open access data via the Theia French Land Data Center (http://www.theia-land.fr/en/thematic-products). This research was supported by IRSTEA (National Research Institute of Science and Technology for Environment and Agriculture) and the French Space Study Center (CNES, DAR 2018 TOSCA). The authors wish to thank the European Commission and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:DyXnQzXoVgIC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02609229/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NgNJaudKvrQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

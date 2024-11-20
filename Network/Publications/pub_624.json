@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-scale datasets for monitoring Mediterranean oak forests from optical remote sensing during the SENTHYMED/MEDOAK experiment in the north of Montpellier (France)",
+        "pub_year": 2024,
+        "citation": "Data in Brief, 110185, 2024",
+        "author": "Karine Adeline and Jean-Baptiste F\u00e9ret and Harold Clenet and Jean-Marc Limousin and Jean-Marc Ourcival and Florent Mouillot and Samuel Alleaume and Audrey Jolivot and Xavier Briottet and Luc Bidel and Enayat Aria and Atm Defossez and Thierry Gaubert and Josselin Giffard-Carlet and Jean Kempf and Damien Longepierre and F Lopez and Thomas Miraglio and J Vigouroux and Marianne Debue",
+        "journal": "Data in Brief",
+        "pages": "110185",
+        "publisher": "Elsevier",
+        "abstract": "Mediterranean forests represent critical areas that are increasingly affected by the frequency of droughts and fires, anthropic activities and land use changes. Optical remote sensing data give access to several essential biodiversity variables, such as species traits (related to vegetation biophysical and biochemical composition), which can help to better understand the structure and functioning of these forests. However, their reliability highly depends on the scale of observation and the spectral configuration of the sensor. Thus, the objective of the SENTHYMED/MEDOAK experiment is to provide datasets from leaf to canopy scale in synchronization with remote sensing acquisitions obtained from multi-platform sensors having different spectral characteristics and spatial resolutions. Seven monthly data collections were performed between April and October 2021 (with a complementary one in June 2023) over two \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:Tiz5es2fbqcC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352340924001562",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FrponxHSSCcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

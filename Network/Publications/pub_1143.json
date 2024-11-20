@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping paddy rice using Sentinel-1 SAR time series in Camargue, France",
+        "pub_year": 2019,
+        "citation": "Remote sensing 11 (7), 887, 2019",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Mohammad El Hajj and Mehrez Zribi and Dinh Ho Tong Minh and Emile Ndikumana and Dominique Courault and Hatem Belhouchette",
+        "journal": "Remote sensing",
+        "volume": "11",
+        "number": "7",
+        "pages": "887",
+        "publisher": "MDPI",
+        "abstract": "This study proposes an effective method to map rice crops using the Sentinel-1 SAR (Synthetic Aperture Radar) time series over the Camargue region, Southern France. First, the temporal behavior of the SAR backscattering coefficient over 832 plots containing different crop types was analyzed. Through this analysis, the rice cultivation was identified using metrics derived from the Gaussian profile of the VV/VH time series (3 metrics), the variance of the VV/VH time series (one metric), and the slope of the linear regression of the VH time series (one metric). Using the derived metrics, rice plots were mapped through two different approaches: decision tree and Random Forest (RF). To validate the accuracy of each approach, the classified rice map was compared to the available national data. Similar high overall accuracy was obtained using both approaches. The overall accuracy obtained using a simple decision tree reached 96.3%, whereas an overall accuracy of 96.6% was obtained using the RF classifier. The approach, therefore, provides a simple yet precise and powerful tool to map paddy rice areas."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:WHdLCjDvYFkC",
+    "num_citations": 131,
+    "citedby_url": "/scholar?hl=en&cites=12179424151748408815",
+    "cites_id": [
+        "12179424151748408815"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/7/887",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7_XGlbwBBqkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 7,
+        "2020": 23,
+        "2021": 37,
+        "2022": 37,
+        "2023": 23,
+        "2024": 4
+    }
+}

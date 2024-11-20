@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep convolutional neural networks to monitor coralligenous reefs: operationalizing biodiversity and ecological assessment",
+        "pub_year": 2020,
+        "citation": "Ecological Informatics 59, 101110, 2020",
+        "author": "Guilhem Marre and Cedric De Almeida Braga and Dino Ienco and Sandra Luque and Florian Holon and Julie Deter",
+        "journal": "Ecological Informatics",
+        "volume": "59",
+        "pages": "101110",
+        "publisher": "Elsevier",
+        "abstract": "Monitoring the ecological status of natural habitats is crucial to the conservation process, as it enables the implementation of efficient conservation policies. Nowadays, it is increasingly possible to automate species identification, given the availability of very large image databases and state-of-the-art computational power which makes the training of automated machine learning-based classification models an increasingly viable tool for monitoring marine habitats. Coralligenous reefs are an underwater habitat of particular importance, found in the Mediterranean. This habitat is of a similar biocomplexity to coral reefs. They have been monitored in French waters since 2010 using manually annotated photo quadrats (RECOR monitoring network). Based on the large database of annotations accumulated therein, we have trained convolutional neural networks to automatically recognise coralligenous species using the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:hfzGNhXhx5MC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=546730184880280563",
+    "cites_id": [
+        "546730184880280563"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1574954120300601",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:89PF2TRglgcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 5,
+        "2023": 3
+    }
+}

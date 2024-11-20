@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Investigating the impact of preprocessing on document embedding: an empirical comparison",
+        "pub_year": 2021,
+        "citation": "International Journal of Data Mining, Modelling and Management 13 (4), 351-363, 2021",
+        "author": "Nourelhouda Yahi and Hacene Belhadef and Mathieu Roche",
+        "journal": "International Journal of Data Mining, Modelling and Management",
+        "volume": "13",
+        "number": "4",
+        "pages": "351-363",
+        "publisher": "Inderscience Publishers (IEL)",
+        "abstract": "Digital representation of text documents is a crucial task in machine learning and natural language processing (NLP). It aims to transform unstructured text documents into mathematically-computable elements. In recent years, several methods have been proposed and implemented to encode text documents into fixed-length feature vectors. This operation is known as document embedding and it has become an interesting and open area of research. Paragraph vector (Doc2vec) is one of the most used document embedding methods. It has gained a good reputation thanks to its good results. To overcome its limits, Doc2vec, was extended by proposing the document through corruption (Doc2vecC) technique. To get a deep view of these two methods, this work presents a study on the impact of morphosyntactic text preprocessing on these two document embedding methods. We have done this analysis by applying the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:YTuZlYwrTOUC",
+    "num_citations": 0,
+    "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJDMMM.2021.119631",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:et9ODv0HUCkJ:scholar.google.com/",
+    "cites_per_year": {}
+}

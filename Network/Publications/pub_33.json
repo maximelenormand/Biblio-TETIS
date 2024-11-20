@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multisensor land cover classification with sparsely annotated data based on convolutional neural networks and self-distillation",
+        "pub_year": 2021,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2021",
+        "author": "Yawogan Jean Eudes Gbodjo and Olivier Montet and Dino Ienco and Raffaele Gaetano and Stephane Dupuy",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "14",
+        "pages": "11485-11499",
+        "publisher": "IEEE",
+        "abstract": "Extensive research studies have been conducted in recent years to exploit the complementarity among multisensor (or multimodal) remote sensing data for prominent applications such as land cover mapping. In order to make a step further with respect to previous studies, which investigate multitemporal SAR and optical data or multitemporal/multiscale optical combinations, here, we propose a deep learning framework that simultaneously integrates all these input sources, specifically multitemporal SAR/optical data and fine-scale optical information at their native temporal and spatial resolutions. Our proposal relies on a patch-based multibranch convolutional neural network (CNN) that exploits different per-source encoders to deal with the specificity of the input signals. In addition, we introduce a new self-distillation strategy to boost the per-source analyses and exploit the interplay among the different input sources \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:cFHS6HbyZ2cC",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=14818952221105708318",
+    "cites_id": [
+        "14818952221105708318"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9566776/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ht196od-p80J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 6,
+        "2023": 8,
+        "2024": 1
+    }
+}

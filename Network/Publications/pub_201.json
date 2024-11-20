@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hyperspectral imagery and urban areas: results of the HYEP project",
+        "pub_year": 2023,
+        "citation": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection 224 (1), 75-92, 2023",
+        "author": "Christiane Weber and Xavier Briottet and Thomas Houet and S\u00e9bastien Gadal and Rahim Aguejdad and Y Deville and Mauro Dalla Mura and Cl\u00e9ment Mallet and Arnaud Le Bris and Moussa Sofiane Karoui and Fatima Zohra Benhalouche and Khelifa Djerriri and Sophie Fabre and Josselin Aval",
+        "journal": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection",
+        "volume": "224",
+        "number": "1",
+        "pages": "75-92",
+        "abstract": "he HYEP project (ANR HYEP 14-CE22-0016-01 Hyperspectral imagery for Environmental urban Planning - Mobility and Urban Systems Programme - 2014) confirmed the interest of a global approach to the urban environment by remote sensing and in particular by using hyperspectral imaging (HI). The interest of hyperspectral images lies in the range of information provided over wavelengths from 0.4 to 4 \u03bcm; they thus provide access to spectral quantities of interest and to chemical or biophysical parameters of the surface. HYEP's objective was to specify this and to propose a panel of  methods and treatments taking into account the characteristics of other existing sensors in order to compare their performance. The developments carried out were applied and evaluated on hyperspectral airborne images acquired in Toulouse and Kaunas (Lithuania), also used to synthesize space systems: Sentinel-2, Hypxim/Biodiversity and Pleiades. Among the locks identified were those related to improving the spatial capabilities of the sensors and spatial scale changes, which were partially overcome by fusion and sharpening approaches, which proved to be successful. After a description of our hyperspectral data set acquired over Toulouse, an analysis is conducted on several existing and accessible spectral databases. Then, the chosen methods are presented. They include extraction, fusion and classification methods, which are then applied on our dataset synthetized at different spatial resolution to evaluate the benefits and the complementarity of hyperspectral imagery in comparison with other traditional sensors. Some specific applications are \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:L1USKYWJimsC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7087102927078783632",
+    "cites_id": [
+        "7087102927078783632"
+    ],
+    "pub_url": "https://hal.science/hal-04018093/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kHopJ5ByWmIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

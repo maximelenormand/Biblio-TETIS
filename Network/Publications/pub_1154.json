@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of sentinel-1 surface soil moisture product for detecting heavy rainfall in the south of France",
+        "pub_year": 2019,
+        "citation": "Sensors 19 (4), 802, 2019",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Mohammad El Hajj and Mehrez Zribi",
+        "journal": "Sensors",
+        "volume": "19",
+        "number": "4",
+        "pages": "802",
+        "publisher": "MDPI",
+        "abstract": "The objective of this paper is to present an analysis of Sentinel-1 derived surface soil moisture maps (S1-SSM) produced with high spatial resolution (at plot scale) and a revisit time of six days for the Occitanie region located in the South of France as a function of precipitation data, in order to investigate the potential of S1-SSM maps for detecting heavy rainfalls. First, the correlation between S1-SSM maps and rainfall maps provided by the Global Precipitation Mission (GPM) was investigated. Then, we analyzed the effect of the S1-SSM temporal resolution on detecting heavy rainfall events and the impact of these events on S1-SSM values as a function of the number of days that separated the heavy rainfall and the S1 acquisition date (cumulative rainfall more than 60 mm in 24 hours or 80 mm in 48 hours). The results showed that the six-day temporal resolution of the S1-SSM map doesn\u2019t always permit the detection of an extreme rainfall event, because confusion will appear between high S1-SSM values due to extreme rainfall events occurring six days before the acquisition of S1-SSM, and high S1-SSM values due to light rain a few hours before the acquisition of Sentinel-1 images. Moreover, the monitoring of extreme rain events using only soil moisture maps remains difficult, since many environmental parameters could affect the value of SSM, and synthetic aperture radar (SAR) doesn\u2019t allow the estimation of very high soil moistures (higher than 35 vol.%)."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:nRpfm8aw39MC",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=2166620771894985048",
+    "cites_id": [
+        "2166620771894985048"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/19/4/802",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WIHI3xxiER4J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 6,
+        "2021": 1,
+        "2022": 4,
+        "2023": 4,
+        "2024": 1
+    }
+}

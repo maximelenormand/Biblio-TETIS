@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Interferometric phase linking: Algorithm, application, and perspective",
+        "pub_year": 2023,
+        "citation": "IEEE Geoscience and Remote Sensing Magazine 11 (3), 46-62, 2023",
+        "author": "Dinh Ho Tong Minh and Stefano Tebaldini",
+        "journal": "IEEE Geoscience and Remote Sensing Magazine",
+        "volume": "11",
+        "number": "3",
+        "pages": "46-62",
+        "publisher": "IEEE",
+        "abstract": "Mitigating decorrelation effects on interferometric synthetic aperture radar (InSAR) time series data is challenging. The phase linking (PL) algorithm has been the key to handling signal decorrelations in the past 15 years. Numerous studies have been carried out to enhance its precision and computational efficiency. Different PL algorithms have been proposed, each with unique phase optimization approaches, such as the quasi-Newton method, equal-weighted and coherence-weighted factors, component extraction and selection SAR (CAESAR), and eigendecomposition-based algorithm (EMI). The differences among the PL algorithms can be attributed to the weight criteria adopted in each algorithm, which can be coherence-based, sparsity-based, or other forms of regularization. The PL algorithm has multiple applications, including SAR tomography (TomoSAR), enhancing distributed scatterers (DSs) to combine \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:olpn-zPbct0C",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=15843283224895012474",
+    "cites_id": [
+        "15843283224895012474"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10261889/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:er7F1yam3tsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 2
+    }
+}

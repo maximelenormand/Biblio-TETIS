@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Quelles implications possibles du monde agricole dans la compensation e\u0301cologique? Vers des approches territoriales",
+        "pub_year": 2020,
+        "citation": "Sciences Eaux Territoires, 38-43, 2020",
+        "author": "Anne-Charlotte Vaissi\u00e8re and Coralie Calvet and Julie Latune and Fabien Qu\u00e9tier",
+        "journal": "Sciences Eaux Territoires",
+        "number": "1",
+        "pages": "38-43",
+        "publisher": "Institut national de recherche pour l\u2019agriculture, l\u2019alimentation et l\u2019environnement (INRAE)",
+        "abstract": "Cr\u00e9ation de haies, r\u00e9ouverture de landes embroussaill\u00e9es par p\u00e2turage extensif, conversion de cultures en prairies permanentes... les agriculteurs peuvent \u00eatre des acteurs de la compensation \u00e9cologique. Les auteurs de cet article font le point sur les freins rencontr\u00e9s par les exploitants agricoles pour acc\u00e9der au statut d\u2019op\u00e9rateur de compensation et les solutions possibles. Ils proposent une autre perspective qui envisage le r\u00f4le transitoire, \u00e0 l\u2019\u00e9chelle territoriale, que pourraient jouer les compensations \u00e9cologique et agricole collective pour accompagner la transition agro-\u00e9cologique."
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:3fE2CSJIrl8C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=1321159143477440154",
+    "cites_id": [
+        "1321159143477440154"
+    ],
+    "pub_url": "https://www.cairn.info/revue-sciences-eaux-et-territoires-2020-1-page-38.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mm67vj2zVRIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 3,
+        "2022": 1
+    }
+}

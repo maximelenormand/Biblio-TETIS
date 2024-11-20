@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluating the complex governance arrangements surrounding energy retrofitting programs: The case of collective ownership buildings in France",
+        "pub_year": 2017,
+        "citation": "Energy research & social science 32, 131-148, 2017",
+        "author": "Sophie Buessler and Dominique Badariotti and Christiane Weber",
+        "journal": "Energy research & social science",
+        "volume": "32",
+        "pages": "131-148",
+        "publisher": "Elsevier",
+        "abstract": "It is generally accepted that energy retrofitting of existing buildings is a major challenge for CO2 emission mitigation policies in most countries. The obstacles are numerous with the main issues being well known although not all having clear solutions. The case of collectively owned properties (COP) is probably one of the more difficult challenges. The existing laws and financial assistance are not sufficient to overcome all the barriers to improving the energy use performance of COP. As such, \u2018actors\u2019 coaches\u2019 become indispensable at the local level to accompany COP wishing to undergo an energy retrofit.The major outcome of the paper is the development of evaluation mechanisms of the coaching process. The paper analyzes the arrangement of specific stakeholders acting at the local level as \u201ccoaches\u201d or \u201cfacilitators\u201d for the co-owners, their associations and their trustees, through technical and financial support \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:lmc2jWPfTJgC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=17638889940924343989",
+    "cites_id": [
+        "17638889940924343989"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2214629617301159",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:taYBSfLsyfQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 2,
+        "2019": 6,
+        "2020": 0,
+        "2021": 4,
+        "2022": 2,
+        "2023": 5
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential for the detection of irrigation events on maize plots using sentinel-1 soil moisture products",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (10), 1621, 2020",
+        "author": "Michel Le Page and Lionel Jarlan and Marcel M El Hajj and Mehrez Zribi and Nicolas Baghdadi and Aaron Boone",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "10",
+        "pages": "1621",
+        "publisher": "MDPI",
+        "abstract": "Although the real timing and flow rates used for crop irrigation are controlled at the scale of individual plots by the irrigator, they are not generally known by the farm upper management. This information is nevertheless essential, not only to compute the water balance of irrigated plots and to schedule irrigation, but also for the management of water resources at regional scales. The aim of the present study was to detect irrigation timing using time series of surface soil moisture (SSM) derived from Sentinel-1 radar observations. The method consisted of assessing the direction of change of surface soil moisture (SSM) between observations and a water balance model, and to use thresholds to be calibrated. The performance of the approach was assessed on the F-score quantifying the accuracy of the irrigation event detections and ranging from 0 (none of the irrigation timing is correct) to 100 (perfect irrigation detection). The study focused on five irrigated and one rainfed plot of maize in South-West France, where the approach was tested using in situ measurements and surface soil moisture (SSM) maps derived from Sentinel-1 radar data. The use of in situ data showed that (1) irrigation timing was detected with a good accuracy (F-score in the range (80\u201383) for all plots) and (2) the optimal revisit time between two SSM observations was 2\u20134 days. The higher uncertainties of microwave SSM products, especially when the crop is well developed (normalized difference of vegetation index (NDVI) > 0.7), degraded the score (F-score = 69), but various possibilities of improvement were discussed. This paper opens perspectives for the irrigation detection at \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:zdjWy_NXXwUC",
+    "num_citations": 47,
+    "citedby_url": "/scholar?hl=en&cites=7827809646651839577",
+    "cites_id": [
+        "7827809646651839577"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/10/1621",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WRQPbmb3oWwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 7,
+        "2022": 25,
+        "2023": 9,
+        "2024": 2
+    }
+}

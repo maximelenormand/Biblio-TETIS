@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Une approche de fouille de textes pour l\u2019identification automatique de relations spatiales",
+        "pub_year": 2016,
+        "citation": "Big Data Mining and Visualization, 2016",
+        "author": "Sarah Zenasni and Eric Kergosien and Maguelonne Teisseire and Mathieu Roche",
+        "conference": "Big Data Mining and Visualization",
+        "abstract": "La d\u00e9couverte de connaissances \u00e0 partir de textes, en particulier l\u2019identification d\u2019informations spatiales, est une t\u00e2che difficile due \u00e0 la complexit\u00e9 destextes \u00e9crits en langage naturel. Dans nos travaux, nous proposons une m\u00e9thode combinant deux approches statistiques (analyse lexicale et contextuelle) et une approche de fouille de textes pour identifier les types de relations spatiales."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:uLbwQdceFCQC",
+    "num_citations": 0,
+    "pub_url": "https://lilloa.univ-lille.fr/handle/20.500.12210/71305",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:u156kmvJgJsJ:scholar.google.com/",
+    "cites_per_year": {}
+}

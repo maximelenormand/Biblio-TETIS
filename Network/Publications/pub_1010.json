@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Humans in the upstream can exacerbate climate change impacts on water birds\u2019 habitat in the downstream",
+        "pub_year": 2021,
+        "citation": "Scientific Reports 11 (1), 20203, 2021",
+        "author": "Saeideh Maleki and Vahid Rahdari and Nicolas Baghdadi",
+        "journal": "Scientific Reports",
+        "volume": "11",
+        "number": "1",
+        "pages": "20203",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "The present paper aims to quantify how human-made changes in the upstream exacerbate climate change impacts on water birds\u2019 habitat in the downstream. To reduce climate change effects and design adaptation policies, it is important to identify whether human activities understate or overstate the effects of climate change in a region on its inhabitants. This paper also shows how human activities may magnify climate change impacts both locally and regionally. Land-use/land-cover change as the important sign of human-made destruction in an ecosystem was detected in the upstream of the Helmand basin over 40 years. Owing to conflicts in Afghanistan, studies on this basin are rare. The water bird\u2019s habitat suitability maps during the study period were created using the maximum entropy model and the multi-criteria evaluation method. The post-classification method was applied to show the land-use/land-cover \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:sJPMR1oEGYQC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=6955314978379460147",
+    "cites_id": [
+        "6955314978379460147"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-021-99822-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:M-5COx8-hmAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

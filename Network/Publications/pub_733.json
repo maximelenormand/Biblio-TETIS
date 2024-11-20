@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Urban heat island\u2019s vulnerability assessment by integrating urban planning policies: A case study of Montpellier M\u00e9diterran\u00e9e metropolitan area, France",
+        "pub_year": 2023,
+        "citation": "Sustainability 15 (3), 1820, 2023",
+        "author": "Magalie T\u00e9cher and Hassan Ait Haddou and Rahim Aguejdad",
+        "journal": "Sustainability",
+        "volume": "15",
+        "number": "3",
+        "pages": "1820",
+        "publisher": "MDPI",
+        "abstract": "The energy balance differences between urban and rural areas give rise to a representative phenomenon of urban climate change called the urban heat island (UHI). The UHI phenomenon, which is exacerbated by global warming effects and urban expansion, exposes urban areas and populations to thermal stress and overheating. Therefore, measuring the intensity of UHI vulnerability is needed to mitigate its effects on health, comfort, energy consumption and infrastructure. Additionally, urban decision makers are looking for methodologies to identify the most vulnerable areas in urban planning. This research aims to investigate areas prone to urban overheating in Montpellier Mediterranean metropolitan area as a representative case study of the French urban planning context. The objective is to develop a methodology for assessing UHI vulnerability based on the interaction of exposure and sensitivity to urban planning policies. Accordingly, a set of fifteen indicators is developed to visualize urban planning policies, exposure and sensitivity to urban overheating. A statistical-based method is applied to determine the individual weights based on the indicators\u2019 variance, which is calculated using principal component analysis (PCA). The spatial and urban planning distribution of vulnerability is then analyzed. The results indicate that the areas with the highest urban planning challenges are most vulnerable to UHI. In fact, the results reveal that these areas have urban planning characteristics likely to aggravate urban overheating. Therefore, this research proposes a methodology for integrating mitigation solutions into urban planning: increase in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:pqnbT2bcN3wC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=13614295373765588068",
+    "cites_id": [
+        "13614295373765588068"
+    ],
+    "pub_url": "https://www.mdpi.com/2071-1050/15/3/1820",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZLSKxIKx77wJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 3
+    }
+}

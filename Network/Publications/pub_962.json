@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hy-TeC: a hybrid vision transformer model for high-resolution and large-scale mapping of canopy height",
+        "pub_year": 2024,
+        "citation": "Remote Sensing of Environment 302, 113945, 2024",
+        "author": "Ibrahim Fayad and Philippe Ciais and Martin Schwartz and Jean-Pierre Wigneron and Nicolas Baghdadi and Aur\u00e9lien de Truchis and Alexandre d'Aspremont and Frederic Frappart and Sassan Saatchi and Ewan Sean and Agnes Pellissier-Tanon and Hassan Bazzi",
+        "journal": "Remote Sensing of Environment",
+        "volume": "302",
+        "pages": "113945",
+        "publisher": "Elsevier",
+        "abstract": "Accurate and timely monitoring of forest canopy height is critical for assessing forest dynamics, biodiversity, carbon sequestration as well as forest degradation and deforestation. Recent advances in deep learning techniques, coupled with the vast amount of spaceborne remote sensing data offer an unprecedented opportunity to map canopy height at high spatial and temporal resolutions. Current techniques for wall-to-wall canopy height mapping correlate remotely sensed information from optical and radar sensors in the 2D space to the vertical structure of trees using lidar's 3D measurement abilities serving as height proxies. While studies making use of deep learning algorithms have shown promising performances for the accurate mapping of canopy height, they have limitations due to the type of architectures and loss functions employed. Moreover, mapping canopy height over tropical forests remains poorly \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:inmFHauC9wsC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4255649312565650660",
+    "cites_id": [
+        "4255649312565650660"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425723004972",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5GQcnIAaDzsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 2
+    }
+}

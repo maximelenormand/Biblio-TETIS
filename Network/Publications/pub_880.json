@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Satellite-based detection of potential land grabs",
+        "pub_year": 2022,
+        "citation": "Living Planet Symposium, 2022",
+        "author": "Yasmine Ngadi Scarpetta and Valentine Lebourgeois and Mohamadou Dieye and J\u00e9r\u00e9my Bourgoin and Agn\u00e8s B\u00e9gu\u00e9 and Anne-Elisabeth Laques",
+        "conference": "Living Planet Symposium",
+        "abstract": "Large scale land acquisitions (LSLAs), often referred as \u201cland grabbing\u201d, are highly dynamic and complex land use systems that are rapidly transforming ecosystems and societies in many low-income countries of the world, bringing on one hand sustainability challenges and, on the other hand, undermining the right of peoples to self-determination over natural resources. As such, monitoring of those large-scale agricultural expansions has appeared to be of paramount importance. In response to that need, the Land Matrix international initiative has emerged to promote the creation of an open access database on world land transactions. This open tool enables the collection and visualization of data on land deals based on publicly available sources (i.e. from governments, corporations, medias, citizen). However, because information on those acquisitions is often opaque and scarce, systems allowing near real-time LSLAs detection, characterization and monitoring are needed.  In this context, the increasing availability of free-of-cost global satellite data products has shown great potential for providing insights into land dynamics, particularly of large and remote areas. While LSLAs are not directly observable from remote sensing images (no one-to-one relation between land cover and functionality), they may be inferred from observable land cover and spatio-temporal characteristics at different scales, and structural elements in the landscape.  At a pixel level, land use and land cover (LULC) changes are often detected using change detection algorithms applied on temporally-dense satellite image time series (SITS) of vegetation indices. So far, most \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:J-pR_7NvFogC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-04445866/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:L6burZL9R5wJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Caract\u00e9ristiques de la r\u00e9ponse hydrologique des bassins versants m\u00e9diterran\u00e9ens \u00e0 diff\u00e9rentes \u00e9chelles de temps: une m\u00e9ta-analyse",
+        "pub_year": 2016,
+        "citation": "Hydrological Sciences Journal 61 (14), 2520-2539, 2016",
+        "author": "Mohamad Merheb and Roger Moussa and Cosette C Abdallah and Fran\u00e7ois Colin and Charles Perrin and N Baghdadi",
+        "journal": "Hydrological Sciences Journal",
+        "volume": "61",
+        "number": "14",
+        "pages": "2520-2539",
+        "abstract": "This work examines 140 hydrological studies conducted in the Mediterranean region. It identifies key characteristics of the hydrological responses of Mediterranean catchments at various time scales and compares different methods and modelling approaches used for individual-catchment studies. The study area is divided into the northwestern (NWM), eastern (EM) and southern (SM) Mediterranean. The analysis indicates regional discrepancies in which the NWM shows the most extreme rainfall regime. A tendency for reduced water resources driven by both anthropogenic and climatic pressures and a more extreme rainfall regime are also noticeable. Catchments show very heterogeneous responses over time and space, resulting in limitations in hydrological modelling and large uncertainties in predictions. However, few models have been developed to address these issues. Additional studies are necessary to improve the knowledge of Mediterranean hydrological features and to account for regional specificities."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:qe6vwMD2xtsC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02606463/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1icQNJRqKrYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

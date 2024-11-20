@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Impact of the reproductive organs on crop BRDF as observed from a UAV",
+        "pub_year": 2021,
+        "citation": "Remote Sensing of Environment 259, 112433, 2021",
+        "author": "Wenjuan Li and Jingyi Jiang and Marie Weiss and Simon Madec and Franck Tison and Burger Philippe and Alexis Comar and Fr\u00e9d\u00e9ric Baret",
+        "journal": "Remote Sensing of Environment",
+        "volume": "259",
+        "pages": "112433",
+        "publisher": "Elsevier",
+        "abstract": "Several crops bear reproductive organs (RO) at the top of the canopy after the flowering stage, such as ears for wheat, tassels for maize, and heads for sunflowers. RO present specific architecture and optical properties as compared to leaves and stems, which may impact canopy reflectance. This study aims to understand and quantify the influence of RO on the bi-directional variation of canopy reflectance and NDVI.Multispectral camera observations from a UAV were completed over wheat, maize, and sunflower just after flowering when the RO are fully developed and the leaf layer with only marginal senescence. The flights were designed to sample the BRDF with view zenith angles spanning from nadir to 60\u00b0and many compass directions. Three flights corresponding to three sun positions were completed under clear sly conditions. The camera was always pointing to two adjacent plots of few tenths of square \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:4TOpqqG69KYC",
+    "num_citations": 27,
+    "citedby_url": "/scholar?hl=en&cites=8191599942588683090",
+    "cites_id": [
+        "8191599942588683090"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425721001516",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UtMbML9ornEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 9,
+        "2023": 12,
+        "2024": 6
+    }
+}

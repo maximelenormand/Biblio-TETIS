@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "P-Band SAR tomography for the characterization of tropical forests",
+        "pub_year": 2017,
+        "citation": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2017",
+        "author": "D Ho Tong Minh and Ludovic Villard and Laurent Ferro-Famil and Stefano Tebaldini and Thuy Le Toan",
+        "conference": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "5862-5865",
+        "publisher": "IEEE",
+        "abstract": "The objective of this paper is to provide a better understanding of tomographic capabilities in characterization of dense forested areas at P-band. The analysis is carried out on airborne data acquired by ONERA over the site in French Guyana, and in Gabon during the ESA campaign TropiSAR 2009 and AfriSAR 2015, respectively. The results shown support the idea that ground- and -volume interactions play a significant role at P-band. For a dense forest of 30 m and more, strong ground contribution at P-band can be visible in tomograms. P-band tomography allow us to retrieve the whole forest vertical structure, better characterizing of the ground and/or volume scatterings and providing an unique solution in high biomass ranging from 0\u2013500 t/ha."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:BqipwSGYUEgC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=2850520673337819532",
+    "cites_id": [
+        "2850520673337819532"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8128342/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jEE1H3MVjycJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 0,
+        "2021": 2,
+        "2022": 0,
+        "2023": 1
+    }
+}

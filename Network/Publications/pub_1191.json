@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining remote sensing and a geographic information system to map and assess the accessibility of invasive alien species forest stands: Case of Acacia mearnsii on Reunion Island",
+        "pub_year": 2023,
+        "citation": "Forests 14 (10), 2030, 2023",
+        "author": "H\u00e9l\u00e8ne Bley Dalouman and Fran\u00e7ois Broust and Annelise Tran",
+        "journal": "Forests",
+        "volume": "14",
+        "number": "10",
+        "pages": "2030",
+        "publisher": "MDPI",
+        "abstract": "Acacia mearnsii, an invasive alien species, is the main resource identified for the energy transition initiated on Reunion Island. It is, therefore, critical to identify the existent forest stands within the island\u2019s large tropical forest area and to determine which of these stands are accessible for logging operations. In this study, a very high-spatial-resolution image was used to map forest (Acacia mearnsii, Acacia heterophylla, Cryptomeria japonica) and non-forest land cover. To identify the accessible forest stands, we developed a geographic information system (GIS) processing chain, accounting for barriers, the distribution of slopes, and the location of forest roads. User-defined parameters, such as the slope threshold and maximal distance to forest roads, allow different scenarios to be explored. The classification yields an overall accuracy of 88% and a Kappa index of 0.86 and highlights the areas occupied by the different types of Acacia. By applying the GIS processing chain for a standard scenario, the results show that only 19% of the initial study area of 637 ha of Acacia mearnsii patches is suitable for exploitation. In conclusion, our results demonstrate how remote sensing (RS) and GIS can be combined to provide valuable tools for forest managers to design management plans for invasive alien forest species."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:jgBuDB5drN8C",
+    "num_citations": 0,
+    "pub_url": "https://www.mdpi.com/1999-4907/14/10/2030",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2OhjzFlLdUMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

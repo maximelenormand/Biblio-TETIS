@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dynamiques de proximit\u00e9s dans la construction de r\u00e9seaux socio-\u00e9conomiques territoriaux en Amazonie br\u00e9silienne",
+        "pub_year": 2016,
+        "citation": "G\u00e9ographie \u00c9conomie Soci\u00e9t\u00e9 18 (4), 493-524, 2016",
+        "author": "\u00c9tienne Polge* and Andr\u00e9 Torre* and Marc Piraux",
+        "journal": "G\u00e9ographie \u00c9conomie Soci\u00e9t\u00e9",
+        "volume": "18",
+        "number": "4",
+        "pages": "493-524",
+        "publisher": "Cairn/Softwin",
+        "abstract": "L\u2019influence des proximit\u00e9s sur la construction des r\u00e9seaux socio-\u00e9conomiques suscite de nombreux d\u00e9bats dans la litt\u00e9rature. La pr\u00e9sente contribution vise \u00e0 \u00e9tudier le fonctionnement des coordinations entre acteurs dans des dispositifs d\u2019appui aux fili\u00e8res agricoles et \u00e0 mettre en \u00e9vidence l\u2019impact d\u2019une politique publique de d\u00e9veloppement territorial sur ces dispositifs, \u00e0 l\u2019aide d\u2019une approche en termes de r\u00e9seaux et de proximit\u00e9s. Dans cet esprit, nous analysons les Arrangements Productifs Locaux (APL) de deux fili\u00e8res agricoles en Amazonie br\u00e9silienne, coordonn\u00e9s par le m\u00eame dispositif de gouvernance territoriale. Le cadre d\u2019analyse mobilis\u00e9 nous permet d\u2019\u00e9tudier et de comparer ces APL, de proposer une premi\u00e8re caract\u00e9risation des types de r\u00e9seaux selon les types de proximit\u00e9s et de mettre en avant l\u2019importance du dispositif de gouvernance territoriale pour le renforcement et la p\u00e9rennisation des APL."
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:vV6vV6tmYwMC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=5846496803653093269",
+    "cites_id": [
+        "5846496803653093269"
+    ],
+    "pub_url": "https://www.cairn.info/revue-geographie-economie-societe-2016-4-page-493.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lQcz6t3tIlEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 2,
+        "2017": 4,
+        "2018": 3,
+        "2019": 4,
+        "2020": 0,
+        "2021": 1,
+        "2022": 3,
+        "2023": 2
+    }
+}

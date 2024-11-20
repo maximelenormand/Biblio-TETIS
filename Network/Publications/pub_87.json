@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep semi-supervised clustering for multi-variate time-series",
+        "pub_year": 2023,
+        "citation": "Neurocomputing 516, 36-47, 2023",
+        "author": "Dino Ienco and Roberto Interdonato",
+        "journal": "Neurocomputing",
+        "volume": "516",
+        "pages": "36-47",
+        "publisher": "Elsevier",
+        "abstract": "Huge amount of data are nowadays produced by a large and disparate family of sensors, which typically measure multiple variables over time. Such rich information can be profitably organized as multivariate time-series. Collect enough labelled samples to set up supervised analysis for such kind of data is challenging while a reasonable assumption is to dispose of a limited background knowledge that can be injected in the analysis process. In this context, semi-supervised clustering methods represent a well suited tool to get the most out of such reduced amount of knowledge. With the aim to deal with multivariate time-series analysis under a limited background knowledge setting, we propose a semi-supervised (constrained) deep embedding time-series clustering framework that exploits knowledge supervision modeled as Must- and Cannot-link constraints. More in detail, our proposal, named conDetSEC \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:3s1wT3WcHBgC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=17570979961507833046",
+    "cites_id": [
+        "17570979961507833046"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S092523122201308X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1mQuES6p2PMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    }
+}

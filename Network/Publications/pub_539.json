@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Simulating the canopy reflectance of different eucalypt genotypes with the DART 3-D model",
+        "pub_year": 2017,
+        "citation": "IEEE journal of selected topics in applied earth observations and remote \u2026, 2017",
+        "author": "Julianne de Castro Oliveira and Jean-Baptiste Feret and Fl\u00e1vio Jorge Ponzoni and Yann Nouvellon and Jean-Philippe Gastellu-Etchegorry and Otavio Camargo Campoe and Jos\u00e9 Luiz Stape and Luiz Carlos Estraviz Rodriguez and Guerric Le Maire",
+        "journal": "IEEE journal of selected topics in applied earth observations and remote sensing",
+        "volume": "10",
+        "number": "11",
+        "pages": "4844-4852",
+        "publisher": "IEEE",
+        "abstract": "Finding suitable models of canopy reflectance in forward simulation mode is a prerequisite for their use in inverse mode to characterize canopy variables of interest, such as leaf area index (LAI) or chlorophyll content. In this study, the accuracy of the three-dimensional reflectance model DART (Discrete Anisotropic Radiative Transfer) was assessed for canopies of different genotypes of Eucalyptus, having distinct biophysical and biochemical characteristics, to improve the knowledge on how these characteristics are influencing the reflectance signal as measured by passive orbital sensors. The first step was to test the model suitability to simulate reflectance images in the visible and near infrared. We parameterized DART model using extensive measurements from Eucalyptus plantations including 16 contrasted genotypes. Forest inventories were conducted and leaf, bark, and forest floor optical properties were \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:j3f4tGmQtD8C",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=10269345710193431232",
+    "cites_id": [
+        "10269345710193431232"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7920324/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wNLCm4MLhI4J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 4,
+        "2020": 1,
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    }
+}

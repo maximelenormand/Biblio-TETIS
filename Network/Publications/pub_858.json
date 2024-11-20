@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mod\u00e9liser et quantifier les services \u00e9cosyst\u00e9miques forestiers \u00e0 l'\u00e9chelle des petits territoires",
+        "pub_year": 2016,
+        "citation": "Sciences Eaux & Territoires, 58-63, 2016",
+        "author": "Thomas Cordonnier and Fr\u00e9d\u00e9ric Berger and Christophe Chauvin and Benoit Courbaud and Marc Fuhr and V LAFOND and S LUQUE and Z MAO and P TENERELLI",
+        "journal": "Sciences Eaux & Territoires",
+        "number": "21",
+        "pages": "58-63",
+        "abstract": "La for\u00eat occupe pr\u00e8s de 30% du territoire fran\u00e7ais et fournit de nombreux services de production, de r\u00e9gulation et culturels. L'\u00e9valuation de ces services \u00e9cosyst\u00e9miques et de leurs \u00e9volutions pose des d\u00e9fis majeurs pour les scientifiques et les d\u00e9cideurs, qui plus est \u00e0 l'\u00e9chelle des petits territoires pour lesquels les donn\u00e9es ou indicateurs \u00e9labor\u00e9s \u00e0 l'\u00e9chelle nationale ne sont gu\u00e8re transposables. Des progr\u00e8s importants ont toutefois \u00e9t\u00e9 r\u00e9alis\u00e9s ces derni\u00e8res ann\u00e9es, reposant le plus souvent sur l'utilisation conjointe de bases de donn\u00e9es, d'outils de t\u00e9l\u00e9d\u00e9tection et de mod\u00e8les d\u00e9mographiques appliqu\u00e9s \u00e0 diff\u00e9rentes \u00e9chelles. Cet article illustre, au travers de trois cas d'\u00e9tude qui concernent la for\u00eat de montagne, les avantages et limites de certaines de ces approches et propose ensuite des voies d'am\u00e9lioration dans l'objectif d'appuyer les prises de d\u00e9cision pour des projets de d\u00e9veloppement territorial."
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:MnogvFdIBdwC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=9714624940746819738",
+    "cites_id": [
+        "9714624940746819738"
+    ],
+    "pub_url": "https://revue-set.fr/article/view/6700",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mkhdz-lH0YYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    }
+}

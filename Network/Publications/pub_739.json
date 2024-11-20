@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "New Active Learning Approach for Seabed Segmentation",
+        "pub_year": 2022,
+        "citation": "2022 IEEE International Conference on Image Processing (ICIP), 2736-2740, 2022",
+        "author": "Lionel Pibre and J\u00e9r\u00f4me Pasquet and Vincent Douzal and Claire No\u00ebl",
+        "conference": "2022 IEEE International Conference on Image Processing (ICIP)",
+        "pages": "2736-2740",
+        "publisher": "IEEE",
+        "abstract": "Many fields are interested in mapping and monitoring the sea floor natural structure and biology, for environmental surveys, including identifying macro waste or detection of submerged artifacts such as cars, tires, wrecks, and even military applications, e.g., mine warfare whose detection depends heavily on the seabed structure. In this paper, we propose a new active learning method to improve seabed segmentation by deep learning. We perform segmentation of the sea floor using two data sources, sonar, and bathymetry. We train a network to fuse these two modalities and segment each sea floor pixel into nine fine ecological classes, then into three gross class sets, alive/not alive, and, in two different ways, whether mines can be hunted for or not. Once this training is done, a second stage involving a new active learning method based on network uncertainties greatly improves the performance."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:9ZlFYXVOiuMC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9897396/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:suAOqCbOqIwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

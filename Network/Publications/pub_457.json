@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparative analysis of GEDI\u2019s elevation accuracy from the first and second data product releases over inland waterbodies",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (2), 340, 2022",
+        "author": "Ibrahim Fayad and Nicolas Baghdadi and Fr\u00e9d\u00e9ric Frappart",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "2",
+        "pages": "340",
+        "publisher": "MDPI",
+        "abstract": "Spaceborne LiDAR altimetry has been demonstrated to be an essential source of data for the estimation and monitoring of inland water level variations. In this study, water level estimates from the Global Ecosystem Dynamics Investigation (GEDI) were validated against in situ gauge station records over Lake Geneva for the period between April 2019 and September 2020. The performances of the first and second releases (V1 and V2, respectively) of the GEDI data products were compared, and the effects on the accuracy of the instrumental and environmental factors were analyzed in order to discern the most accurate GEDI acquisitions. The respective influences of five parameters were analyzed in this study: (1) the signal-over-noise ratio (SNR); (2) the width of the water surface peak within the waveform (gwidth); (3) the amplitude of the water surface peak within the waveform (A); (4) the viewing angle of GEDI (VA); and (5) the acquiring beam. Results indicated that all these factors, except the acquiring beam, had an effect on the accuracy of GEDI elevations. Nonetheless, using VA as a filtering criterion was demonstrated to be the best compromise between retained shot count and water level estimation accuracy. Indeed, by choosing the shots with a VA \u2264 3.5\u00b0, 74.6% of the shots (after an initial filter) were retained with accuracies similar to choosing A > 400 (46.2% retained shots), SNR > 15 dB (63.3% retained shots), or gwidth < 10 bins (46.5% of retained shots). Finally, the comparison between V1 and V2 elevations showed that V2, overall, provided elevations with a more constant, but higher, bias and fewer deviations to the in situ data than \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:m92CDrhVnKEC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=11908883501591356011",
+    "cites_id": [
+        "11908883501591356011"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/2/340",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:a-Lc33LaRKUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 5,
+        "2024": 1
+    }
+}

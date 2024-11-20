@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u201cMunicipios Verdes\u201d: passer du zero-deforestation a la gestion durable des ressources naturelles en Amazonie bresilienne",
+        "pub_year": 2017,
+        "citation": "Des territoires vivants pour transformer le monde/Caron Patrick (ed \u2026, 2017",
+        "author": "Marie-Gabrielle Piketty and Marc Piraux and Lilian Blanc and Fran\u00e7ois Laurent and Nathalie Cialdella and Joice Ferreira and E Coudel and Lucas Mazzei and Gabriel Lima Resque and Christophe Le Page and Krishna Naudin and Soraya Carvalho and Mario Gomes and Ren\u00e9 Poccard-Chapuis",
+        "journal": "Des territoires vivants pour transformer le monde/Caron Patrick (ed.), Valette Elodie (ed.), Wassenaar Tom (ed.), Coppens D\u2019Eeckenbrugge Geo (ed.), Papazian Vatche(ed.)",
+        "pages": "54-57",
+        "abstract": "En Amazonie br\u00e9silienne1, le programme de lutte contre la d\u00e9forestation (PPCDAM), lanc\u00e9 en 2004 et relay\u00e9 par des engagements des fili\u00e8res soja et viande bovine, a conduit \u00e0 une chute consid\u00e9rable du taux annuel de d\u00e9forestation. Pour les acteurs des territoires, il s\u2019 agit d\u00e8s lors de concevoir, de planifier et de mettre en \u0153uvre une transition agraire rapide, bas\u00e9e sur une gestion plus efficiente de leurs diff\u00e9rentes ressources naturelles, de s\u2019 approprier un espace physique limit\u00e9 et de cr\u00e9er les capacit\u00e9s institutionnelles pour le g\u00e9rer durablement. l\u2019initiative munic\u00edPio verde\u00c0 partir de 2008, le gouvernement f\u00e9d\u00e9ral a cibl\u00e9 ses mesures coercitives sur certains munic\u00edpios (communes), sur la base de trois indicateurs refl\u00e9tant l\u2019intensit\u00e9 de la d\u00e9forestation. Faisant partie des munic\u00edpios cibl\u00e9s, Paragominas, qui couvre un territoire de 20 000 km2 situ\u00e9 dans l\u2019\u00c9tat du Par\u00e1, a lanc\u00e9 l\u2019initiative Munic\u00edpio Verde \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:geHnlv5EZngC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=9712986898186779668",
+    "cites_id": [
+        "9712986898186779668"
+    ],
+    "pub_url": "https://www.torrossa.com/gs/resourceProxy?an=5063738&publisher=FZZ759#page=56",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FDxyTh92y4YJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 2
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation de la distribution spatiale de surface et de biomasse foliaires de couverts forestiers m\u00e9diterran\u00e9ens \u00e0 partir de nuages de points acquis par un LiDAR Terrestre.",
+        "pub_year": 2016,
+        "citation": "6. Atelier T-Lidar pour la communaut\u00e9 francophone\" Utilisation du syst\u00e8me \u2026, 2016",
+        "author": "Maxime Soma and Fran\u00e7ois Pimont and Jean-Luc Dupuy and Sylvie Durrieu and Richard A Fournier and Frederic Jean and Denis Portier and Philippe Petit and Maxence Carra",
+        "conference": "6. Atelier T-Lidar pour la communaut\u00e9 francophone\" Utilisation du syst\u00e8me LiDAR terrestre en \u00e9cologie foresti\u00e8re\"",
+        "abstract": "Estimation de la distribution spatiale de surface et de biomasse foliaires de couverts forestiers \nm\u00e9diterran\u00e9ens \u00e0 partir de nuages de points acquis par un LiDAR Terrestre. - Archive ouverte \nHAL Acc\u00e9der directement au contenu Documentation FR Fran\u00e7ais (FR) Anglais (EN) Se \nconnecter HAL science ouverte Recherche Loading... Recherche avanc\u00e9e Information de \ndocuments Titres Titres Sous-titre Titre de l'ouvrage Titre du volume (S\u00e9rie) Champ de \nrecherche par d\u00e9faut (multicrit\u00e8res) + texte int\u00e9gral des PDF R\u00e9sum\u00e9 Texte int\u00e9gral index\u00e9 des \ndocuments PDF Mots-cl\u00e9s Type de document Sous-type de document Tous les identifiants du \ndocument Identifiant HAL du d\u00e9p\u00f4t Langue du document (texte) Pays (Texte) Ville \u00c0 para\u00eetre \n(true ou false) Ajouter Auteur Auteur (multicrit\u00e8res) Auteur (multicrit\u00e8res) Auteur : Nom complet \nAuteur : Nom de famille Auteur : Pr\u00e9nom Auteur : Compl\u00e9ment de nom, deuxi\u00e8me pr\u00e9nom \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:tzM49s52ZIMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6655693871172500474",
+    "cites_id": [
+        "6655693871172500474"
+    ],
+    "pub_url": "https://hal.science/hal-02795202/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-jv7_E_GXVwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

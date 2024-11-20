@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Examining satellite images market stability using the Records theory: Evidence from French spatial data infrastructures",
+        "pub_year": 2021,
+        "citation": "Journal of Spatial Information Science, 61-82, 2021",
+        "author": "Chady Jabbour and Anis Hoayek and Pierre Maurel and Zaher Khraibani and Latifa Ghalayini",
+        "journal": "Journal of Spatial Information Science",
+        "number": "22",
+        "pages": "61-82",
+        "abstract": "The spatial data infrastructures (SDIs) which constitute a direct link between spatial data users and the large Earth observation industry, have a leading role in establishing market opportunities in the space sector. The spatial information supplied through various forms of SDI platforms exhibits large increases in demand volatility. The users' demand is unpredictable and the market is vulnerable to high evolution shifts. We study the effect of extreme demands for a particular type of spatial information, the satellite images. Drawing on two French SDIs, GEOSUD and PEPS, we examine the shifts occurring on their platforms and assess the probability of witnessing a spike/drop in the short term of different satellite imagery schemes: the high resolution images through GEOSUD; the Landsat (US), Sentinel (Europe) and SPOT (France) images through PEPS. We analyze the market stability through the two SDIs and evaluate the probability of future records by using the Records theory. The results show that the high resolution images demand through GEOSUD, for which the classical iid model fits the most, is stable. Moreover, the Yang-Nevzorov model fits to the Landsat data, due to more records concentrated beyond the first observations. The Landsat demand is the less stable out of the other three satellite images series, and the probability of having a record in the coming years is the highest. While the use of Records theory drops mathematical constraints, it offers an alternative solution to the non-applicability of the machine learning techniques and long-term memory models."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:oNZyr7d5Mn4C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=17562168579337319928",
+    "cites_id": [
+        "17562168579337319928"
+    ],
+    "pub_url": "https://josis.org/index.php/josis/article/view/147",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-HXtSEZbufMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

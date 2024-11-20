@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Shallow text clustering does not mean weak topics: How topic identification can leverage bigram features",
+        "pub_year": 2016,
+        "citation": "DMNLP: Data Mining and Natural Language Processing 1646, 2016",
+        "author": "Julien Velcin and Mathieu Roche and Pascal Poncelet",
+        "conference": "DMNLP: Data Mining and Natural Language Processing",
+        "volume": "1646",
+        "abstract": "Text clustering and topic learning are two closely related tasks. In this paper, we show that the topics can be learnt without the absolute need of an exact categorization. In particular, the experiments performed on two real case studies with a vocabulary based on bigram features lead to extracting readable topics that cover most of the documents. Precision at 10 is up to 74% for a dataset of scientific abstracts with 10,000 features, which is 4% less than when using unigrams only but provides more interpretable topics."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:6ZxmRoH8BuwC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=6070637253073338016",
+    "cites_id": [
+        "6070637253073338016"
+    ],
+    "pub_url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01362434/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oH6wBWs8P1QJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 0,
+        "2019": 1,
+        "2020": 0,
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    }
+}

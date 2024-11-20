@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fusion of Hyperspectral Images and LiDAR Data for Forestry Monitoring-A Review",
+        "pub_year": 2018,
+        "citation": "Whispers 2018, 9th edition of the Whispers Conference, 1, 2018",
+        "author": "Eduardo Alejandro Tusa Jumbo and A Laybros and JM Monnet and Mauro Dalla Mura and JB Barr\u00e9 and M Dalponte and JB Feret and G Vincent and Jean Luc Chanussot",
+        "conference": "Whispers 2018, 9th edition of the Whispers Conference",
+        "pages": "1",
+        "abstract": "According to the Intergovernmental Panel on Climate Change (IPCC), forests represent an essential source of all carbon stocks in vegetation for maintaining life conditions of many organisms in the terrestrial biosphere. The utilization of strategies for forest characterization and monitoring, plays an imperative role to develop a proper sustainable management. Current research in the field is focused on sensor potentiality and data processing. Recent advances in remote sensing afford valuable information to describe forests at tree level. On the one hand, hyperspectral images contain meaningful reflectance attributes of plants or spectral traits. On the other hand, LiDAR data offers alternatives for analyzing structural properties of canopy. A convenient selection of fusion methods provide better and more robust estimation of the variable of interest. This work presents a literature review for the integration of hyperspectral images and LiDAR data by considering applications related to forestry monitoring. Although different authors propose a variety of taxonomies for data fusion, we classified our reviewed methods according to three levels of fusion based on data processing: Low level or observation level, medium level or feature level, and high level or decision level. Fusion at observation level preserves most of the original information from both modalities by handling data at the same spatial dimension. Canopy Height Model (CHM) is the most used two-dimensional representation of LiDAR point cloud for the registration with hyperspectral images. Fusion at feature level seeks to complement information by exploiting the original data. The most relevant \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:_xSYboBqXhAC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02608217/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cm4sJ9tvU90J:scholar.google.com/",
+    "cites_per_year": {}
+}

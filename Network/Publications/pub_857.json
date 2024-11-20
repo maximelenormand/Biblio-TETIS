@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "High-resolution canopy height map in the Landes forest (France) based on GEDI, Sentinel-1, and Sentinel-2 data with a deep learning approach",
+        "pub_year": 2024,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 128 \u2026, 2024",
+        "author": "Martin Schwartz and Philippe Ciais and Catherine Ottl\u00e9 and Aurelien De Truchis and Cedric Vega and Ibrahim Fayad and Martin Brandt and Rasmus Fensholt and Nicolas Baghdadi and Fran\u00e7ois Morneau and David Morin and Dominique Guyon and Sylvia Dayau and Jean-Pierre Wigneron",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "128",
+        "pages": "103711",
+        "publisher": "Elsevier",
+        "abstract": "In intensively managed forests in Europe, where forests are divided into stands of small size and may show heterogeneity within stands, a high spatial resolution (10\u2013\u2013\u201320 m) is needed to capture the differences in canopy height. In this work, we developed a deep learning model based on multi-sensor remote sensing measurements to create a high-resolution canopy height map over the \u201cLandes de Gascogne\u201d forest in France, a large maritime pine plantation of 13,000 km2 with flat terrain and intensive management. This area is characterized by even-aged and mono-specific stands, of a typical length of a few hundred meters, harvested every 35 to 50 years. Our deep learning U-Net model uses multi-band images from Sentinel-1 and Sentinel-2 with composite time averages as input to predict tree height derived from GEDI waveforms. The evaluation is performed with external validation data from forest inventory \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:WWeOtg8bX_EC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=6655934319438613418",
+    "cites_id": [
+        "6655934319438613418"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1569843224000657",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qkt4tv-gXlwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 2
+    }
+}

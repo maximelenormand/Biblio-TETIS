@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Coverage of high biomass forests by the ESA BIOMASS mission under defense restrictions",
+        "pub_year": 2017,
+        "citation": "Remote Sensing of Environment 196, 154-162, 2017",
+        "author": "Jo\u00e3o MB Carreiras and Shaun Quegan and Thuy Le Toan and Dinh Ho Tong Minh and Sassan S Saatchi and Nuno Carvalhais and Markus Reichstein and Klaus Scipal",
+        "journal": "Remote Sensing of Environment",
+        "volume": "196",
+        "pages": "154-162",
+        "publisher": "Elsevier",
+        "abstract": "The magnitude of the global terrestrial carbon pool and related fluxes to and from the atmosphere are still poorly known. The European Space Agency P-band radar BIOMASS mission will help to reduce this uncertainty by providing unprecedented information on the distribution of forest above-ground biomass (AGB), particularly in the tropics where the gaps are greatest and knowledge is most needed. Mission selection was made in full knowledge of coverage restrictions over Europe, North and Central America imposed by the US Department of Defense Space Objects Tracking Radar (SOTR) stations. Under these restrictions, only 3% of AGB carbon stock coverage is lost in the tropical forest biome, with this biome representing 66% of global AGB carbon stocks in 2005. The loss is more significant in the temperate (72%), boreal (37%) and subtropical (29%) biomes, with these accounting for approximately 12%, 15 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:RHpTSmoSYBkC",
+    "num_citations": 99,
+    "citedby_url": "/scholar?hl=en&cites=12168766604584481997",
+    "cites_id": [
+        "12168766604584481997"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425717301943",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zfTkBMEk4KgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 9,
+        "2019": 12,
+        "2020": 16,
+        "2021": 25,
+        "2022": 11,
+        "2023": 20,
+        "2024": 4
+    }
+}

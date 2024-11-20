@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fusion of spatiotemporal and thematic features of textual data for animal disease surveillance",
+        "pub_year": 2023,
+        "citation": "Information Processing in Agriculture 10 (3), 347-360, 2023",
+        "author": "Sarah Valentin and Renaud Lancelot and Mathieu Roche",
+        "journal": "Information Processing in Agriculture",
+        "volume": "10",
+        "number": "3",
+        "pages": "347-360",
+        "publisher": "Elsevier",
+        "abstract": "Several internet-based surveillance systems have been created to monitor the web for animal health surveillance. These systems collect a large amount of news dealing with outbreaks related to animal diseases. Automatically identifying news articles that describe the same outbreak event is a key step to quickly detect relevant epidemiological information while alleviating manual curation of news content. This paper addresses the task of retrieving news articles that are related in epidemiological terms. We tackle this issue using text mining and feature fusion methods. The main objective of this paper is to identify a textual representation in which two articles that share the same epidemiological content are close. We compared two types of representations (i.e., features) to represent the documents: (i) morphosyntactic features (i.e., selection and transformation of all terms from the news, based on classical textual \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:3fE2CSJIrl8C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=2062468832368570902",
+    "cites_id": [
+        "2062468832368570902"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2214317322000312",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FrKkwXlcnxwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Transcriptome profiling of laser-captured crown root primordia reveals new pathways activated during early stages of crown root formation in rice",
+        "pub_year": 2020,
+        "citation": "Plos one 15 (11), e0238736, 2020",
+        "author": "J\u00e9r\u00e9my Lavarenne and Mathieu Gonin and Antony Champion and Marie Javelle and H\u00e9l\u00e8ne Adam and Jacques Rouster and Genevi\u00e8ve Conej\u00e9ro and Marc Lartaud and Jean-Luc Verdeil and Laurent Laplaze and Christophe Sallaud and Mikael Lucas and Pascal Gantet",
+        "journal": "Plos one",
+        "volume": "15",
+        "number": "11",
+        "pages": "e0238736",
+        "publisher": "Public Library of Science",
+        "abstract": "Crown roots constitute the main part of the rice root system. Several key genes involved in crown root initiation and development have been identified by functional genomics approaches. Nevertheless, these approaches are impaired by functional redundancy and mutant lethality. To overcome these limitations, organ targeted transcriptome analysis can help to identify genes involved in crown root formation and early development. In this study, we generated an atlas of genes expressed in developing crown root primordia in comparison with adjacent stem cortical tissue at three different developmental stages before emergence, using laser capture microdissection. We identified 3975 genes differentially expressed in crown root primordia. About 30% of them were expressed at the three developmental stages, whereas 10.5%, 19.5% and 12.8% were specifically expressed at the early, intermediate and late stages, respectively. Sorting them by functional ontology highlighted an active transcriptional switch during the process of crown root primordia formation. Cross-analysis with other rice root development-related datasets revealed genes encoding transcription factors, chromatin remodeling factors, peptide growth factors, and cell wall remodeling enzymes that are likely to play a key role during crown root primordia formation. This atlas constitutes an open primary data resource for further studies on the regulation of crown root initiation and development."
+    },
+    "filled": true,
+    "author_pub_id": "A17UErUAAAAJ:YsMSGLbcyi4C",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=13109823616144135916",
+    "cites_id": [
+        "13109823616144135916"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238736",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7FZMvB5z77UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 2,
+        "2023": 4,
+        "2024": 1
+    }
+}

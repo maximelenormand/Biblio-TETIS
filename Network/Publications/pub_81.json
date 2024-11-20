@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fine grained classification for multi-source land cover mapping",
+        "pub_year": 2020,
+        "citation": "arXiv e-prints, arXiv: 2004.01963, 2020",
+        "author": "Yawogan Jean Eudes Gbodjo and Dino Ienco and Louise Leroux and Roberto Interdonato and Raffaelle Gaetano",
+        "journal": "arXiv e-prints",
+        "pages": "arXiv: 2004.01963",
+        "abstract": "Nowadays, there is a general agreement on the need to better characterize agricultural monitoring systems in response to the global changes. Timely and accurate land use/land cover mapping can support this vision by providing useful information at fine scale. Here, a deep learning approach is proposed to deal with multi-source land cover mapping at object level. The approach is based on an extension of Recurrent Neural Network enriched via an attention mechanism dedicated to multi-temporal data context. Moreover, a new hierarchical pretraining strategy designed to exploit specific domain knowledge available under hierarchical relationships within land cover classes is introduced. Experiments carried out on the Reunion island-a french overseas department-demonstrate the significance of the proposal compared to remote sensing standard approaches for land cover mapping."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:HDshCWvjkbEC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200401963E/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:q479CySauWQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving heterogeneous forest height maps by integrating GEDI-based forest height information in a multi-sensor mapping process",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (9), 2079, 2022",
+        "author": "David Morin and Milena Planells and Nicolas Baghdadi and Alexandre Bouvet and Ibrahim Fayad and Thuy Le Toan and St\u00e9phane Mermoz and Ludovic Villard",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "9",
+        "pages": "2079",
+        "publisher": "MDPI",
+        "abstract": "Forests are one of the key elements in ecological transition policies in Europe. Sustainable forest management is needed in order to optimise wood harvesting, while preserving carbon storage, biodiversity and other ecological functions. Forest managers and public bodies need improved and cost-effective forest monitoring tools. Research studies have been carried out to assess the use of optical and radar images for producing forest height or biomass maps. The main limitations are the quantity, quality and representativeness of the reference data for model training. The Global Ecosystem Dynamics Investigation (GEDI) mission (full waveform LiDAR on board the International Space Station) has provided an unprecedented number of forest canopy height samples from 2019. These samples could be used to improve reference datasets. This paper aims to present and validate a method for estimating forest dominant height from open access optical and radar satellite images (Sentinel-1, Sentinel-2 and ALOS-2 PALSAR-2), and then to assess the use of GEDI samples to replace field height measurements in model calibration. Our approach combines satellite image features and dominant height measurements, or GEDI metrics, in a Support Vector Machine regression algorithm, with a feature selection process. The method is tested on mixed uneven-aged broadleaved and coniferous forests in France. Using dominant height measurements for model training, the cross-validation shows 7.3 to 11.6% relative Root Mean Square Error (RMSE) depending on the forest class. When using GEDI height metrics instead of field measurements for model \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:orDZ08hpP44C",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=17996535163012061334",
+    "cites_id": [
+        "17996535163012061334"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/9/2079",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lhgpi2GJwPkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 9,
+        "2024": 2
+    }
+}

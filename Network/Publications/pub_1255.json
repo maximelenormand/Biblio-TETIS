@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Gender issues and sustainable development: the potential of agroecology in the northeast of Para, Brazil",
+        "pub_year": 2018,
+        "citation": "CAHIERS AGRICULTURES 27 (5), 2018",
+        "author": "Francesca Alice Centrone and Jean-Philippe Tonneau and Marc Piraux and Nathalie Cialdella and Tania De Sousa Leite and Angela Mosso and Angela Calvo",
+        "journal": "CAHIERS AGRICULTURES",
+        "volume": "27",
+        "number": "5",
+        "publisher": "EDP SCIENCES SA",
+        "abstract": "World agriculture is facing many challenges in terms of food sovereignty. Firstly, the need to ensure a fair access to food (and good food) and basic necessities to a growing global population. Second, the necessity to include such actions within a more general perspective of dealing with poverty, inequality, and malnutrition worldwide, as well as contributing to a more sustainable management of natural and agricultural resources and biodiversity. The agroecological approach seems one of the most suitable option, because of its holistic nature regarding the use of natural resources and processes, which benefits farmers, sustainable agriculture and healthy food consumption models. In addition, agroecology is designed to support more egalitarian social relations, such as those related to gender equality. Nonetheless, the analysis of the relations and the implications between agroecology and gender issues is still a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:VLnqNzywnoUC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=14323258930061203168",
+    "cites_id": [
+        "14323258930061203168"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=14323258930061203168&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4FY96BtwxsYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

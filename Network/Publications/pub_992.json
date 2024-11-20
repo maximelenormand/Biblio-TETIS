@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PADI-web 3.0: A new framework for extracting and disseminating fine-grained information from the news for animal disease surveillance",
+        "pub_year": 2021,
+        "citation": "One Health 13, 100357, 2021",
+        "author": "Sarah Valentin and Elena Arsevska and Julien Rabatel and Sylvain Falala and Aliz\u00e9 Mercier and Renaud Lancelot and Mathieu Roche",
+        "journal": "One Health",
+        "volume": "13",
+        "pages": "100357",
+        "publisher": "Elsevier",
+        "abstract": "PADI-web (Platform for Automated extraction of animal Disease Information from the web) is a biosurveillance system dedicated to monitoring online news sources for the detection of emerging animal infectious diseases. PADI-web has collected more than 380,000 news articles since 2016. Compared to other existing biosurveillance tools, PADI-web focuses specifically on animal health and has a fully automated pipeline based on machine-learning methods. This paper presents the new functionalities of PADI-web based on the integration of: (i) a new fine-grained classification system, (ii) automatic methods to extract terms and named entities with text-mining approaches, (iii) semantic resources for indexing keywords and (iv) a notification system for end-users. Compared to other biosurveillance tools, PADI-web, which is integrated in the French Platform for Animal Health Surveillance (ESA Platform), offers strong \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:5nxA0vEk-isC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=6629971950253017478",
+    "cites_id": [
+        "6629971950253017478"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352771421001476",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:homilVxkAlwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 9,
+        "2023": 10
+    }
+}

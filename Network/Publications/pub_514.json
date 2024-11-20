@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "L\u2019\u00e9levage au c\u0153ur de paysages \u00abclimato-intelligents\u00bb en Afrique de l\u2019Ouest",
+        "pub_year": 2017,
+        "citation": "Des territoires vivants pour transformer le monde. Versailles: Quae, 114-120, 2017",
+        "author": "Jonathan Vayssi\u00e8res and Mohamed Habibou Assouma and Philippe Lecomte and Pierre Hiernaux and Jeremy Bourgoin and Fr\u00e9d\u00e9rique Jankowski and Christian Corniaux and Mathieu Vigne and Emmanuel Torquebiau and Alexandre Ickowicz",
+        "journal": "Des territoires vivants pour transformer le monde. Versailles: Quae",
+        "pages": "114-120",
+        "abstract": "L\u2019Afrique de l\u2019Ouest est particuli\u00e8rement concern\u00e9e par le d\u00e9fi du changement climatique du fait d\u2019une population humaine en plein essor et d\u2019une agriculture largement pluviale, tr\u00e8s d\u00e9pendante des variations annuelles des ressources naturelles locales. Il s\u2019 agit donc d\u2019imaginer une agriculture \u00abclimato-intelligente1\u00bb, c\u2019est-\u00e0-dire suffisamment productive en nourriture, adapt\u00e9e aux variations climatiques et peu \u00e9mettrice de gaz \u00e0 effet de serre.En agriculture, l\u2019\u00e9tat de l\u2019art montre que les options d\u2019att\u00e9nuation ou d\u2019adaptation au changement climatique sont presque toujours analys\u00e9es aux niveaux infra (parcelle, troupeau) ou m\u00e9so (exploitation, m\u00e9nage), de fa\u00e7on isol\u00e9e, d\u00e9connect\u00e9e des autres composantes du syst\u00e8me. Ce chapitre montre, par une approche territoriale, que le concept de paysage \u00abclimato-intelligent\u00bb nous incite \u00e0 r\u00e9fl\u00e9chir davantage aux synergies possibles entre les objectifs de produire, d \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:QIV2ME_5wuYC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=6429658145223477025",
+    "cites_id": [
+        "6429658145223477025"
+    ],
+    "pub_url": "https://www.torrossa.com/gs/resourceProxy?an=5063738&publisher=FZZ759#page=116",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IQc-bQS8OlkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 0,
+        "2019": 2,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1
+    }
+}

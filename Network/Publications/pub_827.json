@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "High-throughput phenotyping of plant height: comparing Unmanned Aerial Vehicles and ground LiDAR estimates",
+        "pub_year": 2017,
+        "citation": "Frontiers in Plant Science 8, 2017",
+        "author": "Simon Madec and Fred Baret and Beno\u00eet De Solan and Samuel Thomas and Dan Dutartre and St\u00e9phane Jezequel and Matthieu Hemmerl\u00e9 and Gallian Colombeau and Alexis Comar",
+        "journal": "Frontiers in Plant Science",
+        "volume": "8",
+        "publisher": "Frontiers",
+        "abstract": "The capacity of LiDAR and Unmanned Aerial Vehicles (UAVs) to provide plant height estimates as a high-throughput plant phenotyping trait was explored. An experiment over wheat genotypes conducted under well watered and water stress modalities was conducted. Frequent LiDAR measurements were performed along the growth cycle using a ph\u00e9nomobile unmanned ground vehicle. UAV equipped with a high resolution RGB camera was flying the experiment several times to retrieve the digital surface model from structure from motion techniques. Both techniques provide a 3D dense point cloud from which the plant height can be estimated. Plant height first defined as the z-value for which 99.5% of the points of the dense cloud are below. This provides good consistency with manual measurements of plant height (RMSE = 3.5 cm) while minimizing the variability along each microplot. Results show that LiDAR and structure from motion plant height values are always consistent. However, a slight under-estimation is observed for structure from motion techniques, in relation with the coarser spatial resolution of UAV imagery and the limited penetration capacity of structure from motion as compared to LiDAR. Very high heritability values (H2> 0.90) were found for both techniques when lodging was not present. The dynamics of plant height shows that it carries pertinent information regarding the period and magnitude of the plant stress. Further, the date when the maximum plant height is reached was found to be very heritable (H2> 0.88) and a good proxy of the flowering stage. Finally, the capacity of plant height as a proxy for total above ground \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:qjMakFHDy7sC",
+    "num_citations": 293,
+    "citedby_url": "/scholar?hl=en&cites=12114096506529256552",
+    "cites_id": [
+        "12114096506529256552"
+    ],
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fpls.2017.02002/full",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aBR65pbqHagJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 27,
+        "2019": 50,
+        "2020": 53,
+        "2021": 61,
+        "2022": 44,
+        "2023": 50,
+        "2024": 7
+    }
+}

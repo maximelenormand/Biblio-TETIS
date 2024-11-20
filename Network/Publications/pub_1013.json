@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Which water bird groups need greater habitat conservation measures in a wetland ecosystem?",
+        "pub_year": 2020,
+        "citation": "Ecological Engineering 143, 105677, 2020",
+        "author": "Saeideh Maleki and Nicolas Baghdadi and Vahid Rahdari",
+        "journal": "Ecological Engineering",
+        "volume": "143",
+        "pages": "105677",
+        "publisher": "Elsevier",
+        "abstract": "One important issue in wildlife conservation is the identification of the groups of species that need greater conservation measures. In this regard, maps of habitat degradation are useful tools. However, water bird habitat mapping in wetland ecosystem is difficult due to the large extent and complexity of wetlands and the narrow boundary between the habitats of different groups. In this paper, the capabilities of synthetic aperture radar (SAR) data were applied to overcome these limitations and to provide a practical scheme to conserve water bird habitats. The significance of this paper is the novel application of the SAR capabilities for water bird habitat conservation. These data were used to separate the habitat of the three water bird groups and to determine the destroyed habitats that should be protected for water birds in wetlands with unstable conditions. Using Sentinel-1 (S1) data, habitat maps for the water birds \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:jFemdcug13IC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=12859662346519943263",
+    "cites_id": [
+        "12859662346519943263"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S092585741930401X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:X5jJT8WydrIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 4
+    }
+}

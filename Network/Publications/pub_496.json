@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Intersectional approach of everyday geography",
+        "pub_year": 2024,
+        "citation": "Environment and Planning B: Urban Analytics and City Science 51, 347-365, 2024",
+        "author": "Julie Vall\u00e9e and Maxime Lenormand",
+        "journal": "Environment and Planning B: Urban Analytics and City Science",
+        "volume": "51",
+        "pages": "347-365",
+        "abstract": "Hour-by-hour variations in spatial distribution of gender, age and social class within cities remain poorly explored and combined in the segregation literature mainly centred on home places from a single social dimension. Taking advantage of 49 mobility surveys compiled together (385,000 respondents and 1,711,000 trips) and covering 60% of France\u2019s population, we consider variations in hourly populations of 2572 districts after disaggregating population across gender, age and education level. We first isolate five district hourly profiles (two \u2018daytime attractive\u2019, two \u2018nighttime attractive\u2019 and one more \u2018stable\u2019) with very unequal distributions according to urban gradient but also to social groups. We then explore the intersectional forms of these everyday geographies. Taking as reference the dominant groups (men, middle-age and high educated people) known as concentrating hegemonic power and capital, we \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:pyW8ca7W8N0C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=731637788127911135",
+    "cites_id": [
+        "731637788127911135"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/23998083231174025",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:39ydIbFMJwoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

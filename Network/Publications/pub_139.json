@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Slope and equilibrium: A parsimonious and flexible approach to model microclimate",
+        "pub_year": 2023,
+        "citation": "Methods in Ecology and Evolution 14 (3), 885-897, 2023",
+        "author": "Eva Gril and Fabien Spicher and Caroline Greiser and Michael B Ashcroft and Sylvain Pincebourde and Sylvie Durrieu and Manuel Nicolas and Benoit Richard and Guillaume Decocq and Ronan Marrec and Jonathan Lenoir",
+        "journal": "Methods in Ecology and Evolution",
+        "volume": "14",
+        "number": "3",
+        "pages": "885-897",
+        "abstract": "  Most statistical models of microclimate focus on the difference or \u2018offset\u2019 between standardized air temperatures (macroclimate) and those of a specific habitat such as forest understorey, grassland or under a log. However, these offsets can fluctuate from positive to negative over a single day such that common practice consists in aggregating data into daily mean, minimum and maximum before modelling monthly offsets for each summary statistic. Here, we propose a more parsimonious and flexible approach relying on just two parameters: the slope and equilibrium. The slope captures the linear relationship between microclimate and macroclimate, while the equilibrium is the point at which microclimate equals macroclimate. Although applicable to other habitats, we demonstrate the relevance of our method by focusing on forest understoreys. We installed temperature sensors at 1\u2010m height inside forest stands \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:NJ774b8OgUMC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=10547645833554083314",
+    "cites_id": [
+        "10547645833554083314"
+    ],
+    "pub_url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.14048",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8r2edQDEYJIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 8,
+        "2024": 4
+    }
+}

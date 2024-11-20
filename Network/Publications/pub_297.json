@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Extended biomass allometric equations for large mangrove trees from terrestrial LiDAR data",
+        "pub_year": 2016,
+        "citation": "Trees 30, 935-947, 2016",
+        "author": "Adewole Olagoke and Christophe Proisy and Jean-Baptiste F\u00e9ret and Elodie Blanchard and Fran\u00e7ois Fromard and Ulf Mehlig and Moirah Machado de Menezes and Valdenira Ferreira Dos Santos and Uta Berger",
+        "journal": "Trees",
+        "volume": "30",
+        "pages": "935-947",
+        "publisher": "Springer Berlin Heidelberg",
+        "abstract": " We estimated aboveground biomass of large mangrove trees from terrestrial Lidar measurements. This makes the first attempt to extend mangrove biomass equations validity range to trunk diameter reaching 125 cm. Accurately determining biomass of large trees is crucial for reliable biomass analyses in most tropical forests, but most allometric models calibration are deficient in large trees data. This issue is a major concern for high-biomass mangrove forests, especially when their role in the ecosystem carbon storage is considered. As an alternative to the fastidious cutting and weighing measurement approach, we explored a non-destructive terrestrial laser scanning approach to estimate the aboveground biomass of large mangroves (diameters reaching up to 125 cm). Because of buttresses in large \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:qxL8FJ1GzNcC",
+    "num_citations": 64,
+    "citedby_url": "/scholar?hl=en&cites=12200211440508287446",
+    "cites_id": [
+        "12200211440508287446"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s00468-015-1334-9",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1jknaKrbT6kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 3,
+        "2017": 3,
+        "2018": 8,
+        "2019": 9,
+        "2020": 10,
+        "2021": 15,
+        "2022": 6,
+        "2023": 9,
+        "2024": 1
+    }
+}

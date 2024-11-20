@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring natural habitats using multi-sources remote-sensing data in answer to conservation planning",
+        "pub_year": 2016,
+        "citation": "Ecosummit 2016, 16, 2016",
+        "author": "Samuel Alleaume and Vincent Thi\u00e9rion and D Marechal and M Roux and Sylvio Laventure and Yousra Hamrouni and JB Feret and M Lang and Lo\u00efc Commagnac and Sandra Luque",
+        "conference": "Ecosummit 2016",
+        "pages": "16",
+        "abstract": "The preservation of biodiversity has become a major challenge for sustainable development at national, European (Natura 2000 and Habitats Directive) and international level (Convention on Biological Diversity, 2011-2020). Managers of natural areas have significant needs for knowledge of biodiversity inventory, spatial distribution, spatiotemporal evolution, as well as pressures on it. The use of remote sensing and related techniques is a must to get a synoptic view of the natural environment. The availability of images from new sensors, in various spatial and temporal resolution offers interesting perspectives in the consideration of various scales of ecosystems. These include, the images from decametric resolution sensors such as Landsat 8, or more recently Sentinel 2 high temporal frequency; very high resolution sensors such as SPOT 6 and 7, Pleiade but also images from UAV. Monitoring of natural areas using multi-source remote sensing data is illustrated in particular through a program funded by the French Ministry of the Environment which aims at mapping the natural habitats throughout the country to scale of 1: 25000."
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:NaGl4SEjCO4C",
+    "num_citations": 0,
+    "pub_url": "https://imt-mines-ales.hal.science/hal-02605356/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CVYmu11zFeMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

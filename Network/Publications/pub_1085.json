@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "88milSMS. A corpus of authentic text messages in French",
+        "pub_year": 2016,
+        "citation": "Banque de corpus CoMeRe. Chanier T.(\u00e9d)-Ortolang: Nancy, 2016",
+        "author": "Rachel Panckhurst and Catherine D\u00e9trie and C\u00e9dric Lopez and Claudine Mo\u00efse and Mathieu Roche and Bertrand Verine",
+        "journal": "Banque de corpus CoMeRe. Chanier T.(\u00e9d)-Ortolang: Nancy",
+        "abstract": "The first version of the corpus (ISLRN: 024-713-187-947-8) was produced in 2014 as part of the\" sud4science LR project\". More than 88,000 authentic SMS, sent by hundreds of donators living mainly in the Montpellier area, were collected, in 2011, then anonymised, by the researchers, their student interns and a legal adviser-CIL. The initial corpus was then converted to TEI standard in the project CoMeRe (Communication M\u00e9di\u00e9e par les R\u00e9seaux). This project aims to build a kernel corpus assembling existing corpora of different CMC (Computer-Mediated Communication) genres and new corpora build on data extracted from the Internet. These heterogenous corpora will be structured and processed in a uniform way, complemented with metadata. CoMeRe will be released as OpenData through the national infrastructure Ortolang, following constraints which will be reused for the forthcoming \u201cCorpus de R\u00e9f\u00e9rence \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:a3BOlSfXSfwC",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=16153226770488112735",
+    "cites_id": [
+        "16153226770488112735"
+    ],
+    "pub_url": "http://hal.cirad.fr/hal-01485560/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XzZGDyrKK-AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 4,
+        "2016": 4,
+        "2017": 8,
+        "2018": 2,
+        "2019": 4,
+        "2020": 4,
+        "2021": 2,
+        "2022": 2,
+        "2023": 1
+    }
+}

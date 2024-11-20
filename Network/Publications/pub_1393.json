@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Water vapor observations up to the lower stratosphere through the Raman lidar during the Ma\u00efdo Lidar Calibration Campaign",
+        "pub_year": 2015,
+        "citation": "Atmospheric Measurement Techniques 8 (3), 1425-1445, 2015",
+        "author": "Davide Dionisi and Philippe Keckhut and Yann Courcoux and Alain Hauchecorne and Jacques Porteneuve and Jean-Luc Baray and J Leclair de Bellevue and H\u00e9l\u00e8ne V\u00e9r\u00e8mes and Franck Gabarrot and Guillaume Payen and R\u00e9my Decoupes and Jean-Pierre Cammas",
+        "journal": "Atmospheric Measurement Techniques",
+        "volume": "8",
+        "number": "3",
+        "pages": "1425-1445",
+        "publisher": "Copernicus GmbH",
+        "abstract": " A new lidar system devoted to tropospheric and lower stratospheric water vapor measurements has been installed at the Ma\u00efdo altitude station facility of R\u00e9union island, in the southern subtropics.  To evaluate the performances and the capabilities of the new system with a particular focus on UTLS (Upper Troposphere Lower Stratosphere) measurements, the Ma\u00efdo Lidar Calibration Campaign (MALICCA) was performed in April 2013.  Varying the characteristics of the transmitter and the receiver components, different system configuration scenarios were tested and possible parasite signals (fluorescent contamination, rejection) were investigated. A hybrid calibration methodology has been set up and validated to insure optimal lidar calibration stability with time. In particular, the receiver transmittance is monitored through the calibration lamp method that, at the moment, can detect transmittance variations greater than 10\u201315%. Calibration coefficients are then calculated through the hourly values of IWV (Integrated Water Vapor) provided by the co-located GPS. The comparison between the constants derived by GPS and Vaisala RS92 radiosondes launched at Ma\u00efdo during MALICCA, points out an acceptable agreement in terms of accuracy of the mean calibration value (with a difference of approximately 2\u20133%), but a significant difference in terms of variability (14% vs. 7\u20139%, for GPS and RS92 calibration procedures, respectively).  We obtained a relatively good agreement between the lidar measurements and 15 co-located and simultaneous RS92 radiosondes. A relative difference below 10% is measured in the low and middle troposphere (2 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "k-E3aCAAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=3038418128691795971",
+    "cites_id": [
+        "3038418128691795971"
+    ],
+    "pub_url": "https://amt.copernicus.org/articles/8/1425/2015/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AxjIlzChKioJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 4,
+        "2017": 2,
+        "2018": 1,
+        "2019": 3,
+        "2020": 4,
+        "2021": 1,
+        "2022": 1,
+        "2023": 3
+    }
+}

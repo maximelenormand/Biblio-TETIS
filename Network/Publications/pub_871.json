@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of L-band SAR data for soil moisture estimations over agricultural areas in the tropics",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (9), 1122, 2019",
+        "author": "Mehrez Zribi and Sekhar Muddu and Safa Bousbih and Ahmad Al Bitar and Sat Kumar Tomer and Nicolas Baghdadi and Soumya Bandyopadhyay",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "9",
+        "pages": "1122",
+        "publisher": "MDPI",
+        "abstract": "The main objective of this study is to analyze the potential use of L-band radar data for the estimation of soil moisture over tropical agricultural areas under dense vegetation cover conditions. Ten radar images were acquired using the Phased Array Synthetic Aperture Radar/Advanced Land Observing Satellite (PALSAR/ALOS)-2 sensor over the Berambadi watershed (south India), between June and October of 2018. Simultaneous ground measurements of soil moisture, soil roughness, and leaf area index (LAI) were also recorded. The sensitivity of PALSAR observations to variations in soil moisture has been reported by several authors, and is confirmed in the present study, even for the case of very dense crops. The radar signals are simulated using five different radar backscattering models (physical and semi-empirical), over bare soil, and over areas with various types of crop cover (turmeric, marigold, and sorghum). When the semi-empirical water cloud model (WCM) is parameterized as a function of the LAI, to account for the vegetation\u2019s contribution to the backscattered signal, it can provide relatively accurate estimations of soil moisture in turmeric and marigold fields, but has certain limitations when applied to sorghum fields. Observed limitations highlight the need to expand the analysis beyond the LAI by including additional vegetation parameters in order to take into account volume scattering in the L-band backscattered radar signal for accurate soil moisture estimation."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:7wO8s98CvbsC",
+    "num_citations": 47,
+    "citedby_url": "/scholar?hl=en&cites=15678632951218104583",
+    "cites_id": [
+        "15678632951218104583"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/9/1122",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:B-kWpZmxldkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 11,
+        "2021": 12,
+        "2022": 13,
+        "2023": 9,
+        "2024": 1
+    }
+}

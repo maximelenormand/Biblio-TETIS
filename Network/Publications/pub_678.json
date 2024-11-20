@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "CROWN ROOTLESS1 binds DNA with a relaxed specificity and activates OsROP and OsbHLH044 genes involved in crown root formation in rice",
+        "pub_year": 2022,
+        "citation": "The Plant Journal 111 (2), 546-566, 2022",
+        "author": "Mathieu Gonin and Kwanho Jeong and Yoan Coudert and Jeremy Lavarenne and Giang Thi Hoang and Martine Bes and Huong Thi Mai To and Marie\u2010Rose Ndella Thiaw and Toan Van Do and Daniel Moukouanga and Soazig Guyomarc'h and Kevin Bellande and Jean\u2010R\u00e9my Brossier and Boris Parizot and Hieu Trang Nguyen and Tom Beeckman and V\u00e9ronique Bergougnoux and Jacques Rouster and Christophe Sallaud and Laurent Laplaze and Antony Champion and Pascal Gantet",
+        "journal": "The Plant Journal",
+        "volume": "111",
+        "number": "2",
+        "pages": "546-566",
+        "abstract": "In cereals, the root system is mainly composed of post\u2010embryonic shoot\u2010borne roots, named crown roots. The CROWN ROOTLESS1 (CRL1) transcription factor, belonging to the ASYMMETRIC LEAVES2\u2010LIKE/LATERAL ORGAN BOUNDARIES DOMAIN (ASL/LBD) family, is a key regulator of crown root initiation in rice (Oryza sativa). Here, we show that CRL1 can bind, both in\u2009vitro and in\u2009vivo, not only the LBD\u2010box, a DNA sequence recognized by several ASL/LBD transcription factors, but also another not previously identified DNA motif that was named CRL1\u2010box. Using rice protoplast transient transactivation assays and a set of previously identified CRL1\u2010regulated genes, we confirm that CRL1 transactivates these genes if they possess at least a CRL1\u2010box or an LBD\u2010box in their promoters. In planta, ChIP\u2010qPCR experiments targeting two of these genes that include both a CRL1\u2010 and an LBD\u2010box in their \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "A17UErUAAAAJ:WF5omc3nYNoC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=9047214176269090097",
+    "cites_id": [
+        "9047214176269090097"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15838",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Mb1l71spjn0J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 1
+    }
+}

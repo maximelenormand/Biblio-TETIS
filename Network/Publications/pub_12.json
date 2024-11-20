@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Supervised level-wise pretraining for recurrent neural network initialization in multi-class classification",
+        "pub_year": 2019,
+        "citation": "arXiv preprint arXiv:1911.01071, 2019",
+        "author": "Dino Ienco and Roberto Interdonato and Raffaele Gaetano",
+        "journal": "arXiv preprint arXiv:1911.01071",
+        "abstract": "Recurrent Neural Networks (RNNs) can be seriously impacted by the initial parameters assignment, which may result in poor generalization performances on new unseen data. With the objective to tackle this crucial issue, in the context of RNN based classification, we propose a new supervised layer-wise pretraining strategy to initialize network parameters. The proposed approach leverages a data-aware strategy that sets up a taxonomy of classification problems automatically derived by the model behavior. To the best of our knowledge, despite the great interest in RNN-based classification, this is the first data-aware strategy dealing with the initialization of such models. The proposed strategy has been tested on four benchmarks coming from two different domains, i.e., Speech Recognition and Remote Sensing. Results underline the significance of our approach and point out that data-aware strategies positively support the initialization of Recurrent Neural Network based classification models."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:NMxIlDl6LWMC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=6888585345377504203",
+    "cites_id": [
+        "6888585345377504203"
+    ],
+    "pub_url": "https://arxiv.org/abs/1911.01071",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ywsw1N8rmV8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Energie et acteurs: application de la m\u00e9thode des graphes aux acteurs alsaciens",
+        "pub_year": 2016,
+        "citation": "Cybergeo: European Journal of Geography, 2016",
+        "author": "Sophie Buessler and Christiane Weber",
+        "journal": "Cybergeo: European Journal of Geography",
+        "publisher": "CNRS-UMR G\u00e9ographie-cit\u00e9s 8504",
+        "abstract": "Cet article s\u2019ins\u00e8re dans le contexte actuel de la transition \u00e9nerg\u00e9tique du point de vue de la r\u00e9organisation locale des acteurs de l\u2019\u00e9nergie. Il pr\u00e9sente une m\u00e9thode exploratoire pour cartographier de mani\u00e8re syst\u00e9matique le r\u00e9seau d\u2019acteurs de la sc\u00e8ne \u00e9nerg\u00e9tique en s\u2019appuyant sur la m\u00e9thode des graphes. La m\u00e9thode s\u2019applique aux acteurs alsaciens. L\u2019acteur central est le p\u00f4le energivie.info. Huit acteurs communs \u00e0 la r\u00e9gion Alsace et aux deux principales collectivit\u00e9s (Eurom\u00e9tropole de Strasbourg et Mulhouse Alsace Agglom\u00e9ration) ont pu \u00eatre r\u00e9pertori\u00e9s. La plupart de ces acteurs communs ont un r\u00f4le de diffusion de donn\u00e9es et/ou de conseil, les autres sont des organes de repr\u00e9sentation des m\u00e9tiers du secteur du b\u00e2timent impliqu\u00e9s dans l\u2019innovation et le d\u00e9veloppement. Chaque acteur a des missions diff\u00e9rentes et compl\u00e9mentaires dans un paysage tr\u00e8s dynamique."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:uLbwQdceFCQC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16818328890992791035",
+    "cites_id": [
+        "16818328890992791035"
+    ],
+    "pub_url": "https://journals.openedition.org/cybergeo/27460",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-41Q3wS1ZukJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 1
+    }
+}

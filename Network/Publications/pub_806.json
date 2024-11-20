@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u202a Jouer avec diverses sources de r\u00e9gulation fonci\u00e8re: le pluralisme sah\u00e9lien\u202a",
+        "pub_year": 2016,
+        "citation": "\u00c9conomie rurale 353 (354), 27-44, 2016",
+        "author": "Hermine Papazian and Patrick d\u2019Aquino and Jeremy Bourgoin and Alpha Ba",
+        "journal": "\u00c9conomie rurale",
+        "volume": "353",
+        "number": "354",
+        "pages": "27-44",
+        "publisher": "Cairn",
+        "abstract": "En Afrique sah\u00e9lienne, la situation fonci\u00e8re se caract\u00e9rise par l\u2019imbrication de normes et d\u2019instances en mati\u00e8re de r\u00e9gulation fonci\u00e8re, reposant \u00e0 la fois sur des pratiques locales informelles (mais reconnues par les populations) et sur un droit foncier l\u00e9gal o\u00f9 l\u2019essentiel du territoire demeure au sein de l\u2019\u00c9tat. Les acteurs du foncier s\u2019appuient en pratique plus sur un portefeuille de sources de r\u00e9gulations dans lequel ils puisent selon le contexte, plut\u00f4t que sur une seule r\u00e9f\u00e9rence de r\u00e9gulation reconnue et appliqu\u00e9e par tous. Sur la base d\u2019une exp\u00e9rimentation s\u2019appuyant sur un jeu de r\u00f4le pour tester la r\u00e9alit\u00e9 et les conditions de ces comportements locaux de mobilisation et d\u2019usage de diff\u00e9rentes sources de r\u00e9gulation fonci\u00e8re, l\u2019article propose des premi\u00e8res pistes de r\u00e9flexion pour appr\u00e9hender les contextes dans lesquels s\u2019int\u00e9greraient les futures politiques fonci\u00e8res mises en place par les \u00c9tats sah\u00e9liens, dont \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:hqOjcs7Dif8C",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=17243278965942640984",
+    "cites_id": [
+        "17243278965942640984"
+    ],
+    "pub_url": "https://www.cairn.info/revue-economie-rurale-2016-3-page-27.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WOH5V9xuTO8J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 1,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1,
+        "2023": 5,
+        "2024": 1
+    }
+}

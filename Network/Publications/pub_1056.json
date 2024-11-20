@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture retrival from Sentinel-1 and Modis synergy",
+        "pub_year": 2017,
+        "citation": "EGU General Assembly Conference Abstracts, 8087, 2017",
+        "author": "Qi Gao and Mehrez Zribi and Maria Jose Escorihuela and Nicolas Baghdadi",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "8087",
+        "abstract": "This study presents two methodologies retrieving soil moisture from SAR remote sensing data. The study is based on Sentinel-1 data in the VV polarization, over a site in Urgell, Catalunya (Spain). In the two methodologies using change detection techniques, preprocessed radar data are combined with normalized difference vegetation index (NDVI) auxiliary data to estimate the mean soil moisture with a resolution of 1km. By modeling the relationship between the backscatter difference and NDVI, the soil moisture at a specific NDVI value is retrieved. The first algorithm is already developed on West Africa (Zribi et al., 2014) from ERS scatterometer data to estimate soil water status. In this study, it is adapted to Sentinel-1 data and take into account the high repetitiveness of data in optimizing the inversion approach. Another new method is developed based on the backscatter difference between two adjacent days of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:S16KYo8Pm5AC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=1219734496321000860",
+    "cites_id": [
+        "1219734496321000860"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2017EGUGA..19.8087G/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nNWA3Q9e7RAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1
+    }
+}

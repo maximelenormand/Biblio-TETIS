@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Collective influence of household and community capitals on agricultural employment as a measure of rural poverty in the Mahanadi Delta, India",
+        "pub_year": 2020,
+        "citation": "Ambio 49 (1), 281-298, 2020",
+        "author": "Tristan Berchoux and Gary R Watmough and Fiifi Amoako Johnson and Craig W Hutton and Peter M Atkinson",
+        "journal": "Ambio",
+        "volume": "49",
+        "number": "1",
+        "pages": "281-298",
+        "publisher": "Springer Netherlands",
+        "abstract": "The main determinants of agricultural employment are related to households\u2019 access to private assets and the influence of inherited social\u2013economic stratification and power relationships. However, despite the recommendations of rural studies which have shown the importance of multilevel approaches to rural poverty, very few studies have explored quantitatively the effects of common-pool resources and household livelihood capitals on agricultural employment. Understanding the influence of access to both common-pool resources and private assets on rural livelihoods can enrich our understanding of the drivers of rural poverty in agrarian societies, which is central to achieving sustainable development pathways. Based on a participatory assessment conducted in rural communities in India, this paper differentiates two levels of livelihood capitals (household capitals and community capitals) and quantifies them \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:IjCSPb-OGe4C",
+    "num_citations": 25,
+    "citedby_url": "/scholar?hl=en&cites=1968412438514100504",
+    "cites_id": [
+        "1968412438514100504"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s13280-019-01150-9",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GOkXCa80URsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 2,
+        "2021": 9,
+        "2022": 5,
+        "2023": 6,
+        "2024": 1
+    }
+}

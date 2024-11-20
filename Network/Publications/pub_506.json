@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Synergic use of Sentinel-1 and Sentinel-2 images for operational soil moisture mapping at high spatial resolution over agricultural areas",
+        "pub_year": 2017,
+        "citation": "Remote Sensing 9 (12), 1292, 2017",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi and Hassan Bazzi",
+        "journal": "Remote Sensing",
+        "volume": "9",
+        "number": "12",
+        "pages": "1292",
+        "publisher": "Multidisciplinary Digital Publishing Institute",
+        "abstract": "Soil moisture mapping at a high spatial resolution is very important for several applications in hydrology, agriculture and risk assessment. With the arrival of the free Sentinel data at high spatial and temporal resolutions, the development of soil moisture products that can better meet the needs of users is now possible. In this context, the main objective of the present paper is to develop an operational approach for soil moisture mapping in agricultural areas at a high spatial resolution over bare soils, as well as soils with vegetation cover. The developed approach is based on the synergic use of radar and optical data. A neural network technique was used to develop an operational method for soil moisture estimates. Three inversion SAR (Synthetic Aperture Radar) configurations were tested: (1) VV polarization; (2) VH polarization; and (3) both VV and VH polarization, all in addition to the NDVI information extracted from optical images. Neural networks were developed and validated using synthetic and real databases. The results showed that the use of a priori information on the soil moisture condition increases the precision of the soil moisture estimates. The results showed that VV alone provides better accuracy on the soil moisture estimates than VH alone. In addition, the use of both VV and VH provides similar results, compared to VV alone. In conclusion, the soil moisture could be estimated in agricultural areas with an accuracy of approximately 5 vol % (volumetric unit expressed in percent). Better results were obtained for soil with a moderate surface roughness (for root mean surface height between 1 and 3 cm). The developed approach could \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:i2xiXl-TujoC",
+    "num_citations": 306,
+    "citedby_url": "/scholar?hl=en&cites=541435304952070970",
+    "cites_id": [
+        "541435304952070970"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/9/12/1292",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:OgOGjIqQgwcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 20,
+        "2019": 49,
+        "2020": 46,
+        "2021": 63,
+        "2022": 68,
+        "2023": 52,
+        "2024": 7
+    }
+}

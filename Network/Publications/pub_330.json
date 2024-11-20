@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Predicting the effects of climate change on dengue vector densities in Southeast Asia through process-based modeling",
+        "pub_year": 2022,
+        "citation": "Environmental Health Perspectives 130 (12), 127002, 2022",
+        "author": "Lucas Bonnin and Annelise Tran and Vincent Herbreteau and S\u00e9bastien Marcombe and S\u00e9bastien Boyer and Morgan Mangeas and Christophe Menkes",
+        "journal": "Environmental Health Perspectives",
+        "volume": "130",
+        "number": "12",
+        "pages": "127002",
+        "abstract": "Aedes aegypti and Ae. albopictus mosquitoes are major vectors for several human diseases of global importance, such as dengue and yellow fever. Their life cycles and hosted arboviruses are climate sensitive and thus expected to be impacted by climate change. Most studies investigating climate change impacts on Aedes at global or continental scales focused on their future global distribution changes, whereas a single study focused on its effects on Ae. aegypti densities regionally.A process-based approach was used to model densities of Ae. aegypti and Ae. albopictus and their potential evolution with climate change using a panel of nine CMIP6 climate models and climate scenarios ranging from strong to low mitigation measures at the Southeast Asian scale and for the next 80 y.The process-based model described, through a system of ordinary differential equations, the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:Ehil0879vHcC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=12832177797039141921",
+    "cites_id": [
+        "12832177797039141921"
+    ],
+    "pub_url": "https://ehp.niehs.nih.gov/doi/abs/10.1289/EHP11068",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ITQs97cNFbIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 6,
+        "2024": 1
+    }
+}

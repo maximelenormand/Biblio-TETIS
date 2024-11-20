@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Measuring ground subsidence in Hanoi city by radar interferometry",
+        "pub_year": 2016,
+        "citation": "VNUHCM Journal of Science and Technology Development 19 (2), 122-129, 2016",
+        "author": "Dinh Tong Dinh Ho and Cuong Quoc Tran and Anh Duc Nguyen and Thuy Le-Toan",
+        "journal": "VNUHCM Journal of Science and Technology Development",
+        "volume": "19",
+        "number": "2",
+        "pages": "122-129",
+        "abstract": "The rapidly developing urbanization since the last decade of the 20th century leads to the strong groundwater extraction, resulting in the subsidence phenomena in the Hanoi, Vietnam. Recent advances in the multi-temporal spaceborne SAR interferometry, especially with Persistent Scatters Interferometry (PSI) approach, is the robust remote sensing technique for measuring ground subsidence in large scale with millimetric accuracy. This work has presented an advanced PSI analysis, to provide unprecedented spatial extent and continuous temporal coverage of the subsidence in Hanoi City. The correlation between the reference leveling velocity and the estimated PSI result is R2= 0.86, and the root mean square error is 4.0 (mm/year), confirming their good agreement. The study shows that subsidence is most severe in the Haihung silt loam areas in the south of the city. The groundwater extraction resulting from urbanization and urban growth is mainly responsible for the subsidence."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:4OULZ7Gr8RgC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=2451770320919272581",
+    "cites_id": [
+        "2451770320919272581"
+    ],
+    "pub_url": "http://stdj.scienceandtechnology.com.vn/index.php/stdj/article/view/676",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hRw96R1wBiIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 1,
+        "2022": 1,
+        "2023": 1,
+        "2024": 2
+    }
+}

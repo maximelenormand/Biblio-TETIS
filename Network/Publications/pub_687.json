@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Disambiguation of the spatial entities by active learning",
+        "pub_year": 2018,
+        "citation": "REVUE INTERNATIONALE DE GEOMATIQUE 28 (2), 163-189, 2018",
+        "author": "Amal Chihaoui and Asma Bouhafs and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "REVUE INTERNATIONALE DE GEOMATIQUE",
+        "volume": "28",
+        "number": "2",
+        "pages": "163-189",
+        "publisher": "LAVOISIER",
+        "abstract": "Discovering spatial knowledge from texts could be a difficult task due to the ambiguity of textual documents written on natural language and the lack of large amounts of annotated data for the learning process. In this context, we address the problem of spatial entity desambiguation between \"location\" and \"organisation\" with active learning methods. First, we introduce a method based on lexical and contextual analysis. Second, we improve it by adding an active learning model, in order to automatically select the most informative unlabeled data to be annotated. Experimental setups are conducted on an english \"SemEval-2007\" corpus and demonstrate the effectiveness of the active learning methods to improve the initial learning model with small amounts of annotations."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:gVv57TyPmFsC",
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=17199629878008615706&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GhPmGj9cse4J:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "biodivMapR: An r package for \u03b1\u2010 and \u03b2\u2010diversity mapping using remotely sensed images",
+        "pub_year": 2020,
+        "citation": "Methods in Ecology and Evolution 11 (1), 64-70, 2020",
+        "author": "Jean\u2010Baptiste F\u00e9ret and Florian De Boissieu",
+        "journal": "Methods in Ecology and Evolution",
+        "volume": "11",
+        "number": "1",
+        "pages": "64-70",
+        "abstract": "  The accelerated erosion of biodiversity is a critical environmental challenge. Operational methods for the monitoring of biodiversity taking advantage of remotely sensed data are needed in order to provide information to ecologists and decision\u2010makers. We present an R package designed to compute a selection of \u03b1\u2010 and \u03b2\u2010diversity indicators from optical imagery, based on spectral variation hypothesis. This package builds upon previous work on biodiversity mapping using airborne imaging spectroscopy, and has been adapted in order to process broader range of data sources, including Sentinel\u20102 satellite images. biodivMapR is able to produce \u03b1\u2010diversity maps including Shannon and Simpson indices, as well as \u03b2\u2010diversity maps derived from Bray\u2013Curtis dissimilarity. It is able to process large images efficiently with moderate computational requirements on a personal computer. Additional functions allow \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:fPk4N6BV_jEC",
+    "num_citations": 44,
+    "citedby_url": "/scholar?hl=en&cites=280830631113345275",
+    "cites_id": [
+        "280830631113345275"
+    ],
+    "pub_url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13310",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-0iPmfi15QMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 10,
+        "2022": 18,
+        "2023": 12,
+        "2024": 2
+    }
+}

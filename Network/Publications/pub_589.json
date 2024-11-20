@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving the realistic rendering of artificial sonar images using Cycle Generative Adversarial Networks",
+        "pub_year": 2022,
+        "citation": "Proceedings of Meetings on Acoustics 47 (1), 2022",
+        "author": "Zamirddine Mari and Eric Monteux and Yann-Herv\u00e9 Hellouvry and Lionel Pibre and J\u00e9r\u00f4me Pasquet",
+        "journal": "Proceedings of Meetings on Acoustics",
+        "volume": "47",
+        "number": "1",
+        "publisher": "AIP Publishing",
+        "abstract": "The maritime operation which consists in revealing the presence of suspicious objects on the seabed is an activity of prime importance. Whether for defense matters or for civil activities such as the exploitation of marine resources. This is for example particularly true in the field of the exploitation of offshore wind turbines in the North Sea, a place very famous for suffering from the presence of unexploded ordnance (UXO) dating from past military conflicts. The advent of increasingly resolute sonar sensors combined with the development of autonomous underwater vehicles (AUV) make it possible to collect sonar images in large quantities which need to be processed by automatic algorithms dedicated to the detection and classification of mines and other dangerous objects (Figure 1).In recent years, the development of these algorithms, called ATR for Automatic Target Recognition, has relied on deep learning \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:mVmsd5A6BfQC",
+    "num_citations": 0,
+    "pub_url": "https://pubs.aip.org/asa/poma/article-abstract/47/1/070010/2848098",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:o7SUfFiPYcAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

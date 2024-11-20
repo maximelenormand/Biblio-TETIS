@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Animal daily mobility patterns analysis using resting event networks",
+        "pub_year": 2021,
+        "citation": "Applied Network Science 6, 7, 2021",
+        "author": "Maxime Lenormand and Herv\u00e9 Pella and Herv\u00e9 Capra",
+        "journal": "Applied Network Science",
+        "volume": "6",
+        "pages": "7",
+        "abstract": "Characterizing the movement patterns of animals is crucial to improve our understanding of their behavior and thus develop adequate conservation strategies. Such investigations, which could not have been implemented in practice only a few years ago, have been facilitated through the recent advances in tracking methods that enable researchers to study animal movement at an unprecedented spatio-temporal resolution. However, the identification and extraction of patterns from spatio-temporal trajectories is still a general problem that has relevance for many applications. Here, we rely on the concept of resting event networks to identify the presence of daily mobility patterns in animal spatio-temporal trajectories. We illustrate our approach by analyzing spatio-temporal trajectories of several fish species in a large hydropeaking river."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:JV2RwH3_ST0C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1355888641061316424",
+    "cites_id": [
+        "1355888641061316424"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s41109-021-00353-y",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SGdyBYkV0RIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The role of actor networks in enabling agroecological innovation: Lessons from Laos",
+        "pub_year": 2022,
+        "citation": "Sustainability 14 (6), 3550, 2022",
+        "author": "Jean-Christophe Castella and Guillaume Lestrelin and Sisavath Phimmasone and Hoa Tran Quoc and Pascal Lienhard",
+        "journal": "Sustainability",
+        "volume": "14",
+        "number": "6",
+        "pages": "3550",
+        "publisher": "MDPI",
+        "abstract": "In this paper, we use conceptual insights from the actor\u2013network theory (ANT) to explore the role of agroecological innovation systems (AeISs) in the reconfiguration of agricultural practices toward sustainability. AeISs are actor networks involving a diversity of individuals (e.g., farmers, traders, experts) and organizations (e.g., cooperatives, rural development agencies, teaching and research institutions) that mainstream agroecology principles and practices to enhance agroecosystems\u2019 resilience. Their composition and structure affect the way different agents of change interact, as well as how they access, exchange, and use knowledge as they drive the adoption of specific technologies. We document seven AeISs that were active between 2005 and 2020 in the northern uplands of Laos. Within the framework of these initiatives, action research was conducted for understanding the processes underpinning diverse technical, organizational, and institutional innovations to foster an agroecological transition. Building on a comparative analysis of AeIS, we consider how agency was distributed among collectives as they reorganized in time. Our discussion highlights the importance of configuring, enlarging, and nurturing spaces in which actors are empowered to adjust and adapt, as well as to think and act collectively in complexity. Lastly, what counts in the innovation is the underlying networking process itself, i.e., the process through which all actors of the AeIS interact and exchange. Changes in the networking processes come with a changing conception of knowledge. Moving from knowledge to knowing (i.e., knowledge in the making), AeISs no \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:VOx2b1Wkg3QC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=16482712792055396963",
+    "cites_id": [
+        "16482712792055396963"
+    ],
+    "pub_url": "https://www.mdpi.com/2071-1050/14/6/3550",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Y7o_ifRbvuQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 4,
+        "2024": 2
+    }
+}

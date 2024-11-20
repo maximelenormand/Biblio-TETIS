@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Gestion, Naturalit\u00e9 et Biodiversit\u00e9: pr\u00e9sentation g\u00e9n\u00e9rale du projet de recherche et de son approche",
+        "pub_year": 2017,
+        "citation": "Rendez-vous Techniques de l'ONF, 20-32, 2017",
+        "author": "Fr\u00e9d\u00e9ric Gosselin and Yoan Paillet and Marion Gosselin and Sylvie Durrieu and Laurent Larrieu and Anders M\u00e5rell and Vincent Boulanger and Nicolas Debaive and Fr\u00e9d\u00e9ric Archaux and Christophe Bouget and Olivier Gilg and Nicolas Drapier and E Dauffy Richard",
+        "journal": "Rendez-vous Techniques de l'ONF",
+        "number": "56",
+        "pages": "20-32",
+        "abstract": "Pour saisir la port\u00e9e et l'int\u00e9r\u00eat du projet GNB, il ne suffit pas de conna\u00eetre ses objectifs, d\u00fbment fond\u00e9s sur un bilan circonstanci\u00e9 de l'\u00e9tat des connaissances. Il faut aussi appr\u00e9hender sa d\u00e9marche \u00ab exp\u00e9rimentale \u00bb, \u00e0 commencer par la strat\u00e9gie d'\u00e9chantillonnage et d'inventaires ; il faut comprendre le choix de m\u00e9thodes d'analyse statistique innovantes mais complexes, avec en particulier la notion de magnitude des effets pour que les r\u00e9sultats puissent avoir une \u00ab lecture \u00bb op\u00e9rationnelle. Impossible de r\u00e9sumer en quelques mots la r\u00e9flexion exigeante qui a pr\u00e9sid\u00e9 \u00e0 la conception du projet."
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:HoB7MX3m0LUC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=14500292416932569230",
+    "cites_id": [
+        "14500292416932569230"
+    ],
+    "pub_url": "https://hal.science/hal-02499764/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jmCOmiBjO8kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 3,
+        "2022": 1
+    }
+}

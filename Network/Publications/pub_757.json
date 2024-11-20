@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation mapping using Sentinel-1 time series at field scale",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (9), 1495, 2018",
+        "author": "Qi Gao and Mehrez Zribi and Maria Jose Escorihuela and Nicolas Baghdadi and Pere Quintana Segui",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "9",
+        "pages": "1495",
+        "publisher": "MDPI",
+        "abstract": "The recently launched Sentinel-1 satellite with a Synthetic Aperture Radar (SAR) sensor onboard offers a powerful tool for irrigation monitoring under various weather conditions, with high spatial and temporal resolution. This research discusses the potential of different metrics calculated from the Sentinel-1 time series for mapping irrigated fields. A methodology for irrigation mapping using SAR data is proposed. The study is performed using VV (vertical\u2013vertical) and VH (vertical\u2013horizontal) polarizations over an agricultural site in Urgell, Catalunya (Spain). With field segmentation information from SIGPAC (the Geographic Information System for Agricultural Parcels), the backscatter intensities are averaged within each field. From the Sentinel-1 time series for each field, the statistics and metrics, including the mean value, the variance of the signal, the correlation length, and the fractal dimension, are analyzed. With the Support Vector Machine (SVM), the classification of irrigated crops, irrigated trees, and non-irrigated fields is performed with the metrics vector. The results derived from the SVM are validated with ground truthing from SIGPAC over the whole study area, with a good overall accuracy of 81.08%. Random Forest (RF) machine classification is also tested in this study, which gives an accuracy of around 82.2% when setting the tree depth at three. The methodology is based only on SAR data, which makes it applicable to all areas, even with frequent cloud cover, but this method may be less robust when irrigation is less dominated to soil moisture change."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Bg7qf7VwUHIC",
+    "num_citations": 129,
+    "citedby_url": "/scholar?hl=en&cites=9400021661293894614",
+    "cites_id": [
+        "9400021661293894614"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/9/1495",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1ltmwuWVc4IJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 21,
+        "2020": 26,
+        "2021": 24,
+        "2022": 33,
+        "2023": 16,
+        "2024": 7
+    }
+}

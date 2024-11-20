@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Pelican: deep architecture for the light curve analysis",
+        "pub_year": 2019,
+        "citation": "Astronomy & Astrophysics 627, A21, 2019",
+        "author": "Johanna Pasquet and J\u00e9r\u00f4me Pasquet and Marc Chaumont and Dominique Fouchez",
+        "journal": "Astronomy & Astrophysics",
+        "volume": "627",
+        "pages": "A21",
+        "publisher": "EDP Sciences",
+        "abstract": "We developed a deeP architecturE for the LIght Curve ANalysis (PELICAN) for the characterization and the classification of supernovae light curves. It takes light curves as input, without any additional features. PELICAN can deal with the sparsity and the irregular sampling of light curves. It is designed to remove the problem of non-representativeness between the training and test databases coming from the limitations of the spectroscopic follow-up. We applied our methodology on different supernovae light curve databases. First, we tested PELICAN on the Supernova Photometric Classification Challenge for which we obtained the best performance ever achieved with a non-representative training database, by reaching an accuracy of 0.811. Then we tested PELICAN on simulated light curves of the LSST Deep Fields for which PELICAN is able to detect 87.4% of supernovae Ia with a precision higher than 98%, by \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:hqOjcs7Dif8C",
+    "num_citations": 55,
+    "citedby_url": "/scholar?hl=en&cites=4539622991602615201",
+    "cites_id": [
+        "4539622991602615201"
+    ],
+    "pub_url": "https://www.aanda.org/articles/aa/abs/2019/07/aa34473-18/aa34473-18.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oYOrFA_7_z4J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 9,
+        "2020": 11,
+        "2021": 10,
+        "2022": 13,
+        "2023": 10,
+        "2024": 1
+    }
+}

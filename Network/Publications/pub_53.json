@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A neural network strategy for supervised classification via the Learning Under Privileged Information paradigm.",
+        "pub_year": 2021,
+        "citation": "SEBD, 83-93, 2021",
+        "author": "Ludovica Sacco and Dino Ienco and Roberto Interdonato",
+        "conference": "SEBD",
+        "pages": "83-93",
+        "abstract": "Devising new methodologies to handle and analyse Big Data has become a fundamental task in our increasingly service-oriented and interconnected society. One of the problems arising while handling such data is that, for a given set of entities, not all the entities may be described at the same level of detail, ie, the number of features describing each entity may vary. In general cases, in order to apply classic data science methods, it is necessary to have a common features set over a data set. This will then correspond to the maximum number of common features among the entities, resulting in a loss of information for the entities for which additional information may be available. In order to exploit such additional information, the Learning Using Privileged Information (LUPI) paradigm has been proposed, based on the use of the teacher role in the learning process. In this schema the teacher acquires a strategic position, by exploiting at the training stage some additional privileged information about the entities, which will not be available at the test stage. In this work, we apply this paradigm in the context of neural networks, by proposing a LUPI based deep learning architecture able to exploit a larger set of attributes at training time, with the aim to improve classification performances on a set of entities associated to a reduced attribute set. Experimental results show how the proposed approach improves upon the ones applying the same schema to classic machine learning methods (eg, SVM)."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:O3NaXMp0MMsC",
+    "num_citations": 0,
+    "pub_url": "https://www.academia.edu/download/85974064/paper8.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tVkOfZRMsSoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

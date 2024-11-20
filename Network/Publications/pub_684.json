@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of manhole covers in high-resolution aerial images of urban areas by combining two methods",
+        "pub_year": 2016,
+        "citation": "IEEE Journal of selected topics in applied earth observations and remote \u2026, 2016",
+        "author": "J\u00e9r\u00f4me Pasquet and Thibault Desert and Olivier Bartoli and Marc Chaumont and Carole Delenne and G\u00e9rard Subsol and Mustapha Derras and Nan\u00e9e Chahinian",
+        "journal": "IEEE Journal of selected topics in applied earth observations and remote sensing",
+        "volume": "9",
+        "number": "5",
+        "pages": "1802-1807",
+        "publisher": "IEEE",
+        "abstract": "Mispositioning of buried utilities is an increasingly important problem both in industrialized and developing countries because of urban sprawl and technological advances. However, some of these networks have surface access traps, which may be visible on high-resolution airborne or satellite images and could serve as presence indicators. We put forward a methodology to detect manhole covers and grates on very high-resolution aerial and satellite images. Two methods are tested: the first is based on a geometrical circular filter, whereas the second one uses machine learning to retrieve some patterns. The results are compared and combined to benefit from the two approaches."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:UeHWp8X0CEIC",
+    "num_citations": 31,
+    "citedby_url": "/scholar?hl=en&cites=13185065763054144206",
+    "cites_id": [
+        "13185065763054144206"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7373532/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zsoBO3TD-rYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 3,
+        "2017": 1,
+        "2018": 4,
+        "2019": 5,
+        "2020": 5,
+        "2021": 3,
+        "2022": 5,
+        "2023": 4,
+        "2024": 1
+    }
+}

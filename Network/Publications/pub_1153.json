@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Liveability from Above: Understanding Quality of Life with Overhead Imagery and Deep Neural Networks",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2094 \u2026, 2021",
+        "author": "Alex Levering and Diego Marcos and Devis Tuia",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "2094-2097",
+        "publisher": "IEEE",
+        "abstract": "Urban planners are increasingly interested in understanding what makes a neighbourhood pleasant and liveable. In this paper, we use the overhead perspective as a new way to describe and understand liveability of city neighborhoods. We predict building quality scores from aerial images using deep neural networks and demonstrate that liveability can be predicted from overhead aerial images of a neighbourhood. We make our model interpretable by adding the intermediate task of predicting a list of housing factors, but found this to substantially degrade the results. This suggests that the unconstrained model used visual cues that are unrelated to the housing variables, and shows the difficulty of housing variable prediction from above due to the absence of visual cues such as facades."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:SP6oXDckpogC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=15101227771501269695",
+    "cites_id": [
+        "15101227771501269695"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9553393/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:v9KYAKZWktEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 2,
+        "2024": 1
+    }
+}

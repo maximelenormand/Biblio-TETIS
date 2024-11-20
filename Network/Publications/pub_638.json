@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Describing fine spatiotemporal dynamics of rat fleas in an insular ecosystem enlightens abiotic drivers of murine typhus incidence in humans",
+        "pub_year": 2021,
+        "citation": "PLoS Neglected Tropical Diseases 15 (2), e0009029, 2021",
+        "author": "Annelise Tran and Gildas Le Minter and Elsa Balleydier and Ana\u00efs Etheves and Morgane Laval and Floriane Boucher and Vanina Guernier and Erwan Lagadec and Patrick Mavingui and Eric Cardinale and Pablo Tortosa",
+        "journal": "PLoS Neglected Tropical Diseases",
+        "volume": "15",
+        "number": "2",
+        "pages": "e0009029",
+        "publisher": "Public Library of Science",
+        "abstract": "Murine typhus is a flea-borne zoonotic disease that has been recently reported on Reunion Island, an oceanic volcanic island located in the Indian Ocean. Five years of survey implemented by the regional public health services have highlighted a strong temporal and spatial structure of the disease in humans, with cases mainly reported during the humid season and restricted to the dry southern and western portions of the island. We explored the environmental component of this zoonosis in an attempt to decipher the drivers of disease transmission. To do so, we used data from a previously published study (599 small mammals and 175 Xenopsylla fleas from 29 sampling sites) in order to model the spatial distribution of rat fleas throughout the island. In addition, we carried out a longitudinal sampling of rats and their ectoparasites over a 12 months period in six study sites (564 rats and 496 Xenopsylla fleas) in order to model the temporal dynamics of flea infestation of rats. Generalized Linear Models and Support Vector Machine classifiers were developed to model the Xenopsylla Genus Flea Index (GFI) from climatic and environmental variables. Results showed that the spatial distribution and the temporal dynamics of fleas, estimated through the GFI variations, are both strongly controlled by abiotic factors: rainfall, temperature and land cover. The models allowed linking flea abundance trends with murine typhus incidence rates. Flea infestation in rats peaked at the end of the dry season, corresponding to hot and dry conditions, before dropping sharply. This peak of maximal flea abundance preceded the annual peak of human murine typhus \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:ClCfbGk0d_YC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=2708203549388798783",
+    "cites_id": [
+        "2708203549388798783"
+    ],
+    "pub_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009029",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:P3vFjMd4lSUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 3
+    }
+}

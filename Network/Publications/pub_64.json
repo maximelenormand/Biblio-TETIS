@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Inferring the transmission dynamics of Avian Influenza from news and environmental data",
+        "pub_year": 2022,
+        "citation": "International Conference on Complex Networks and their Applications, 2022",
+        "author": "Nejat Arinik and Roberto Interdonato and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "International Conference on Complex Networks and their Applications",
+        "abstract": "Avian Influenza (AI) is a highly contagious animal disease. Although a few human infection cases occurred in the past, it mainly infects wild and domestic bird species. Transmission between birds can be direct due to close contact, or indirect through contaminated materials such as feed and water. Particularly, migratory wild birds play a key role in this transmission and make the viruses spread over long distances. The emergence and spread of AI has serious consequences for animal health and a substantial socio-economic impact for worldwide poultry producers. Due to its highly contagious nature, it is critical to monitor the evolution and spread of this disease. There are mainly two types of surveillance systems established for this purpose: Indicator-Based Surveillance (IBS) and Event-Based Surveillance (EBS). IBS usually relies on official notification procedures submitted by a country, whereas EBS extracts epidemiological events mostly from unofficial sources, such as news articles, through various Natural Language Processing tasks. Recently, several EBS platforms have shown their effectiveness by detecting the first signals of emerging infectious disease outbreaks in a timely manner and providing alerts within previously unaffected areas (eg [4]).Even though it is a well-studied and constantly monitored disease, real transmission routes of the AI viruses are hard to discover, ie where did an outbreak that appears in some location came from. Nonetheless, acquiring such disease transmission routes may allow to discover transmission patterns and to timely predict subsequent outbreaks. In this work, we focus on the problem of inferring how \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:u_35RYKgDlwC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03936660/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:COmpQUb60mgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

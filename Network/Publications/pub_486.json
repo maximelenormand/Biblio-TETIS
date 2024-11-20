@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil Moisture Estimation at 500m using Sentinel-1: application to Tunisian sites",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Myriam Foucras and Mehrez Zribi and Nicolas Baghdadi",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "4454-4457",
+        "publisher": "IEEE",
+        "abstract": "This article aims to propose an estimation of the soil moisture at a spatial resolution of 0.5 km and 6 days temporal resolution using Sentinel-1 data. The proposed approach is based on the change detection technique applied over a series of four-year measurements. The algorithm output, a moisture index is between 0 and 1, 0 for the driest soils, 1 for the wettest soils. The methodology is tested on different sites in Central Tunisia. Soil moisture estimations are compared to soil moisture in-situ measurements. Results show a good correlation between estimation and true measurements, in particular for the African regions."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:SxCCDk4iOpsC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9323870/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IiLSGBgDYeoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

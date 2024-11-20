@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dialogue entre les parties prenantes: un levier dans la mutation de la science chahut\u00e9e par l'anthropoc\u00e8ne",
+        "pub_year": 2021,
+        "citation": "Actes des sessions parall\u00e8les, Univ. Lorraine, France. Colloque Science \u2026, 2021",
+        "author": "Danielle Mitja and Anne Coudrain and Olivier Barri\u00e8re and A Begue and Marie-Paule Bonnet and S Cubizolles and Gilbert David and Eric Dela\u00eetre and JM Deleplace and Nadine Dessay and Jean-Fran\u00e7ois Faure and C Gervet and M Le Duff and E Long\u00e9p\u00e9e and P Patel and V\u00e9ronique Rousseau and Catherine Sabinot and Saito C Hiroo and AS Tabau and F Viale",
+        "journal": "Actes des sessions parall\u00e8les, Univ. Lorraine, France. Colloque Science & you 2021 \u201cun temps de r\u00e9flexion pour avancer",
+        "pages": "314-316",
+        "abstract": "Face aux crises de l\u2019anthropoc\u00e8ne-des conditions climatiques \u00e0 la sant\u00e9, en passant par la biodiversit\u00e9-la science doit explorer de nouveaux horizons pour d\u00e9velopper des savoirs sur les \u00ab\u00e0 venir\u00bb in\u00e9dits, savoirs nouveaux ou existants mais d\u00e9laiss\u00e9s. Face \u00e0 l\u2019urgence, elle doit stimuler la capacit\u00e9 projective des soci\u00e9t\u00e9s quant \u00e0 leurs contraintes, leurs choix et leurs actions. La crise sanitaire mondiale de la COVID-19 a montr\u00e9 qu\u2019il est possible de ralentir voire de suspendre le syst\u00e8me \u00e9conomique pr\u00e9valant (Latour 2020) pour enrayer les d\u00e9sastres irr\u00e9versibles suspect\u00e9s."
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:wKETBy42zhYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1789855452229725322",
+    "cites_id": [
+        "1789855452229725322"
+    ],
+    "pub_url": "https://www.documentation.ird.fr/hor/fdi:010085767",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iuxy_QzY1hgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

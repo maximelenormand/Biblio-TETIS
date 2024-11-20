@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Digital wiki map of pastoral geographies in eastern Senegal",
+        "pub_year": 2017,
+        "citation": "Pastoralism 7 (1), 1-3, 2017",
+        "author": "Matthew Turner and Erin Kitchell and John McPeak and J\u00e9r\u00e9my Bourgoin",
+        "journal": "Pastoralism",
+        "volume": "7",
+        "number": "1",
+        "pages": "1-3",
+        "publisher": "SpringerOpen",
+        "abstract": "The persistence of transhumance systems requires continued access to key pastoral resources that together allow the seasonal movement of livestock herds over long distances. In dryland West Africa, these pastoral resources are vulnerable to competing land uses - particularly agriculture. The mapping of pastoral resources is needed as a necessary but insufficient first step in local to national efforts to manage competing forms of land use in ways that do not threaten transhumance as a form of land use. In the hopes of spurring analogous efforts elsewhere, a new digital map of the transhumance system in eastern Senegal is described. Not only does it provide detailed information about key transhumance resources (water points, encampments, corridors, pastures), but allows these to be updated, queried and questioned through an on-line interface."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:R3hNpaxXUhUC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=3843594867447067411",
+    "cites_id": [
+        "3843594867447067411"
+    ],
+    "pub_url": "https://pastoralismjournal.springeropen.com/articles/10.1186/s13570-017-0104-2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:E3Oy7ioxVzUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

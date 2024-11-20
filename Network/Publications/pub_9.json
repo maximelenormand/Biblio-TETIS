@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring complex integrated crop\u2013livestock systems at regional scale in Brazil: a big earth observation data approach",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (7), 1648, 2022",
+        "author": "Patrick Calvano Kuchler and Margareth Sim\u00f5es and Rodrigo Ferraz and Damien Arvor and Pedro Luiz Oliveira de Almeida Machado and Marcos Rosa and Raffaele Gaetano and Agn\u00e8s B\u00e9gu\u00e9",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "7",
+        "pages": "1648",
+        "publisher": "MDPI",
+        "abstract": "Due to different combinations of agriculture, livestock and forestry managed by rotation, succession and intercropping practices, integrated agriculture production systems such as integrated crop\u2013livestock systems (iCL) constitute a very complex target and a challenge for automatic mapping of cropping practices based on remote sensing data. The overall objective of this study was to develop a classification strategy for the annual mapping of integrated Crop\u2013Livestock systems (iCL) at a regional scale. This strategy was designed and tested in the six agro-climatic regions of Mato Grosso, the largest Brazilian soybean producer state, using MODIS satellite time-series images acquired between 2012 and 2019, ground data with heterogeneous distribution in space and time and a Random Forest classifier. The results showed that: 1. the use of unbalanced training samples with a class composition close to the real one was the right classifier training strategy; 2. the use of a single training database (pooling samples from different years and regions) to classify each region and year individually proved to be robust enough to provide similar classification accuracies in comparison to those based on the use of a database acquired for each region and for each year. The final hierarchical classification overall accuracy was 0.89 for Level 1, the cropping pattern level (single and double crops DC); 0.84 for Level 2, the DC category level (integrated system iCL soy-pasture/brachiaria, soy-cotton and soy-cereal); 0.77 for Level 3, the iCL level (iCL1 soy-pasture and iCL2 soy-pasture mixed with corn). The F-scores for DC, iCL and iCL1 cropping systems presented \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:JV2RwH3_ST0C",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=6341991274565701164",
+    "cites_id": [
+        "6341991274565701164"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/7/1648",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LI4dgXZHA1gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 7
+    }
+}

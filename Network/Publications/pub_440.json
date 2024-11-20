@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PADI-web: an event-based surveillance system for detecting, classifying and processing online news",
+        "pub_year": 2020,
+        "citation": "Human Language Technology. Challenges for Computer Science and Linguistics \u2026, 2020",
+        "author": "Sarah Valentin and Elena Arsevska and Alize Mercier and Sylvain Falala and Julien Rabatel and Renaud Lancelot and Mathieu Roche",
+        "conference": "Human Language Technology. Challenges for Computer Science and Linguistics: 8th Language and Technology Conference, LTC 2017, Pozna\u0144, Poland, November 17\u201319, 2017, Revised Selected Papers 8",
+        "pages": "87-101",
+        "publisher": "Springer International Publishing",
+        "abstract": "The Platform for Automated Extraction of Animal Disease Information from the Web (PADI-web) is a multilingual text mining tool for automatic detection, classification, and extraction of disease outbreak information from online news articles. PADI-web currently monitors the Web for nine animal infectious diseases and eight syndromes in five animal hosts. The classification module is based on a supervised machine learning approach to filter the relevant news with an overall accuracy of 0.94. The classification of relevant news between 5 topic categories (confirmed, suspected or unknown outbreak, preparedness and impact) obtained an overall accuracy of 0.75. In the first six months of its implementation (January\u2013June 2016), PADI-web detected 73% of the outbreaks of African swine fever; 20% of foot-and-mouth disease; 13% of bluetongue, and 62% of highly pathogenic avian influenza. The information \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:_FxGoFyzp5QC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=3223105107748367250",
+    "cites_id": [
+        "3223105107748367250"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-66527-2_7",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kqsWzQTFuiwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 2,
+        "2022": 3,
+        "2023": 1
+    }
+}

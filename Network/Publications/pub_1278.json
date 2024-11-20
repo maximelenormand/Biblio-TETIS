@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improved regional-scale Brazilian cropping systems\u2019 mapping based on a semi-automatic object-based clustering approach",
+        "pub_year": 2018,
+        "citation": "International journal of applied earth observation and geoinformation 68 \u2026, 2018",
+        "author": "Beatriz Bell\u00f3n and Agn\u00e8s B\u00e9gu\u00e9 and Danny Lo Seen and Valentine Lebourgeois and Balbino Ant\u00f4nio Evangelista and Margareth Sim\u00f5es and Rodrigo Pe\u00e7anha Demonte Ferraz",
+        "journal": "International journal of applied earth observation and geoinformation",
+        "volume": "68",
+        "pages": "127-138",
+        "publisher": "Elsevier",
+        "abstract": "Cropping systems\u2019 maps at fine scale over large areas provide key information for further agricultural production and environmental impact assessments, and thus represent a valuable tool for effective land-use planning. There is, therefore, a growing interest in mapping cropping systems in an operational manner over large areas, and remote sensing approaches based on vegetation index time series analysis have proven to be an efficient tool. However, supervised pixel-based approaches are commonly adopted, requiring resource consuming field campaigns to gather training data. In this paper, we present a new object-based unsupervised classification approach tested on an annual MODIS 16-day composite Normalized Difference Vegetation Index time series and a Landsat 8 mosaic of the State of Tocantins, Brazil, for the 2014\u20132015 growing season. Two variants of the approach are compared: an \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:0izLItjtcgwC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=9781479699735759002",
+    "cites_id": [
+        "9781479699735759002"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0303243418301004",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mshxYPbLvocJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 3,
+        "2021": 4,
+        "2022": 4,
+        "2023": 5,
+        "2024": 1
+    }
+}

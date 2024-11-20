@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of L band radar data over tropical agricultural areas",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Mehrez Zribi and Sekhar Muddu and Soumya Bandyopadhyay and Safa Bousbih and Ahmad Al Bitar and Sat Kumar Tomer and Nicolas Baghdadi",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "6215-6218",
+        "publisher": "IEEE",
+        "abstract": "The main objective of this study is to analyze the potential use of L-band radar data for the estimation of soil moisture in agricultural tropical areas. Simultaneously to several radar acquisitions made between June and October 2018, using ALOS2-PALSAR sensor over the Berambadi site (south of India), ground measurements of soil roughness, soil water content, LAI were recorded. The sensitivity of the ALOS-2 measurements to variations in soil moisture, which has been reported in several scientific publications, is confirmed in this study, even for dense crops. The radar signals are simulated using different types of backscattering models (physical and semi-empirical) over bare soil and vegetation cover for different types of crops (tumeric, etc). WCM model parameterized with LAI for vegetation contribution allows a good estimation of soil moisture for tumeric."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:DBa1UEJaJKAC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8899079/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tsLPP-M_d1QJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multimodality for improved CNN photometric redshifts",
+        "pub_year": 2024,
+        "citation": "Astronomy & Astrophysics 683, A26, 2024",
+        "author": "R Ait Ouahmed and S Arnouts and J Pasquet and M Treyer and E Bertin",
+        "journal": "Astronomy & Astrophysics",
+        "volume": "683",
+        "pages": "A26",
+        "publisher": "EDP Sciences",
+        "abstract": "Photometric redshift estimation plays a crucial role in modern cosmological surveys for studying the universe\u2019s large-scale structures and the evolution of galaxies. Deep learning has emerged as a powerful method to produce accurate photometric redshift estimates from multiband images of galaxies. Here, we introduce a multimodal approach consisting of the parallel processing of several subsets of prior image bands, the outputs of which are then merged for further processing through a convolutional neural network (CNN). We evaluate the performance of our method using three surveys: the Sloan Digital Sky Survey (SDSS), the Canada-France-Hawaii Telescope Legacy Survey (CFHTLS), and the Hyper Suprime-Cam (HSC). By improving the model\u2019s ability to capture information embedded in the correlation between different bands, our technique surpasses state-of-the-art photometric redshift precision. We find \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:hFOr9nPyWt4C",
+    "num_citations": 0,
+    "pub_url": "https://www.aanda.org/articles/aa/abs/2024/03/aa47395-23/aa47395-23.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ton29fQXUNMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

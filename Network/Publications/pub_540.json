@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Experimental variables in sugarcane intercropping in Reunion Island for data matching",
+        "pub_year": 2023,
+        "citation": "Data in Brief 46, 108869, 2023",
+        "author": "Sandrine Auzoux and Billy Ngaba and Mathias Christina and Benjamin Heuclin and Mathieu Roche",
+        "journal": "Data in Brief",
+        "volume": "46",
+        "pages": "108869",
+        "publisher": "Elsevier",
+        "abstract": "This study aimed to link experimental data dealing with complex agroecological systems. For sharing and linking collected data with the generic AEGIS (Agro-Ecological Global Information System) database, our work described in this data paper consists in mapping researcher variables to the AEGIS dictionary variable for different tropical crops (sugarcane, rice, sorghum or cover crops). Additionally, this data paper presents a study case based on sugarcane intercropping systems for evaluating 3 matching measures of variables."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:In6cVmBjs0IC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=9302364142144225453",
+    "cites_id": [
+        "9302364142144225453"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352340922010721",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rYDWt-aiGIEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 2
+    }
+}

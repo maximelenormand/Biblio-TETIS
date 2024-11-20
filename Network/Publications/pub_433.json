@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analyse des dynamiques spatio-temporelles \u00e0 partir de s\u00e9ries temporelles d'images satellitaires.",
+        "pub_year": 2017,
+        "citation": "EGC, 261-272, 2017",
+        "author": "Lynda Khiali and Dino Ienco and Maguelonne Teisseire and UMR Irstea",
+        "conference": "EGC",
+        "pages": "261-272",
+        "abstract": "De nos jours, les satellites permettent de collecter un \u00e9norme volume de donn\u00e9es d\u2019observation de la Terre. Les images satellitaires peuvent \u00eatre utilis\u00e9es pour la surveillance \u00e0 distance des ph\u00e9nom\u00e8nes artificiels et naturels tels que la croissance des zones urbaines, les changements dans les habitats naturels, l\u2019\u00e9volution de l\u2019utilisation des terres agricoles et les effets du changement climatique. La t\u00e2che de surveillance est r\u00e9alis\u00e9e en consid\u00e9rant des s\u00e9ries temporelles d\u2019images satellitaires o\u00f9 la m\u00eame zone spatiale est repr\u00e9sent\u00e9e \u00e0 diff\u00e9rentes estampilles temporelles. Nos travaux introduisent un nouvelle approche pour l\u2019analyse et le clustering de S\u00e9ries Temporelles d\u2019Images Satellitaire (STIS). Ce processus se divise en deux parties. Dans un premier temps, nous retra\u00e7ons les changements radiom\u00e9triques d\u2019une zone en repr\u00e9sentant son \u00e9volution au cours du temps par un graphe dit graphe d\u2019\u00e9volution (Guttler et al., 2014). Dans un deuxi\u00e8me temps, nous introduisons une repr\u00e9sentation synth\u00e9tique des graphes d\u2019\u00e9volutions afin de pouvoir appliquer un algorithme de clustering permettant un regroupement par types d\u2019\u00e9volutions identifi\u00e9es (Khiali et al., 2017). Le suivi de l\u2019\u00e9volution spatio-temporelle d\u2019une zone compte deux \u00e9tapes: la s\u00e9lection des objets de r\u00e9f\u00e9rences et la construction des graphes d\u2019\u00e9volutions. Une fois la STIS acquise et s\u00e9gment\u00e9e, l\u2019ensemble d\u2019objets g\u00e9n\u00e9r\u00e9s est filtr\u00e9 pour s\u00e9lectionner un sous-ensemble, nomm\u00e9 objets de r\u00e9f\u00e9rences. Les objets de r\u00e9f\u00e9rences repr\u00e9sentent l\u2019\u00e9tendu maximale des ph\u00e9nom\u00e8nes spatio-temporels a analyser. L\u2019\u00e9tape de s\u00e9lection des objets de r\u00e9f\u00e9rences est suivit par l\u2019\u00e9tape de \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:eH23hyXCXa4C",
+    "num_citations": 0,
+    "pub_url": "https://www.madics.fr/wp-content/uploads/2017/RA/Posters/khiali.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fVqy8ZBKlesJ:scholar.google.com/",
+    "cites_per_year": {}
+}

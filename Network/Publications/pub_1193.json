@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potentialit\u00e9s des frises chrono-syst\u00e9miques et des cartographies narratives pour communiquer sur les trajectoires des socio-\u00e9cosyst\u00e8mes",
+        "pub_year": 2022,
+        "citation": "Journ\u00e9es Prospectives INEE, 2022",
+        "author": "Fanny Arnaud and Isabelle Charpentier and Jean-Pierre Chery and Marie Gradeler and Vincent Bonnal and Samuel Dunesme",
+        "conference": "Journ\u00e9es Prospectives INEE",
+        "abstract": "La recherche men\u00e9e sur les socio-\u00e9cosyst\u00e8mes au sein des dispositifs de l'INEE (notamment le R\u00e9seau des Zones Ateliers et les Observatoires Hommes-Milieux) est largement interdisciplinaire. Les projets de recherche g\u00e9n\u00e8rent par ailleurs une grande quantit\u00e9 de donn\u00e9es spatio-temporelles et h\u00e9t\u00e9rog\u00e8nes, ce qui rend complexe la synth\u00e8se des r\u00e9sultats de recherche et leur communication. Il appara\u00eet ainsi n\u00e9cessaire de d\u00e9velopper des outils offrant une vue d'ensemble des diff\u00e9rentes composantes des socio-\u00e9cosyst\u00e8mes (spatiales, temporelles et/ou th\u00e9matiques) a n de faciliter le dialogue entre les disciplines, recueillir et diffuser les connaissances aupr\u00e8s des acteurs des territoires et des citoyens, et stimuler des approches transdisciplinaires. Les frises chrono-syst\u00e9miques et les cartographies narratives sont des exemples d'outils num\u00e9riques utilis\u00e9s a fin de restituer les trajectoires spatio-temporelles des socio-\u00e9cosyst\u00e8mes. Dans cette communication, nous pr\u00e9senterons trois outils : * ZA Timeline : logiciel d\u00e9velopp\u00e9 en 2020 pour le R\u00e9seau des Zones Ateliers. Ce logiciel poss\u00e8de une interface graphique permettant \u00e0 l'utilisateur de repr\u00e9senter en temps r\u00e9el (lors d'ateliers) des donn\u00e9es temporelles h\u00e9t\u00e9rog\u00e8nes encod\u00e9es dans un tableur sous la forme d'une frise chronologique. Il est utilis\u00e9 par plusieurs Zones Ateliers pour la mod\u00e9lisation de leurs socio-\u00e9cosyst\u00e8mes ; * Chrono-Rh\u00f4ne : application web interactive con\u00e7ue en 2020 pour les besoins de l'Observatoire Hommes-Milieux Vall\u00e9e du Rh\u00f4ne. Ce prototype comprend une interface Frise chrono-syst\u00e9mique et une interface Carte, ce qui permet \u00e0 l'utilisateur de d\u00e9couvrir les \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "v2Zo6cQAAAAJ:-f6ydRqryjwC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=4495108556851691299",
+    "cites_id": [
+        "4495108556851691299"
+    ],
+    "pub_url": "https://hal.science/hal-03828948/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:I7_2lWrVYT4J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

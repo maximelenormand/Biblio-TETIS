@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Nouvelles ressources en observation de la terre pour les repr\u00e9sentations des paysages",
+        "pub_year": 2017,
+        "citation": "Rencontres en Ecologie du Paysage, 37, 2017",
+        "author": "P Maurel and Sandra Luque",
+        "conference": "Rencontres en Ecologie du Paysage",
+        "pages": "37",
+        "abstract": "French. Pr\u00e9sentation synth\u00e9tique des efforts de structuration de la communaut\u00e9 nationale en t\u00e9l\u00e9d\u00e9tection (GEOSUD, Theia, IR Syst\u00e8me Terre) et des avanc\u00e9es scientifiques en t\u00e9l\u00e9d\u00e9tection appliqu\u00e9e \u00e0 l'\u00e9cologie du paysage."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:roLk4NBRz8UC",
+    "num_citations": 0,
+    "pub_url": "https://agris.fao.org/search/en/providers/122439/records/652f9b3c8ffb3ab60ccc701e",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:K0cKer_wUhIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

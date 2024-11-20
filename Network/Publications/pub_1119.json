@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessment of sedentary behaviors and transport-related activities by questionnaire: a validation study",
+        "pub_year": 2016,
+        "citation": "BMC public health 16, 1-9, 2016",
+        "author": "Keitly Mensah and Aur\u00e9lia Maire and Jean-Michel Oppert and Julien Dugas and H\u00e9l\u00e8ne Charreire and Christiane Weber and Chantal Simon and Julie-Anne Nazare and ACTI-Cit\u00e9s consortium Thomas Bastian St\u00e9phane Blanc H\u00e9l\u00e8ne Charreire Julien Dugas Christophe Enaux Thierry Feuillet Franck Hess Mehdi Menai Julie-Anne Nazare Jean-Michel Oppert Camille Perchoux Paul Salze Chantal Simon Christiane Weber",
+        "journal": "BMC public health",
+        "volume": "16",
+        "pages": "1-9",
+        "publisher": "BioMed Central",
+        "abstract": "Comprehensive assessment of sedentary behavior (SB) and physical activity (PA), including transport-related activities (TRA), is required to design innovative PA promotion strategies. There are few validated instruments that simultaneously assess the different components of human movement according to their context of practice (e.g. work, transport, leisure). We examined test-retest reliability and validity of the Sedentary, Transportation and Activity Questionnaire (STAQ), a newly developed questionnaire dedicated to assessing context-specific SB, TRA and PA.Ninety six subjects (51 women) kept a contextualized activity-logbook and wore a hip accelerometer (Actigraph GT3X\u2009+\u2009TM) for a 7-day or 14-day period, at the end of which they completed the STAQ. Activity-energy expenditure was measured in a subgroup of 45 subjects \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:q3CdL3IzO_QC",
+    "num_citations": 26,
+    "citedby_url": "/scholar?hl=en&cites=5338471774173493629,8550960205764023059",
+    "cites_id": [
+        "5338471774173493629",
+        "8550960205764023059"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1186/s12889-016-3412-3",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fXkPT8sPFkoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 6,
+        "2018": 3,
+        "2019": 1,
+        "2020": 5,
+        "2021": 1,
+        "2022": 6,
+        "2023": 3
+    }
+}

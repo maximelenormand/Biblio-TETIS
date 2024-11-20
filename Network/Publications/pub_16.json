@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining Sentinel-1 and Sentinel-2 Satellite Image Time Series for land cover mapping via a multi-source deep learning architecture",
+        "pub_year": 2019,
+        "citation": "ISPRS Journal of Photogrammetry and Remote Sensing 158, 11-22, 2019",
+        "author": "Dino Ienco and Roberto Interdonato and Raffaele Gaetano and Dinh Ho Tong Minh",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "volume": "158",
+        "pages": "11-22",
+        "publisher": "Elsevier",
+        "abstract": "The huge amount of data currently produced by modern Earth Observation (EO) missions has allowed for the design of advanced machine learning techniques able to support complex Land Use/Land Cover (LULC) mapping tasks. The Copernicus programme developed by the European Space Agency provides, with missions such as Sentinel-1 (S1) and Sentinel-2 (S2), radar and optical (multi-spectral) imagery, respectively, at 10\u202fm spatial resolution with revisit time around 5\u202fdays. Such high temporal resolution allows to collect Satellite Image Time Series (SITS) that support a plethora of Earth surface monitoring tasks. How to effectively combine the complementary information provided by such sensors remains an open problem in the remote sensing field. In this work, we propose a deep learning architecture to combine information coming from S1 and S2 time series, namely TWINNS (TWIn Neural Networks for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:a0OBvERweLwC",
+    "num_citations": 245,
+    "citedby_url": "/scholar?hl=en&cites=15233210788747071411",
+    "cites_id": [
+        "15233210788747071411"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271619302278",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:s8_q24A8Z9MJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 36,
+        "2021": 62,
+        "2022": 72,
+        "2023": 64,
+        "2024": 11
+    }
+}

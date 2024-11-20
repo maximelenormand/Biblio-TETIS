@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Going beyond panaceas: The diversity of land observatory forms in Africa",
+        "pub_year": 2020,
+        "citation": "Land 9 (3), 70, 2020",
+        "author": "Quentin Grislain and Jeremy Bourgoin and Ward Anseeuw and Perrine Burnod and Eva Hershaw and Djibril Diop",
+        "journal": "Land",
+        "volume": "9",
+        "number": "3",
+        "pages": "70",
+        "publisher": "MDPI",
+        "abstract": "In recent decades, mechanisms for observation and information production have proliferated in an attempt to meet the growing needs of stakeholders to access dynamic data for the purposes of informed decision-making. In the land sector, a growing number of land observatories are producing data and ensuring its transparency. We hypothesize that these structures are being developed in response to the need for information and knowledge, a need that is being driven by the scale and diversity of land issues. Based on the results of a study conducted on land observatories in Africa, this paper presents existing and past land observatories on the continent and proposes to assess their diversity through an analysis of core dimensions identified in the literature. The analytical framework was implemented through i) an analysis of existing literature on land observatories, ii) detailed assessments of land observatories based on semi-open interviews conducted via video conferencing, iii) fieldwork and visits to several observatories, and iv) participant observation through direct engagement and work at land observatories. We emphasize that the analytical framework presented here can be used as a tool by land observatories to undertake ex-post self-evaluations that take the observatory\u2019s trajectory into account, or in the case of proposed new land observatories, to undertake ex-ante analyses and design the pathway towards the intended observatory."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:4OULZ7Gr8RgC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=9462461123746009949",
+    "cites_id": [
+        "9462461123746009949"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-445X/9/3/70",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XRPT_UFqUYMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 2
+    }
+}

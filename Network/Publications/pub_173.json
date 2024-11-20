@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of Maize Sowing Periods and Cycle Phases Using Sentinel 1&2 Data Synergy",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (15), 3712, 2022",
+        "author": "Matteo Rolle and Stefania Tamea and Pierluigi Claps and Emna Ayari and Nicolas Baghdadi and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "15",
+        "pages": "3712",
+        "publisher": "MDPI",
+        "abstract": "The reliability of crop-growth modelling is related to the accuracy of the information used to describe the agricultural growing phases. A proper knowledge of sowing periods has a significant impact on the effectiveness of any analysis based on modeled crop growth. In this work, an estimation of maize actual sowing periods for year 2019 is presented, combining the optical and radar information from Sentinel-1 and Sentinel-2. The crop classification was conducted according to the information provided by local public authorities over an area of 30 km \u00d7 30 km, and 1154 maize fields were considered within the analysis. The combined use of NDVI and radar time series enabled a high-resolution assessment of sowing periods and the description of maize emergence through the soil, by detecting changes in the ground surface geometry. A radar-based index was introduced to detect the periods when plants emerge through the soil, and the sowing periods were retrieved considering the thermal energy needed by seeds to germinate and the daily temperatures before the emergence. Results show that 52% of maize hectares were sowed in late April, while about 30% were sowed during the second half of May. Sentinel-1 appears more suitable to describe the late growing phase of maize, since the radar backscattering is sensitive to the dry biomass of plants while the NDVI decreases because of the chromatic change of leaves. This study highlights the potential of synergy between remote sensing sources for agricultural management policies and improving the accuracy of crop-related modelling."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:3_LpOwP6eMYC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=17928002914917909688",
+    "cites_id": [
+        "17928002914917909688"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/15/3712",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uITZG6oPzfgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 3
+    }
+}

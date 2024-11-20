@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving biodiversity monitoring using satellite remote sensing to provide solutions towards the 2020 conservation targets",
+        "pub_year": 2018,
+        "citation": "Methods in Ecology and Evolution 9 (8), 1784-1786, 2018",
+        "author": "Sandra Luque and Nathalie Pettorelli and Petteri Vihervaara and Martin Wegmann",
+        "journal": "Methods in Ecology and Evolution",
+        "volume": "9",
+        "number": "8",
+        "pages": "1784-1786",
+        "publisher": "Wiley",
+        "abstract": "The preservation of biodiversity has become a major challenge for sustainable development at national, European (Natura 2000 and Habitats Directive) and international levels (Convention on Biological Diversity, 2011-2020). To address the current conservation needs; there\u2019sa need to operationalise methods to assess the distribution of natural resources and produce detailed, high resolution habitat maps that integrate information on condition. In Europe in particular, the ambition is to develop such a detailed habitat map and use it as a strategic spatial tool to report on the conservation status of habitat and species of community interest within the EU; inform conservation planning; and support the assessment of ecosystem services. Nowadays, the use of satellite remote sensing approaches has become a key step to secure a standardised view of the natural environment at large spatial scales. Within this special feature we aim to highlight recent developments in satellite remote sensing techniques, and demonstrate through study cases how operational solutions can be designed and implemented to increase our understanding of natural systems and to improve our ability to manage them."
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:MSzX15-gZgkC",
+    "num_citations": 44,
+    "citedby_url": "/scholar?hl=en&cites=13722983212888342784",
+    "cites_id": [
+        "13722983212888342784"
+    ],
+    "pub_url": "https://discovery.ucl.ac.uk/id/eprint/10056320/1/Pettorelli%20Luque-etal_EditorialNP.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AMHbTobUcb4J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 9,
+        "2021": 11,
+        "2022": 16,
+        "2023": 6
+    }
+}

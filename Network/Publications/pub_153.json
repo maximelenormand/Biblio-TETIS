@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TRM6/61 connects PKC\u03b1 with translational control through tRNAiMet stabilization: impact on tumorigenesis",
+        "pub_year": 2016,
+        "citation": "Oncogene 35 (14), 1785-1796, 2016",
+        "author": "Fran\u00e7oise Macari and Y El-Houfi and G Boldina and Hao Xu and S Khoury-Hanna and J\u00e9r\u00e9my Ollier and Laura Yazdani and Gang Zheng and I Bieche and No\u00e9mie Legrand and Damien Paulet and S Durrieu and A Bystr\u00f6m and St\u00e9phane Delbecq and Bernard Lapeyre and L Bauchet and Julie Pannequin and Fr\u00e9d\u00e9ric Hollande and T Pan and M Teichmann and S Vagner and Alexandre David and Armelle Choquet and Dominique Joubert",
+        "journal": "Oncogene",
+        "volume": "35",
+        "number": "14",
+        "pages": "1785-1796",
+        "publisher": "Nature Publishing Group",
+        "abstract": "Accumulating evidence suggests that changes of the protein synthesis machinery alter translation of specific mRNAs and participate in malignant transformation. Here we show that protein kinase C \u03b1 (PKC\u03b1) interacts with TRM61, the catalytic subunit of the TRM6/61 tRNA methyltransferase. The TRM6/61 complex is known to methylate the adenosine 58 of the initiator methionine tRNA (tRNA i Met), a nuclear post-transcriptional modification associated with the stabilization of this crucial component of the translation-initiation process. Depletion of TRM6/61 reduced proliferation and increased death of C6 glioma cells, effects that can be partially rescued by overexpression of tRNA i Met. In contrast, elevated TRM6/61 expression regulated the translation of a subset of mRNAs encoding proteins involved in the tumorigenic process and increased the ability of C6 cells to form colonies in soft agar or spheres when grown \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:pqnbT2bcN3wC",
+    "num_citations": 59,
+    "citedby_url": "/scholar?hl=en&cites=13537952415040185996",
+    "cites_id": [
+        "13537952415040185996"
+    ],
+    "pub_url": "https://www.nature.com/articles/onc2015244",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jKacjP534LsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 5,
+        "2019": 6,
+        "2020": 5,
+        "2021": 6,
+        "2022": 16,
+        "2023": 16,
+        "2024": 3
+    }
+}

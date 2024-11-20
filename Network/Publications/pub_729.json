@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Generating OWA weights using truncated distributions",
+        "pub_year": 2018,
+        "citation": "International Journal of Intelligent Systems 33, 791-801, 2018",
+        "author": "Maxime Lenormand",
+        "journal": "International Journal of Intelligent Systems",
+        "volume": "33",
+        "pages": "791-801",
+        "abstract": "Ordered weighted averaging (OWA) operators have been widely used in decision making these past few years. An important issue facing the OWA operators' users is the determination of the OWA weights. This paper introduces an OWA determination method based on truncated distributions that enable intuitive generation of OWA weights according to a certain level of risk and trade\u2010off. These two dimensions are represented by the two first moments of the truncated distribution. We illustrate our approach with the well\u2010known normal distribution and the definition of a continuous parabolic decision\u2010strategy space. We finally study the impact of the number of criteria on the results."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:e5wmG9Sq2KIC",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=16623548508395906787",
+    "cites_id": [
+        "16623548508395906787"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/int.21963",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:46ZpBUu1suYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 3,
+        "2020": 4,
+        "2021": 3,
+        "2022": 1,
+        "2023": 3
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dealing with missing modalities at test time for land cover mapping: A case study on multi-source optical data",
+        "pub_year": 2022,
+        "citation": "2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON), 621-626, 2022",
+        "author": "Yawogan Jean Eudes Gbodjo and Dino Ienco",
+        "conference": "2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON)",
+        "pages": "621-626",
+        "publisher": "IEEE",
+        "abstract": "In recent years, multiple sources of remote sensing data have become increasingly available to monitor Earth\u2019s surface phenomena. However, unlike High Spatial Resolution (HSR) data, Very High Spatial Resolution (VHSR) satellite images remain difficult to collect over large areas due to acquisition costs and a smaller swath. This often compromises the simultaneous use of both sources of data over same study areas for many applications. In this work, we investigate a land cover mapping setting in which both HSR and VHSR are available at the learning stage of a deep neural network while only the HSR data is available at inference time for model inference. We thus propose simple but effective strategies for enhancing the land cover classification in this scenario of incomplete multi-source remote sensing data when the model is deployed."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:CRzUtm-VnGAC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9842865/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:v5VI0CIRG-QJ:scholar.google.com/",
+    "cites_per_year": {}
+}

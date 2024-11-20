@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Big Earth Observation Data e aprendizado de m\u00e1quina para mapeamento da agricultura sustent\u00e1vel no Brasil",
+        "pub_year": 2021,
+        "citation": "Ci\u00eancias Rurais em Foco 4, 24-30, 2021",
+        "author": "Patrick Calvano Kuchler and Margareth Sim\u00f5es and Agn\u00e9s B\u00e9gu\u00e9 and Rodrigo Demonte and Damien Arvor",
+        "journal": "Ci\u00eancias Rurais em Foco",
+        "volume": "4",
+        "pages": "24-30",
+        "abstract": "a implementa\u00e7\u00e3o do iLP, ou seja, a diversifica\u00e7\u00e3o, rota\u00e7\u00e3o, consorcio e/ou sucess\u00e3o das atividades agr\u00edcolas e de pecu\u00e1ria na mesma \u00e1rea formando um \u00fanico sistema, \u00e9 considerada uma importante estrat\u00e9gia de intensifica\u00e7\u00e3o agr\u00edcola sustent\u00e1vel para brasil, com diversos impactos positivos com destaque na conserva\u00e7\u00e3o do solo e rentabilidade e viabilidade econ\u00f4mica. O acompanhamento da implanta\u00e7\u00e3o desta iniciativa \u00e9 fundamental como instrumento de gest\u00e3o p\u00fablica, por\u00e9m ainda \u00e9 um desafio. Nesta dire\u00e7\u00e3o, este trabalho discute a aplica\u00e7\u00e3o dos conceitos de BIG DATA e aprendizado de m\u00e1quina para o sensoriamento remoto. Como teste foi utilizado o classificador Randon Forest (RF) aplicado a s\u00e9ries temporais MODIS para analisar a capacidade de detec\u00e7\u00e3o de certos iLPs. Para isso, avaliamos a precis\u00e3o do RF aplicado ao NDVI do MODIS para os anos de 2012 a 2016 em uma \u00e1rea no norte do mato grosso. Dois modelos foram testados:(i) usando 11 m\u00e9tricas fenol\u00f3gicas derivadas do MODIS (ii) usando as m\u00e9tricas e os dados originais. O \u00edndice kappa para (i) foi de 0, 63, sendo 9 deles com potencial discriminat\u00f3rio; o resultado de (ii) foi de 0, 84, onde somente 01 m\u00e9trica foi significativa para discrimina\u00e7\u00e3o. Nossos resultados indicam que o uso da t\u00e9cnica de classifica\u00e7\u00e3o RF com dados MODIS tem grande potencial para compor uma metodologia de monitoramento do iLP, sendo o grande desafio o tratamento das SITS em larga escala, necessitando em termos de arquitetura de sistemas processamento paralelo em nuvem, tecnologia esta, cada vez mais dispon\u00edvel."
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:buQ7SEKw-1sC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16982088481640082487",
+    "cites_id": [
+        "16982088481640082487"
+    ],
+    "pub_url": "https://www.academia.edu/download/89974722/978-65-5866-079-8.cap.pdf#page=24",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:N-xoxH9_rOsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

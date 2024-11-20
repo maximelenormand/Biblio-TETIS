@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of Flavescence dor\u00e9e Grapevine Disease Using Unmanned Aerial Vehicle (UAV) Multispectral Imagery",
+        "pub_year": 2017,
+        "citation": "Remote Sensing 9 (4), 308, 2017",
+        "author": "Johanna Albetis and Sylvie Duthoit and Fabio Guttler and Anne Jacquin and Michel Goulard and Herv\u00e9 Poilv\u00e9 and Jean-Baptiste F\u00e9ret and G\u00e9rard Dedieu",
+        "journal": "Remote Sensing",
+        "volume": "9",
+        "number": "4",
+        "pages": "308",
+        "publisher": "MDPI",
+        "abstract": "Flavescence dor\u00e9e is a grapevine disease affecting European vineyards which has severe economic consequences and containing its spread is therefore considered as a major challenge for viticulture. Flavescence dor\u00e9e is subject to mandatory pest control including removal of the infected vines and, in this context, automatic detection of Flavescence dor\u00e9e symptomatic vines by unmanned aerial vehicle (UAV) remote sensing could constitute a key diagnosis instrument for growers. The objective of this paper is to evaluate the feasibility of discriminating the Flavescence dor\u00e9e symptoms in red and white cultivars from healthy vine vegetation using UAV multispectral imagery. Exhaustive ground truth data and UAV multispectral imagery (visible and near-infrared domain) have been acquired in September 2015 over four selected vineyards in Southwest France. Spectral signatures of healthy and symptomatic plants were studied with a set of 20 variables computed from the UAV images (spectral bands, vegetation indices and biophysical parameters) using univariate and multivariate classification approaches. Best results were achieved with red cultivars (both using univariate and multivariate approaches). For white cultivars, results were not satisfactory either for the univariate or the multivariate. Nevertheless, external accuracy assessment show that despite problems of Flavescence dor\u00e9e and healthy pixel misclassification, an operational Flavescence dor\u00e9e mapping technique using UAV-based imagery can still be proposed."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:RHpTSmoSYBkC",
+    "num_citations": 193,
+    "citedby_url": "/scholar?hl=en&cites=14362586638179415605",
+    "cites_id": [
+        "14362586638179415605"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/9/4/308",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NbZ0gHMoUscJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 15,
+        "2019": 28,
+        "2020": 43,
+        "2021": 41,
+        "2022": 30,
+        "2023": 29,
+        "2024": 2
+    }
+}

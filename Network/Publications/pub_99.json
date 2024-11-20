@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Benchopt: Reproducible, efficient and collaborative optimization benchmarks",
+        "pub_year": 2022,
+        "citation": "Advances in Neural Information Processing Systems (NeurIPS), 2022",
+        "author": "Thomas Moreau and Mathurin Massias and Alexandre Gramfort and Pierre Ablin and Pierre-Antoine Bannier Benjamin Charlier and Mathieu Dagr\u00e9ou and Tom Dupr\u00e9 la Tour and Ghislain Durif and Cassio F Dantas and Quentin Klopfenstein and Johan Larsson and En Lai and Tanguy Lefort and Benoit Mal\u00e9zieux and Badr Moufad and Binh T Nguyen and Alain Rakotomamonjy and Zaccharie Ramzi and Joseph Salmon and Samuel Vaiter",
+        "conference": "Advances in Neural Information Processing Systems (NeurIPS)",
+        "abstract": "Numerical validation is at the core of machine learning research as it allows us to assess the actual impact of new methods, and to confirm the agreement between theory and practice. Yet, the rapid development of the field poses several challenges: researchers are confronted with a profusion of methods to compare, limited transparency and consensus on best practices, as well as tedious re-implementation work. As a result, validation is often very partial, which can lead to wrong conclusions that slow down the progress of research. We propose Benchopt, a collaborative framework to automatize, publish and reproduce optimization benchmarks in machine learning across programming languages and hardware architectures. Benchopt simplifies benchmarking for the community by providing an off-the-shelf tool for running, sharing and extending experiments. To demonstrate its broad usability, we showcase benchmarks on three standard ML tasks: -regularized logistic regression, Lasso and ResNet18 training for image classification. These benchmarks highlight key practical findings that give a more nuanced view of state-of-the-art for these problems, showing that for practical evaluation, the devil is in the details."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:ULOm3_A8WrAC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=3504541958783431314",
+    "cites_id": [
+        "3504541958783431314"
+    ],
+    "pub_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/a30769d9b62c9b94b72e21e0ca73f338-Abstract-Conference.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kvK8-VeiojAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 14,
+        "2024": 5
+    }
+}

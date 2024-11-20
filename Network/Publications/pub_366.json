@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "First vegetation optical depth mapping from Sentinel-1 C-band SAR data over crop fields",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (23), 2769, 2019",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Jean-Pierre Wigneron and Mehrez Zribi and Cl\u00e9ment Albergel and Jean-Christophe Calvet and Ibrahim Fayad",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "23",
+        "pages": "2769",
+        "publisher": "MDPI",
+        "abstract": "Monitoring crop status at plot scale in agricultural areas is essential for crop and irrigation management and yield optimization. The Vegetation Optical Depth (VOD) of canopy is directly related to the canopy water content, and thus, it represents an effective tool for crop health monitoring. Currently, VOD is provided at low spatial resolution which makes these estimations useless for vegetation monitoring at plot scale. Therefore, the aim of this study is to provide the first approach to estimate VOD at plot scale for non-irrigated plots from C-band Sentinel-1 (S1) Synthetic Aperture Radar (SAR) data. The proposed approach was tested on a study site of 50 km \u00d7 50 km located in Catalonia, Spain. VOD estimates were provided for two crop growth cycles of non-irrigated crop types (barley, fallow, oat, wheat, and rapeseed). The relevance of VOD estimates was investigated for both growth cycles using temporal profiles of the Normalized Difference Vegetation Index (NDVI). It is shown that the temporal dynamics of VOD values computed from VV polarization fits that of NDVI with a medium to good coefficient of determination (R2 ranging from 0.39 to 0.61 for barley, fallow, oat, and wheat respectively). However, during the beginning of the senescence period in both cycles (mainly in May for winter crops), VOD decreases with the decrease in Vegetation Water Content (VWC) while NDVI keeps increasing as photosynthetic activity continues developing. This illustrates the importance of VOD in crop water loss (stress and/or transpiration) monitoring. The potential of VOD to spot water loss in vegetation is also demonstrated as the evening (18h00) VOD values \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:q-HalDI95KYC",
+    "num_citations": 36,
+    "citedby_url": "/scholar?hl=en&cites=8754023534005302583",
+    "cites_id": [
+        "8754023534005302583"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/23/2769",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:N7XL-wWKfHkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 7,
+        "2021": 11,
+        "2022": 10,
+        "2023": 6,
+        "2024": 2
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Could spatial features help the matching of textual data?",
+        "pub_year": 2020,
+        "citation": "Intelligent Data Analysis 24 (5), 1043-1064, 2020",
+        "author": "Jacques Fize and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Intelligent Data Analysis",
+        "volume": "24",
+        "number": "5",
+        "pages": "1043-1064",
+        "publisher": "IOS Press",
+        "abstract": "Textual data is available to an increasing extent through different media (social networks, companies data, data catalogues, etc.). New information extraction methods are needed since these new resources are highly heterogeneous. In this article, we propose a text matching process based on spatial features and assessed through heterogeneous textual data. Besides being compatible with heterogeneous data, it comprises two contributions: first, spatial information is extracted for comparison purposes and subsequently stored in a dedicated spatial textual representation (STR); and then two transformations are applied on STR to improve the spatial similarity estimation. This article outlines the proposed approach with new contributions:(i) a new geocoding methods using general co-occurrences between entities, and (ii) a thorough evaluation followed by (iii) an in-depth discussion. The results obtained on two \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:WC23djZS0W4C",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=14592952296255978503",
+    "cites_id": [
+        "14592952296255978503"
+    ],
+    "pub_url": "https://content.iospress.com/articles/intelligent-data-analysis/ida194749",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:B_yO8suUhMoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 0,
+        "2023": 1
+    }
+}

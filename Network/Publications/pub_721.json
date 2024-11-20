@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "European hyperspectral explorer: Hypex-2. Monitoring anthropogenic influences in critical zones",
+        "pub_year": 2017,
+        "citation": "10. EARSeL SIG Imaging Spectroscopy Workshop, 11 p., 2017",
+        "author": "Xavier Briottet and Gregory P Asner and Touria Bajjouk and V\u00e9ronique Carr\u00e8re and Sabine Chabrillat and Malik Chami and Jocelyn Chanussot and Andrew Dekker and Christophe Delacourt and Jean-Baptiste Feret and Pierre-Yves Foucher and JM Santos and Patrick Gambade and Peter Gege and Cecile Gomez and St\u00e9phane Jacquemoud and Marie-Jos\u00e9 Lef\u00e8vre and Camille Lelong and A L\u00f3pez Sebasti\u00e1n and Rodolphe Marion and David Mckee and Audrey Minghelli-Roman and Duccio Rocchini and Maria Joao De Los Santos and Michael E Schaepman and Thomas Schmid and David Sheeren and Michal Shimoni and Andrew Skidmore and Ben Somers and Bo Stenberg and Emmanuelle Vaudour and Christiane Weber",
+        "conference": "10. EARSeL SIG Imaging Spectroscopy Workshop",
+        "pages": "11 p.",
+        "abstract": "CIRAD CEA UNIV-BREST UNIV-PARIS7 UNIV-NANTES AGROPARISTECH UPMC UGA UNIV-TLN ONERA CNRS UNIV-AMU EHESS IRSTEA INRA AGROPOLIS TETIS USPC UNIV-PARIS-SACLAY ECOSYS LIS-LAB SORBONNE-UNIVERSITE INRAE INRAEOCCITANIEMONTPELLIER GS-BIOSPHERA DYNAFOR INRAEOCCITANIETOULOUSE TOULOUSE-INP NANTES-UNIVERSITE UT3-TOULOUSEINP MATHNUM DPT_ECODIV"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:NhqRSupF_l8C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=3392907817630287737",
+    "cites_id": [
+        "3392907817630287737"
+    ],
+    "pub_url": "https://hal.science/hal-02787953/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ecd_Ca8HFi8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

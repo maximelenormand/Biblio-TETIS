@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation des stocks de carbone dans la biosph\u00e8re terrestre",
+        "pub_year": 2017,
+        "citation": "2\u00e8me Colloque de restitution du Tosca, 29, 2017",
+        "author": "J\u00e9r\u00f4me Chave and Nicolas Baghdadi and Nicolas Barbier and Pierre Borderies and Philippe Ciais and Pierre Couteron",
+        "conference": "2\u00e8me Colloque de restitution du Tosca",
+        "pages": "29",
+        "abstract": "Environ un quart des \u00e9missions anthropog\u00e9niques de carbone sont stock\u00e9es dans la v\u00e9g\u00e9tation, mais la localisation spatiale de ces r\u00e9servoirs de carbone est mal connue. Par ailleurs la d\u00e9gradation foresti\u00e8re et la d\u00e9forestation, en particulier dans les tropiques, contribuent \u00e0 ces \u00e9missions anthropog\u00e9niques. L\u00e0 encore l'\u00e9valuation des impacts de ces activit\u00e9s humaines repose largement sur des protocoles d\u00e9claratifs par les \u00e9tats plut\u00f4t que sur des approches de suivi en temps r\u00e9el des impacts. Estimer Les stocks de carbone dans la v\u00e9g\u00e9tation repr\u00e9sente un enjeu de recherche majeur. Une nouvelle g\u00e9n\u00e9ration d'instruments satellitaires ont \u00e9t\u00e9 propos\u00e9s pour am\u00e9liorer les cartes de stocks de carbone contenus dans la v\u00e9g\u00e9tation. A partir de 2021, le satellite BIOMASS de l'ESA permettra de cartographier la biomasse pour l'ensemble des tropiques. Nous d\u00e9crivons ici (1) la strat\u00e9gie de calibration du capteur \u00e0 partir de missions en Guyane fran\u00e7aise (2009) et Gabon (2016); (2) le r\u00f4le des inventaires de terrain combin\u00e9es \u00e0 des donn\u00e9es lidar a\u00e9roport\u00e9es pour spatialiser la biomasse; (3) la r\u00e9ponse du signal SAR en bande P aux fluctuations temporelles de la v\u00e9g\u00e9tation (Guyane et Ghana) et finalement (4) la strat\u00e9gie d'assimilation des produits L2 de BIOMASS dans les mod\u00e8les dynamiques de v\u00e9g\u00e9tation."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:aIdbFUkbNIkC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02606164/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iCaXM6O8X4sJ:scholar.google.com/",
+    "cites_per_year": {}
+}

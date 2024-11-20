@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A nested land uses\u2013landscapes\u2013livelihoods approach to assess the real costs of land-use transitions: Insights from southeast Asia",
+        "pub_year": 2019,
+        "citation": "Land 8 (1), 11, 2019",
+        "author": "Guillaume Lestrelin and Jean-Christophe Castella and Qiaohong Li and Thoumthone Vongvisouk and Nguyen Dinh Tien and Ole Mertz",
+        "journal": "Land",
+        "volume": "8",
+        "number": "1",
+        "pages": "11",
+        "publisher": "MDPI",
+        "abstract": "Reducing emissions from deforestation and forest degradation (REDD+) is viewed as an effective way to mitigate climate change by compensating stewards of forested areas for minimizing forestland conversion and protecting forest services. Opportunity costs assess the cost of foregone opportunity when preserving the forest instead of investing in an alternative activity or resource use. This paper questions the calculation method of opportunity costs using averaged economic benefits and co-benefits of different land-use transitions. We propose a nested approach to land-use transitions at the interface between landscapes and livelihoods and assessing a wide range of potential socio-ecological costs and benefits. Combining household surveys and focus groups with participatory mapping, we applied the approach in villages of Laos, Vietnam and China positioned along a broad transition trajectory from subsistence shifting cultivation to intensive commercial agriculture. By looking beyond the economics of land use, we highlight important linkages between land-use changes and livelihood differentiation, vulnerability and inequalities. Our results show the importance of addressing the impacts of land-use transitions on a wide range of potential ecological and socioeconomic costs and benefits at multiple levels."
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:_xSYboBqXhAC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=12429599394224236207",
+    "cites_id": [
+        "12429599394224236207"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-445X/8/1/11",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:r2YlUcvOfqwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 4,
+        "2022": 3,
+        "2023": 4
+    }
+}

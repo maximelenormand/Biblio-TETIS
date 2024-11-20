@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "FairSwiRL: fair semi-supervised classification with representation learning",
+        "pub_year": 2023,
+        "citation": "Machine Learning 112 (9), 3051-3076, 2023",
+        "author": "Shuyi Yang and Mattia Cerrato and Dino Ienco and Ruggero G Pensa and Roberto Esposito",
+        "journal": "Machine Learning",
+        "volume": "112",
+        "number": "9",
+        "pages": "3051-3076",
+        "publisher": "Springer US",
+        "abstract": "Semi-supervised learning has shown its potential in many real-world applications where only few labeled examples are available. However, when some fairness constraints need to be satisfied, semi-supervised classification models often struggle as they are required to cope with the lack of sufficient information for predicting the target variable while forgetting its relationships with any sensitive and potentially discriminatory attribute. To address this issue, we propose a fair semi-supervised representation learning architecture that leads to fair and accurate classification results even in very challenging scenarios with few labeled (but biased) instances. We show experimentally that our model can be easily adopted in very general settings, as the learned representations may be employed to train any supervised classifier. Moreover, when applied to several synthetic and real-world datasets, our method is competitive \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:It0W0vAlS5QC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5673761778195384357",
+    "cites_id": [
+        "5673761778195384357"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s10994-023-06342-9",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JUiGwUZAvU4J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

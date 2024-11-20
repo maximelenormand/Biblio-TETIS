@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Suivi de l\u2019artificialisation du territoire en milieu urbain par t\u00e9l\u00e9d\u00e9tection et \u00e0 l\u2019aide de m\u00e9triques paysag\u00e8res. Application \u00e0 une agglom\u00e9ration de taille moyenne, Rennes M\u00e9tropole",
+        "pub_year": 2016,
+        "citation": "Cybergeo : European Journal of Geography, 2016",
+        "author": "Laurence Hubert-Moy Rahim Aguejdad",
+        "journal": "Cybergeo : European Journal of Geography",
+        "number": "766",
+        "abstract": "L\u2019objectif de cette recherche est d\u2019explorer l\u2019apport de l\u2019utilisation combin\u00e9e de la t\u00e9l\u00e9d\u00e9tection \u00e0 haute r\u00e9solution spatiale et des m\u00e9triques paysag\u00e8res pour la caract\u00e9risation des formes spatiales et le suivi de l\u2019expansion urbaine \u00e0 l\u2019\u00e9chelle d\u2019une m\u00e9tropole de taille moyenne, Rennes M\u00e9tropole. L\u2019application porte sur une p\u00e9riode de vingt-et-un ans (1984 \u00e0 2005) \u00e0 partir d\u2019images Landsat. Les trajectoires d\u2019\u00e9volution des changements d\u2019occupation et d\u2019usage des sols ont d\u2019abord \u00e9t\u00e9 reconstruites \u00e0 partir de la classification des images satellitales selon une approche orient\u00e9e-objet. Ensuite, des m\u00e9triques paysag\u00e8res ont \u00e9t\u00e9 calcul\u00e9es afin d\u2019analyser les principales dynamiques spatio-temporelles de l\u2019expansion urbaine et leur impact sur les structures paysag\u00e8res. Les r\u00e9sultats r\u00e9v\u00e8lent une nette progression du tissu urbain qui est in\u00e9galement r\u00e9parti dans l\u2019espace, et \u00e0 des rythmes l\u00e9g\u00e8rement diff\u00e9rents selon la p\u00e9riode consid\u00e9r\u00e9e. Cette progression de la consommation fonci\u00e8re, d\u2019un taux moyen annuel de 190 ha/an, s'est principalement effectu\u00e9e au d\u00e9triment des terres agricoles tandis que la tache urbaine continue d\u2019int\u00e9grer de plus en plus d\u2019espaces verts p\u00e9riph\u00e9riques. L\u2019analyse des m\u00e9triques spatiales illustre le passage d\u2019une phase de fragmentation acc\u00e9l\u00e9r\u00e9e du paysage vers une phase d'expansion par \u00e9talement continu de l\u2019urbain existant."
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:Zph67rFs4hoC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=905525515612662521",
+    "cites_id": [
+        "905525515612662521"
+    ],
+    "pub_url": "https://journals.openedition.org/cybergeo/27465",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-SolpagSkQwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 2,
+        "2018": 1,
+        "2019": 1,
+        "2020": 4,
+        "2021": 5,
+        "2022": 3,
+        "2023": 1
+    }
+}

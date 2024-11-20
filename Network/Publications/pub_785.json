@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mekong Delta Subsidence from Space by Radar Interferometry",
+        "pub_year": 2021,
+        "citation": "4th Asia Pacific Meeting on Near Surface Geoscience & Engineering 2021 (1), 1-3, 2021",
+        "author": "D Ho Tong Minh",
+        "conference": "4th Asia Pacific Meeting on Near Surface Geoscience & Engineering",
+        "volume": "2021",
+        "number": "1",
+        "pages": "1-3",
+        "publisher": "European Association of Geoscientists & Engineers",
+        "abstract": "This effort aims to contribute the spatial distribution of subsidence in Mekong using synthetic aperture radar interferometry (InSAR) time series. To this purpose, an advanced Persistent Scatterers and Distributed Scatterers (PSDS) InSAR technique was applied to European Space Agency (ESA) Sentinel-1 datasets. To our knowledge, this is the first-ever demonstration on Mekong Delta using coherent processing."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:8AbLer7MMksC",
+    "num_citations": 0,
+    "pub_url": "https://www.earthdoc.org/content/papers/10.3997/2214-4609.202177043",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:P8Lfk7AMnBoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

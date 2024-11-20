@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture retrieval over irrigated grassland using X-band SAR data",
+        "pub_year": 2016,
+        "citation": "Remote Sensing of Environment 176, 202-218, 2016",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi and Gilles Belaud and Bruno Cheviron and Dominique Courault and Fran\u00e7ois Charron",
+        "journal": "Remote Sensing of Environment",
+        "volume": "176",
+        "pages": "202-218",
+        "publisher": "Elsevier",
+        "abstract": "The aim of this study was to develop an inversion approach to estimate surface soil moisture from X-band SAR data over irrigated grassland areas. This approach simulates a coupling scenario between Synthetic Aperture Radar (SAR) and optical images through the Water Cloud Model (WCM). A time series of SAR (TerraSAR-X and COSMO-SkyMed) and optical (SPOT 4/5 and LANDSAT 7/8) images were acquired over an irrigated grassland region in southeastern France.An inversion technique based on multi-layer perceptron neural networks (NNs) was used to invert the Water Cloud Model (WCM) for soil moisture estimation. Three inversion configurations based on SAR and optical images were defined: (1) HH polarization, (2) HV polarization, and (3) both HH and HV polarizations, all with one vegetation descriptor derived from optical data. The investigated vegetation descriptors were the Normalized \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:u_35RYKgDlwC",
+    "num_citations": 193,
+    "citedby_url": "/scholar?hl=en&cites=4846983430014049245",
+    "cites_id": [
+        "4846983430014049245"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425716300281",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3Rsxyr_xQ0MJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 6,
+        "2017": 10,
+        "2018": 14,
+        "2019": 36,
+        "2020": 26,
+        "2021": 44,
+        "2022": 37,
+        "2023": 15,
+        "2024": 2
+    }
+}

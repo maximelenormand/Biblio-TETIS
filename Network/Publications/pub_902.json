@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A metadata approach to classify domain-specific documents for Event-based Surveillance Systems",
+        "pub_year": 2023,
+        "citation": "2023 International Conference on Communication, Computing and Digital \u2026, 2023",
+        "author": "Mehtab Alam Syed and Elena Arsevska and Mathieu Roche and Maguelonne Teissere",
+        "conference": "2023 International Conference on Communication, Computing and Digital Systems (C-CODE)",
+        "pages": "1-5",
+        "publisher": "IEEE",
+        "abstract": "Digital news sources are the primary source of information for health officials and stakeholders to stay informed about potential health risks. However, with the abundance of news sources available, it can be challenging to distinguish relevant news articles from irrelevant ones. To address this issue, we propose a metadata-based approach for classifying news articles containing information on health events. The first step involves extracting metadata from each news article in the dataset. We then use a machine learning model to classify news articles as relevant or irrelevant. The proposed approach was validated using two different datasets with varying combinations of relevant and irrelevant news articles. The experiments were conducted using a 70%-30% train-test split. The results of the experiments show that the proposed approach is highly effective in classifying relevant news articles for Event-based \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:eH23hyXCXa4C",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10139883/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yzVGN5kBoPcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

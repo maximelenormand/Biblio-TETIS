@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Performance of GNSS-R GLORI data for biomass estimation over the Landes forest",
+        "pub_year": 2019,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 74 \u2026, 2019",
+        "author": "Mehrez Zribi and Dominique Guyon and Erwan Motte and Sylvia Dayau and Jean Pierre Wigneron and Nicolas Baghdadi and Nazzareno Pierdicca",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "74",
+        "pages": "150-158",
+        "publisher": "Elsevier",
+        "abstract": "The Above-Ground Biomass (AGB) is a key parameter used for the modeling of the carbon cycle. The aim of this study is to make an experimental assessment of the sensitivity of Global Navigation Satellite System (GNSS) reflected signals to forest AGB. This is based on the analysis of the data recorded during several GLORI airborne campaigns in June and July 2015, over the Landes Forest (France). Ground truth measurements of tree height, density and diameter at breast height (DBH), as well as AGB, were carried out for 100\u2009maritime pine forest plots of various ages. The GNSS-R data were used to obtain the right-left (\u0393RL) and right-right (\u0393RR) reflectivity observables, which are geo-referenced in accordance with the known positions of relevant GPS satellites and the airborne receiver. The correlations between forest AGB and the GNSS-R observables yield the highest sensitivity at high elevation angles (70\u00b0 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:LgRImbQfgY4C",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=4645506822816999709",
+    "cites_id": [
+        "4645506822816999709"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0303243418305142",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HSmpp9cneEAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 8,
+        "2021": 10,
+        "2022": 4,
+        "2023": 4,
+        "2024": 6
+    }
+}

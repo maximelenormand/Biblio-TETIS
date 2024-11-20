@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Using sentinel-2 images for soil organic carbon content mapping in croplands of southwestern france. The usefulness of sentinel-1/2 derived moisture maps and mismatches between sentinel images and sampling dates",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (24), 5115, 2021",
+        "author": "Diego Urbina-Salazar and Emmanuelle Vaudour and Nicolas Baghdadi and Eric Ceschia and Anne C Richer-de-Forges and S\u00e9bastien Lehmann and Dominique Arrouays",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "24",
+        "pages": "5115",
+        "publisher": "MDPI",
+        "abstract": "In agronomy, soil organic carbon (SOC) content is important for the development and growth of crops. From an environmental monitoring viewpoint, SOC sequestration is essential for mitigating the emission of greenhouse gases into the atmosphere. SOC dynamics in cropland soils should be further studied through various approaches including remote sensing. In order to predict SOC content over croplands in southwestern France (area of 22,177 km\u00b2), this study addresses (i) the influence of the dates on which Sentinel-2 (S2) images were acquired in the springs of 2017\u20132018 as well as the influence of the soil sampling period of a set of samples collected between 2005 and 2018, (ii) the use of soil moisture products (SMPs) derived from Sentinel-1/2 satellites to analyze the influence of surface soil moisture on model performance when included as a covariate, and (iii) whether the spatial distribution of SOC as mapped using S2 is related to terrain-derived attributes. The influences of S2 image dates and soil sampling periods were analyzed for bare topsoil. The dates of the S2 images with the best performance (RPD \u2265 1.7) were 6 April and 26 May 2017, using soil samples collected between 2016 and 2018. The soil sampling dates were also analyzed using SMP values. Soil moisture values were extracted for each sample and integrated into partial least squares regression (PLSR) models. The use of soil moisture as a covariate had no effect on the prediction performance of the models; however, SMP values were used to select the driest dates, effectively mapping topsoil organic carbon. S2 was able to predict high SOC contents in the specific \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:eI34FqJmdUoC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=6183419039070255479",
+    "cites_id": [
+        "6183419039070255479"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/24/5115",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d3kr2drqz1UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 7,
+        "2023": 13
+    }
+}

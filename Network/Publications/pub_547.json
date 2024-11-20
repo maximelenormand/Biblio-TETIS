@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-2 images to assess soil surface characteristics over a rainfed Mediterranean cropping system",
+        "pub_year": 2022,
+        "citation": "Catena 213, 106152, 2022",
+        "author": "C\u00e9cile Gomez and Maman Sani Aboubacar and Dino Ienco and Denis Feurer and Zakia Jenhaoui and Attia Rafla and Maguelonne Teisseire and Jean-St\u00e9phane Bailly",
+        "journal": "Catena",
+        "volume": "213",
+        "pages": "106152",
+        "publisher": "Elsevier",
+        "abstract": "Soil surface characteristics (SSCs) are of high importance for water infiltration processes in crop fields. As SSCs present strong spatiotemporal variability influenced by climatic conditions and agricultural practices, their monitor has already been explored by using UAV images and multispectral remote sensing. However, each technique has encountered difficulties characterizing this spatiotemporal variability. The objective of this work was to explore the potential of Sentinel-2 images to assess three SSCs \u2013 the green vegetation fraction, dry vegetation fraction and physical soil surface structure \u2013 at several dates. This work explored two approaches for classifying these three SSCs from five Sentinel-2 images acquired from August to November 2016. In the \u201csingle-date\u201d approach, a Random Forest Classifier (RFC) model was trained to classify one SSCj from a dataset extracted from one Sentinel-2 image i (model \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:pRWBApOjXDcC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=15591329202796265895",
+    "cites_id": [
+        "15591329202796265895"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0341816222001382",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:p4HYtE2HX9gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3
+    }
+}

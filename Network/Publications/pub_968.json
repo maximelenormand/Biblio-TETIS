@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Where are Greater Climate Change Adaptation Measures Needed in a Wetland?",
+        "pub_year": 2021,
+        "citation": "Wetlands 41 (6), 74, 2021",
+        "author": "Saeideh Maleki and Vahid Rahdari and Nicolas Baghdadi and Ahmad Pahlevanravi",
+        "journal": "Wetlands",
+        "volume": "41",
+        "number": "6",
+        "pages": "74",
+        "publisher": "Springer Netherlands",
+        "abstract": "Climate change in arid areas leads to intensive drought, which causes widespread degradation in wetland ecosystems. Since wetlands play an important role in the sustainability of arid regions, climate change adaptation measures are required to conserve wetlands. However, how can we determine the regions that need increased adaptation measures? This paper aims to respond to this question and determine the regions that were highly degraded after climate change to consider them as high priority for adaptation measures. To reach this goal, degradation in the main factors that affect the functions of the Hamoun wetlands was detected in two periods, including wetland a one-year inundation period and over a 40-year period. The Hamoun wetlands are dealing with intensive drought because of the climate change that dries out these wetlands in some months and some years. Landsat images were classified \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Ic1VZgkJnDsC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=3289863400535111323",
+    "cites_id": [
+        "3289863400535111323"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s13157-021-01471-0",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mzZ0FFXxpy0J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

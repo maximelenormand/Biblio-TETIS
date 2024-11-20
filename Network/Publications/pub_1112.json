@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Will climate mitigation ambitions lead to carbon neutrality? An analysis of the local-level plans of 327 cities in the EU",
+        "pub_year": 2021,
+        "citation": "Renewable and Sustainable Energy Reviews 135, 110253, 2021",
+        "author": "Monica Salvia and Diana Reckien and Filomena Pietrapertosa and Peter Eckersley and Niki-Artemis Spyridaki and Anna Krook-Riekkola and Marta Olazabal and Sonia De Gregorio Hurtado and Sofia G Simoes and Davide Geneletti and Vincent Vigui\u00e9 and Paris A Fokaides and Byron I Ioannou and Alexandros Flamos and Maria Szalmane Csete and Attila Buzasi and Hans Orru and Cheryl de Boer and Aoife Foley and Klavdija Ri\u017enar and Marko Matosovi\u0107 and Mario V Balzan and Magdalena Smigaj and Viera Ba\u0161t\u00e1kov\u00e1 and Eva Streberova and Nata\u0161a Bel\u0161ak \u0160el and Lana Coste and L\u00e9a Tardieu and Corinna Altenburg and Eliska Krko\u0161ka Lorencov\u00e1 and Kati Orru and Anja Wejs and Efren Feliu and Jon Marco Church and Stelios Grafakos and Sergiu Vasilie and Ivan Paspaldzhiev and Oliver Heidrich",
+        "journal": "Renewable and Sustainable Energy Reviews",
+        "volume": "135",
+        "pages": "110253",
+        "publisher": "Pergamon",
+        "abstract": "Cities across the globe recognise their role in climate mitigation and are acting to reduce carbon emissions. Knowing whether cities set ambitious climate and energy targets is critical for determining their contribution towards the global 1.5 \u00b0C target, partly because it helps to identify areas where further action is necessary. This paper presents a comparative analysis of the mitigation targets of 327 European cities, as declared in their local climate plans. The sample encompasses over 25% of the EU population and includes cities of all sizes across all Member States, plus the UK. The study analyses whether the type of plan, city size, membership of climate networks, and its regional location are associated with different levels of mitigation ambition. Results reveal that 78% of the cities have a GHG emissions reduction target. However, with an average target of 47%, European cities are not on track to reach the Paris \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:L8Ckcad2t8MC",
+    "num_citations": 336,
+    "citedby_url": "/scholar?hl=en&cites=1298593426167137415",
+    "cites_id": [
+        "1298593426167137415"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1364032120305426",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:h4RZQteHBRIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 49,
+        "2022": 131,
+        "2023": 126,
+        "2024": 24
+    }
+}

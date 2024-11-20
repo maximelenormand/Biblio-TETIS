@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Training techniques for presence-only habitat suitability mapping with deep learning",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "Benjamin Kellenberger and Elijah Cole and Diego Marcos and Devis Tuia",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5085-5088",
+        "publisher": "IEEE",
+        "abstract": "The goal of habitat suitability mapping is to predict the lo-cations in which a given species could be present. This is typically accomplished by statistical models which use envi-ronmental variables to predict species observation data. The relationship between the environmental characteristics of a location and the species that live there is likely to be quite complex, so deep learning models would seem natural to use. In practice, there are biases in the training data which present obstacles to standard deep learning approaches. First, large-scale species observation collections typically consist of presence-only data, which means we only have locations where a species has been observed (not where it has been confirmed to be absent). Second, the class distribution tends to be long-tailed. In this work we examine training tech-niques to mitigate these challenges: (i) a method for sharing species information between \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:K3LRdlH-MEoC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=17309326251737490012",
+    "cites_id": [
+        "17309326251737490012"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9883627/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XCIoaIQUN_AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 4,
+        "2024": 1
+    }
+}

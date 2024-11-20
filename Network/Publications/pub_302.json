@@ -1,0 +1,37 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fire regimes in dryland landscapes",
+        "pub_year": 2019,
+        "citation": "Dryland ecohydrology, 367-399, 2019",
+        "author": "Christelle H\u00e9ly and Samuel Alleaume and Christiane Wilkinson Runyan",
+        "journal": "Dryland ecohydrology",
+        "pages": "367-399",
+        "publisher": "Springer International Publishing",
+        "abstract": "Dryland regions are climatically defined as having low annual precipitation and dry season periods that can span over several months and take place once or twice a year. Dryland ecosystems (e.g., grasslands, savannas, or dry forests) that experience recurrent fires often exhibit fire-adapted (or \u201cpyrophytic\u201d) vegetation (Trabaud 1981; Scholes 1997; van Wilgen and Scholes 1997; Mistry 1998; Roques et al. 2001; Nicholas et al. 2011; Blackhall et al. 2017; Linder et al. 2017). Fire affects ecosystem dynamics in terms of species selection, regeneration, structure, nutrient cycling, and mortality. While this chapter is devoted to fire regimes, we will also summarize ecological impacts and feedbacks of fire on the environment and in particular on plant communities. Other impacts, such as the effects of fires on soil moisture dynamics, infiltration, and runoff production, are discussed in Chap.                  2 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=649675728477573700",
+    "cites_id": [
+        "649675728477573700"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-23269-6_14",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RFIZB6IcBAkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2013": 3,
+        "2014": 3,
+        "2015": 0,
+        "2016": 0,
+        "2017": 1,
+        "2018": 3,
+        "2019": 1,
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 2,
+        "2024": 1
+    }
+}

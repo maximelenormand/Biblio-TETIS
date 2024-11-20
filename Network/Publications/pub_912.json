@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Developing a data-driven spatial approach to assessment of neighbourhood influences on the spatial distribution of myocardial infarction",
+        "pub_year": 2017,
+        "citation": "International journal of health geographics 16, 1-18, 2017",
+        "author": "Wahida Kihal-Talantikite and Christiane Weber and Gaelle Pedrono and Claire Segala and Dominique Arveiler and Clive E Sabel and S\u00e9verine Deguen and Denis Bard",
+        "journal": "International journal of health geographics",
+        "volume": "16",
+        "pages": "1-18",
+        "publisher": "BioMed Central",
+        "abstract": " There is a growing understanding of the role played by \u2018neighbourhood\u2019 in influencing health status. Various neighbourhood characteristics\u2014such as socioeconomic environment, availability of amenities, and social cohesion, may be combined\u2014and this could contribute to rising health inequalities. This study aims to combine a data-driven approach with clustering analysis techniques, to investigate neighbourhood characteristics that may explain the geographical distribution of the onset of myocardial infarction (MI) risk.All MI events in patients aged 35\u201374 years occurring in the Strasbourg metropolitan area (SMA), from January 1, 2000 to December 31, 2007 were obtained from the Bas-Rhin coronary heart disease register. All cases were geocoded to the census block for the residential address. Each areal unit, characterized by \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:VaXvl8Fpj5cC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=2233745131275627433",
+    "cites_id": [
+        "2233745131275627433"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1186/s12942-017-0094-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qStxrFzb_x4J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 2,
+        "2020": 2,
+        "2021": 2,
+        "2022": 2,
+        "2023": 2
+    }
+}

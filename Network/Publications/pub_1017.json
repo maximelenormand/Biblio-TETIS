@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Forest landscape restoration: Spectral behavior and diversity of tropical tree cover classes",
+        "pub_year": 2023,
+        "citation": "Remote Sensing Applications: Society and Environment 29, 100882, 2023",
+        "author": "Leo Eiti Haneda and Pedro HS Brancalion and Paulo G Molin and Matheus Pinheiro Ferreira and Carlos Alberto Silva and Catherine Torres de Almeida and Angelica Faria Resende and Giulio Brossi Santoro and Marcos Rosa and Joannes Guillemot and Guerric Le Maire and Jean-Baptiste Feret and Danilo Roberti Alves de Almeida",
+        "journal": "Remote Sensing Applications: Society and Environment",
+        "volume": "29",
+        "pages": "100882",
+        "publisher": "Elsevier",
+        "abstract": "Forest landscape restoration (FLR) commitments have been established in the past years to restore over 200 million hectares, as part of the global Bonn Challenge goal, mostly through the implementation of several different restorative practices in degraded lands, ranging from commercial tree monocultures to restoration plantings. The potential of such contrasting restorative practices to support biodiversity conservation and ecosystem services provision vary over space and time, making the monitoring of FLR programs an emerging challenge. Remote sensing techniques, together with innovative technologies for data acquisition, treatment, and analysis have proven to be strategic for planning and monitoring FLR, yet there are still important unresolved questions. Here, we evaluated the potential of multispectral orbital images of the high spatial (5 m) and spectral (12 bands) resolution VEN\u03bcS microsatellite, joint \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:mvPsJ3kp5DgC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=7056796031163275740",
+    "cites_id": [
+        "7056796031163275740"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352938522001902",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3JnfEZrG7mEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 1
+    }
+}

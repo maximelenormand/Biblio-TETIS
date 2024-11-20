@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Tropical forest biomass estimation using P-band Polarimetric SAR Tomography",
+        "pub_year": 2016,
+        "citation": "ESA Living Planet Symposium 2016, 2016",
+        "author": "Laurent Ferro-Famil and Bassam El Hajj Chehade and Dinh Ho Tong Minh and Thuy Le Toan and Stefano Tebaldini",
+        "conference": "ESA Living Planet Symposium 2016",
+        "abstract": "CIRAD| INSU| METEO| UNIV-NANTES| AGROPARISTECH| UNIV-RENNES1| CNRS| INSA-RENNES| IRSTEA| IETR| OMP| OMP-CESBIO| CENTRALESUPELEC| AGROPOLIS| TETIS| UR1-MATH-STIC| UR1-UFR-ISTIC| IETR-SHINE| UNIV-RENNES| INSA-GROUPE| INRAE| INRAEOCCITANIEMONTPELLIER| UR1-MATH-NUM| NANTES-UNIVERSITE| UNIV-UT3| UT3-TOULOUSEINP"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:mB3voiENLucC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01465614/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wwumXeC59t8J:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Across date species detection using airborne imaging spectroscopy",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (7), 789, 2019",
+        "author": "Anthony Laybros and Daniel Schl\u00e4pfer and Jean-Baptiste F\u00e9ret and Laurent Descroix and Caroline Bedeau and Marie-Jose Lefevre and Gr\u00e9goire Vincent",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "7",
+        "pages": "789",
+        "publisher": "MDPI",
+        "abstract": "Imaging spectroscopy is a promising tool for airborne tree species recognition in hyper-diverse tropical canopies. However, its widespread application is limited by the signal sensitivity to acquisition parameters, which may require new training data in every new area of application. This study explores how various pre-processing steps may improve species discrimination and species recognition under different operational settings. In the first experiment, a classifier was trained and applied on imaging spectroscopy data acquired on a single date, while in a second experiment, the classifier was trained on data from one date and applied to species identification on data from a different date. A radiative transfer model based on atmospheric compensation was applied with special focus on the automatic retrieval of aerosol amounts. The impact of spatial or spectral filtering and normalisation was explored as an alternative to atmospheric correction. A pixel-wise classification was performed with a linear discriminant analysis trained on individual tree crowns identified at the species level. Tree species were then identified at the crown scale based on a majority vote rule. Atmospheric corrections did not outperform simple statistical processing (i.e., filtering and normalisation) when training and testing sets were taken from the same flight date. However, atmospheric corrections became necessary for reliable species recognition when different dates were considered. Shadow masking improved species classification results in all cases. Single date classification rate was 83.9% for 1297 crowns of 20 tropical species. The loss of mean accuracy observed \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:HoB7MX3m0LUC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=7673440799226781017",
+    "cites_id": [
+        "7673440799226781017"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/7/789",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Wd3mUsCJfWoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 3,
+        "2020": 6,
+        "2021": 6,
+        "2022": 0,
+        "2023": 4,
+        "2024": 1
+    }
+}

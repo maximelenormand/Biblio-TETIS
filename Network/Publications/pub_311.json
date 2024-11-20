@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mekong SAR interferometry big data: preliminary results",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "D Ho Tong Minh and T-C Le and Y-N Ngo and C-C Nguyen and T-A Pham and Thuy Le Toan",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "385-388",
+        "publisher": "IEEE",
+        "abstract": "The Mekong delta is inhabited by more than 20 million people in Vietnam and is highly vulnerable to the additive effects of land subsidence and sea-level rise due to global climate change. To cover Delta-wide from 2015\u20132020, there are 250 multi-temporal SAR Sentinel-1 images, where each scene is stored in complex values with about 14 GB memory data. To do interferometry processing, we need to be able to intelligently handle ensemble 250\u00d7 14 GB data. Thus, although Sentinel-1 Big Data offers the best opportunity for land subsidence monitoring, it is challenge due to an unprecedented big volume of multi-temporal InSAR dataset. In this paper, the objective is to provide a discuss on a feasible method to handle the Delta-wide land subsidence by TOPS interferometry."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:XiSMed-E-HIC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=2511079277593725257",
+    "cites_id": [
+        "2511079277593725257"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9324558/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SYnRd0wl2SIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

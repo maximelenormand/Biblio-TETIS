@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Opportunities and constraints for adoption of maize-legume mixed cropping systems in Laos",
+        "pub_year": 2020,
+        "citation": "International Journal of Agricultural Sustainability 18 (5), 427-443, 2020",
+        "author": "Pascal Lienhard and Guillaume Lestrelin and Ianlang Phanthanivong and Xaisavanh Kiewvongphachan and Bounma Leudphanane and Juliette Lairez and Hoa Tran Quoc and Jean-Christophe Castella",
+        "journal": "International Journal of Agricultural Sustainability",
+        "volume": "18",
+        "number": "5",
+        "pages": "427-443",
+        "publisher": "Taylor & Francis",
+        "abstract": "Land use and land cover have rapidly changed in Kham basin, northern Laos, with a rapid expansion of maize cultivated area. While maize monoculture has contributed to reduce rural poverty, many farmers are now confronted to declining yields, indebtedness, rising health and environmental concerns. Interventions at two different stages of the maize boom, i.e. expansion-intensification and distress-diversification phases, allowed capturing the main drivers of change in maize production systems, and assessing opportunities and constraints for the adoption of more sustainable maize-legume mixed systems. The successive innovations in maize cropping systems, i.e. introduction of hybrid seeds, motorized tillage, herbicides, service provision, planters, and mineral fertilizers, were mainly driven by productivity and profitability objectives. Farmers\u2019 interest in maize-legume mixed systems was low during maize \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:738O_yMBCRsC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=16775385094245112068",
+    "cites_id": [
+        "16775385094245112068"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/14735903.2020.1792680",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BNncCN0jzugJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 4,
+        "2022": 5,
+        "2023": 9,
+        "2024": 1
+    }
+}

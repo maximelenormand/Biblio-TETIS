@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Entropy as a measure of attractiveness and socioeconomic complexity in Rio de Janeiro metropolitan area",
+        "pub_year": 2020,
+        "citation": "Entropy 22, 368, 2020",
+        "author": "Maxime Lenormand and Horacio Samaniego and J\u00falio C\u00e9sar Chaves and Vin\u00edcius da Fonseca Vieira and Moacyr Alvim Horta Barbosa da Silva and Alexandre Gon\u00e7alves Evsukoff",
+        "journal": "Entropy",
+        "volume": "22",
+        "pages": "368",
+        "publisher": "MDPI",
+        "abstract": "Defining and measuring spatial inequalities across the urban environment remains a complex and elusive task which has been facilitated by the increasing availability of large geolocated databases. In this study, we rely on a mobile phone dataset and an entropy-based metric to measure the attractiveness of a location in the Rio de Janeiro Metropolitan Area (Brazil) as the diversity of visitors\u2019 location of residence. The results show that the attractiveness of a given location measured by entropy is an important descriptor of the socioeconomic status of the location, and can thus be used as a proxy for complex socioeconomic indicators."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:BqipwSGYUEgC",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=16931548917752990598",
+    "cites_id": [
+        "16931548917752990598"
+    ],
+    "pub_url": "https://www.mdpi.com/1099-4300/22/3/368",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hgvRkwjy-OoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 3,
+        "2022": 7,
+        "2023": 5,
+        "2024": 1
+    }
+}

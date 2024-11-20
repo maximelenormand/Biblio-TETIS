@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Influence of elevation above sea level and forest type on estimation of forest canopy height using ICESat/GLAS (Case study: Hyrcanian forests of Iran)",
+        "pub_year": 2017,
+        "citation": "AGSE 2017, 35, 2017",
+        "author": "Manizheh Rajab Pourrahmati and Ali A Darvishsefat and Nicolas Baghdadi",
+        "journal": "AGSE 2017",
+        "pages": "35",
+        "abstract": "Measuring forest biophysical parameters is important for forest management and ecosystem health monitoring. Heterogeneity of Hyrcanian forests in terms of vertical and horizontal makes the measurements and estimations difficult and doubtful. This research aims to assess accuracy of estimation of maximum canopy height (Hmax) and mean Lorey height (HLorey) of Hyrcanian mountainous forests using lidar space borne data of ICESat/GLAS, and also influence of elevation above sea level and forest type on the estimations. GLAS extracted metrics were regressed against field measurement data using three statistical methods of multiple linear regression (MLR), random forests (RF) and artificial neural network (ANN). A 10-meter digital elevation model (DEM10) was employed to decrease the recognized effect of terrain slope on lidar waveforms. In order to assess the influence of forest type and elevation, statistic parameters were calculated in three forest type classes of pure Fagus orientalis, mixed Fagus orientalis and Carpinus orientalis-Quercus macranthera, and three elevation classes of< 300 m, 1300-1500 m and> 1500 m. Concerning Hmax, best result was obtained using an MLR based on waveform parametric metrics and terrain index extracted from DEM10 with an RMSE of 5 m. The accuracy of this model increased to 3.9 m in pure Fagus orientalis, and 3.8 m in elevation class of 1300-1500 m which is also mostly covered by pure Fagus orientalis. Regards to HLorey, an ANN model based on waveform nonparametric metrics acquired from principal component analysis (PCA) showed the highest accuracy of 3.4 m which increased to 2 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:PoWvk5oyLR8C",
+    "num_citations": 0,
+    "pub_url": "https://www.researchgate.net/profile/Fatemeh-Alidoost-2/publication/323187625_Geoinformation-Supporting_Crisis_and_Disaster_Management/links/5a8566eca6fdcc201b9f907f/Geoinformation-Supporting-Crisis-and-Disaster-Management.pdf#page=35",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:n93SfPmu4JEJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Personalized recommendation of points-of-interest based on multilayer local community detection",
+        "pub_year": 2017,
+        "citation": "Social Informatics: 9th International Conference, SocInfo 2017, Oxford, UK \u2026, 2017",
+        "author": "Roberto Interdonato and Andrea Tagarelli",
+        "conference": "Social Informatics: 9th International Conference, SocInfo 2017, Oxford, UK, September 13-15, 2017, Proceedings, Part I 9",
+        "pages": "552-571",
+        "publisher": "Springer International Publishing",
+        "abstract": "When visiting a touristic venue, building personalized itineraries is often non-trivial, mainly because of the variety of types of points-of-interest (PoIs) that might be considered by an individual. Several online platforms exist to support the tourists by providing them with detailed PoI-related information in a certain area, such as routes, distances, reviews, and ratings. However, integrating all these aspects can be tricky, and finding a reasonable trade-off between spatial/temporal proximity, amount and serendipity of the PoIs to visit can be challenging even for expert tourists. In this work, we propose a novel approach to the recommendation of a set of PoIs for a geographic area set around a given seed PoI, by leveraging a multilayer local community detection framework. The seed-centric communities are discovered in a complex network system, whose nodes correspond to PoIs and relations in the different \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=10423955695793824431",
+    "cites_id": [
+        "10423955695793824431"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-67217-5_33",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:r2IzEnpUqZAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 6,
+        "2020": 0,
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    }
+}

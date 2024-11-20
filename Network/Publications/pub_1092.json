@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Climate change projections of West Nile virus infections in Europe: implications for blood safety practices",
+        "pub_year": 2016,
+        "citation": "Environmental Health 15 (1), 125-136, 2016",
+        "author": "Jan C Semenza and Annelise Tran and Laura Espinosa and Bertrand Sudre and Dragoslav Domanovic and Shlomit Paz",
+        "journal": "Environmental Health",
+        "volume": "15",
+        "number": "1",
+        "pages": "125-136",
+        "publisher": "BioMed Central",
+        "abstract": "West Nile virus (WNV) is transmitted by mosquitoes in both urban as well as in rural environments and can be pathogenic in birds, horses and humans. Extrinsic factors such as temperature and land use are determinants of WNV outbreaks in Europe, along with intrinsic factors of the vector and virus. With a multivariate model for WNV transmission we computed the probability of WNV infection in 2014, with July 2014 temperature anomalies. We applied the July temperature anomalies under the balanced A1B climate change scenario (mix of all energy sources, fossil and non-fossil) for 2025 and 2050 to model and project the risk of WNV infection in the future. Since asymptomatic infections are common in humans (which can result in the contamination of the donated blood) we estimated the predictive prevalence of WNV infections in the blood donor population. External validation of the probability model with 2014 cases indicated good prediction, based on an Area Under Curve (AUC) of 0.871 (SD\u2009=\u20090.032), on the Receiver Operating Characteristic Curve (ROC). The climate change projections for 2025 reveal a higher probability of WNV infection particularly at the edges of the current transmission areas (for example in Eastern Croatia, Northeastern and Northwestern Turkey) and an even further expansion in 2050. The prevalence of infection in (blood donor) populations in the outbreak-affected districts is expected to expand in the future. Predictive modelling of environmental and climatic drivers of WNV can be a valuable tool for public health practice. It can help delineate districts at risk for future transmission. These areas can be subjected to \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:-f6ydRqryjwC",
+    "num_citations": 108,
+    "citedby_url": "/scholar?hl=en&cites=3671224910974929017",
+    "cites_id": [
+        "3671224910974929017"
+    ],
+    "pub_url": "https://ehjournal.biomedcentral.com/articles/10.1186/s12940-016-0105-4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ecg5BZvP8jIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 5,
+        "2017": 12,
+        "2018": 8,
+        "2019": 9,
+        "2020": 24,
+        "2021": 15,
+        "2022": 14,
+        "2023": 12,
+        "2024": 4
+    }
+}

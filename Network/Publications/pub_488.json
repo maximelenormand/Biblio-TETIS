@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "One Health and EcoHealth: the same wine in different bottles?",
+        "pub_year": 2016,
+        "citation": "Infection ecology & epidemiology 6 (1), 30978, 2016",
+        "author": "Fran\u00e7ois Roger and Alexandre Caron and Serge Morand and Miguel Pedrono and Michel de Garine-Wichatitsky and Veronique Chevalier and Annelise Tran and Nicolas Gaidet and Muriel Figui\u00e9 and Marie-No\u00ebl De Visscher and Aur\u00e9lie Binot",
+        "journal": "Infection ecology & epidemiology",
+        "volume": "6",
+        "number": "1",
+        "pages": "30978",
+        "publisher": "Taylor & Francis",
+        "abstract": "Global approaches to health such as One Health or EcoHealth paradigms posit that the epidemiological dynamics and stakeholders\u2019 actions that determine the health of animal and human populations need to be studied in their interconnected ecological, socioeconomic, and political contexts. So far they have received scant mutual theoretical discussions, despite enjoying widespread attention and empirical support. Both One Health and EcoHealth are conceptual movements, scientific areas, and political endeavours. However, their development has been driven by different scientific concerns, institutional frameworks, and cultures. One Health deals with biomedical questions, with an emphasis on zoonoses, and is historically more health science-driven. In contrast, the EcoHealth concept is defined as an ecosystem approach to health, tending to focus on environmental and socioeconomic issues and initially \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:R3hNpaxXUhUC",
+    "num_citations": 70,
+    "citedby_url": "/scholar?hl=en&cites=10961235413159521883",
+    "cites_id": [
+        "10961235413159521883"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/full/10.3402/iee.v6.30978",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Wy7OfIghHpgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 3,
+        "2017": 4,
+        "2018": 1,
+        "2019": 7,
+        "2020": 9,
+        "2021": 13,
+        "2022": 13,
+        "2023": 16,
+        "2024": 3
+    }
+}

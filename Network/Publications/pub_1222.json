@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Volunteered multidimensional design to the test: the farmland biodiversity VGI4Bio Project's experiment.",
+        "pub_year": 2019,
+        "citation": "EDBT/ICDT 2019 Joint Conference, -, 2019",
+        "author": "Sandro Bimonte and Stefano Rizzi and Lucile Sautot and Benoit Fontaine",
+        "conference": "EDBT/ICDT 2019 Joint Conference",
+        "pages": "-",
+        "abstract": "Moving volunteers of VGI (Volunteer Geographic Information) from passive data producers to active data analysts in the context of Data Warehouses (DWs) and OLAP systems is an open issue. Indeed, volunteers have particular features that make existing DW design methodologies inadequate. In this paper, using a real case study concerning the farmland biodiversity, we test the methodology proposed in [5], which enables volunteers to design DW schemes. The experiments aim at answering two research questions: (i)How can volunteered design be streamlined with respect to the methodology described in [5]?; (ii)To what extent does the involvement of a large number of volunteers actually improve the cubes implemented? Our experiments confirm the adequacy of the methodology proposed in [5], but they also reveal some important limitations. Among them, we identify possible conflicts among volunteers in the first steps of the design process. To address this issue we propose a solution based on social software engineering tools, and in particular Wiki systems."
+    },
+    "filled": true,
+    "author_pub_id": "NAGlML4AAAAJ:MXK_kJrjxJIC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=4871002540190704092",
+    "cites_id": [
+        "4871002540190704092"
+    ],
+    "pub_url": "https://hal.science/hal-02470017/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3KEXrABHmUMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1
+    }
+}

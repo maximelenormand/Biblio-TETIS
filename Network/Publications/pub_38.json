@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Adaptation de domaine pour la cartographie de l'occupation des sols \u00e0 partir de s\u00e9ries temporelles d'images satellitaires optiques",
+        "pub_year": 2021,
+        "citation": "ORASIS 2021, 2021",
+        "author": "Emmanuel Capliez and Dino Ienco and Raffaele Gaetano and Nicolas Baghdadi and Adrien Hadj Salah",
+        "conference": "ORASIS 2021",
+        "abstract": "Source de donn\u00e9es \u00e0 fortes valeurs intrins\u00e8ques, les s\u00e9ries temporelles d'images satellitaires sont devenues indispensables dans l'\u00e9laboration de produits tels que les cartographies d'occupation des sols. Leur production automatique par apprentissage machine est possible sous r\u00e9serve de disposer des donn\u00e9es de r\u00e9f\u00e9rence n\u00e9cessaires. Le facteur limitant concerne bien souvent la quantit\u00e9 et la qualit\u00e9 de ces donn\u00e9es. \u00c9tudi\u00e9e depuis une dizaine d'ann\u00e9es, l'adaptation de domaine non supervis\u00e9 est un champ de recherche prometteur mais peu d\u00e9clin\u00e9 et efficace dans le cas de cette probl\u00e9matique. Aussi, nous proposons de rechercher une nouvelle m\u00e9thode d'adaptation de domaine adapt\u00e9e aux donn\u00e9es d'observation de la Terre et tirant profit de la dimension temps des s\u00e9rie temporelles d'images satellitaires."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:yD5IFk8b50cC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03339618/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lUKbhdgkUtEJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Generating Virtual Training Labels for Crop Classification from Fused Sentinel-1 and Sentinel-2 Time Series",
+        "pub_year": 2023,
+        "citation": "PFG\u2013Journal of Photogrammetry, Remote Sensing and Geoinformation Science 91 \u2026, 2023",
+        "author": "Maryam Teimouri and Mehdi Mokhtarzade and Nicolas Baghdadi and Christian Heipke",
+        "journal": "PFG\u2013Journal of Photogrammetry, Remote Sensing and Geoinformation Science",
+        "volume": "91",
+        "number": "6",
+        "pages": "413-423",
+        "publisher": "Springer International Publishing",
+        "abstract": "Convolutional neural networks (CNNs) have shown results superior to most traditional image understanding approaches in many fields, incl. crop classification from satellite time series images. However, CNNs require a large number of training samples to properly train the network. The process of collecting and labeling such samples using traditional methods can be both, time-consuming and costly. To address this issue and improve classification accuracy, generating virtual training labels (VTL) from existing ones is a promising solution. To this end, this study proposes a novel method for generating VTL based on sub-dividing the training samples of each crop using self-organizing maps (SOM), and then assigning labels to a set of unlabeled pixels based on the distance to these sub-classes. We apply the new method to crop classification from Sentinel images. A three-dimensional (3D) CNN is utilized for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:RXiHnyRawswC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/article/10.1007/s41064-023-00256-w",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QI1NQE4ivKYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

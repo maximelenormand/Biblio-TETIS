@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards a better understanding of grass bed dynamics using remote sensing at high spatial and temporal resolutions",
+        "pub_year": 2021,
+        "citation": "Estuarine, Coastal and Shelf Science 251, 107229, 2021",
+        "author": "Marion Menu and Guillaume Papuga and Fr\u00e9d\u00e9ric Andrieu and Guilhem Debarros and Xavier Fortuny and Samuel Alleaume and Estelle Pitard",
+        "journal": "Estuarine, Coastal and Shelf Science",
+        "volume": "251",
+        "pages": "107229",
+        "publisher": "Academic Press",
+        "abstract": "Wetlands conservation and resilience capacities are key issues in many places over the globe. Understanding these issues will benefit from a precise knowledge of seagrass species occupancy and coverage over time and over space. Such information can be obtained from remote sensing images and their classification thanks to a vegetation index, to be used in a complementary manner to field work inventories. Sentinel-2 data, which are available with a frequent revisit time (<5 days) and a high spatial resolution (10m pixel size) can be used to map grassbeds at the surface or slightly below the surface of permanent lagoons, hence enabling the characterization of its seasonal dynamics, which was not possible with previous remote-sensing tools. We have proved the feasibility of such a method in the natural reserve of the Bagnas (Herault, France) where Stuckenia pectinata coverage can be tracked over a full \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:RGFaLdJalmkC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16244541857348026666",
+    "cites_id": [
+        "16244541857348026666"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0272771421000652",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KoExgsA0cOEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

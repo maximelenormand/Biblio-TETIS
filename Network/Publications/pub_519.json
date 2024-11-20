@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Built environment in local relation with walking: Why here and not there?",
+        "pub_year": 2016,
+        "citation": "Journal of Transport & Health 3 (4), 500-512, 2016",
+        "author": "Thierry Feuillet and Paul Salze and H\u00e9l\u00e8ne Charreire and Mehdi Menai and Christophe Enaux and Camille Perchoux and Franck Hess and Emmanuelle Kesse-Guyot and Serge Hercberg and Chantal Simon and Christiane Weber and Jean-Michel Oppert",
+        "journal": "Journal of Transport & Health",
+        "volume": "3",
+        "number": "4",
+        "pages": "500-512",
+        "publisher": "Elsevier",
+        "abstract": "Walking, as both a major mode of transport and the most common form of every-day physical activity, deserves further attention in health-related transportation studies. In this paper, we focused on the built environmental correlates of walking for errands and leisure in a sample of 4979 adults (Paris, France) through a cross-sectional study based on an internet survey. The main aims were (i) to delineate places with contrasting relationships between the built environment and walking, using geographically weighted regression models and (ii) to determine what differentiated the contexts we uncovered, in terms of both environmental and individual characteristics, using canonical discriminant analyses. Our results showed that the spatial heterogeneity of relationships between walking and the built environment occurred across the entire studied area and concerned the two walking outcomes, with odds-ratios (ORs \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:_Ybze24A_UAC",
+    "num_citations": 56,
+    "citedby_url": "/scholar?hl=en&cites=414191953160838118",
+    "cites_id": [
+        "414191953160838118"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2214140515007045",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5hv6DGOBvwUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 4,
+        "2018": 2,
+        "2019": 16,
+        "2020": 6,
+        "2021": 10,
+        "2022": 5,
+        "2023": 10,
+        "2024": 2
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A Land Use/Land cover on the small Indian Ocean islands, an example of its use with the study of vector-borne diseases",
+        "pub_year": 2019,
+        "citation": "Island Biology 2019, 2019",
+        "author": "Christophe R\u00e9villion and Artadji Attoumane and Annelise Tran and Vincent Herbreteau",
+        "conference": "Island Biology 2019",
+        "abstract": "The southwestern Indian Ocean comprises numerous islands of less than 3000 sq km (Comoros, Seychelles, Mascarene Islands). These small island territories have very fragmented and diversified landscapes. Satellite imagery and landcover products at low and medium spatial resolution (usually from 4 kilometers to 250 meters) are not or poorly suited to the study of these areas. Therefore, we have developed a land use product, called Homisland-IO, based on the analysis of high spatial resolution images acquired by the SPOT 5 satellite between December 2012 and July 2014 and produced at the SEAS-OI Station. We used an object-based image analysis method to identify the 11 major classes of land cover / land use of these tropical islands. This methodology together with a good knowledge of the field has enabled us to achieve an overall accuracy of 86%, making it an operational product. These products have already been used in various projects, including epidemiology and health geography (Lept-OI, TROI, ISSE-Mayotte, etc) to describe the distribution and habitat of some vectors of diseases (mainly mosquitoes and rodents), a necessary condition for analyzing the risk of transmission of these diseases to humans."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:uc_IGeMz5qoC",
+    "num_citations": 0,
+    "pub_url": "https://hal.univ-reunion.fr/hal-02189211/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rUQZEa7orNwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

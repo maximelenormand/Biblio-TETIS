@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u00c9valuation des services \u00e9cosyst\u00e9miques urbains: de la rh\u00e9torique \u00e0 la pratique. L\u2019apport de l\u2019approche par habitat",
+        "pub_year": 2017,
+        "citation": "Environnement Urbain/Urban Environment, 2017",
+        "author": "Wissal Selmi and Christiane Weber",
+        "journal": "Environnement Urbain/Urban Environment",
+        "number": "Volume 11",
+        "publisher": "R\u00e9seau Villes R\u00e9gions Monde",
+        "abstract": "Cet article aborde \u00e0 la fois la complexit\u00e9 du concept de services \u00e9cosyst\u00e9miques et son aspect pragmatique. En fournissant un exemple concret d\u2019\u00e9valuation de services \u00e9cosyst\u00e9miques, l\u2019objectif est de d\u00e9montrer que cette complexit\u00e9 n\u2019est pas un frein quant \u00e0 l\u2019application du concept. Dans ce cadre, une \u00e9valuation ascendante des services \u00e9cosyst\u00e9miques a \u00e9t\u00e9 d\u00e9velopp\u00e9e. Bas\u00e9e sur la caract\u00e9risation de la v\u00e9g\u00e9tation urbaine, cette \u00e9valuation \u00e9cologique a permis d\u2019\u00e9tudier le fonctionnement des arbres urbains et de quantifier les services \u00e9cosyst\u00e9miques rendus \u00e0 la soci\u00e9t\u00e9 en appliquant le mod\u00e8le \u00ab i-Tree Eco \u00bb \u00e0 l\u2019\u00e9chelle de la ville de Strasbourg (France)."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:xtoqd-5pKcoC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=6673213334772281660",
+    "cites_id": [
+        "6673213334772281660"
+    ],
+    "pub_url": "https://journals.openedition.org/eue/1799",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PHGA-SsEnFwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 1,
+        "2019": 0,
+        "2020": 0,
+        "2021": 3,
+        "2022": 0,
+        "2023": 3
+    }
+}

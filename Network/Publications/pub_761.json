@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation of rice height and biomass using multitemporal SAR Sentinel-1 for Camargue, Southern France",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (9), 1394, 2018",
+        "author": "Emile Ndikumana and Dinh Ho Tong Minh and Hai Thu Dang Nguyen and Nicolas Baghdadi and Dominique Courault and Laure Hossard and Ibrahim El Moussawi",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "9",
+        "pages": "1394",
+        "publisher": "MDPI",
+        "abstract": "The research and improvement of methods to be used for crop monitoring are currently major challenges, especially for radar images due to their speckle noise nature. The European Space Agency\u2019s (ESA) Sentinel-1 constellation provides synthetic aperture radar (SAR) images coverage with a 6-day revisit period at a high spatial resolution of pixel spacing of 20 m. Sentinel-1 data are considerably useful, as they provide valuable information of the vegetation cover. The objective of this work is to study the capabilities of multitemporal radar images for rice height and dry biomass retrievals using Sentinel-1 data. To do this, we train Sentinel-1 data against ground measurements with classical machine learning techniques (Multiple Linear Regression (MLR), Support Vector Regression (SVR) and Random Forest (RF)) to estimate rice height and dry biomass. The study is carried out on a multitemporal Sentinel-1 dataset acquired from May 2017 to September 2017 over the Camargue region, southern France. The ground in-situ measurements were made in the same period to collect rice height and dry biomass over 11 rice fields. The images were processed in order to produce a radar stack in C-band including dual-polarization VV (Vertical receive and Vertical transmit) and VH (Vertical receive and Horizontal transmit) data. We found that non-parametric methods (SVR and RF) had a better performance over the parametric MLR method for rice biophysical parameter retrievals. The accuracy of rice height estimation showed that rice height retrieval was strongly correlated to the in-situ rice height from dual-polarization, in which Random Forest yielded \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:5MTHONV0fEkC",
+    "num_citations": 63,
+    "citedby_url": "/scholar?hl=en&cites=10430784865913092200",
+    "cites_id": [
+        "10430784865913092200"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/9/1394",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aDhFJZKXwZAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 7,
+        "2020": 5,
+        "2021": 15,
+        "2022": 19,
+        "2023": 13,
+        "2024": 3
+    }
+}

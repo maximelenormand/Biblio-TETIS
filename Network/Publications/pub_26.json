@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "DuPLO: A DUal view Point deep Learning architecture for time series classificatiOn",
+        "pub_year": 2019,
+        "citation": "ISPRS journal of photogrammetry and remote sensing 149, 91-104, 2019",
+        "author": "Roberto Interdonato and Dino Ienco and Raffaele Gaetano and Kenji Ose",
+        "journal": "ISPRS journal of photogrammetry and remote sensing",
+        "volume": "149",
+        "pages": "91-104",
+        "publisher": "Elsevier",
+        "abstract": "Nowadays, modern Earth Observation systems continuously generate huge amounts of data. A notable example is represented by the Sentinel-2 mission, which provides images at high spatial resolution (up to 10\u202fm) with high temporal revisit period (every 5\u202fdays), which can be organized in Satellite Image Time Series (SITS). While the use of SITS has been proved to be beneficial in the context of Land Use/Land Cover (LULC) map generation, unfortunately, most of machine learning approaches commonly leveraged in remote sensing field fail to take advantage of spatio-temporal dependencies present in such data.Recently, new generation deep learning methods allowed to significantly advance research in this field. These approaches have generally focused on a single type of neural network, i.e., Convolutional Neural Networks (CNNs) or Recurrent Neural Networks (RNNs), which model different but \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:mB3voiENLucC",
+    "num_citations": 141,
+    "citedby_url": "/scholar?hl=en&cites=1700842213305290062",
+    "cites_id": [
+        "1700842213305290062"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271619300115",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Tg0NR_uamhcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 12,
+        "2020": 25,
+        "2021": 30,
+        "2022": 38,
+        "2023": 29,
+        "2024": 6
+    }
+}

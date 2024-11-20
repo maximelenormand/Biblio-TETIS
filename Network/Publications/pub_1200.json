@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial information extraction from short messages",
+        "pub_year": 2018,
+        "citation": "Expert Systems with Applications 95, 351-367, 2018",
+        "author": "Sarah Zenasni and Eric Kergosien and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Expert Systems with Applications",
+        "volume": "95",
+        "pages": "351-367",
+        "publisher": "Pergamon",
+        "abstract": "Texts in addition to maps and satellite images, have become an important spatial data resource in recent years. Electronic written texts used in mediated interactions, especially short messages, have triggered the emergence of new ways of writing. Extracting information from such short messages, which represent a rich source of information, is highly important in order to discover domain-relevant information in the text and facilitate information retrieval. However, short messages are hard to analyse because of their brief, unstructured and informal nature. This paper focuses on the kinds of special or unique spatial entities and relations are contained in short messages. A new entity extraction method specifically dedicated to French short messages (SMS and tweets) is outlined to address this issue. The method is then tested on more traditional sources, like newspaper texts. This work is crucial in order to take \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:5Ul4iDaHHb8C",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=8048024252646619360",
+    "cites_id": [
+        "8048024252646619360"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417417307819",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4Pi64mpTsG8J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 3,
+        "2020": 3,
+        "2021": 7,
+        "2022": 7,
+        "2023": 0,
+        "2024": 2
+    }
+}

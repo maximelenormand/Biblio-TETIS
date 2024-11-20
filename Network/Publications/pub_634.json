@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Retrieval of High-Resolution Vegetation Optical Depth from Sentinel-1 Data over a Grassland Region in the Heihe River Basin",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (21), 5468, 2022",
+        "author": "Zhilan Zhou and Lei Fan and Gabrielle De Lannoy and Xiangzhuo Liu and Jian Peng and Xiaojing Bai and Fr\u00e9d\u00e9ric Frappart and Nicolas Baghdadi and Zanpin Xing and Xiaojun Li and Mingguo Ma and Xin Li and Tao Che and Liying Geng and Jean-Pierre Wigneron",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "21",
+        "pages": "5468",
+        "publisher": "MDPI",
+        "abstract": "Vegetation optical depth (VOD), as a microwave-based estimate of vegetation water and biomass content, is increasingly used to study the impact of global climate and environmental changes on vegetation. However, current global operational VOD products have a coarse spatial resolution (~25 km), which limits their use for agriculture management and vegetation dynamics monitoring at regional scales (1\u20135 km). This study aims to retrieve high-resolution VOD from the C-band Sentinel-1 backscatter data over a grassland of the Heihe River Basin in northwestern China. The proposed approach used an analytical solution of a simplified Water Cloud Model (WCM), constrained by given soil moisture estimates, to invert VOD over grassland with 1 km spatial resolution during the 2018\u20132020 period. Our results showed that the VOD estimates exhibited large spatial variability and strong seasonal variations. Furthermore, the dynamics of VOD estimates agreed well with optical vegetation indices, i.e., the mean temporal correlations with normalized difference vegetation index (NDVI), enhanced vegetation index (EVI), and leaf area index (LAI) were 0.76, 0.75, and 0.75, respectively, suggesting that the VOD retrievals could precisely capture the dynamics of grassland. "
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:9shLKfS_uJEC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=13293217629793667788",
+    "cites_id": [
+        "13293217629793667788"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/21/5468",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zMrP-QD_ergJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

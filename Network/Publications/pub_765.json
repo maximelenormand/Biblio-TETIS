@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving maps from CNNs trained with sparse, scribbled ground truths using fully connected CRFs",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Luca Maggiolo and Diego Marcos and Gabriele Moser and Devis Tuia",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "2099-2102",
+        "publisher": "IEEE",
+        "abstract": "Convolutional Neural Networks (CNNs) have become the new standard for semantic segmentation of very high resolution images. But as for other methods, the map accuracy depends on the quantity and quality of ground truth used to train them. Having densely annotated data, i.e. a detailed, pixel-level ground truth (GT), allows obtaining effective models, but requires high efforts in annotation. For this reason, it is more common and efficient to work with point or scribbled annotations rather than with dense ones. A CNN model trained with such incomplete ground truths tends to mischaracterize the shapes of the objects and to be inaccurate near their boundaries. We propose to use an approximation of a fully connected Conditional Random Field (CRF) to solve these issues, in which long range connections are accounted for through auxiliary nodes based on clustering of CNN activation features. Experiments on the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:Zph67rFs4hoC",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=1167865798066655749",
+    "cites_id": [
+        "1167865798066655749"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8517947/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BVIXd8EXNRAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 4,
+        "2020": 1,
+        "2021": 7,
+        "2022": 4,
+        "2023": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Benchmarking statistical modelling approaches with multi-source remote sensing data for millet yield monitoring: a case study of the groundnut basin in central Senegal",
+        "pub_year": 2021,
+        "citation": "International Journal of Remote Sensing 42 (24), 9285-9308, 2021",
+        "author": "Yawogan Jean Eudes Gbodjo and Dino Ienco and Louise Leroux",
+        "journal": "International Journal of Remote Sensing",
+        "volume": "42",
+        "number": "24",
+        "pages": "9285-9308",
+        "publisher": "Taylor & Francis",
+        "abstract": "In Sub-Saharan Africa, smallholder farms play a key role in agriculture, occupying most of the agricultural land. Design policies for increasing smallholder productivity remains a safe way to establish sustainable food systems and boost local economies. However, efforts are still needed in order to achieve accurate and timely monitoring in smallholder farming systems. With the advent of modern Earth Observation programmes such as the Sentinel satellites, which provide quasi-synchronous and high-resolution multi-source information over any area of the continental surfaces, new opportunities are opened up to accurately map crop yields in smallholder farming systems. This study intends to estimate and forecast millet yields in central Senegal, making the use of multi-source (synthetic-aperture radar (SAR) and optical) image time series and state-of-the-art machine learning models. A Random Forest (RF) model \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:8RAEygVn5_EC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=9989018504836127564",
+    "cites_id": [
+        "9989018504836127564"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2021.1993465",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TJuP82cfoIoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

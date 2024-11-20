@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Topology-driven diversity for targeted influence maximization with application to user engagement in social networks",
+        "pub_year": 2018,
+        "citation": "IEEE Transactions on Knowledge and Data Engineering 30 (12), 2421-2434, 2018",
+        "author": "Antonio Cali\u00f2 and Roberto Interdonato and Chiara Pulice and Andrea Tagarelli",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "volume": "30",
+        "number": "12",
+        "pages": "2421-2434",
+        "publisher": "IEEE",
+        "abstract": "Research on influence maximization ofter has to cope with marketing needs relating to the propagation of information towards specific users. However, little attention has been paid to the fact that the success of an information diffusion campaign might depend not only on the number of the initial influencers to be detected but also on their  diversity  w.r.t. the target of the campaign. Our main hypothesis is that if we learn seeds that are not only capable of influencing but also are linked to more diverse (groups of) users, then the influence triggers will be diversified as well, and hence the target users will get higher chance of being engaged. Upon this intuition, we define a novel problem, named  Diversity-sensitive Targeted Influence Maximization (DTIM) , which assumes to model user diversity by exploiting only topological information within a social graph. To the best of our knowledge, we are the first to bring the concept of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:5nxA0vEk-isC",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=5195344699560508314",
+    "cites_id": [
+        "5195344699560508314"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8326536/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mjsDZ3qSGUgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 4,
+        "2019": 4,
+        "2020": 7,
+        "2021": 6,
+        "2022": 3,
+        "2023": 6
+    }
+}

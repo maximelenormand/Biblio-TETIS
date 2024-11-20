@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A lightweight and multilingual framework for crisis information extraction from Twitter data",
+        "pub_year": 2019,
+        "citation": "Social Network Analysis and Mining 9, 1-20, 2019",
+        "author": "Roberto Interdonato and Jean-Loup Guillaume and Antoine Doucet",
+        "journal": "Social Network Analysis and Mining",
+        "volume": "9",
+        "pages": "1-20",
+        "publisher": "Springer Vienna",
+        "abstract": "Obtaining relevant timely information during crisis events is a challenging task that can be fundamental to handle the consequences deriving from both unexpected events (e.g., terrorist attacks) and partially predictable ones (i.e., natural disasters). Even though microblogging-based online social networks (e.g., Twitter) have become an attractive data source in these emergency situations, overcoming the information overload deriving from mass events is not trivial. The aim of this work was to enable unsupervised extraction of relevant information from Twitter data during a crisis event, offering a lightweight alternative to learning-based approaches. The proposed lightweight crisis management framework integrates natural language processing and clustering techniques in order to produce a ranking of tweets relevant to a crisis situation based on their informativeness. Experiments carried out on six Twitter \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:7PzlFSSx8tAC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=17409451990761060584",
+    "cites_id": [
+        "17409451990761060584"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s13278-019-0608-4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6LiHq1jMmvEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 4,
+        "2022": 6,
+        "2023": 7
+    }
+}

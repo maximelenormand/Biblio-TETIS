@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Changing landscapes of Southeast Asia and rodent\u2010borne diseases: decreased diversity but increased transmission risks",
+        "pub_year": 2019,
+        "citation": "Ecological Applications 29 (4), e01886, 2019",
+        "author": "Serge Morand and Kim Blasdell and Fr\u00e9d\u00e9ric Bordes and Philippe Buchy and Bernard Carcy and Kittipong Chaisiri and Yannick Chaval and Julien Claude and Jean\u2010Fran\u00e7ois Cosson and Marc Desquesnes and Sathaporn Jittapalapong and Tawisa Jiyipong and Anamika Karnchanabanthoen and Pumhom Pornpan and Jean\u2010Marc Rolain and Annelise Tran",
+        "journal": "Ecological Applications",
+        "volume": "29",
+        "number": "4",
+        "pages": "e01886",
+        "abstract": "The reduction in biodiversity from land use change due to urbanization and agricultural intensification appears to be linked to major epidemiological changes in many human diseases. Increasing disease risks and the emergence of novel pathogens result from increased contact among wildlife, domesticated animals, and humans. We investigated the relationship between human alteration of the environment and the occurrence of generalist and synanthropic rodent species in relation to the diversity and prevalence of rodent\u2010borne pathogens in Southeast Asia, a hotspot of threatened and endangered species, and a foci of emerging infectious diseases. We used data from an extensive pathogen survey of rodents from seven sites in mainland Southeast Asia in conjunction with past and present land cover analyses. At low spatial resolutions, we found that rodent\u2010borne pathogen richness is negatively associated \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:XD-gHx7UXLsC",
+    "num_citations": 60,
+    "citedby_url": "/scholar?hl=en&cites=14164423426367594768",
+    "cites_id": [
+        "14164423426367594768"
+    ],
+    "pub_url": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/eap.1886",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EKHcWA8kksQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 5,
+        "2021": 23,
+        "2022": 11,
+        "2023": 11,
+        "2024": 7
+    }
+}

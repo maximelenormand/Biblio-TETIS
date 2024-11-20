@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Les migrations rurales dans la dynamique migratoire s\u00e9n\u00e9galaise. La fluidit\u00e9 des mobilit\u00e9s internes en r\u00e9ponse aux contraintes locales. Rome, FAO et CIRAD, 24 p",
+        "pub_year": 2018,
+        "citation": "Les migrations rurales dans la dynamique migratoire s\u00e9n\u00e9galaise, 5, 2018",
+        "author": "Cheikh Oumar Ba and Jeremy Bourgoin and Djibril Diop",
+        "journal": "Les migrations rurales dans la dynamique migratoire s\u00e9n\u00e9galaise",
+        "number": "5",
+        "pages": "5",
+        "abstract": "Au S\u00e9n\u00e9gal, alors que les migrations internationales focalisent l\u2019attention, depuis la fin des ann\u00e9es 1990, les migrations internes et en particulier temporaires ont significativement augment\u00e9. Cette dynamique migratoire dont les modalit\u00e9s se sont diversifi\u00e9es avec celles des profils et trajectoires des migrants, r\u00e9sulte de l\u2019effet conjoint de la croissance d\u00e9mographique et du sous-emploi, d\u2019une d\u00e9gradation continue de l\u2019environnement naturel et d\u2019un durcissement des politiques migratoires des pays de l\u2019OCDE limitant les mobilit\u00e9s internationales. Les migrations internes sont largement issues des zones rurales. Elles sont indicatrices d\u2019un \u00e9tat de crise structurelle qui marque le secteur agricole mais traduit aussi la faible diversification de l\u2019\u00e9conomie nationale. Ces migrations remod\u00e8lent l\u2019espace national et illustrent un besoin de r\u00e9\u00e9quilibrage territorial autour de p\u00f4les r\u00e9gionaux de d\u00e9veloppement. Ce r\u00e9\u00e9quilibrage est n\u00e9cessaire afin d\u2019\u00e9viter la poursuite d\u2019une concentration de la population s\u00e9n\u00e9galaise dans l\u2019agglom\u00e9ration dakaroise, qui pose des probl\u00e8mes de soutenabilit\u00e9 du mod\u00e8le de croissance national. Les dynamiques migratoires permettent ainsi de mettre en \u00e9vidence le besoin de politiques publiques adapt\u00e9es aux d\u00e9fis structurels du pays. Elles invitent \u00e0 renforcer le d\u00e9bat national sur le mod\u00e8le de croissance et le type de d\u00e9veloppement territorial adapt\u00e9s aux besoins du S\u00e9n\u00e9gal du XXI\u00e8me si\u00e8cle."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:_xSYboBqXhAC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=2175590035931271387",
+    "cites_id": [
+        "2175590035931271387"
+    ],
+    "pub_url": "http://www.ipar.sn/IMG/pdf/les_migrations_rurales_dans_la_dynamique_migratoire_senegalaise.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2xCQZJw_MR4J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 4,
+        "2022": 4,
+        "2023": 1,
+        "2024": 1
+    }
+}

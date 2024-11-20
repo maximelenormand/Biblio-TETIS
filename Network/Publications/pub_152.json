@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Using airborne LiDAR to map forest microclimate temperature buffering or amplification",
+        "pub_year": 2023,
+        "citation": "Remote Sensing of Environment 298, 113820, 2023",
+        "author": "Eva Gril and Marianne Laslier and Emilie Gallet-Moron and Sylvie Durrieu and Fabien Spicher and Vincent Le Roux and Boris Brasseur and Stef Haesen and Koenraad Van Meerbeek and Guillaume Decocq and Ronan Marrec and Jonathan Lenoir",
+        "journal": "Remote Sensing of Environment",
+        "volume": "298",
+        "pages": "113820",
+        "publisher": "Elsevier",
+        "abstract": "Mapping the microclimate effect of forest canopies on understory temperature requires spatially explicit predictors at very fine spatial resolutions. Light Detection And Ranging (LiDAR) offers promising prospects in that regard, as it allows capturing the vertical dimension of vegetation structure at a very high resolution over large areas.To explore the potential of airborne LiDAR-derived metrics to predict understory temperature, we focused on the forest of Blois (France), a 2740-ha lowland managed forest dominated by oak (Quercus petraea). We installed HOBO sensors measuring microclimate air temperature at one-metre height in 53 stands of contrasting vegetation structure, from open to very dense and from young regeneration to mature stages. Using a nearby weather station as the macroclimate temperature reference, we calculated the slope (log scale) coefficient of the linear regression between microclimate \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:-_dYPAW6P2MC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=13810729526365213614",
+    "cites_id": [
+        "13810729526365213614"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425723003711",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rlP_81SRqb8J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    }
+}

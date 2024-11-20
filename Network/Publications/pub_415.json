@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessment of agricultural practices from Sentinel 1 & 2 images applied on rice fields to get a farm typology in the Camargue region",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Dominique Courault and Laure Hossard and Fabrice Flamain and Emile Ndikumana and Dinh Ho Tong Minh and Nicolas Baghdadi and Val\u00e9rie Demarez",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "7152-7155",
+        "publisher": "IEEE",
+        "abstract": "In the global change context, an efficient management of the available resources has become one of the most important topic particularly for sustainable crop development. Many questions concern the evolution of the rice farming systems in Camargue, in the Southeastern France, which play a crucial role to control the soil salinity and whose the surfaces significantly decreased these last years from 20 000 ha in 2010 to around 14000 ha in 2014. The arrival of the new satellites Sentinel makes it possible to evaluate these crop evolutions. The objectives of this study were to propose operational methodologies to: 1) accurately assess the surfaces of the main crops, rice, wheat and grassland in 2016 and 2017 from classifications based on multispectral data, (2) map some agricultural practices (sowing and harvest residue burning), and (3) elaborate a farm typology for the Camargue region based on variables \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:6bLC7aUMtPcC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=8592543775747000082",
+    "cites_id": [
+        "8592543775747000082"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8898466/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Esdk7gnZPncJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

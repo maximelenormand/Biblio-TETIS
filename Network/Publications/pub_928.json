@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "BIODIVERSITY\u2013A new space mission to monitor Earth ecosystems at fine scale",
+        "pub_year": 2022,
+        "citation": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection 224 (1), 33-58, 2022",
+        "author": "Xavier Briottet and Touria Bajjouk and Malik Chami and Christophe Delacourt and Jean-Baptiste Feret and Stephane Jacquemoud and Audrey Minghelli and David Sheeren and Christiane Weber and Sophie Fabre and Karine Adeline and Emmanuelle Vaudour and Sandra Luque and Yannick Deville and Kamel Soudani and Charles Verpooter",
+        "journal": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection",
+        "volume": "224",
+        "number": "1",
+        "pages": "33-58",
+        "abstract": "L\u2019imagerie hyperspectrale a d\u00e9montr\u00e9 son int\u00e9r\u00eat pour la caract\u00e9risation des propri\u00e9t\u00e9s biochimiques, biophysiques et structurelles de la v\u00e9g\u00e9tation, des sols naturels et agricoles ainsi que des surfaces artificialis\u00e9es. A la suite de la mission Hyperion, de nouvelles missions spatiales ont vu le jour (PRISMA, EnMAP) ou sont en phase d\u2019\u00e9tude (SBG, CHIME). N\u00e9anmoins, une de leurs limitations r\u00e9side dans leur r\u00e9solution spatiale qui induit un nombre important de pixels mixtes r\u00e9duisant leur potentiel de discrimination pour des zones tr\u00e8s h\u00e9t\u00e9rog\u00e8nes. La mission BIODIVERSITY a pour objectif de compl\u00e9ter ces missions spatiales par des acquisitions de meilleure r\u00e9solution spatiale (typiquement 8-10 m) avec une revisite de l\u2019ordre de 5 jours sur des sites de r\u00e9f\u00e9rence cibl\u00e9s poss\u00e9dant des caract\u00e9ristiques identifi\u00e9es et bien localis\u00e9es. Elle permettra de r\u00e9pondre notamment \u00e0 deux probl\u00e9matiques scientifiques qui vont dimensionner l\u2019instrument. La premi\u00e8re probl\u00e9matique porte sur la distribution spatiale et temporelle des traits de la v\u00e9g\u00e9tation dans les assemblages d\u2019esp\u00e8ces; ces traits sont associ\u00e9s \u00e0 la r\u00e9silience des \u00e9cosyst\u00e8mes terrestres, aux influences anthropiques et \u00e0 la biodiversit\u00e9 des \u00e9cosyst\u00e8mes en termes de composition et d\u2019assemblages en esp\u00e8ces. La seconde probl\u00e9matique porte sur l\u2019am\u00e9lioration de nos connaissances des zones c\u00f4ti\u00e8res et des eaux continentales en termes de biodiversit\u00e9, de qualit\u00e9 des eaux et de bathym\u00e9trie, pour ensuite \u00e9valuer l\u2019impact de l\u2019activit\u00e9 anthropique sur leurs \u00e9cosyst\u00e8mes. Les d\u00e9fis scientifiques ainsi que les exigences-utilisateurs pour une telle mission sont pr\u00e9sent\u00e9s pour chaque application."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:hkOj_22Ku90C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=9853474390763797999",
+    "cites_id": [
+        "9853474390763797999"
+    ],
+    "pub_url": "https://rfpt.sfpt.fr/index.php/RFPT/article/view/568",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:733ioMCSvogJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 3,
+        "2024": 1
+    }
+}

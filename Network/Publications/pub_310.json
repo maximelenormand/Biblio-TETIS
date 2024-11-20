@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A BIM based tool for evaluating building renovation strategies: the case of three demonstration sites in different European countries",
+        "pub_year": 2023,
+        "citation": "Construction Innovation, 2023",
+        "author": "Omar Doukari and Mohamad Kassem and Enrico Scoditti and Rahim Aguejdad and David Greenwood",
+        "journal": "Construction Innovation",
+        "number": "ahead-of-print",
+        "publisher": "Emerald Publishing Limited",
+        "abstract": "PurposeBuildings are among the biggest contributors to environmental impacts. To achieve energy-saving and decarbonisation objectives while also improving living conditions, it is imperative to undertake large-scale renovations of existing buildings, which constitute the greater part of building stock and have relatively low energy efficiency. However, building renovation projects poses significant challenges owing to the absence of optimised tools and methods for planning and executing renovation works, coupled with the need for a high degree of interaction with occupants."
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:u_35RYKgDlwC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=17733528494613165836",
+    "cites_id": [
+        "17733528494613165836"
+    ],
+    "pub_url": "https://www.emerald.com/insight/content/doi/10.1108/CI-12-2022-0314",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DHevpzUmGvYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

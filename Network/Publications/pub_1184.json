@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "317-Mod\u00e9lisation de la dynamique de population d'Anoph\u00e8les vecteurs du paludisme \u00e0 Madagascar",
+        "pub_year": 2022,
+        "citation": "Revue d'\u00c9pid\u00e9miologie et de Sant\u00e9 Publique 70, S194, 2022",
+        "author": "HA Rakotoarison and LM Tantely and H Guis and T Nepomichene and S Rakotoniaina and R Girod and F Rakotomanana and A Tran",
+        "journal": "Revue d'\u00c9pid\u00e9miologie et de Sant\u00e9 Publique",
+        "volume": "70",
+        "pages": "S194",
+        "publisher": "Elsevier Masson",
+        "abstract": "Le paludisme, dont le parasite est transmis par les moustiques Anoph\u00e8les, demeure un probl\u00e8me majeur de sant\u00e9 publique \u00e0 Madagascar et constitue un fardeau pour le pays malgr\u00e9 les moyens de lutte mis en place par l\u2019\u00c9tat. La compr\u00e9hension de la dynamique des populations des Anoph\u00e8les est ainsi primordiale pour optimiser la surveillance et le contr\u00f4le du paludisme. L'objectif de cette \u00e9tude \u00e9tait de d\u00e9velopper un mod\u00e8le tenant compte des d\u00e9terminants environnementaux et climatiques de l'abondance des Anoph\u00e8les afin de pr\u00e9dire leur abondance dans le temps et dans l'espace.Nous avons d\u00e9velopp\u00e9 un mod\u00e8le de dynamique spatio-temporelle de population d'Anoph\u00e8les. Ce mod\u00e8le en compartiment est bas\u00e9 sur le cycle de vie des Anoph\u00e8les et prend en compte les phases aquatique et a\u00e9rienne de leur d\u00e9veloppement. Il fait appel \u00e0 un syst\u00e8me d\u2019\u00e9quations diff\u00e9rentielles pour \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:OR75R8vi5nAC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0398762022005429",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:g0RgeXXb_zwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integration of remote sensing derived parameters in crop models: application to the PILOTE model for hay production.",
+        "pub_year": 2016,
+        "citation": "Agricultural Water Management 176, 67-79, 2016",
+        "author": "Mohammad El-Hajj and Nicolas Baghdadi and Bruno Cheviron and Gilles Belaud and Mehrez Zribi",
+        "journal": "Agricultural Water Management",
+        "volume": "176",
+        "pages": "67-79",
+        "publisher": "Elsevier Ltd",
+        "abstract": "The aim of this study is to assess the effects and interests of integrating remote-sensing-derived parameters (LAI, harvest and irrigation dates) in a crop model (PILOTE) that simulates vegetation growth for hay crops. The target variable is the prediction of Total Dry Matter (TDM) production in each of the three growth cycles. Two scenarios are employed to process the available remotely sensed LAI values, predicting TDM values when forcing in PILOTE either the initial and maximal optical LAI-values, or the initial, maximal and daily interpolated LAI values. The predictions show low deviations compared with the in situ TDM values (RMSE of 0.44 t/ha, MAPE of 23%). The feasibility of using harvest dates that are derived from optical data is examined by feeding the model with randomly perturbed harvest dates. The magnitude of the perturbations is equal to the revisit times of the current optical sensors. Optical images with revisit times lower than 16 days are adequate to feed PILOTE with remotely sensed harvest dates. Emphasis is placed on the forcing of\" uncertain\" irrigation dates, derived from Synthetic Aperture Radar images either replacing all true irrigation dates by randomly perturbed dates (using 3-day perturbation magnitudes) or hypothesizing one or several irrigations are\" missed\"(undetected). The results show negligible errors for the TDM predictions when noisy irrigation dates are used (RMSE of 0.17 t/ha and MAPE of 4.2%). Disregarding one or two irrigations within a period with important rainfalls does not induce significant errors for the predicted TDM values; however, it causes noticeable underestimations in drier periods (maximum of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:cK4Rrx0J3m0C",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=3694232988604189759",
+    "cites_id": [
+        "3694232988604189759"
+    ],
+    "pub_url": "https://www.cabdirect.org/cabdirect/abstract/20163338993",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:P0xIi1SNRDMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 3,
+        "2019": 3,
+        "2020": 0,
+        "2021": 4,
+        "2022": 4,
+        "2023": 1
+    }
+}

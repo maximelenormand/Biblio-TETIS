@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeoNLPlify: A spatial data augmentation enhancing text classification for crisis monitoring",
+        "pub_year": 2023,
+        "citation": "Intelligent Data Analysis, 1-25, 2023",
+        "author": "R\u00e9my Decoupes and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Intelligent Data Analysis",
+        "number": "Preprint",
+        "pages": "1-25",
+        "publisher": "IOS Press",
+        "abstract": "Crises such as natural disasters and public health emergencies generate vast amounts of text data, making it challenging to classify the information into relevant categories. Acquiring expert-labeled data for such scenarios can be difficult, leading to limited training datasets for text classification by fine-tuning BERT-like models. Unfortunately, traditional data augmentation techniques only slightly improve F1-scores. How can data augmentation be used to obtain better results in this applied domain? In this paper, using neural network explicability methods, we aim to highlight that fine-tuned BERT-like models on crisis corpora give too much importance to spatial information to make their predictions. This overfitting of spatial information limits their ability to generalize especially when the event which occurs in a place has evolved and changed since the training dataset has been built. To reduce this bias, we propose \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:YsrPvlHIBpEC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1615140215650441595",
+    "cites_id": [
+        "1615140215650441595"
+    ],
+    "pub_url": "https://content.iospress.com/articles/intelligent-data-analysis/ida230040",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:e9lKAHghahYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

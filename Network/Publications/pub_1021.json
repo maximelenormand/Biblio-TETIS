@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "High Resolution Biomass and Height Maps of the Landes Forest (France) based on GEDI, Sentinel-1 and Sentinel-2 data: a Deep Learning Approach",
+        "pub_year": 2021,
+        "citation": "AGU Fall Meeting Abstracts 2021, B45H-1719, 2021",
+        "author": "Martin Schwartz and Philippe Ciais and Catherine Ottl\u00e9 and Jean-Pierre Wigneron and Aur\u00e9lien De Truchis and Sizhuo Li and Martin Brandt and Rasmus Fensholt and Alexandre D'Aspremont and C\u00e9dric Vega and Nicolas Baghdadi and Ibrahim Fayad and Francois Morneau and Dominique Guyon and Sylvia Dayau",
+        "journal": "AGU Fall Meeting Abstracts",
+        "volume": "2021",
+        "pages": "B45H-1719",
+        "abstract": "Forest biomass plays a crucial role in the global carbon cycle and its conservation or increase is a key element of land-based mitigation policies. Better tools to monitor forest biomass carbon stocks at high spatial resolution (10-50 meters) are needed in managed forests. In the past, forest inventories have been the main method to estimate forest biomass, but they have low revisit time and limited spatial sampling. Recently, forest biomass maps based on various remote sensing approaches have been developed, often with a global coverage and a medium to low resolution (~ 100 to 1 km). We present here a deep learning model based on multi-streams remote sensing measurements (GEDI LiDAR, Sentinel-1 SAR and Sentinel-2 hyperspectral) to create high spatial and temporal resolution biomass and height maps over the Landes forest in France, a large pine plantation of 13,000 km\u00b2 with flat terrain and intensive \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:JWITY9-sCbMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=10717752639020442719",
+    "cites_id": [
+        "10717752639020442719"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2021AGUFM.B45H1719S/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:X6RRdz0bvZQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

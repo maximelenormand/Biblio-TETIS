@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Methodologies and technological innovations for low-carbon agriculture monitoring and planning for the ABC Plan governance support-Geo ABC",
+        "pub_year": 2015,
+        "citation": "WORLD CONGRESS ON INTEGRATED CROP-LIVESTOCKFOREST SYSTEMS; INTERNATIONAL \u2026, 2015",
+        "author": "M SIM\u00d5ES and Agnes B\u00c9GU\u00c9 and Rodrigo FERRAZ and AGNES B\u00c9GU\u00c9 and DE LA T\u00c9L\u00c9D\u00c9TECTION MAISON and RODRIGO PECANHA DEMONTE FERRAZ",
+        "journal": "WORLD CONGRESS ON INTEGRATED CROP-LIVESTOCKFOREST SYSTEMS; INTERNATIONAL SYMPOSIUM ON INTEGRATED CROP-LIVESTOCK SYSTEMS",
+        "volume": "3",
+        "pages": "2015-140",
+        "abstract": "The purpose of this abstract is to present the Geo-ABC Project which is in the process of beginning. The main project purpose is to provide monitoring methodologies and spatial indicators in support of the ABC Plan governance-Sectorial plan for mitigation and adaptation to climate change aimed at consolidation of a low-carbon economy in agriculture (www. agricultura. gov. br). For this the project aims to evaluate innovative methods and techniques in the area of remote sensing and spatial data integration for the detection of farming practices and agricultural production systems aligned with low-carbon agriculture policies, such as: crop-livestock-forest integration; no-tillage grains crop; agroforestry systems; reforestation. The objective is to develop integrated methods to detect complex agricultural production systems since plots level-scale until landscape-scale in order to be able to monitoring the adoption of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:86PQX7AUzd4C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=8926767703169388611",
+    "cites_id": [
+        "8926767703169388611"
+    ],
+    "pub_url": "https://ainfo.cnptia.embrapa.br/digital/bitstream/item/137498/1/2015-140.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Q1DXE-4_4nsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1
+    }
+}

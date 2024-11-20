@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Social network data and epidemiological intelligence: A case study of avian influenza",
+        "pub_year": 2022,
+        "citation": "International Journal of Infectious Diseases 116, S99, 2022",
+        "author": "Camille Schaeffer and Roberto Interdonato and Renaud Lancelot and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "International Journal of Infectious Diseases",
+        "volume": "116",
+        "pages": "S99",
+        "publisher": "Elsevier",
+        "abstract": "Event Based Surveillance (EBS) systems detect and monitor diseases by analysing articles from online newspapers and reports from health organizations (e.g. FAO, OIE, etc.). However, they partially integrate data from social networks, even though these data are present in large quantities on the web. The purpose of this study is to exploit social network data, such as Twitter and YouTube, to provide epidemiological and additional information for Avian Influenza surveillance.In this context, we propose new text-mining approaches combining lexical rules and statistical approaches, in order to normalise textual data from Social Network(\u2019h5 n8\u2019\u2192\u2019H5N8\u2019) and to correct errors from YouTube transcriptions (e.g. \u2019birth flu\u2019\u2192\u2019bird flu\u2019). Another challenge consists of extracting epidemiological events automatically by identifying spatial entities (Where?), thematic entities (What?), and temporal \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:RYcK_YlVTxYC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1201971221011255",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5IhhrCL5qWAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

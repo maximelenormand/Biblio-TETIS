@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping ground motions by open-source persistent and distributed scatterers Sentinel-1 radar interferometry: Ho Chi Minh city case study",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "D Ho Tong Minh and YN Ngo and TT L\u00ea and TC Le and HS Bui and QV Vuong and T Le Toan",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "1632-1635",
+        "publisher": "IEEE",
+        "abstract": "Recent, an advanced Persistent Scatterers and Distributed Scatterers (PSDS) InSAR algorithm has been implemented as an open-source TomoSAR package (https://github.com/DinhHoTongMinh/TomoSAR). This effort aims to contribute the spatial distribution of subsidence in Ho Chi Minh City (HCMC), the most crowded city and economic hub of Viet Nam, in its horizontal and vertical components by using TomoSAR. With Sentinel-1 data, taking into account the presence of east-west horizontal motion, our findings indicate that the accuracy of the decomposed vertical velocity can be improved by up to 3 mm/year for Sentinel-1 data. The obtained results revealed that subsidence is most pronounced in the areas along the Sai Gon River, in the northwest-southeast axis, and in the southwest of the city, with a maximum value of 80 mm/yr, which is in accordance with the findings of the literature. The amplitude of east \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:J-pR_7NvFogC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1959937387032973034",
+    "cites_id": [
+        "1959937387032973034"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9884165/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6o4bWKsYMxsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

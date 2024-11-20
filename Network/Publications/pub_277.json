@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of multi-frequency and multi-polarization SAR data for wetland mapping in Hamoun-e-Hirmand wetland",
+        "pub_year": 2020,
+        "citation": "International Journal of Remote Sensing 41 (6), 2277-2302, 2020",
+        "author": "Saeideh Maleki and Nicolas Baghdadi and Alireza Soffianian and Mohammad El Hajj and Vahid Rahdari",
+        "journal": "International Journal of Remote Sensing",
+        "volume": "41",
+        "number": "6",
+        "pages": "2277-2302",
+        "publisher": "Taylor & Francis",
+        "abstract": "The complex, dynamic and narrow boundaries between vegetation types make wetland mapping challenging. Hereafter the case study of the Hamoun-e-Hirmand wetland is considered by analysing eight Synthetic Aperture Radar (SAR) Images acquired in dry and wet periods with three wavelengths (X-band ~ 3 cm, C-band ~ 6 cm, and L-band ~ 25 cm), three polarizations (HH, VV and VH), and four incidence angles (22\u00b0, 30\u00b0, 34\u00b0 and 53\u00b0). Then, the Support Vector Machine (SVM) classification method was applied to classify TerraSAR-X, Sentinel-1, and ALOS-PALSAR images. The final wetland land cover map was created by combining the classification results obtained from each sensor. In the case in question, results show that TerraSAR-X (X-band, HH-53\u00b0) and Sentinel-1 data (C-band, VV-34\u00b0) were useful for determining the flooded vegetation area in the wet period. This is crucial for the conservation of water \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:CdxZDUztZiMC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=9714825259255379723",
+    "cites_id": [
+        "9714825259255379723"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1688414",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:C7foGBr-0YYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 6,
+        "2022": 9,
+        "2023": 4
+    }
+}

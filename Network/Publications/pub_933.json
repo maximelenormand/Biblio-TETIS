@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fecal microbial inputs to coastal waters from an urbanized basin",
+        "pub_year": 2017,
+        "citation": "13th MEDCOAST Congress on Coastal and Marine Sciences, Engineering \u2026, 2017",
+        "author": "Marl\u00e8ne Rio and Christian Salles and Patricia Licznar-Fajardo and Pierre Marchand and Myl\u00e8ne Toubiana and Claire Rodier and Flavie Cernesson and Patrick Monfort and Marie-George Tournoud",
+        "conference": "13th MEDCOAST Congress on Coastal and Marine Sciences, Engineering, Management & Conservation",
+        "number": "1",
+        "pages": "565-575",
+        "abstract": "Continental human activities are mainly responsible for the contamination of coastal waters. Anthropogenic pressures and more specifically urban activities represent diffuse and point sources of pollution that release contaminants on impervious surfaces and into drainage and sewage networks. Surface leaching, land runoff and floods are the key factors driven by rain events causing the transfer of contaminants from the points of emission to receiving waters. The sharp characteristics of Mediterranean rainfall patterns, long dry periods cut by short rainfall events, strengthen the river dynamics and contaminant transfer. Since fast changes in urbanized areas are observed around the Mediterranean Sea, the contaminant inputs and the apportionment of the sources to coastal pollution are key issues for integrated coastal water management. This study deals with fecal pollution of surface waters through the use of two indicators of anthropogenic and land storage contamination. The fecal indicators bacteria (FIB) are Thermo-Tolerant Coliforms (TTC) and Intestinal Enterococci (IE). The study site is the Gulf of Aigues-Mortes, a very attractive site for summer seaside tourism and winter retirement in southern France."
+    },
+    "filled": true,
+    "author_pub_id": "nbR473IAAAAJ:K3LRdlH-MEoC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01824847/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9zbAd_o29YYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

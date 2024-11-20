@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Approches anticip\u00e9es et planifi\u00e9es de la compensation \u00e9cologique en Allemagne: vers un retour d'exp\u00e9rience pour la France?",
+        "pub_year": 2020,
+        "citation": "Sciences Eaux & Territoires, 44-49, 2020",
+        "author": "Adeline Bas and Ines Imbert and Sandra Clermont and Marie-Eve Reinert and Constance Bert\u00e9 and Coralie Calvet and Anne-Charlotte Vaissi\u00e8re",
+        "journal": "Sciences Eaux & Territoires",
+        "number": "31",
+        "pages": "44-49",
+        "abstract": "La s\u00e9quence \u00c9viter-R\u00e9duire-Compenser a \u00e9t\u00e9 introduite en 1976 dans les premi\u00e8res lois fran\u00e7aises et allemandes relatives \u00e0 la protection de la nature. Si les organisations planifi\u00e9es et mutualis\u00e9es de la compensation apparaissent d\u00e8s la fin des ann\u00e9es 1990 en Allemagne, il faut attendre le d\u00e9but des ann\u00e9es 2010 en France pour observer une \u00e9volution vers une organisation de la compensation davantage mutualis\u00e9e (sites naturels de compensation institutionnalis\u00e9s en 2016 dans la loi biodiversit\u00e9) et planifi\u00e9e (\u00e9mergence tr\u00e8s r\u00e9cente de strat\u00e9gies fonci\u00e8res anticip\u00e9es \u00e0 l'\u00e9chelle r\u00e9gionale ou locale). Le type de biodiversit\u00e9 et les modalit\u00e9s de mise en \u0153uvre vis\u00e9s par les diff\u00e9rents modes d'organisation de la compensation divergent toutefois entre les deux pays. Nous proposons dans cet article d'initier une mise en perspective des syst\u00e8mes allemand et fran\u00e7ais de la compensation \u00e9cologique."
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=3037235115707131347",
+    "cites_id": [
+        "3037235115707131347"
+    ],
+    "pub_url": "https://revue-set.fr/article/view/6901",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0-UQ6z5tJioJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 1
+    }
+}

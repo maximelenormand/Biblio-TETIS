@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Neighborhood educational disparities in active commuting among women: the effect of distance between the place of residence and the place of work/study (an ACTI-Cit\u00e9s study)",
+        "pub_year": 2017,
+        "citation": "BMC public health 17 (1), 1-12, 2017",
+        "author": "Camille Perchoux and Julie-Anne Nazare and Tarik Benmarhnia and Paul Salze and Thierry Feuillet and Serge Hercberg and Franck Hess and Mehdi Menai and Christiane Weber and H\u00e9l\u00e8ne Charreire and Christophe Enaux and Jean-Michel Oppert and Chantal Simon",
+        "journal": "BMC public health",
+        "volume": "17",
+        "number": "1",
+        "pages": "1-12",
+        "publisher": "BioMed Central",
+        "abstract": "Active transportation has been associated with favorable health outcomes. Previous research highlighted the influence of neighborhood educational level on active transportation. However, little is known regarding the effect of commuting distance on social disparities in active commuting. In this regard, women have been poorly studied. The objective of this paper was to evaluate the relationship between neighborhood educational level and active commuting, and to assess whether the commuting distance modifies this relationship in adult women. This cross-sectional study is based on a subsample of women from the Nutrinet-Sant\u00e9 web-cohort (N = 1169). Binomial, log-binomial and negative binomial regressions were used to assess the associations between neighborhood education level and (i) the likelihood of reporting any active commuting time, and (ii) the share of commuting time made by active transportation modes. Potential effect measure modification of distance to work on the previous associations was assessed both on the additive and the multiplicative scales. Neighborhood education level was positively associated with the probability of reporting any active commuting time (relative risk = 1.774; p < 0.05) and the share of commuting time spent active (relative risk = 1.423; p < 0.05). The impact of neighborhood education was greater at long distances to work for both outcomes. Our results suggest that neighborhood educational disparities in active commuting tend to increase with commuting distance among women. Further research is needed to provide geographically driven guidance for health promotion intervention aiming at \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:k8Z6L05lTy4C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=3287899472880052057",
+    "cites_id": [
+        "3287899472880052057"
+    ],
+    "pub_url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4464-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Wac1iib3oC0J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 2,
+        "2020": 0,
+        "2021": 2
+    }
+}

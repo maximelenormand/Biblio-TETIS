@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Cart'Eaux: an automatic mapping procedure for wastewater networks using machine learning and data mining",
+        "pub_year": 2017,
+        "citation": "AGU Fall Meeting Abstracts 2017, H31K-07, 2017",
+        "author": "JS Bailly and C Delenne and N Chahinian and S Bringay and B Commandr\u00e9 and M Chaumont and M Derras and L Deruelle and M Roche and F Rodriguez and G Subsol and M Teisseire",
+        "journal": "AGU Fall Meeting Abstracts",
+        "volume": "2017",
+        "pages": "H31K-07",
+        "abstract": "In France, local government institutions must establish a detailed description of wastewater networks. The information should be available, but it remains fragmented (different formats held by different stakeholders) and incomplete. In the\" Cart'Eaux\" project, a multidisciplinary team, including an industrial partner, develops a global methodology using Machine Learning and Data Mining approaches applied to various types of large data to recover information in the aim of mapping urban sewage systems for hydraulic modelling. Deep-learning is first applied using a Convolution Neural Network to localize manhole covers on 5 cm resolution aerial RGB images. The detected manhole covers are then automatically connected using a tree-shaped graph constrained by industry rules. Based on a Delaunay triangulation, connections are chosen to minimize a cost function depending on pipe length, slope and possible \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:mNrWkgRL2YcC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2017AGUFM.H31K..07B/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9G7rA2V5dAQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

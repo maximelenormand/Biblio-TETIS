@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Large-scale participation in policy design: citizen proposals for rural development in Tunisia",
+        "pub_year": 2022,
+        "citation": "EURO journal on decision processes 10, 100020, 2022",
+        "author": "Houssem Braiki and Emeline Hassenforder and Guillaume Lestrelin and Sylvie Morardet and Nicolas Faysse and Soumaya Younsi and Nils Ferrand and Cryst\u00e8le L\u00e9authaud and Nadhira Ben Aissa and Safouane Mouelhi and Sihem Jebari and Xavier Augusseau and Amar Imache and Audrey Barbe and Jean-Yves Jamin and AMRI Houria and ARFA Hajer and Ali Bayar and Anissa Ben Hassine and Rouhia Ferchichi and Kamel Ghanmi and Fathi Haddeji and Khadija Harbaoui and Noura Messaoudi and Ezzeddine Zouari",
+        "journal": "EURO journal on decision processes",
+        "volume": "10",
+        "pages": "100020",
+        "publisher": "Elsevier",
+        "abstract": "More and more literature and practice recommend involving the public at the early stages of the policy cycle, i.e. issue identification, definition of the policy objectives and policy design. Policy design involves, among others, identifying solutions, ideas or alternatives which may address the policy objectives. Three main arguments are often put forward to advocate for the involvement of stakeholders, or the public, in policy design: a \u201cuser-centered\u201d argument (i.e. for the policy to better meet people's priorities), an innovation argument (i.e. to conceive new solutions) and a collective argument (i.e. to identify collective actions and better tackle environmental problems). However, in both research and practice these arguments have been challenged. Research has insufficiently generated evidence of the influence of large-scale participation in policy design on resulting proposed actions. The objective of this paper is to \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:eflP2zaiRacC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=17084810779332803716",
+    "cites_id": [
+        "17084810779332803716"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2193943822000097",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hHzldOJwGe0J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 3,
+        "2024": 1
+    }
+}

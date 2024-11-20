@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Protection gaps in Amazon floodplains will increase with climate change: Insight from the world's largest scaled freshwater fish",
+        "pub_year": 2022,
+        "citation": "Aquatic Conservation: Marine and Freshwater Ecosystems 32, 1830-1841, 2022",
+        "author": "Nicolas Dubos and Maxime Lenormand and Leandro Castello and Thierry Oberdorff and Antoine Guisan and Sandra Luque",
+        "journal": "Aquatic Conservation: Marine and Freshwater Ecosystems",
+        "volume": "32",
+        "pages": "1830-1841",
+        "abstract": "  The Amazon floodplains represent important surfaces of highly valuable ecosystems, yet they remain neglected from protected areas. Although the efficiency of the protected area network of the Amazon basin may be jeopardized by climate change, floodplains are exposed to important consequences of climate change but are omitted from species distribution models and protection gap analyses. The present and future (2070) distribution of the giant bony\u2010tongue fish Arapaima spp. (Arapaimidae) was modelled accounting for climate and habitat requirements, and with a consideration of dam presence (already existing and planned constructions) and hydroperiod (high\u2010 and low\u2010water stages). The amount of suitable environment that falls inside and outside the current network of protected areas was quantified to identify spatial conservation gaps. We predict that climate change will cause a decline in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:1sJd4Hv_s6UC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=579409606679451920",
+    "cites_id": [
+        "579409606679451920"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3877",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ENmTqfd5CggJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 5
+    }
+}

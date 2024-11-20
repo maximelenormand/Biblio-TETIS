@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial and temporal deep learning methods for deriving land-use following deforestation: A pan-tropical case study using Landsat time series",
+        "pub_year": 2021,
+        "citation": "Remote Sensing of Environment 264, 112600, 2021",
+        "author": "Robert N Masolele and Veronique De Sy and Martin Herold and Diego Marcos and Jan Verbesselt and Fabian Gieseke and Adugna G Mullissa and Christopher Martius",
+        "journal": "Remote Sensing of Environment",
+        "volume": "264",
+        "pages": "112600",
+        "publisher": "Elsevier",
+        "abstract": "Assessing land-use following deforestation is vital for reducing emissions from deforestation and forest degradation. In this paper, for the first time, we assess the potential of spatial, temporal and spatio-temporal deep learning methods for large-scale classification of land-use following tropical deforestation using dense satellite time series over six years on the pan-tropical scale (incl. Latin America, Africa, and Asia). Based on an extensive reference database of six forest to land-use conversion types, we find that the spatio-temporal models achieved a substantially higher F1-score accuracies than models that account only for spatial or temporal patterns. Although all models performed better when the scope of the problem was limited to a single continent, the spatial models were more competitive than the temporal ones in this setting. These results suggest that the spatial patterns of land-use within a continent share \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:xtRiw3GOFMkC",
+    "num_citations": 64,
+    "citedby_url": "/scholar?hl=en&cites=12213443022798867584",
+    "cites_id": [
+        "12213443022798867584"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425721003205",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gExmOrjdfqkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 28,
+        "2023": 30,
+        "2024": 4
+    }
+}

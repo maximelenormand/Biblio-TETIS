@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PADI-web: un syst\u00e8me automatique multilingue pour la veille sanitaire internationale en sant\u00e9 animale",
+        "pub_year": 2019,
+        "citation": "IC@ PFIA 2019-30es Journ\u00e9es francophones d'Ing\u00e9nierie des Connaissances, 235-239, 2019",
+        "author": "Sarah Valentin and Julien Rabatel and Elena Arsevska and Sylvain Falala and Jocelyn De Go\u00ebr and Aliz\u00e9 Mercier and Renaud Lancelot and Mathieu Roche",
+        "conference": "IC@ PFIA 2019-30es Journ\u00e9es francophones d'Ing\u00e9nierie des Connaissances",
+        "pages": "235-239",
+        "abstract": "Introduction  La veille en sant\u00e9 animale a pour objectif l\u2019alerte pr\u00e9coce vis-\u00e0-vis de dangers sanitaires connus ou \u00e9mergents. Elle repose sur le recueil, le suivi et l\u2019analyse quotidienne d\u2019infor- mations issues de sources officielles, telles que l\u2019Organisation mondiale de la sant\u00e9 animale (OIE), et de sources non-officielles telles que les m\u00e9dias ou les r\u00e9seaux sociaux (Hartley et al. (2010)). Plusieurs syst\u00e8mes de biosurveillance, tels que MedISys (Mantero et al. (2011)), GPHIN (Blench (2008)) ou HealthMap (Freifeld et al. (2008)), sont ainsi d\u00e9di\u00e9s \u00e0 l\u2019acqui- sition et \u00e0 la diffusion de donn\u00e9es issues de sources informelles. Ces syst\u00e8mes s\u2019int\u00e9ressent \u00e0 un large \u00e9ventail de risques sanitaires (maladies infectieuses humaines, animales ou v\u00e9g\u00e9- tales, risques environnementaux, etc.), mais aucun d\u2019entre eux n\u2019est sp\u00e9cifiquement d\u00e9di\u00e9 \u00e0 la sant\u00e9 animale. De plus, tous reposent sur une mod\u00e9ration humaine \u00e0 une ou plusieurs \u00e9tapes de leur processus. Dans ce contexte, nous pr\u00e9sentons PADI-web 1 (Platform for Automated extraction of Disease Information from the web), un outil de biosurveillance des m\u00e9dias digi- taux pour la d\u00e9tection de foyers de maladies animales (Arsevska et al. (2018)). PADI-web est int\u00e9gr\u00e9 dans la th\u00e9matique de Veille sanitaire internationale, au sein de la plateforme d\u2019Epi- d\u00e9miosurveillance en sant\u00e9 animale 2 (plateforme ESA). Depuis sa premi\u00e8re version, d\u00e9di\u00e9e \u00e0 la veille de sources en anglais, PADI-web a \u00e9t\u00e9 enrichi d\u2019un nouveau classifieur reposant sur de l\u2019apprentissage automatique et int\u00e8gre les documents multilingues."
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:Y0pCki6q_DkC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02556918/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MVtSOm9BOjoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

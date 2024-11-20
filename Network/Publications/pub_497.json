@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Institutional challenges in putting ecosystem service knowledge in practice",
+        "pub_year": 2018,
+        "citation": "Ecosystem services 29, 579-598, 2018",
+        "author": "Heli Saarikoski and Eeva Primmer and Sanna-Riikka Saarela and Paula Antunes and R\u00e9ka Aszal\u00f3s and Francesc Bar\u00f3 and Pam Berry and Gemma Garcia Blanko and Erik Gom\u00e9z-Baggethun and Laurence Carvalho and Jan Dick and Robert Dunford and Mihail Hanzu and Paula A Harrison and Zita Izakovicova and Mikl\u00f3s Kert\u00e9sz and Leena Kopperoinen and Berit K\u00f6hler and Johannes Langemeyer and David Lapola and Camino Liquete and Sandra Luque and Peter Mederly and Jari Niemel\u00e4 and Ignacio Palomo and Guillermo Martinez Pastur and Pablo Luis Peri and Elena Preda and J\u00f6rg A Priess and Rui Santos and Christian Schleyer and Francis Turkelboom and Angheluta Vadineanu and Wim Verheyden and Suvi Vikstr\u00f6m and Juliette Young",
+        "journal": "Ecosystem services",
+        "volume": "29",
+        "pages": "579-598",
+        "publisher": "Elsevier",
+        "abstract": "The promise that ecosystem service assessments will contribute to better decision-making is not yet proven. We analyse how knowledge on ecosystem services is actually used to inform land and water management in 22 case studies covering different social-ecological systems in European and Latin American countries. None of the case studies reported instrumental use of knowledge in a sense that ecosystem service knowledge would have served as an impartial arbiter between policy options. Yet, in most cases, there was some evidence of conceptual learning as a result of close interaction between researchers, practitioners and stakeholders. We observed several factors that constrained knowledge uptake, including competing interests and political agendas, scientific disputes, professional norms and competencies, and lack of vertical and horizontal integration. Ecosystem knowledge played a small role \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:V63Ir2N1OTwC",
+    "num_citations": 178,
+    "citedby_url": "/scholar?hl=en&cites=17896774192662017636",
+    "cites_id": [
+        "17896774192662017636"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2212041617300141",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZHb_mk4dXvgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 17,
+        "2019": 32,
+        "2020": 28,
+        "2021": 35,
+        "2022": 32,
+        "2023": 24,
+        "2024": 4
+    }
+}

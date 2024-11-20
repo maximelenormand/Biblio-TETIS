@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Operationalising ecosystem service assessment in Bayesian Belief Networks: Experiences within the OpenNESS project",
+        "pub_year": 2018,
+        "citation": "Ecosystem services 29, 452-464, 2018",
+        "author": "Ron I Smith and David N Barton and Jan Dick and Roy Haines-Young and Anders L Madsen and Graciela M Rusch and Mette Termansen and Helen Woods and Laurence Carvalho and Relu Constantin Giuc\u0103 and Sandra Luque and David Odee and Ver\u00f3nica Rusch and Heli Saarikoski and Cristian Mihai Adamescu and Rob Dunford and John Ochieng and Julen Gonzalez-Redin and Erik Stange and Anghelut\u0103 V\u0103dineanu and Peter Verweij and Suvi Vikstr\u00f6m",
+        "journal": "Ecosystem services",
+        "volume": "29",
+        "pages": "452-464",
+        "publisher": "Elsevier",
+        "abstract": "Nine Bayesian Belief Networks (BBNs) were developed within the OpenNESS project specifically for modelling ecosystem services for case study applications. The novelty of the method, its ability to explore problems, to address uncertainty, and to facilitate stakeholder interaction in the process were all reasons for choosing BBNs. Most case studies had some local expertise on BBNs to assist them, and all used expert opinion as well as data to help develop the dependences in the BBNs. In terms of the decision scope of the work, all case studies were moving from explorative and informative uses towards decisive, but none were yet being used for decision-making. Three applications incorporated BBNs with GIS where the spatial component of the management was critical, but several concerns about estimating uncertainty with spatial modelling approaches are discussed. The tool proved to be very flexible and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:beqBT5984LEC",
+    "num_citations": 50,
+    "citedby_url": "/scholar?hl=en&cites=5653501391431212695",
+    "cites_id": [
+        "5653501391431212695"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2212041617306587",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lx5v3Y9FdU4J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 5,
+        "2019": 13,
+        "2020": 7,
+        "2021": 10,
+        "2022": 8,
+        "2023": 6,
+        "2024": 1
+    }
+}

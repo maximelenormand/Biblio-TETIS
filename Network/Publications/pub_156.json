@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PROTEST project: multidisciplinary methodology for territorial forest analysis",
+        "pub_year": 2022,
+        "citation": "ForestSAT, 2022",
+        "author": "Jean-Matthieu Monnet and Rapha\u00ebl Aussenac and Sylvie Durrieu and Catherine Riond and Arnaud Sergent and Patrick Vallet",
+        "conference": "ForestSAT",
+        "abstract": "Woody biomass mobilization is of upmost importance for the development of rural territories and bioeconomy. French mountain forests are characterized by a high spatial heterogeneity and ownership fragmentation. The identification of biomass sources thus requires high-resolution mapping of forest characteristics and accessibility conditions. To sustain the ecosystem services provided by forests, it also is necessary to assess the long-term impacts of mobilization while taking into account the local and global socio-economic context. The objective of project PROTEST was to combine tools from different disciplines into a method for the territorial analysis of forest resource. The study area was the Geopark Massif des Bauges (France) with 50000 ha of forests. The first task was the high resolution mapping of forests. Airborne LiDAR and field plots were used to provide maps of basal area, mean diameter and conifer proportion at 25 m resolution. Forest accessibility was mapped with a GIS model from topography and a road network database. In the second task a territorial prospective work was implemented to define five forest management scenarios that combine forest, environmental and societal determinants. A typology of forest parcels was built based on ownership and species composition. Each scenario was translated into a distribution of parcel types among four silvicultural systems (coppice, even-aged with thining, uneven-aged and no management). In the third task, these silvicultural systems are parametrized into the forest evolution model SALEM (Aussenac et al. 2021), in order to simulate the 30-years evolution of the initial forest mosaic \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:W5xh706n7nkC",
+    "num_citations": 0,
+    "pub_url": "https://cnrs.hal.science/hal-03787988/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mb825j0rNV8J:scholar.google.com/",
+    "cites_per_year": {}
+}

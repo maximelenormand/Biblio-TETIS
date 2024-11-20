@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Adaptation to climate change in cities of Mediterranean Europe",
+        "pub_year": 2023,
+        "citation": "Cities 140, 104452, 2023",
+        "author": "Filomena Pietrapertosa and Marta Olazabal and Sofia G Simoes and Monica Salvia and Paris A Fokaides and Byron I Ioannou and Vincent Vigui\u00e9 and Niki-Artemis Spyridaki and Sonia De Gregorio Hurtado and Davide Geneletti and Oliver Heidrich and L\u00e9a Tardieu and Efren Feliu and Klavdija Ri\u017enar and Marko Matosovi\u0107 and Mario V Balzan and Alexandros Flamos and Nata\u0161a Bel\u0161ak \u0160el and Diana Reckien",
+        "journal": "Cities",
+        "volume": "140",
+        "pages": "104452",
+        "publisher": "Pergamon",
+        "abstract": "Cities across Mediterranean Europe face common climatic threats. They are highly vulnerable and very likely to suffer losses and damages due to heat waves, droughts, wildfires, landslides, and extreme coastal events. To this date, however, there is no systematic understanding of how cities in Mediterranean Europe are preparing to adapt to these impacts. To address this question, we analyse local adaptation plans in 73 cities located in 51 regions across 9 European countries along the Mediterranean Sea (France, Italy, Spain, Greece, Portugal, Croatia, Slovenia, Cyprus and Malta). We also investigate upper levels of planning to understand the influence of policy environments. Across the sample, 67 % of regions have adopted a plan, but only 30 % of the cities. The most common climate-related hazards these cities prepare for are extreme temperatures and rainfall, followed by drought and water scarcity, as well \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:lSLTfruPkqcC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=10540445097961513051",
+    "cites_id": [
+        "10540445097961513051"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0264275123002640",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W-CAjvguR5IJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 2
+    }
+}

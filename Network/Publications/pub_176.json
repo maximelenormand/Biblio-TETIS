@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Identification of associations between clinical signs and hosts to monitor the web for detection of animal disease outbreaks",
+        "pub_year": 2016,
+        "citation": "International Journal of Agricultural and Environmental Information Systems \u2026, 2016",
+        "author": "Elena Arsevska and Mathieu Roche and Pascal Hendrikx and David Chavernac and Sylvain Falala and Renaud Lancelot and Barbara Dufour",
+        "journal": "International Journal of Agricultural and Environmental Information Systems (IJAEIS)",
+        "volume": "7",
+        "number": "3",
+        "pages": "1-20",
+        "publisher": "IGI Global",
+        "abstract": "In a context of intensification of international trade and travels, the transboundary spread of emerging human or animal pathogens represents a growing concern. One of the missions of the national veterinary services is to implement international epidemiological intelligence for a timely and accurate detection of emerging animal infectious diseases (EAID) worldwide, and take early actions to prevent their introduction on the national territory. For this purpose, an efficient use of the information published on the web is essential. The authors present a comprehensive method for identification of relevant associations between terms describing clinical signs and hosts to build queries to monitor the web for early detection of EAID. Using text and web mining approaches, they present statistical measures for automatic selection of relevant associations between terms. In addition, expert elicitation is used to highlight the most \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:WJVC3Jt7v1AC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=13897725148798767424",
+    "cites_id": [
+        "13897725148798767424"
+    ],
+    "pub_url": "https://www.igi-global.com/article/identification-of-associations-between-clinical-signs-and-hosts-to-monitor-the-web-for-detection-of-animal-disease-outbreaks/163316",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QNEpuGOj3sAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 3,
+        "2019": 2,
+        "2020": 5,
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Economic valuation of high resolution satellite imagery",
+        "pub_year": 2019,
+        "citation": "European Space Agency's 2019 Living Planet Symposium, 1, 2019",
+        "author": "Chadi Jabbour and Anis Hoayek and H Rey Valette and P Maurel and JM Salles",
+        "conference": "European Space Agency's 2019 Living Planet Symposium",
+        "pages": "1",
+        "abstract": "The growing trend towards free access to satellite images raises the economic valuation question with a particular acuity. Valuing the satellite images is not a simple process. Asking \"how valuable is a satellite image\" should be followed by the question, \"how valuable to whom\". A distinction must be made between the impacts of use of the satellite images, and measuring quantitatively the value of the images. Recently, Laxminaryan & Macauley (2012) states that the contingent valuation method, which refers to the consumers' willingness to pay (WTP), can be the most important method for the assessment of the bene\ufb01ts derived from Earth observation data. The valuation study comes to assess the importance of satellite imagery as a support the territorial planning and development economics. It provides elements allowing to establish on a next level, pricing scenarios in order to sustain the GEOSUD business model in the long run."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:hC7cP41nSMkC",
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=3385815310855376445&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PQ6dHhbV_C4J:scholar.google.com/",
+    "cites_per_year": {}
+}

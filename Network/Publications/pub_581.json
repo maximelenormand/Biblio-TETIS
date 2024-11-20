@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "HYEP HYperspectral imagery for Environmental urban Planning: principaux r\u00e9sultats",
+        "pub_year": 2019,
+        "citation": "7\u00e8me colloque scientifique du groupe SFPT-GH, 2019",
+        "author": "Christiane Weber and Thomas Houet and S\u00e9bastien Gadal and Rahim Aguejdad and Grzegorz Skupinski and Yannick Deville and Jocelyn Chanussot and Mauro Dalla Mura and Xavier Briottet and Cl\u00e9ment Mallet and Arnaud Le Bris",
+        "conference": "7\u00e8me colloque scientifique du groupe SFPT-GH",
+        "abstract": "L'imagerie hyperspectrale (IH) est \u00e0 l\u2019heure actuelle encore trop peu consid\u00e9r\u00e9e, pourtant ses sp\u00e9cificit\u00e9s en font un auxiliaire de poids pour le suivi des \u00e9l\u00e9ments du milieu urbain. Le projet HYEP a pour objectif de proposer un panel de m\u00e9thodes et de traitements appliqu\u00e9s \u00e0 l\u2019imagerie hyperspectrale tout en comparant \u00e0 celles d\u2019autres capteurs existants. Si l\u2019IH est compl\u00e9mentaire aux capteurs actuels car plus riche spectralement, elle permet d'identifier et de caract\u00e9riser autrement les \u00e9l\u00e9ments naturels ou anthropiques. Pour ce faire les m\u00e9thodes d'extraction d'information doivent \u00eatre adapt\u00e9es, voire cr\u00e9\u00e9es. Le volet m\u00e9thodologique du projet est ancr\u00e9 \u00e0 la fois dans la solidification des approches actuelles et le test de m\u00e9thodes ou adapt\u00e9es ou nouvelles. Nos r\u00e9sultats ont \u00e9t\u00e9 pr\u00e9sent\u00e9s tout au long du projet \u00e0 la communaut\u00e9 scientifique et aux collectivit\u00e9s territoriales. Un des int\u00e9r\u00eats des travaux a \u00e9t\u00e9 la comparaison des r\u00e9sultats \u00e0 diff\u00e9rentes r\u00e9solutions spatiales pour pr\u00e9ciser le gain d\u2019un tel capteur hyperspectral par rapport \u00e0 ceux existants ou \u00e0 venir. Donn\u00e9es et M\u00e9thodes : Utilisation et adaptation de m\u00e9thodes courantes en t\u00e9l\u00e9d\u00e9tection 1200. Les m\u00e9thodes d\u00e9ploy\u00e9es ont \u00e9t\u00e9 choisies parmi l\u2019ensemble des m\u00e9thodes existantes en les adaptant au type de signal, au nombre de bandes spectrales et aux caract\u00e9ristiques du milieu. Ainsi les donn\u00e9es \u00e9tant issues de survol a\u00e9rien les premiers d\u00e9veloppements ont \u00e9t\u00e9 r\u00e9alis\u00e9s pour s\u2019affranchir des effets de l\u2019atmosph\u00e8re (correction atmosph\u00e9rique des images hyperspectrales\u2013 3 m\u00e9thodes test\u00e9es) et une base de donn\u00e9es de signatures morphospectrales pour divers \u00e9l\u00e9ments d'occupation du \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:dBIO0h50nwkC",
+    "num_citations": 0,
+    "pub_url": "https://univ-angers.hal.science/hal-02281003/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bjtGJeEYlQ4J:scholar.google.com/",
+    "cites_per_year": {}
+}

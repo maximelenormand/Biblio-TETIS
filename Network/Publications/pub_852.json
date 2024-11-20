@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detecting irrigation events over semi-arid and temperate climatic areas using Sentinel-1 data: case of several summer crops",
+        "pub_year": 2022,
+        "citation": "Agronomy 12 (11), 2725, 2022",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Sami Najem and Hadi Jaafar and Michel Le Page and Mehrez Zribi and Ioannis Faraslis and Marios Spiliotopoulos",
+        "journal": "Agronomy",
+        "volume": "12",
+        "number": "11",
+        "pages": "2725",
+        "publisher": "MDPI",
+        "abstract": "Irrigation monitoring is of great importance in agricultural water management to guarantee better water use efficiency, especially under changing climatic conditions and water scarcity. This study presents a detailed assessment of the potential of the Sentinel-1 (S1) Synthetic Aperture Radar (SAR) data to detect irrigation events at the plot scale. The potential of the S1 data to detect the irrigation events was carried out using the Irrigation Event Detection Model (IEDM) over semi-arid and temperate oceanic climates in five study sites in south Europe and the Middle East. The IEDM is a decision tree model initially developed to detect irrigation events using the change detection algorithm applied to the S1 time series data. For each study site and at each agricultural plot, all available S1 images during the period of irrigation were used to construct an S1 time series and apply the IEDM. Different types of major summer irrigated crops were analyzed in this study, including Maize, Soybean, Sorghum and Potato, mainly with the sprinkler irrigation technique. The irrigation detection accuracy was evaluated using S1 images and the IEDM against the climatic condition of the studied area, the vegetation development (by means of the normalized difference vegetation index, NDVI) and the revisit time of the S1 sensor. The main results showed generally good overall accuracy for irrigation detection using the S1 data, reaching 67% for all studied sites together. This accuracy varied according to the climatic conditions of the studied area, with the highest accuracy for semi-arid areas and lowest for temperate areas. The analysis of the irrigation detection as a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:aEW5N-EHWIMC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=4082985294228778953",
+    "cites_id": [
+        "4082985294228778953"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-4395/12/11/2725",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yW-mFX6tqTgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 6,
+        "2024": 2
+    }
+}

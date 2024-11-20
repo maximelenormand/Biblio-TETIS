@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "NAMO G\u00e9oweb",
+        "pub_year": 2023,
+        "citation": "Revue Internationale de G\u00e9omatique 31 (3-4), 355-376, 2023",
+        "author": "Jean-Pierre Chery and Marie Gradeler and Vincent Bonnal",
+        "journal": "Revue Internationale de G\u00e9omatique",
+        "volume": "31",
+        "number": "3-4",
+        "pages": "355-376",
+        "abstract": "Les besoins de valoriser et de partager des informations g\u00e9n\u00e9riques et originales de diff\u00e9rents projets de recherche, ont conduit \u00e0 concevoir une plateforme g\u00e9oweb d\u00e9di\u00e9e, d\u00e9nomm\u00e9e NAMO. Sa conception utilise des fonctionnalit\u00e9s ouvertes, libres et gratuites qui montrent leur souplesse dans une d\u00e9marche agile et it\u00e9rative. C\u2019est en particulier le d\u00e9veloppement de deux dimensions de valorisation et de positionnement en g\u00e9oweb 2.0 qui est soulign\u00e9 : la cartographie narrative et la mod\u00e9lisation syst\u00e9mique. Les dispositifs d\u2019usage de l\u2019information g\u00e9ographique, en particulier dans les d\u00e9marches de co-construction et de science ouverte, peuvent ainsi \u00eatre mieux outill\u00e9s."
+    },
+    "filled": true,
+    "author_pub_id": "v2Zo6cQAAAAJ:j3f4tGmQtD8C",
+    "num_citations": 0,
+    "pub_url": "https://agroparistech.hal.science/hal-04199235/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zmwzvK2iBpUJ:scholar.google.com/",
+    "cites_per_year": {}
+}

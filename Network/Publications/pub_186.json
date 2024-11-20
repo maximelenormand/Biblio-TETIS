@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Model Independent Approach of the JUNO B Solar Neutrino Program",
+        "pub_year": 2022,
+        "citation": "arXiv preprint arXiv:2210.08437, 2022",
+        "author": "Jie Zhao and Baobiao Yue and Haoqi Lu and Yufeng Li and Jiajie Ling and Zeyuan Yu and Angel Abusleme and Thomas Adam and Shakeel Ahmad and Rizwan Ahmed and Sebastiano Aiello and Muhammad Akram and Abid Aleem and Tsagkarakis Alexandros and Fengpeng An and Qi An and Giuseppe Andronico and Nikolay Anfimov and Vito Antonelli and Tatiana Antoshkina and Burin Asavapibhop and Jo\u00e3o Pedro Athayde Marcondes de Andr\u00e9 and Didier Auguste and Weidong Bai and Nikita Balashov and Wander Baldini and Andrea Barresi and Davide Basilico and Eric Baussan and Marco Bellato and Antonio Bergnoli and Thilo Birkenfeld and Sylvie Blin and David Blum and Simon Blyth and Anastasia Bolshakova and Mathieu Bongrand and Cl\u00e9ment Bordereau and Dominique Breton and Augusto Brigatti and Riccardo Brugnera and Riccardo Bruno and Antonio Budano and Jose Busto and Ilya Butorov and Anatael Cabrera and Barbara Caccianiga and Hao Cai and Xiao Cai and Yanke Cai and Zhiyan Cai and Riccardo Callegari and Antonio Cammi and Agustin Campeny and Chuanya Cao and Guofu Cao and Jun Cao and Rossella Caruso and C\u00e9dric Cerna and Chi Chan and Jinfan Chang and Yun Chang and Guoming Chen and Pingping Chen and Po-An Chen and Shaomin Chen and Xurong Chen and Yixue Chen and Yu Chen and Zhiyuan Chen and Zikang Chen and Jie Cheng and Yaping Cheng and Alexander Chepurnov and Alexey Chetverikov and Davide Chiesa and Pietro Chimenti and Artem Chukanov and G\u00e9rard Claverie and Catia Clementi and Barbara Clerbaux and Marta Colomer Molla and Selma Conforti Di Lorenzo and Daniele Corti and Flavio Dal Corso and Olivia Dalager and Christophe De La Taille and Zhi Deng and Ziyan Deng and Wilfried Depnering and Marco Diaz and Xuefeng Ding and Yayun Ding and Bayu Dirgantara and Sergey Dmitrievsky and Tadeas Dohnal and Dmitry Dolzhikov and Georgy Donchenko and Jianmeng Dong and Evgeny Doroshkevich and Marcos Dracos and Fr\u00e9d\u00e9ric Druillole and Ran Du and Shuxian Du and Stefano Dusini and Martin Dvorak and Timo Enqvist and Heike Enzmann and Andrea Fabbri and Donghua Fan and Lei Fan and Jian Fang and Wenxing Fang and Marco Fargetta and Dmitry Fedoseev and Zhengyong Fei and Li-Cheng Feng and Qichun Feng and Richard Ford and Am\u00e9lie Fournier and Haonan Gan and Feng Gao and Alberto Garfagnini and Arsenii Gavrikov and Marco Giammarchi and Nunzio Giudice and Maxim Gonchar and Guanghua Gong and Hui Gong and Yuri Gornushkin and Alexandre G\u00f6ttel and Marco Grassi and Maxim Gromov and Vasily Gromov and Minghao Gu and Xiaofei Gu and Yu Gu and Mengyun Guan and Yuduo Guan and Nunzio Guardone and Cong Guo and Jingyuan Guo and Wanlei Guo and Xinheng Guo and Yuhang Guo and Paul Hackspacher and Caren Hagner and Ran Han and Yang Han and Miao He",
+        "journal": "arXiv preprint arXiv:2210.08437",
+        "abstract": "The physics potential of detecting B solar neutrinos is exploited at the Jiangmen Underground Neutrino Observatory (JUNO), in a model independent manner by using three distinct channels of the charged-current (CC), neutral-current (NC) and elastic scattering (ES) interactions. Due to the largest-ever mass of C nuclei in the liquid-scintillator detectors and the potential low background level, B solar neutrinos would be observable in the CC and NC interactions on C for the first time. By virtue of optimized event selections and muon veto strategies, backgrounds from the accidental coincidence, muon-induced isotopes, and external backgrounds can be greatly suppressed. Excellent signal-to-background ratios can be achieved in the CC, NC and ES channels to guarantee the B solar neutrino observation. From the sensitivity studies performed in this work, we show that one can reach the precision levels of 5%, 8% and 20% for the B neutrino flux, , and , respectively, using ten years of JUNO data. It would be unique and helpful to probe the details of both solar physics and neutrino physics. In addition, when combined with SNO, the world-best precision of 3% is expected for the B neutrino flux measurement."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:wGzT3bKASkAC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=17282205297614829310,15275047645311665029",
+    "cites_id": [
+        "17282205297614829310",
+        "15275047645311665029"
+    ],
+    "pub_url": "https://arxiv.org/abs/2210.08437",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_ra0Mye61u8J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

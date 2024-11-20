@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Topsoil clay content mapping in croplands from Sentinel-2 data: Influence of atmospheric correction methods across a season time series",
+        "pub_year": 2022,
+        "citation": "Geoderma 423, 115959, 2022",
+        "author": "C\u00e9cile Gomez and Emmanuelle Vaudour and Jean-Baptiste F\u00e9ret and Florian De Boissieu and Subramanian Dharumarajan",
+        "journal": "Geoderma",
+        "volume": "423",
+        "pages": "115959",
+        "publisher": "Elsevier",
+        "abstract": "Recent studies demonstrated the capability of Sentinel-2 (S2) data to estimate topsoil properties and highlighted the sensitivity of these estimations to soil surface conditions depending on the S2 acquisition date. These estimations are based on Bottom of Atmosphere (BOA) reflectance images, obtained from Top of Atmosphere (TOA) reflectance values using Atmospheric Correction (AC) methods. AC of optical satellite imagery is an important pre-processing stage before estimating biophysical variables, and several AC methods are currently operational to perform such conversion. This study aims at evaluating the sensitivity of topsoil clay content estimation to atmospheric corrections along an S2 time series. Three AC methods were tested (MAJA, Sen2Cor, and LaSRC) on a time series of eleven Sentinel-2 images acquired over a cultivated region in India (Karnataka State) from February 2017 to June 2017 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:5Ul4iDaHHb8C",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=11096610608365943163",
+    "cites_id": [
+        "11096610608365943163"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S001670612200266X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:e7l7Uo4U_5kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 5
+    }
+}

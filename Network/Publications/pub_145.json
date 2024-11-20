@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Stand-level wind damage can be assessed using diachronic photogrammetric canopy height models",
+        "pub_year": 2017,
+        "citation": "Annals of forest science 74 (4), 1-11, 2017",
+        "author": "Jean-Pierre Renaud and C\u00e9dric Vega and Sylvie Durrieu and Jonathan Lisein and Steen Magnussen and Philippe Lejeune and M\u00e9riem Fournier",
+        "journal": "Annals of forest science",
+        "volume": "74",
+        "number": "4",
+        "pages": "1-11",
+        "publisher": "BioMed Central",
+        "abstract": "Diachronic photogrammetric canopy height models can be used to quantify at a fine scale changes in dominant height and wood volume following storms. The regular renewal of aerial surveys makes this approach appealing for monitoring forest changes. The increasing availability of aerial photographs and the development of dense matching algorithms open up new possibilities to assess the effects of storm events on forest canopies. The objective of this research is to assess the potential of diachronic canopy height models derived from photogrammetric point clouds (PCHM) to quantify changes in dominant height and wood volume of a broadleaved forest following a major storm. PCHMs derived from aerial photographs acquired before and after a storm event were calibrated using 25 field plots to estimate dominant height and volume using various modeling approaches. The calibrated models were combined with a reference damage maps to estimate both the within-stand damage variability, and the amount of volume impacted. Dominant height was predicted with a root mean squared error (RMSE) of 4%, and volume with RMSEs ranging from 24 to 32% according to the type of model. The volume impacted by storm was in the range of 42\u201376%. Overall, the maps of dominant height changes provided more details about within-stand damage variability than conventional photointerpretation do. The study suggests a promising potential for exploiting PCHM in pursuit of a rapid localization and quantification of wind-throw damages, given an adapted sampling design to calibrate models."
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:GnPB-g6toBAC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=148936586016717486",
+    "cites_id": [
+        "148936586016717486"
+    ],
+    "pub_url": "https://annforsci.biomedcentral.com/articles/10.1007/s13595-017-0669-3",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rvqVLwkhEQIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 1,
+        "2020": 0,
+        "2021": 2,
+        "2022": 1
+    }
+}

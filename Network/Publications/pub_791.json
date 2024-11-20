@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detecting mammals in UAV images: Best practices to address a substantially imbalanced dataset with deep learning",
+        "pub_year": 2018,
+        "citation": "Remote sensing of environment 216, 139-153, 2018",
+        "author": "Benjamin Kellenberger and Diego Marcos and Devis Tuia",
+        "journal": "Remote sensing of environment",
+        "volume": "216",
+        "pages": "139-153",
+        "publisher": "Elsevier",
+        "abstract": "Knowledge over the number of animals in large wildlife reserves is a vital necessity for park rangers in their efforts to protect endangered species. Manual animal censuses are dangerous and expensive, hence Unmanned Aerial Vehicles (UAVs) with consumer level digital cameras are becoming a popular alternative tool to estimate livestock. Several works have been proposed that semi-automatically process UAV images to detect animals, of which some employ Convolutional Neural Networks (CNNs), a recent family of deep learning algorithms that proved very effective in object detection in large datasets from computer vision. However, the majority of works related to wildlife focuses only on small datasets (typically subsets of UAV campaigns), which might be detrimental when presented with the sheer scale of real study areas for large mammal census. Methods may yield thousands of false alarms in such cases \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:hqOjcs7Dif8C",
+    "num_citations": 279,
+    "citedby_url": "/scholar?hl=en&cites=5964057909541709687",
+    "cites_id": [
+        "5964057909541709687"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425718303067",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d6cX3hGXxFIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 4,
+        "2019": 29,
+        "2020": 50,
+        "2021": 68,
+        "2022": 55,
+        "2023": 63,
+        "2024": 9
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping of bare soil surface parameters (moisture, roughness, texture) from one TerraSAR-X radar configuration",
+        "pub_year": 2016,
+        "citation": "Living Planet Symposium 740, 138, 2016",
+        "author": "Mehrez Zribi and Azza Gorrab and Nicolas Baghdadi and Zohra Lili Chabaane",
+        "journal": "Living Planet Symposium",
+        "volume": "740",
+        "pages": "138",
+        "abstract": "In this paper, surface bare soil parameters (moisture, roughness and texture) mapping was carried out in central Tunisia (North Africa) using one TerraSAR-X radar configuration (one incidence angle, one polarization). Firstly, we analyzed statistically the relationships between TerraSAR-X backscattering signals function of soil moisture and different roughness parameters (the root mean square height Hrms, the Zs and the Zg parameters) at 36 and HH polarization. Results have shown a high sensitivity of real radar data to all soil parameters. Then, we proposed an algorithm combing the TerraSAR-X images with different continuous thetaprobe measurements for the retrieval of surface soil moisture. Empirical relationship was established between the mean moisture values retrieved from the SAR images and the percentage of clay over 36 test fields. Validation of the proposed approach was carried out over a second \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:vbGhcppDl1QC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016ESASP.740E.138Z/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-8IwHEFIIgIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

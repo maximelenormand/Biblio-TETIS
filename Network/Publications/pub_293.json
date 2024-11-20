@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Perceptions of the environment moderate the effects of objectively-measured built environment attributes on active transport. An ACTI-Cit\u00e9s study",
+        "pub_year": 2021,
+        "citation": "Journal of Transport & Health 20, 100972, 2021",
+        "author": "Marine M Desgeorges and Julie-Anne Nazare and Christophe Enaux and Jean-Michel Oppert and Mehdi Menai and H\u00e9l\u00e8ne Charreire and Paul Salze and Christiane Weber and Serge Hercberg and C\u00e9line Roda and Thierry Feuillet and Franck Hess and Chantal Simon and Camille Perchoux",
+        "journal": "Journal of Transport & Health",
+        "volume": "20",
+        "pages": "100972",
+        "publisher": "Elsevier",
+        "abstract": "Both perceived and objectively-measured attributes of the built environment have been related to active transport. They do not refer, however, to the same construct: objective measurements provide an inventory of a neighborhood's active-friendly attributes, while the perceptions of individuals refer to their appraisal of their neighborhood opportunities for active travel. Both aspects are complementary in explaining active transport. This study examines the independent associations of perceived and objective environmental attributes with active transport, and whether perceptions moderate the objectively-measured environment active transport relationship.Based on a sample of 2670 participants from the NutriNet-Sant\u00e9 Study (France), we examined (i) the concordance between perceptions and objective measurements of residential-based environmental attributes using kappa statistics, (ii) the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:fbc8zXXH2BUC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=4711872055780488258",
+    "cites_id": [
+        "4711872055780488258"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2214140520301766",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QrTij6vuY0EJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 4
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An annotated dataset for event-based surveillance of antimicrobial resistance",
+        "pub_year": 2023,
+        "citation": "Data in Brief 46, 108870, 2023",
+        "author": "Nejat Ar\u0131n\u0131k and Wim Van Bortel and Bahdja Boudoua and Luca Busani and R\u00e9my Decoupes and Roberto Interdonato and Rodrique Kafando and Esther van Kleef and Mathieu Roche and Mehtab Alam Syed and Maguelonne Teisseire",
+        "journal": "Data in Brief",
+        "volume": "46",
+        "pages": "108870",
+        "publisher": "Elsevier",
+        "abstract": "This paper presents an annotated dataset used in the MOOD Antimicrobial Resistance (AMR) hackathon, hosted in Montpellier, June 2022. The collected data concerns unstructured data from news items, scientific publications and national or international reports, collected from four event-based surveillance (EBS) Systems, i.e. ProMED, PADI-web, HealthMap and MedISys. Data was annotated by relevance for epidemic intelligence (EI) purposes with the help of AMR experts and an annotation guideline. Extracted data were intended to include relevant events on the emergence and spread of AMR such as reports on AMR trends, discovery of new drug-bug resistances, or new AMR genes in human, animal or environmental reservoirs. This dataset can be used to train or evaluate classification approaches to automatically identify written text on AMR events across the different reservoirs and sectors of One Health (i.e \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:rO6llkc54NcC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=6956181672841666313",
+    "cites_id": [
+        "6956181672841666313"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352340922010733",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CV_PQmBSiWAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 2
+    }
+}

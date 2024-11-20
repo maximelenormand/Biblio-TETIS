@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A Deep Neural Network Framework for Multivariate Time Series Classification With Positive and Unlabeled Data",
+        "pub_year": 2023,
+        "citation": "IEEE Access 11, 20877-20884, 2023",
+        "author": "Dino Ienco",
+        "journal": "IEEE Access",
+        "volume": "11",
+        "pages": "20877-20884",
+        "publisher": "IEEE",
+        "abstract": "Positive and unlabelled (PU) learning for multi-variate time series classification refers to build a binary classification model when only a small set of positive and a large set of unlabelled samples are accessible at training stage. Different from binary semi-supervised scenario in which the training set contains labelled samples from both positive and negative classes, in the PU learning setting, only positive samples are labelled due to cost-restriction or issues related to defining what belongs to the negative class. With the objective to deal with this challenging task, here, we propose a new deep learning framework, referred as DMTS-PUL. Our method has two different steps: firstly, it selects a set of reliable negative samples from the set of unlabelled data and, successively, it iteratively enriches the training data by selecting pseudo-labels to train a binary classification model via self-training. Experimental evaluations on \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:CCeGMaHljPEC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10056929/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZPO13d-6LmcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Observing the Earth for a spatial understanding of health inequalities: a historical and prospective overview of the use of remote sensing in the health field",
+        "pub_year": 2018,
+        "citation": "Confins-Revue franco-br\u00e9silienne de g\u00e9ographie/Revista franco-brasileira de \u2026, 2018",
+        "author": "Vincent Herbreteau and Daouda Kassi\u00e9 and Emmanuel Roux and Renaud Marti and Thibault Catry and Artadji Attoumane and Christophe R\u00e9villion and J\u00e9r\u00e9my Commins and Nadine Dessay and Morgan Mangeas and Annelise Tran",
+        "journal": "Confins-Revue franco-br\u00e9silienne de g\u00e9ographie/Revista franco-brasileira de geografia",
+        "number": "37",
+        "pages": "15362",
+        "abstract": "En prenant de la hauteur et en offrant une vue \u00e9largie des territoires, les images satellite et les photographies a\u00e9riennes permettent d'appr\u00e9hender les facteurs environnementaux qui peuvent conditionner la sant\u00e9 des populations. Depuis l'essor de la t\u00e9l\u00e9d\u00e9tection satellite \u00e0 partir des ann\u00e9es 1970, son usage dans le domaine de la sant\u00e9 a connu des succ\u00e8s mod\u00e9r\u00e9s. Si son potentiel a \u00e9t\u00e9 largement \u00e9voqu\u00e9 dans la litt\u00e9rature jusqu'aux ann\u00e9es 2000, son apport op\u00e9rationnel ne s'est pas impos\u00e9. Ce n'est que r\u00e9cemment que les applications en sant\u00e9 se sont enrichies et multipli\u00e9es par le d\u00e9veloppement d'approches interdisciplinaires. Cet article vise \u00e0 questionner les usages de la t\u00e9l\u00e9d\u00e9tection appliqu\u00e9e aux questions de sant\u00e9 selon les aspects techniques, historiques, et th\u00e9matiques afin d'identifier les verrous. Il propose tout d'abord une vue didactique des principes th\u00e9oriques, des donn\u00e9es disponibles et des \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:35r97b3x0nAC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=9129478151297506345",
+    "cites_id": [
+        "9129478151297506345"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=9129478151297506345&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KRzHMAJssn4J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1
+    }
+}

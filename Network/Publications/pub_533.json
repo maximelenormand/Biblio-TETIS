@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-source deep-learning approach for automatic geomorphological mapping: the case of glacial moraines",
+        "pub_year": 2024,
+        "citation": "Geo-spatial Information Science, 1-20, 2024",
+        "author": "Isabelle Rocamora and Dino Ienco and Matthieu Ferry",
+        "journal": "Geo-spatial Information Science",
+        "pages": "1-20",
+        "publisher": "Taylor & Francis",
+        "abstract": "Landform mapping is the initial step of many geomorphological analyses (e.g. assessment of natural hazards and natural resources) and requires vast resources to be applied to wide areas at high-resolution. Among geomorphological objects, we focus on glacial moraine mapping, since it is a task relevant to many fields (e.g. paleoclimate and glacial geomorphology). Here we proposed to exploit the potential of Deep Learning-based approaches to map moraine landforms by exploiting multi-source remote sensing imagery. To this end, we propose the first Deep Learning model to map glacial moraines, namely MorNet. As multi-source remote sensing information, we combine together three different sources: Topographic (Pleiades-derived DSM), Multispectral (Sentinel-2), and SAR (Sentinel-1) data. To cope with such heterogeneous information, the proposed model has a dedicated branch for each input source \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:ehoypfNsBj8C",
+    "num_citations": 0,
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/10095020.2023.2292587",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qlxE4ACIepsJ:scholar.google.com/",
+    "cites_per_year": {}
+}

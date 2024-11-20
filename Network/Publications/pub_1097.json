@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Understanding Outbreak Data Dissemination In Event Based Surveillance Systems. Application On Avian Influenza Using PADI-web",
+        "pub_year": 2022,
+        "citation": "International Journal of Infectious Diseases 116, S99, 2022",
+        "author": "B Boudoua and C Hautefeuille and E Arsevska and S Valentin",
+        "journal": "International Journal of Infectious Diseases",
+        "volume": "116",
+        "pages": "S99",
+        "publisher": "Elsevier",
+        "abstract": "Epidemic intelligence (EI) has been adopted by several countries to reach fast detection of new and emerging infectious diseases. EI collects information from two types of sources: official sources (i.e. health reports from OIE or FAO) and unofficial sources (i.e. online media outlets, scientific publications, etc.). In France, the EI system PADI-web (Platform for Automated extraction of Disease Information from the Web) is used since 2014 to detect signals of animal health events with risk of introduction to France.The objective of this work was to understand how health information (signal) is disseminated from a primary source (transmitter) to a final source (EI system) through quantitative and qualitative network analysis methods.We analysed all English reports related to avian influenza detected by PADI-web between August 2018 and June 2019. We used the sources cited in the detected \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:MXK_kJrjxJIC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1201971221011267",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xvGRgZAdSWwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Feature Selection for Sentiment Classification of COVID-19 Tweets: H-TFIDF Featuring BERT",
+        "pub_year": 2022,
+        "citation": "15th International Conference on Health Informatics 5, 648-656, 2022",
+        "author": "Mehtab Syed and Elena Arsevska and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "15th International Conference on Health Informatics",
+        "volume": "5",
+        "pages": "648-656",
+        "publisher": "SCITEPRESS-Science and Technology Publications",
+        "abstract": "In the first quarter of 2020, the World Health Organization (WHO) declared COVID-19 a public health emergency around the globe. Different users from all over the world shared their opinions about COVID-19 on social media platforms such as Twitter and Facebook. At the beginning of the pandemic, it became relevant to assess public opinions regarding COVID-19 using data available on social media. We used a recently proposed hierarchy-based measure for tweet analysis (H-TFIDF) for feature extraction over sentiment classification of tweets. We assessed how H-TFIDF and concatenation of H-TFIDF with bidirectional encoder representations from transformers (BH-TFIDF) perform over state-of-the-art bag-of-words (BOW) and term frequency-inverse document frequency (TF-IDF) features for sentiment classification of COVID-19 tweets. A uniform experimental setup of the training-test (90% and 10%) split scheme was used to train the classifier. Moreover, evaluation was performed with the gold standard expert labeled dataset to measure precision for each binary classified class."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:HGTzPopzzJcC",
+    "num_citations": 0,
+    "pub_url": "https://www.scitepress.org/Papers/2022/108878/108878.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JMbIQ01K4T8J:scholar.google.com/",
+    "cites_per_year": {}
+}

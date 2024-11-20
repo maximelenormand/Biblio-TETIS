@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The collaborative process in environmental projects, a place-based coevolution perspective",
+        "pub_year": 2021,
+        "citation": "Sustainability 13 (15), 8526, 2021",
+        "author": "Kevin Daudin and Christiane Weber and Fran\u00e7ois Colin and Flavie Cernesson and Pierre Maurel and Val\u00e9rie Derolez",
+        "journal": "Sustainability",
+        "volume": "13",
+        "number": "15",
+        "pages": "8526",
+        "publisher": "MDPI",
+        "abstract": "Environmental research and management organizations are mutually dependent when it comes to produce and use knowledge in favor of responsible action in an increasingly uncertain world. Still, science and practice interfacing remains a challenge when it comes to implementing and sustaining a collaborative process. In this paper, we develop a descriptive framework to study the coevolution of scientific and planning activities embedded in a territorial system. Scientists and managers dynamically interact through institutional arrangements, operationalization of knowledge and information and communication tools. We propose an approach to systematically document transdisciplinary pathways and characterize the bounding process between organizations on a typical case-study, the coastal Thau territoire (Mediterranean Sea, France). By tracing, illustrating and analyzing coupled trajectories of environmental sciences and planning for the last decades, the Systemic Timeline Multistep methodology tackles cross-fertilization mechanisms. The relational analysis draws on the elaboration of a synchronic timeline to question co-evolution and grasp causal mechanisms of research projects interactions with management pathways. Its application on the Thau territoire shows that scientific activities and public actions shaped each other in a continuous process of interaction. It also gives insights into the contributive roles of long-term place-based research and intermediate organizations for the emergence of new sociotechnical arrangements."
+    },
+    "filled": true,
+    "author_pub_id": "nbR473IAAAAJ:hkOj_22Ku90C",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=13407455065401556828",
+    "cites_id": [
+        "13407455065401556828"
+    ],
+    "pub_url": "https://www.mdpi.com/2071-1050/13/15/8526",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XH9Fo1jZELoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 1
+    }
+}

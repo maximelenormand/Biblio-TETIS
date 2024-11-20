@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluate pseudo labeling and cnn for multi-variate time series classification in low-data regimes",
+        "pub_year": 2021,
+        "citation": "Artificial Neural Networks and Machine Learning\u2013ICANN 2021: 30th \u2026, 2021",
+        "author": "Dino Ienco and Davi Pereira-Santos and Andr\u00e9 CPLF de Carvalho",
+        "conference": "Artificial Neural Networks and Machine Learning\u2013ICANN 2021: 30th International Conference on Artificial Neural Networks, Bratislava, Slovakia, September 14\u201317, 2021, Proceedings, Part V 30",
+        "pages": "126-137",
+        "publisher": "Springer International Publishing",
+        "abstract": "Nowadays, huge amount of data are being produced by a large and diverse family of sensors (e.g., remote sensors, biochemical sensors, wearable devices). These sensors typically measure multiple variables over time, resulting in data streams that can be profitably organized as multivariate time-series. In practical scenarios, the speed at which such information is collected often makes the data labeling a difficult task. This results in a low-data regime scenario where only a small set of labeled samples is available and standard supervised learning algorithms cannot be employed. To cope with the task of multi-variate time series classification in low-data regime scenarios, here, we propose a framework that combines convolutional neural networks (CNNs) with self-training (pseudo labeling) in a transductive setting (test data are already available at training time). Our framework, named , wraps a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:a2necdfpwlEC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=17562575024957070381",
+    "cites_id": [
+        "17562575024957070381"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-86383-8_10",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LZy2R-_MuvMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 2,
+        "2024": 1
+    }
+}

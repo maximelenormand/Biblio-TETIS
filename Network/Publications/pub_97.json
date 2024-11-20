@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hyperspectral Image Denoising using Dictionary Learning",
+        "pub_year": 2019,
+        "citation": "WHISPERS 2019 - 10th Workshop on Hyperspectral Image and Signal Processing \u2026, 2019",
+        "author": "Cassio F. Dantas and J\u00e9r\u00e9my E. Cohen and R\u00e9mi Gribonval",
+        "conference": "WHISPERS 2019 - 10th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing",
+        "abstract": "Hyperspectral images are corrupted by noise during their acquisition. In this work, we propose to efficiently denoise hyperspectral images under two assumptions: (i) noiseless hyperspectral images in matrix form are low-rank, and (ii) image patches are sparse in a proper representation domain defined through a dictionary. These two assumptions have already led to state-of-the-art denoising methods using fixed Wavelet transforms. We propose to rather learn the dictionary from hyperspectral images, a task commonly known as dictionary learning. We show that the dictionary learning approach is more efficient to denoise hyperspectral images than state-of-the-art methods with fixed dictionaries, at the cost of a larger computation time."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:5nxA0vEk-isC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=13026591490763909629",
+    "cites_id": [
+        "13026591490763909629"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8921110/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_ekbafG_x7QJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 0,
+        "2021": 2,
+        "2022": 2
+    }
+}

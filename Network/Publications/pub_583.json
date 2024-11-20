@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SLEUTH* : un mod\u00e8le d\u2019expansion urbaine sc\u00e9nario-d\u00e9pendant",
+        "pub_year": 2016,
+        "citation": "Revue Internationale de G\u00e9omatique 26 (1), 7-32, 2016",
+        "author": "Thomas HOUET Omar DOUKARI and Rahim AGUEJDAD",
+        "journal": "Revue Internationale de G\u00e9omatique",
+        "volume": "26",
+        "number": "1",
+        "pages": "7-32",
+        "publisher": "Lavoisier SAS",
+        "abstract": "La mod\u00e9lisation prospective permet d'\u00e9clairer les r\u00e9flexions des acteurs locaux en leur proposant un panel de futurs et d'alternatives possibles en mati\u00e8re de planification et d'am\u00e9nagement du territoire. Or, le mod\u00e9lisateur est souvent confront\u00e9 aux limites des outils de simulation existants qui, calibr\u00e9s \u00e0 partir de donn\u00e9es pass\u00e9es, sont particuli\u00e8rement non adapt\u00e9s \u00e0 la spatialisation de sc\u00e9narios prospectifs en rupture avec les tendances pass\u00e9es. L'objectif de cet article est de pr\u00e9senter un mod\u00e8le de simulation spatiale (SLEUTH*) d\u00e9di\u00e9 \u00e0 la projection de sc\u00e9narios contrast\u00e9s et pr\u00e9d\u00e9finis d\u2019expansion urbaine. SLEUTH* constitue une version \u00ab sc\u00e9nario-d\u00e9pendante \u00bb issue de la modification du mod\u00e8le SLEUTH. Ce dernier, dont le fonctionnement est bas\u00e9 sur un automate cellulaire, est un mod\u00e8le empirique, dynamique et spatialement explicite. Le choix du mod\u00e8le SLEUTH tient \u00e0 sa capacit\u00e9 \u00e0 simuler quatre \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:ULOm3_A8WrAC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=16283702486095222729",
+    "cites_id": [
+        "16283702486095222729"
+    ],
+    "pub_url": "https://rig.revuesonline.com/articles/lvrig/abs/2016/01/lvrig261p7/lvrig261p7.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ydfZ5yJV--EJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 1,
+        "2017": 0,
+        "2018": 1,
+        "2019": 1,
+        "2020": 2
+    }
+}

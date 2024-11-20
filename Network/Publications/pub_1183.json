@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Understanding the drivers of deforestation and agricultural transformations in the Northwestern uplands of Cambodia",
+        "pub_year": 2019,
+        "citation": "Applied Geography 102, 84-98, 2019",
+        "author": "Rada Kong and Jean-Christophe Diepart and Jean-Christophe Castella and Guillaume Lestrelin and Florent Tivet and Elisa Belmain and Agn\u00e8s B\u00e9gu\u00e9",
+        "journal": "Applied Geography",
+        "volume": "102",
+        "pages": "84-98",
+        "publisher": "Pergamon",
+        "abstract": "At the end of the 1990s, the Northwestern uplands of Cambodia were one of the last forest frontiers of the country. In a region that was the last Khmer Rouge stronghold, the opening of former conflict zones after a peace agreement initiated a vast movement of agricultural colonization. This movement was economically triggered by high market demand for agricultural commodities such as maize and cassava and fueled by a massive flow of spontaneous in-migration of land-poor farmers from lowland regions around the entire country. Focused on four upland districts along a pioneer front of Northwestern Cambodia, we analyzed historical trajectories of land use/cover changes using a chronological series of Landsat data from 1976 to 2016. We identified key drivers of deforestation using demographic data and qualitative information from local actors and other relevant stakeholders. We found a 65 percent forest cover \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:EUQCXRtRnyEC",
+    "num_citations": 68,
+    "citedby_url": "/scholar?hl=en&cites=5740857158035480197",
+    "cites_id": [
+        "5740857158035480197"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0143622818303679",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hZ72Oiufq08J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 6,
+        "2020": 20,
+        "2021": 16,
+        "2022": 13,
+        "2023": 10,
+        "2024": 3
+    }
+}

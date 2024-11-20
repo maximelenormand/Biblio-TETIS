@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A CNN adapted to time series for the classification of Supernovae",
+        "pub_year": 2019,
+        "citation": "arXiv preprint arXiv:1901.00461, 2019",
+        "author": "Anthony Brunel and Johanna Pasquet and J\u00e9r\u00f4me Pasquet and Nancy Rodriguez and Fr\u00e9d\u00e9ric Comby and Dominique Fouchez and Marc Chaumont",
+        "journal": "arXiv preprint arXiv:1901.00461",
+        "abstract": "Cosmologists are facing the problem of the analysis of a huge quantity of data when observing the sky. The methods used in cosmology are, for the most of them, relying on astrophysical models, and thus, for the classification, they usually use a machine learning approach in two-steps, which consists in, first, extracting features, and second, using a classifier. In this paper, we are specifically studying the supernovae phenomenon and especially the binary classification \"I.a supernovae versus not-I.a supernovae\". We present two Convolutional Neural Networks (CNNs) defeating the current state-of-the-art. The first one is adapted to time series and thus to the treatment of supernovae light-curves. The second one is based on a Siamese CNN and is suited to the nature of data, i.e. their sparsity and their weak quantity (small learning database)."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:UebtZRa9Y70C",
+    "num_citations": 33,
+    "citedby_url": "/scholar?hl=en&cites=406288415217736979",
+    "cites_id": [
+        "406288415217736979"
+    ],
+    "pub_url": "https://arxiv.org/abs/1901.00461",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:E91oOSltowUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 11,
+        "2021": 7,
+        "2022": 6,
+        "2023": 5
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "RNN-based Multi-Source Land Cover Mapping: An Application to West African Landscape.",
+        "pub_year": 2019,
+        "citation": "MACLEAN@ PKDD/ECML, 2019",
+        "author": "Yawogan Jean Eudes Gbodjo and Louise Leroux and Raffaele Gaetano and Babacar Ndao",
+        "conference": "MACLEAN@ PKDD/ECML",
+        "abstract": "In the southern countries, timely and accurate land cover mapping is crucial for food security monitoring. Nowadays, Earth Observation missions like Sentinel-1 (S1) and Sentinel-2 (S2) provide radar and optical imagery respectively, which can be organized in dense time series and leveraged for a wide range of applications such as land cover mapping. In this paper, a deep learning (DL) architecture is designed to combine S1 and S2 time series at object level with the aim to deal with heterogeneous agricultural landscape land cover mapping located in the southern part of the Senegalese groundnut basin. Both quantitative and qualitative results obtained demonstrate the significance of the proposal. In addition, we explore how the parameters learnt by the DL model can supply insights towards the explanation of the classifier decision."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:TFP_iSt0sucC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=4800256051427499825",
+    "cites_id": [
+        "4800256051427499825"
+    ],
+    "pub_url": "http://ceur-ws.org/Vol-2466/paper3.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MV9BKHLvnUIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Social media and deep learning capture the aesthetic quality of the landscape",
+        "pub_year": 2021,
+        "citation": "Scientific reports 11 (1), 20000, 2021",
+        "author": "Ilan Havinga and Diego Marcos and Patrick W Bogaart and Lars Hein and Devis Tuia",
+        "journal": "Scientific reports",
+        "volume": "11",
+        "number": "1",
+        "pages": "20000",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "Peoples\u2019 recreation and well-being are closely related to their aesthetic enjoyment of the landscape. Ecosystem service (ES) assessments record the aesthetic contributions of landscapes to peoples\u2019 well-being in support of sustainable policy goals. However, the survey methods available to measure these contributions restrict modelling at large scales. As a result, most studies rely on environmental indicator models but these do not incorporate peoples\u2019 actual use of the landscape. Now, social media has emerged as a rich new source of information to understand human-nature interactions while advances in deep learning have enabled large-scale analysis of the imagery uploaded to these platforms. In this study, we test the accuracy of Flickr and deep learning-based models of landscape quality using a crowdsourced survey in Great Britain. We find that this novel modelling approach generates a strong and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:dshw04ExmUIC",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=2650130501346507724",
+    "cites_id": [
+        "2650130501346507724"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-021-99282-0",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zLsvZaYnxyQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 15,
+        "2023": 15,
+        "2024": 4
+    }
+}

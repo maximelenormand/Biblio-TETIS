@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mining frequent subgraphs in multigraphs",
+        "pub_year": 2018,
+        "citation": "Information Sciences 451, 50-66, 2018",
+        "author": "Vijay Ingalalli and Dino Ienco and Pascal Poncelet",
+        "journal": "Information Sciences",
+        "volume": "451",
+        "pages": "50-66",
+        "publisher": "Elsevier",
+        "abstract": "For more than a decade, extracting frequent patterns from single large graphs has been one of the research focuses. However, in this era of data eruption, rich and complex data is being generated at an unprecedented rate. This complex data can be represented as a multigraph structure - a generic and rich graph representation. In this paper, we propose a novel frequent subgraph mining approach MuGraM that can be applied to multigraphs. MuGraM is a generic frequent subgraph mining algorithm that discovers frequent multigraph patterns. MuGraM efficiently performs the task of subgraph matching, which is crucial for support measure, and further leverages several optimization techniques for swift discovery of frequent subgraphs. Our experiments reveal two things: MuGraM discovers multigraph patterns, where other existing approaches are unable to do so; MuGraM, when applied to simple graphs, outperforms \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:Ej9njvOgR2oC",
+    "num_citations": 37,
+    "citedby_url": "/scholar?hl=en&cites=17782045946395403762",
+    "cites_id": [
+        "17782045946395403762"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0020025518302548",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8qWSLpOExvYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 4,
+        "2020": 8,
+        "2021": 6,
+        "2022": 9,
+        "2023": 6,
+        "2024": 1
+    }
+}

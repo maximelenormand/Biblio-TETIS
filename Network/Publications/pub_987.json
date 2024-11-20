@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep triplet-driven semi-supervised embedding clustering",
+        "pub_year": 2019,
+        "citation": "Discovery Science: 22nd International Conference, DS 2019, Split, Croatia \u2026, 2019",
+        "author": "Dino Ienco and Ruggero G Pensa",
+        "conference": "Discovery Science: 22nd International Conference, DS 2019, Split, Croatia, October 28\u201330, 2019, Proceedings 22",
+        "pages": "220-234",
+        "publisher": "Springer International Publishing",
+        "abstract": " In most real world scenarios, experts dispose of limited background knowledge that they can exploit for guiding the analysis process. In this context, semi-supervised clustering can be employed to leverage such knowledge and enable the discovery of clusters that meet the analysts\u2019 expectations. To this end, we propose a semi-supervised deep embedding clustering algorithm that exploits triplet constraints as background knowledge within the whole learning process. The latter consists in a two-stage approach where, initially, a low-dimensional data embedding is computed and, successively, cluster assignment is refined via the introduction of an auxiliary target distribution. Our algorithm is evaluated on real-world benchmarks in comparison with state-of-the-art unsupervised and semi-supervised clustering methods. Experimental results highlight the quality of the proposed framework as well as the added \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:l6Q3WhenKVUC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=17647185202632948797",
+    "cites_id": [
+        "17647185202632948797"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-33778-0_18",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PXx3aHFl5_QJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 3,
+        "2022": 3,
+        "2023": 2,
+        "2024": 1
+    }
+}

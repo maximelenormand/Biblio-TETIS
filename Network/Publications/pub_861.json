@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison of two atmospheric correction methods for the classification of spaceborne urban hyperspectral data depending on the spatial resolution",
+        "pub_year": 2018,
+        "citation": "International Journal of Remote Sensing 39 (5), 1593-1614, 2018",
+        "author": "Guillaume Roussel and Christiane Weber and Xavier Briottet and Xavier Ceamanos",
+        "journal": "International Journal of Remote Sensing",
+        "volume": "39",
+        "number": "5",
+        "pages": "1593-1614",
+        "publisher": "Taylor & Francis",
+        "abstract": "For remote-sensing applications such as spectra classification or identification, atmospheric correction constitutes a very important pre-processing step, especially in complex urban environments where a lot of phenomenons alter the shape of the signal. The objective of this article is to compare the efficiency of two atmospheric correction algorithms, COCHISE (atmospheric COrrection Code for Hyperspectral Images of remote-sensing SEnsors) and an empirical method, on hyperspectral data and for classification applications. Classification is carried out on several simulated spaceborne data sets with different spatial resolutions (from 1.6 to 9.6 m). Four classifiers are considered in the study: a k-means, a Support Vector Machine (SVM), and a sun/shadow version of each of them, which processes sunlit and shadowed pixels separately. Results show that the most relevant atmospheric method for classification \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:FPJr55Dyh1AC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=2233560132636383964",
+    "cites_id": [
+        "2233560132636383964"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/full/10.1080/01431161.2017.1410247",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3BpEUhsz_x4J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 3,
+        "2020": 1,
+        "2021": 0,
+        "2022": 4,
+        "2023": 2
+    }
+}

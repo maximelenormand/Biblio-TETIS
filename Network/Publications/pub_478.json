@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of Sentinel-1 radar data for the assessment of soil and cereal cover parameters",
+        "pub_year": 2017,
+        "citation": "Sensors 17 (11), 2617, 2017",
+        "author": "Safa Bousbih and Mehrez Zribi and Zohra Lili-Chabaane and Nicolas Baghdadi and Mohammad El Hajj and Qi Gao and Bernard Mougenot",
+        "journal": "Sensors",
+        "volume": "17",
+        "number": "11",
+        "pages": "2617",
+        "publisher": "MDPI",
+        "abstract": "The main objective of this study is to analyze the potential use of Sentinel-1 (S1) radar data for the estimation of soil characteristics (roughness and water content) and cereal vegetation parameters (leaf area index (LAI), and vegetation height (H)) in agricultural areas. Simultaneously to several radar acquisitions made between 2015 and 2017, using S1 sensors over the Kairouan Plain (Tunisia, North Africa), ground measurements of soil roughness, soil water content, LAI and H were recorded. The NDVI (normalized difference vegetation index) index computed from Landsat optical images revealed a strong correlation with in situ measurements of LAI. The sensitivity of the S1 measurements to variations in soil moisture, which has been reported in several scientific publications, is confirmed in this study. This sensitivity decreases with increasing vegetation cover growth (NDVI), and is stronger in the VV (vertical) polarization than in the VH cross-polarization. The results also reveal a similar increase in the dynamic range of radar signals observed in the VV and VH polarizations as a function of soil roughness. The sensitivity of S1 measurements to vegetation parameters (LAI and H) in the VV polarization is also determined, showing that the radar signal strength decreases when the vegetation parameters increase. No vegetation parameter sensitivity is observed in the VH polarization, probably as a consequence of volume scattering effects."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:_axFR9aDTf0C",
+    "num_citations": 154,
+    "citedby_url": "/scholar?hl=en&cites=8211837057336171070",
+    "cites_id": [
+        "8211837057336171070"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/17/11/2617",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Plrpo0tO9nEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 13,
+        "2019": 22,
+        "2020": 32,
+        "2021": 33,
+        "2022": 24,
+        "2023": 25,
+        "2024": 4
+    }
+}

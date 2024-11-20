@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u00celot de chaleur urbain et application territoriale en France: revue des m\u00e9thodes de simulation num\u00e9rique",
+        "pub_year": 2023,
+        "citation": "Climatologie 20, 6, 2023",
+        "author": "Magalie T\u00e9cher and Hassan Ait Haddou and Rahim Aguejdad",
+        "journal": "Climatologie",
+        "volume": "20",
+        "pages": "6",
+        "publisher": "Association Internationale de Climatologie",
+        "abstract": "Cet article a pour objectif de faire l\u2019\u00e9tat des recherches r\u00e9centes sur l\u2019\u00e9valuation du ph\u00e9nom\u00e8ne d\u2019\u00eelot de chaleur urbain (ICU), des strat\u00e9gies d\u2019adaptation et des applications territoriales pour l\u2019am\u00e9nagement op\u00e9rationnel et la planification r\u00e9glementaire en France. Les m\u00e9thodes d\u2019\u00e9valuation par simulation num\u00e9rique sont prometteuses, car elles permettent de tester et v\u00e9rifier des solutions d\u2019am\u00e9nagement et de planification vari\u00e9es; toutefois, elles sont peu exploit\u00e9es par les acteurs de l\u2019urbanisme. Cet article fait la revue critique des diff\u00e9rentes \u00e9tudes ayant \u00e9valu\u00e9 l\u2019ICU par simulation num\u00e9rique en France afin d\u2019identifier les principales applications et limites de ce type d\u2019approche pour la planification urbaine et l\u2019am\u00e9nagement op\u00e9rationnel en France. Des recommandations sont propos\u00e9es afin de parvenir \u00e0 des mises en \u0153uvre et des int\u00e9gratio ns efficaces dans les politiques et plans de d\u00e9veloppement urbain \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:fPk4N6BV_jEC",
+    "num_citations": 0,
+    "pub_url": "https://climatology.edpsciences.org/articles/climat/abs/2023/01/climat20232006/climat20232006.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tw46aCNYIVEJ:scholar.google.com/",
+    "cites_per_year": {}
+}

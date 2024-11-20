@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Crowdsourcing the Robin Hood effect in cities",
+        "pub_year": 2017,
+        "citation": "Applied Network Science 2, 11, 2017",
+        "author": "Thomas Louail and Maxime Lenormand and Juan Murillo Arias and Jos\u00e9 J Ramasco",
+        "journal": "Applied Network Science",
+        "volume": "2",
+        "pages": "11",
+        "abstract": "Socioeconomic inequalities in cities are embedded in space and result in neighborhood effects, whose harmful consequences have proved very hard to counterbalance efficiently by planning policies alone. Considering redistribution of money flows as a first step toward improved spatial equity, we study a bottom-up approach that would rely on a slight evolution of shopping mobility practices. Building on a database of anonymized card transactions in Madrid and Barcelona, we quantify the mobility effort required to reach a reference situation where commercial income is evenly shared among neighborhoods. The redirections of shopping trips preserve key properties of human mobility, including travel distances. Surprisingly, for both cities only a small fraction (\u223c5%) of trips need to be modified to reach equality situations, improving even other sustainability indicators. The method could be implemented in mobile applications that would assist individuals in reshaping their shopping practices, to promote the spatial redistribution of opportunities in the city."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:7PzlFSSx8tAC",
+    "num_citations": 31,
+    "citedby_url": "/scholar?hl=en&cites=11710498632390947063,4086388834942024792",
+    "cites_id": [
+        "11710498632390947063",
+        "4086388834942024792"
+    ],
+    "pub_url": "https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0026-3",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9zBcFnYMhKIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 1,
+        "2019": 10,
+        "2020": 5,
+        "2021": 9,
+        "2022": 2,
+        "2023": 1,
+        "2024": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential applications of GNSS-R observations over agricultural areas: Results from the GLORI airborne campaign",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (8), 1245, 2018",
+        "author": "Mehrez Zribi and Erwan Motte and Nicolas Baghdadi and Fr\u00e9d\u00e9ric Baup and Sylvia Dayau and Pascal Fanise and Dominique Guyon and Mireille Huc and Jean Pierre Wigneron",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "8",
+        "pages": "1245",
+        "publisher": "MDPI",
+        "abstract": "The aim of this study is to analyze the sensitivity of airborne Global Navigation Satellite System Reflectometry (GNSS-R) on soil surface and vegetation cover characteristics in agricultural areas. Airborne polarimetric GNSS-R data were acquired in the context of the GLORI\u20192015 campaign over two study sites in Southwest France in June and July of 2015. Ground measurements of soil surface parameters (moisture content) and vegetation characteristics (leaf area index (LAI), and vegetation height) were recorded for different types of crops (corn, sunflower, wheat, soybean, vegetable) simultaneously with the airborne GNSS-R measurements. Three GNSS-R observables (apparent reflectivity, the reflected signal-to-noise-ratio (SNR), and the polarimetric ratio (PR)) were found to be well correlated with soil moisture and a major vegetation characteristic (LAI). A tau-omega model was used to explain the dependence of the GNSS-R reflectivity on both the soil moisture and vegetation parameters."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Ehil0879vHcC",
+    "num_citations": 33,
+    "citedby_url": "/scholar?hl=en&cites=414405007136179536",
+    "cites_id": [
+        "414405007136179536"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/8/1245",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UMV-iyhDwAUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 7,
+        "2020": 10,
+        "2021": 5,
+        "2022": 4,
+        "2023": 4,
+        "2024": 1
+    }
+}

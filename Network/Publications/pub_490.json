@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-Source Deep-Learning Approach for Automatic Geomorphological Mapping",
+        "pub_year": 2023,
+        "citation": "AGU23, 2023",
+        "author": "Isabelle Rocamora and Dino Ienco and Matthieu Alexis Ferry",
+        "journal": "AGU23",
+        "publisher": "AGU"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:U5uP8zs9lfgC",
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=933261658170340974&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bja8kYic8wwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

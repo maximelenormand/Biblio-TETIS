@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Identifying associations between epidemiological entities in news data for animal disease surveillance",
+        "pub_year": 2021,
+        "citation": "Artificial Intelligence in Agriculture 5, 163-174, 2021",
+        "author": "Sarah Valentin and Renaud Lancelot and Mathieu Roche",
+        "journal": "Artificial Intelligence in Agriculture",
+        "volume": "5",
+        "pages": "163-174",
+        "publisher": "Elsevier",
+        "abstract": "Event-based surveillance systems are at the crossroads of human and animal (and plant and ecosystem) health, epidemiology, statistics, and informatics. Thus, their deployment faces many challenges specific to each domain and their intersections, such as relations among automation, artificial intelligence, and expertise. In this context, our work pertins to the extraction of epidemiological events in textual data (i.e. news) by unsupervised methods. We define the event extraction task as detecting pairs of epidemiological entities (e.g. a disease name and location). The quality of the ranked lists of pairs was evaluated using specific ranking evaluation metrics. We used a publicly available annotated corpus of 438 documents (i.e. news articles) related to animal disease events. The statistical approach was able to detect event-related pairs of epidemiological features with a good trade-off between precision and recall \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:0EnyYjriUFMC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=12739275915484816680",
+    "cites_id": [
+        "12739275915484816680"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2589721721000246",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KGUpFvP_yrAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 3
+    }
+}

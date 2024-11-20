@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "AN OPERATIONAL APPROACH TO MULTI-SOURCE LANDSCAPE MAPPING BASED ON ESSENTIAL LANDSCAPE VARIABLES (ELVs)",
+        "pub_year": 2022,
+        "citation": "Conf\u00e9rence Intercol Gen\u00e8ve, 2022",
+        "author": "Louise Lemettais and Samuel Alleaume and Agn\u00e8s B\u00e9gu\u00e9 and Sandra Luque and Anne-Elisabeth Laques",
+        "conference": "Conf\u00e9rence Intercol Gen\u00e8ve",
+        "publisher": "Unpublished",
+        "abstract": "4. ResultsFig 2: Foor types of features (spatial, radiometric, temporal and textural) can be extracted from remote sensing data."
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:XiSMed-E-HIC",
+    "num_citations": 0,
+    "pub_url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2024-01/010089129.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cnEvHBa9Ag8J:scholar.google.com/",
+    "cites_per_year": {}
+}

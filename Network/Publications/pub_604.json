@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Active mobility and environment: a pilot qualitative study for the design of a new questionnaire",
+        "pub_year": 2017,
+        "citation": "PloS one 12 (1), e0168986, 2017",
+        "author": "Franck Hess and Paul Salze and Christiane Weber and Thierry Feuillet and H\u00e9l\u00e8ne Charreire and Mehdi Menai and Camille Perchoux and Julie-Anne Nazare and Chantal Simon and Jean-Michel Oppert and Christophe Enaux",
+        "journal": "PloS one",
+        "volume": "12",
+        "number": "1",
+        "pages": "e0168986",
+        "publisher": "Public Library of Science",
+        "abstract": "It is generally accepted that active mobility, mainly walking and cycling, contributes to people\u2019s physical and mental health. One of the current challenges is to improve our understanding of this type of behaviour. This study aims to identify factors from the daily-life environment that may be related to active mobility behaviours, in order to design a new questionnaire for a quantitative study of a large adult population. The new questionnaire obtained through this pilot study combines information from interviews with existing questionnaires materials in order to introduce new factors while retaining the factors already assessed. This approach comprises three stages. The first was a content analysis (Reinert method) of interviews with a sample of participants about daily living activities as well as mobility. This stage led to a typology of factors suggested by interviews. The second was a scoping review of the literature in order to identify the active mobility questionnaires currently used in international literature. The last stage was a cross-tabulation of the factors resulting from the written interviews and the questionnaires. A table of the inter-relationships between the interview-based typology and the questionnaires shows discrepancies between factors considered by the existing questionnaires, and factors coming from individual interviews. Independent factors which were ignored in or absent from the questionnaires are the housing situation within the urban structure, overall consideration of the activity space beyond the limits of the residential neighbourhood, the perception of all the transportation modes, and the time scheduling impacting the modes \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:p__nRnzSRKYC",
+    "num_citations": 24,
+    "citedby_url": "/scholar?hl=en&cites=15345557180617864119",
+    "cites_id": [
+        "15345557180617864119"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168986",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tzMsl_Ne9tQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 2,
+        "2019": 5,
+        "2020": 2,
+        "2021": 5,
+        "2022": 2,
+        "2023": 5,
+        "2024": 1
+    }
+}

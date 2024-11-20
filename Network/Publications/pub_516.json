@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Lo Seen, D., 2016. Spatial modelling of agro-ecosystem dynamics across scales: a case in the cotton region of West-Burkina Faso",
+        "pub_year": 2016,
+        "citation": "Agricultural Systems, 2016",
+        "author": "C Jahel and C Baron and E Vall and M Karambini and M Castets and K Coulibaly and A B\u00e9gu\u00e9",
+        "journal": "Agricultural Systems"
+    },
+    "filled": true,
+    "author_pub_id": "nIJPPHMAAAAJ:UebtZRa9Y70C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=5008757355095371905",
+    "cites_id": [
+        "5008757355095371905"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=5008757355095371905&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gbCV5EaugkUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Polarimetric SAR Tomography for the Characterization of Forested Areas",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 1534 \u2026, 2021",
+        "author": "Stefano Tebaldini and Mauro Mariotti d'Alessandro and Thuy Le Toan and Ludovic Villard and Dinh Ho Tong Minh and Laurent Ferro-Famil",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "1534-1537",
+        "publisher": "IEEE",
+        "abstract": "Polarimetric Synthetic Aperture Radar Tomography (TomoSAR) is a technology to image the three-dimensional (3D) structure of the illuminated media. TomoSAR exploits the key feature of microwaves to penetrate into vegetation, snow, and ice, hence providing the possibility to see features that are hidden to optical and hyper-spectral systems. Several experimental studies by different research groups demonstrate that the use of the 3D information results in an accurate characterization of forested areas, providing access to a number of biophysical variables such as terrain topography below the vegetation, forest height, forest Above Ground Biomass (AGB), and forest classification. This paper is intended to provide the reader with an introduction to the use of TomoSAR for the characterization of forest areas, addressing basic imaging principles and methods, retrieval of biophysical parameters, and perspective for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:4fKUyHm3Qg0C",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9553140/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1IPm_jsxmIgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

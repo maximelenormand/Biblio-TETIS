@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Cartographie de la diversit\u00e9 sp\u00e9cifique foresti\u00e8re des milieux temp\u00e9r\u00e9s \u00e0 partir d\u2019imagerie hyperspectrale",
+        "pub_year": 2023,
+        "citation": "Spatial Analysis and GEOmatics 2023, 107-121, 2023",
+        "author": "Marc Lang and Max Ferriere and Florian de Boissieu and Xavier Briottet and Sophie Fabre and David Sheeren and Jean-Baptiste F\u00e9ret",
+        "conference": "Spatial Analysis and GEOmatics 2023",
+        "pages": "107-121",
+        "abstract": "Le d\u00e9veloppement de m\u00e9thodes de suivi de la biodiversit\u00e9 est crucial pour endiguer l'\u00e9rosion de la biodiversit\u00e9 en cours. Nous testons dans cette \u00e9tude l\u2019applicabilit\u00e9 d\u2019une m\u00e9thode d\u2019estimation de la biodiversit\u00e9 non supervis\u00e9e, bas\u00e9e sur l'h\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9 spatiale de l\u2019information d\u2019imagerie hyperspectrale. Des indices de diversit\u00e9 spectrale taxonomique \u03b1 et \u03b2 et de diversit\u00e9 spectrale fonctionnelle sont calcul\u00e9s et sont compar\u00e9s \u00e0 des indices de diversit\u00e9 issus d\u2019inventaires terrain. Les indices de diversit\u00e9 spectrale taxonomique montrent globalement des corr\u00e9lations \u00e9lev\u00e9es avec les indices mesur\u00e9s sur le terrain pour la diversit\u00e9 \u03b1 (\u2374 variant de 0.76 \u00e0 0.82) tandis que les corr\u00e9lations pour les indices de diversit\u00e9 fonctionnelle sont plus variables (\u2374 variant de 0.45 \u00e0 0.63). Les cartes de diversit\u00e9 \u03b1 montrent que la m\u00e9thode permet bien de distinguer les peuplements en m\u00e9lange des peuplements monosp\u00e9cifiques, tout en apportant une information \u00e0 une \u00e9chelle plus fine que la BD For\u00eat V2 de l\u2019IGN. La m\u00e9thode test\u00e9e semble donc adapt\u00e9e au suivi de la diversit\u00e9 taxonomique en milieu temp\u00e9r\u00e9 sans que toutefois le lien entre les informations spectrales et taxonomiques soit explicit\u00e9."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:1yQoGdGgb4wC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-04440898/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:e3ZSVKeppFgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

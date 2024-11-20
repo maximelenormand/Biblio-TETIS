@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Has the COVID\u201019 crisis changed our relationship to the future?",
+        "pub_year": 2021,
+        "citation": "Futures & foresight science 3 (2), e75, 2021",
+        "author": "Camille Jahel and Robin Bourgeois and Denis Pesche and Marie de Lattre\u2010Gasquet and Etienne Delay",
+        "journal": "Futures & foresight science",
+        "volume": "3",
+        "number": "2",
+        "pages": "e75",
+        "abstract": "The first wave of the COVID\u201019 pandemic crisis introduced a sudden discontinuity into the functioning of human societies worldwide by affecting individual habits as well as economic and social life. This paper is a first attempt to investigate whether that discontinuity also altered our relationship to the future, in particular through the production of scenarios of a \u201cworld after\u201d significantly different from the world before. We analyzed the representations of the future produced at the height of the first wave of the crisis, between March and June 2020, through a selective review of these productions. From the 60 sources found, we selected 23 texts yielding 83 scenarios. We used a classic four\u2010category typology (Continued Growth, Discipline, Collapse and Transformation) that allowed us to identify scenarios of continuity and discontinuity. The results show a paradoxical predominance of continuity scenarios, contradicting \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nIJPPHMAAAAJ:0EnyYjriUFMC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=11756825165433078120",
+    "cites_id": [
+        "11756825165433078120"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ffo2.75",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aAEDmDKiKKMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 4,
+        "2023": 5,
+        "2024": 1
+    }
+}

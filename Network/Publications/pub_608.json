@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "INRAE TomoSAR service: a free scientific calculation on persistent and distributed scatterers radar interferometry",
+        "pub_year": 2023,
+        "citation": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2023",
+        "author": "D Ho Tong Minh and M-P Doin and E Pathier",
+        "conference": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "8222-8225",
+        "publisher": "IEEE",
+        "abstract": "Recently, an advanced Persistent Scatterers and Distributed Scatterers (PSDS) radar interferometry technique has been implemented as an open-source TomoSAR package (https://github.com/DinhHoTongMinh/TomoSAR). TomoSAR offers state-of-the-art algorithms to capture your movement best. However, it is easy to make you crazy with memory requirements. Due to so many images to calculate, it says for only the covariance matrix with 200 images of 500x2000 size, 45 GB should be allocated for that. For a small computer, it can be a task impossible. For our cluster, the RAM is capacity up to TB. The good news is we can process free of charge for you under a scientific collaboration."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:HE397vMXCloC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10282987/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PO9aRe20xnUJ:scholar.google.com/",
+    "cites_per_year": {}
+}

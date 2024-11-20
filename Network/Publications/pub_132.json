@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An investigation into lidar scan angle impacts on stand attribute predictions in different forest environments",
+        "pub_year": 2022,
+        "citation": "ISPRS Journal of Photogrammetry and Remote Sensing 193, 314-338, 2022",
+        "author": "Karun R Dayal and Sylvie Durrieu and Kamel Lahssini and Samuel Alleaume and Marc Bouvier and Jean-Matthieu Monnet and Jean-Pierre Renaud and Fr\u00e9d\u00e9ric Revers",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "volume": "193",
+        "pages": "314-338",
+        "publisher": "Elsevier",
+        "abstract": "As studies have underlined the sensitivity of lidar metrics to scan angles, the objective of this study was twofold. Firstly, we further investigated the influence of lidar scan angle on the ABA predictions of stand attributes of riparian (29 field plots), broadleaf (42 field plots), coniferous (31 field plots) and mixed (45 field plots) forest types in France. Secondly, we evaluated the potential of voxelisation approaches to normalise scan angle effects in lidar metrics and mitigate scan angle effects in ABA models. To achieve these objectives, we first selected a model based on four lidar metrics with different sensitivities to lidar scan angle, i.e. mean and variance of canopy height values, gap-fraction, and coefficient of variation of plant area density (PAD) profile. For each plot, we considered the point cloud scanned from one flight line independently and characterised each resulting point cloud by the mean scan angle (MSA) and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:_Ybze24A_UAC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=7601392018236433723",
+    "cites_id": [
+        "7601392018236433723"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271622002222",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:O-V4RcSRfWkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 4,
+        "2024": 1
+    }
+}

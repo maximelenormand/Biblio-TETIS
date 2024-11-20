@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Maize yield estimation in West Africa from crop process-induced combinations of multi-domain remote sensing indices",
+        "pub_year": 2019,
+        "citation": "European Journal of Agronomy 108, 11-26, 2019",
+        "author": "Louise Leroux and Mathieu Castets and Christian Baron and Maria-Jose Escorihuela and Agn\u00e8s B\u00e9gu\u00e9 and Danny Lo Seen",
+        "journal": "European Journal of Agronomy",
+        "volume": "108",
+        "pages": "11-26",
+        "publisher": "Elsevier",
+        "abstract": "Remote sensing data, crop modelling, and statistical methods are combined in an original method to overcome current limitations of crop yield estimation. It is then tested for timely estimation of maize grain yields and their year-on-year variability in Burkina Faso. Outputs from the SARRA-O crop model were used as a proxy for observed data for calibration. The final remote sensing-based yield model was constructed on the interaction between aboveground biomass at flowering (AGB-F) and crop water stress (Cstr) over the reproductive and maturation phases. Various vegetation and drought-related indices were derived from different spectral domains and tested. Model performance was evaluated by cross-validation against (a) simulated yields and (b) independent yields from ground surveys aggregated at village level. The results showed that the RF (Random Forest) model outperformed the MLR (Multiple Linear \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:bKqednn6t2AC",
+    "num_citations": 95,
+    "citedby_url": "/scholar?hl=en&cites=10431515369687574380",
+    "cites_id": [
+        "10431515369687574380"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S116103011830354X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bGdBz_UvxJAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 3,
+        "2020": 12,
+        "2021": 24,
+        "2022": 27,
+        "2023": 21,
+        "2024": 8
+    }
+}

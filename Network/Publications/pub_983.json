@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation events detection over intensively irrigated grassland plots using Sentinel-1 data",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (24), 4058, 2020",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Ibrahim Fayad and Fran\u00e7ois Charron and Mehrez Zribi and Hatem Belhouchette",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "24",
+        "pages": "4058",
+        "publisher": "MDPI",
+        "abstract": "Better management of water consumption and irrigation schedule in irrigated agriculture is essential in order to save water resources, especially at regional scales and under changing climatic conditions. In the context of water management, the aim of this study is to monitor irrigation activities by detecting the irrigation episodes at plot scale using the Sentinel-1 (S1) C-band SAR (synthetic-aperture radar) time series over intensively irrigated grassland plots located in the Crau plain of southeast France. The method consisted of assessing the newly developed irrigation detection model (IDM) at plot scale over the irrigated grassland plots. First, four S1-SAR time series acquired from four different S1-SAR acquisitions (different S1 orbits), each at six-day revisit time, were obtained over the study site. Next, the IDM was applied at each available SAR image from each S1-SAR series to obtain an irrigation indicator at each SAR image (no, low, medium, or high irrigation possibility). Then, the irrigation indicators obtained at each image from each S1-SAR time series (four series) were added and combined by threshold value criteria to determine the existence or absence of an irrigation event. Finally, the performance of the IDM for irrigation detection was assessed by comparing the in situ recorded irrigation events at each plot and the detected irrigation events. The results show that using only the VV polarization, 82.4% of the in situ registered irrigation events are correctly detected with an F_score value reaching 73.8%. Less accuracy is obtained using only the VH polarization, where 79.9% of the in situ irrigation events are correctly detected with an \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:-uzm3Y7AvW0C",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=386046771285832022",
+    "cites_id": [
+        "386046771285832022"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/24/4058",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VrEtPX6DWwUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 9,
+        "2023": 11,
+        "2024": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping tropical forest biomass by combining ALOS-2, Landsat 8, and field plots data",
+        "pub_year": 2016,
+        "citation": "Land 5 (4), 31, 2016",
+        "author": "Luong Viet Nguyen and Ryutaro Tateishi and Akihiko Kondoh and Ram C Sharma and Hoan Thanh Nguyen and Tu Trong To and Dinh Ho Tong Minh",
+        "journal": "Land",
+        "volume": "5",
+        "number": "4",
+        "pages": "31",
+        "publisher": "MDPI",
+        "abstract": "This research was carried out in a dense tropical forest region with the objective of improving the biomass estimates by a combination of ALOS-2 SAR, Landsat 8 optical, and field plots data. Using forest inventory based biomass data, the performance of different parameters from the two sensors was evaluated. The regression analysis with the biomass data showed that the backscatter from forest object (\u03c3\u00b0forest) obtained from the SAR data was more sensitive to the biomass than HV polarization, SAR textures, and maximum NDVI parameters. However, the combination of the maximum NDVI from optical data, SAR textures from HV polarization, and \u03c3\u00b0forest improved estimates of the biomass. The best model derived by the combination of multiple parameters from ALOS-2 SAR and Landsat 8 data was validated with inventory data. Then, the best validated model was used to produce an up-to-date biomass map for 2015 in Yok Don National Park, which is an important conservation area in Vietnam. The validation results showed that 74% of the variation of in biomass could be explained by our model."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:qUcmZB5y_30C",
+    "num_citations": 22,
+    "citedby_url": "/scholar?hl=en&cites=9627366191592677698",
+    "cites_id": [
+        "9627366191592677698"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-445X/5/4/31",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QqF8FItGm4UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 6,
+        "2018": 5,
+        "2019": 6,
+        "2020": 3,
+        "2021": 1,
+        "2022": 1
+    }
+}

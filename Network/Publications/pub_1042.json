@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Interpretability of deep learning models for crop yield forecasting",
+        "pub_year": 2023,
+        "citation": "Computers and Electronics in Agriculture 206, 107663, 2023",
+        "author": "Dilli Paudel and Allard de Wit and Hendrik Boogaard and Diego Marcos and Sjoukje Osinga and Ioannis N Athanasiadis",
+        "journal": "Computers and Electronics in Agriculture",
+        "volume": "206",
+        "pages": "107663",
+        "publisher": "Elsevier",
+        "abstract": "Machine learning models for crop yield forecasting often rely on expert-designed features or predictors. The effectiveness and interpretability of these handcrafted features depends on the expertise of the people designing them. Neural networks have the ability to learn features directly from input data and train the feature learning and prediction steps simultaneously. In this paper, we evaluate the performance and interpretability of neural network models for crop yield forecasting using data from the MARS Crop Yield Forecasting System of the European Commission\u2019s Joint Research Centre. The selected neural networks can handle sequential or time series data and include long short-term memory (LSTM) recurrent neural network and 1-dimensional convolutional neural network (1DCNN). Performance was compared with a linear trend model and a Gradient-Boosted Decision Trees (GBDT) model, trained using \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:tS2w5q8j5-wC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=8354370631614906101",
+    "cites_id": [
+        "8354370631614906101"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0168169923000510",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9b5ce9Ov8HMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 13,
+        "2024": 7
+    }
+}

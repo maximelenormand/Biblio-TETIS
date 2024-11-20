@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Controversy in Trust Networks",
+        "pub_year": 2016,
+        "citation": "Trust and Trustworthy Computing: 9th International Conference, TRUST 2016 \u2026, 2016",
+        "author": "Paolo Zicari and Roberto Interdonato and Diego Perna and Andrea Tagarelli and Sergio Greco",
+        "conference": "Trust and Trustworthy Computing: 9th International Conference, TRUST 2016, Vienna, Austria, August 29-30, 2016, Proceedings 9",
+        "pages": "82-100",
+        "publisher": "Springer International Publishing",
+        "abstract": "Given the increasing volume and impact of online social interactions in various aspects of life, inferring how a user should be trusted becomes a matter of crucial importance, which can strongly bias any decision process. Existing trust inference algorithms are based on the propagation and aggregation of trust values. However, trust opinions are subjective and can be very different from one user to another. Consequently, inferred trust values can lose significance or even be unavailable if there is a strong disagreement among the original values. In this work, we discuss the trust controversy problem. We analyze to what extent existing trust inference algorithms are robust with respect to controversial situations, and propose a novel trust controversy measure to support trust inference in controversial cases. Experimental results on real world datasets demonstrate that controversial cases should be explicitly \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:YsMSGLbcyi4C",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=228121276190005862",
+    "cites_id": [
+        "228121276190005862"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-45572-3_5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZpoDkRdzKgMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 3
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Measuring ground subsidence in ha noi through the radar interferometry technique using terrasar-x and cosmos skymed data",
+        "pub_year": 2019,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2019",
+        "author": "Dinh Ho Tong Minh and Quoc Cuong Tran and Quy Nhan Pham and Tran Trung Dang and Duc Anh Nguyen and Ibrahim El-Moussawi and Thuy Le Toan",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "12",
+        "number": "10",
+        "pages": "3874-3884",
+        "publisher": "IEEE",
+        "abstract": "Multitemporal synthetic aperture radar (SAR) interferometry (InSAR) is a widely used technique to measure the ground subsidence and has already shown its ability to map such phenomena on a large spatial scale with millimetric accuracy from space. In Vietnam, to have independent SAR data for surface risk applications, a new X-band SAR mission (JV-LOTUSat) has been scheduled for launch for the 2019-2020 timeframe. However, Vietnam is located in tropical regions where their conditions are impacted by strong atmosphere. The aim of this article is to provide a better understanding of the capabilities of the X-band for estimating the ground subsidence under tropical atmospheric conditions. Analysis is carried out on two stacks, TerraSAR-X and Cosmos SkyMed X-band, from 2011 to 2014 in Ha Noi. We show that the results on the ground subsidence from InSAR processing can describe consistently the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:a0OBvERweLwC",
+    "num_citations": 26,
+    "citedby_url": "/scholar?hl=en&cites=8588173616820985142",
+    "cites_id": [
+        "8588173616820985142"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8827271/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Nh3_A2dSL3cJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 6,
+        "2022": 10,
+        "2023": 5,
+        "2024": 1
+    }
+}

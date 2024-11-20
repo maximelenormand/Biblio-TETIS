@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Territorial observatories: a tool for development?",
+        "pub_year": 2017,
+        "citation": "Living territories to transform, 223, 2017",
+        "author": "Jean Philippe Tonneau and Philippe Lemoisson and Magalie Jannoyer and Pierre Maurel and Philippe Cattan and Marianne Le Bail and Vincent Bonnal",
+        "journal": "Living territories to transform",
+        "pages": "223",
+        "abstract": "The word \u2018observatory\u2019originally refers to a mechanism for understanding and predicting a physical phenomenon (Piron, 1996). In recent decades, in a rapidly changing world of uncertainty and over-information, States and local authorities have set up observatories to compensate for \u2018a marked deficiency in knowledge or expertise\u20191. Observatories are also seen as new forms of knowledge production through a renewed relationship between research and action.Among the numerous existing observatories (on prices, secularism, public tranquillity, etc.), some support territorial development with the aim of reshaping public action and addressing major societal challenges (see Chapter 1). Such observatories have proliferated in recent years, both in the countries of the North and the South, and multiple functions have been assigned to them. They include knowledge production; capacity building; aid for decision-making and action; collection and organization of data and information; organization of communities for research, reflection, debate or action around a shared project; communication; etc."
+    },
+    "filled": true,
+    "author_pub_id": "v2Zo6cQAAAAJ:_kc_bZDykSQC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=3607952574926517915",
+    "cites_id": [
+        "3607952574926517915"
+    ],
+    "pub_url": "https://library.oapen.org/bitstream/handle/20.500.12657/23963/1006172.pdf?sequence=1#page=225",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:m3bzSsAFEjIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

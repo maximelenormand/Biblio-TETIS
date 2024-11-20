@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Graph convolutional and attention models for entity classification in multilayer networks",
+        "pub_year": 2021,
+        "citation": "Applied Network Science 6 (1), 1-36, 2021",
+        "author": "Lorenzo Zangari and Roberto Interdonato and Antonio Cali\u00f3 and Andrea Tagarelli",
+        "journal": "Applied Network Science",
+        "volume": "6",
+        "number": "1",
+        "pages": "1-36",
+        "publisher": "SpringerOpen",
+        "abstract": "Graph Neural Networks (GNNs) are powerful tools that are nowadays reaching state of the art performances in a plethora of different tasks such as node classification, link prediction and graph classification. A challenging aspect in this context is to redefine basic deep learning operations, such as convolution, on graph-like structures, where nodes generally have unordered neighborhoods of varying size. State-of-the-art GNN approaches such as Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs) work on monoplex networks only, i.e., on networks modeling a single type of relation among an homogeneous set of nodes. The aim of this work is to generalize such approaches by proposing a GNN framework for representation learning and semi-supervised classification in multilayer networks with attributed entities, and arbitrary number of layers and intra-layer and inter-layer connections between nodes. We instantiate our framework with two new formulations of GAT and GCN models, namely ML-GCN and ML-GAT, specifically devised for general, attributed multilayer networks. The proposed approaches are evaluated on an entity classification task on nine widely used real-world network datasets coming from different domains and with different structural characteristics. Results show that both our proposed ML-GAT and ML-GCN methods provide effective and efficient solutions to the problem of entity classification in multilayer attributed networks, being faster to learn and offering better accuracy than the competitors. Furthermore, results show how our methods are able to take advantage of the presence of real attributes for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:ns9cj8rnVeAC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=442709628249162106",
+    "cites_id": [
+        "442709628249162106"
+    ],
+    "pub_url": "https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00420-4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:esFvsg_SJAYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 6,
+        "2024": 2
+    }
+}

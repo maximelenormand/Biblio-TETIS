@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Regional scale rain-forest height mapping using regression-kriging of spaceborne and airborne LiDAR data: Application on French Guiana",
+        "pub_year": 2016,
+        "citation": "Remote Sensing 8 (3), 240, 2016",
+        "author": "Ibrahim Fayad and Nicolas Baghdadi and Jean-St\u00e9phane Bailly and Nicolas Barbier and Val\u00e9ry Gond and Bruno H\u00e9rault and Mahmoud El Hajj and Fr\u00e9d\u00e9ric Fabre and Jos\u00e9 Perrin",
+        "journal": "Remote Sensing",
+        "volume": "8",
+        "number": "3",
+        "pages": "240",
+        "publisher": "MDPI",
+        "abstract": "LiDAR data has been successfully used to estimate forest parameters such as canopy heights and biomass. Major limitation of LiDAR systems (airborne and spaceborne) arises from their limited spatial coverage. In this study, we present a technique for canopy height mapping using airborne and spaceborne LiDAR data (from the Geoscience Laser Altimeter System (GLAS)). First, canopy heights extracted from both airborne and spaceborne LiDAR were extrapolated from available environmental data. The estimated canopy height maps using Random Forest (RF) regression from airborne or GLAS calibration datasets showed similar precisions (~6 m). To improve the precision of canopy height estimates, regression-kriging was used. Results indicated an improvement in terms of root mean square error (RMSE, from 6.5 to 4.2 m) using the GLAS dataset, and from 5.8 to 1.8 m using the airborne LiDAR dataset. Finally, in order to investigate the impact of the spatial sampling of future LiDAR missions on canopy height estimates precision, six subsets were derived from the initial airborne LiDAR dataset. Results indicated that using the regression-kriging approach a precision of 1.8 m on the canopy height map was achievable with a flight line spacing of 5 km. This precision decreased to 4.8 m for flight line spacing of 50 km."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:abG-DnoFyZgC",
+    "num_citations": 52,
+    "citedby_url": "/scholar?hl=en&cites=320049110575657580",
+    "cites_id": [
+        "320049110575657580"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/8/3/240",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bLKKavgKcQQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 4,
+        "2017": 5,
+        "2018": 6,
+        "2019": 4,
+        "2020": 4,
+        "2021": 8,
+        "2022": 10,
+        "2023": 9,
+        "2024": 2
+    }
+}

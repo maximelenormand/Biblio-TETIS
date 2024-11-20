@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "HAL Id: lirmm-01847422",
+        "pub_year": 2018,
+        "citation": "Conference on Scientific and Statistical Database Management, 2018",
+        "author": "Erick Cuenca and Arnaud Sallaberry and Dino Ienco and Pascal Poncelet",
+        "journal": "Conference on Scientific and Statistical Database Management",
+        "abstract": "Many real world data can be represented by a network with a set of nodes linked each other by multiple relations. Such a rich graph is called multilayer graph. In this demo, we present a tool for Visual Querying of Large Multilayer Graphs that allows to visually draw the query, retrieve result patterns and finally navigate and browse the results considering the original multilayer graph database. Our approach does not only provide a graphical user interface for the graph engine but the query processing is fully integrated."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:ojlX30-wUrgC",
+    "num_citations": 0,
+    "pub_url": "https://www.lirmm.fr/~poncelet/publications/papers/ssdbm2018.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aMlswDn71doJ:scholar.google.com/",
+    "cites_per_year": {}
+}

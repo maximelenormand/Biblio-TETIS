@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Session details: Theme: Information systems: GIA-GeoInformation analytics track",
+        "pub_year": 2019,
+        "citation": "Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing, 2019",
+        "author": "Maguelonne Teisseire and Christian Sallaberry and Eric Kergosien and Cyril de Runz and Thomas Guyet",
+        "conference": "Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing",
+        "publisher": "ACM",
+        "abstract": "The production and use of geo-referenced digital resources is expanding rapidly. In order to exploit their contents, the documents are annotated, indexed and analyzed according to data models dedicated to the description of particular domains. The multiple dimensions of data descriptors can be divided into three categories: location (spatial dimension), date/time (temporal dimension), and theme (thematic dimension). We call geographical data such multidimensional representations. In recent years, a variety of works have highlighted the potential of the extraction, analysis and retrieval of geographic information in corpora composed of textual documents, images, maps, ... A number of engines or services dedicated to the search for geographical information have been proposed: they cover spatial information for the vast majority, but also spatio-temporal and thematic information, for others."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:gKiMpY-AVTkC",
+    "num_citations": 0,
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3329369",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FsLMOTS5ES0J:scholar.google.com/",
+    "cites_per_year": {}
+}

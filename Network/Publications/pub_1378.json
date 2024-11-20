@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Automatic detection of clear cuts.",
+        "pub_year": 2019,
+        "citation": "For\u00eat-Entreprise, 41-45, 2019",
+        "author": "K Ose and R Cresson",
+        "journal": "For\u00eat-Entreprise",
+        "number": "247",
+        "pages": "41-45",
+        "publisher": "Institut pour le D\u00e9veloppement Forestier",
+        "abstract": "Automatic detection of clear cuts by analysing satellite images is possible. This paper describes a method, developed by Irstea, which compares the evolution of land use at different dates. With this, field controls will be better optimized and targeted."
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:iH-uZ7U-co4C",
+    "num_citations": 0,
+    "pub_url": "https://www.cabdirect.org/cabdirect/abstract/20193289262",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W0UVH_SAXAwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

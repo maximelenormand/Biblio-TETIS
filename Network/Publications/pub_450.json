@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mod\u00e9lisation param\u00e9trique 3D et multi-\u00e9chelle du d\u00e9veloppement r\u00e9sidentiel: exemple du mod\u00e8le SLEUTH3D",
+        "pub_year": 2018,
+        "citation": "A la pointe du BIM: Ing\u00e9nierie et architecture, enseignement et recherche, 69, 2018",
+        "author": "Guillaume DASILVA and Omar DOUKARI and Rahim AGUEJDAD and Mojtaba ESLAHI",
+        "journal": "A la pointe du BIM: Ing\u00e9nierie et architecture, enseignement et recherche",
+        "pages": "69",
+        "publisher": "Editions Eyrolles",
+        "abstract": "Cet article pr\u00e9sente une description d\u00e9taill\u00e9e du fonctionnement d\u2019un mod\u00e8le de simulation 3D du d\u00e9veloppement urbain, SLEUTH3D. Le mod\u00e8le SLEUTH3D est destin\u00e9 \u00e0 la spatialisation de sc\u00e9narios futurs de d\u00e9veloppement r\u00e9sidentiel gr\u00e2ce \u00e0 une approche de mod\u00e9lisation param\u00e9trique 3D et multi-\u00e9chelle. Il int\u00e8gre \u00e9galement des fonctionnalit\u00e9s propres \u00e0 l\u2019approche de Building Information Modeling (BIM), une mod\u00e9lisation et gestion des donn\u00e9es du b\u00e2timent. SLEUTH3D permet de g\u00e9n\u00e9rer diff\u00e9rents types de tissu urbain, ou d\u2019ensemble de constructions, \u00e0 travers un partitionnement automatique des zones urbaines simul\u00e9es en rues et lotissements. De plus, la carte des transports est automatiquement mise \u00e0 jour afin de rattacher les taches urbaines au r\u00e9seau routier existant. Les r\u00e9sultats attendus contribueront \u00e0 affiner la repr\u00e9sentation spatiale des divers sc\u00e9narios d\u2019expansion urbaine \u00e0 diff\u00e9rentes \u00e9chelles. SLEUTH3D serait aussi utile dans les applications relevant du climat urbain, de la consommation d\u2019\u00e9nergie et de l\u2019\u00e9valuation environnementale."
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:RHpTSmoSYBkC",
+    "num_citations": 0,
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=4LhjDwAAQBAJ&oi=fnd&pg=PA69&dq=info:tic8vxOca_QJ:scholar.google.com&ots=IHtXIaRJOi&sig=xYMaHsPu6SDFgRQn4wo0T6AhrtA",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tic8vxOca_QJ:scholar.google.com/",
+    "cites_per_year": {}
+}

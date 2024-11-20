@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Photometric redshift estimation with convolutional neural networks and galaxy images: Case study of resolving biases in data-driven methods",
+        "pub_year": 2022,
+        "citation": "Astronomy & Astrophysics 662, A36, 2022",
+        "author": "Qiufan Lin and Dominique Fouchez and J Pasquet and M Treyer and R Ait Ouahmed and St\u00e9phane Arnouts and Olivier Ilbert",
+        "journal": "Astronomy & Astrophysics",
+        "volume": "662",
+        "pages": "A36",
+        "publisher": "EDP Sciences",
+        "abstract": "Deep-learning models have been increasingly exploited in astrophysical studies, but these data-driven algorithms are prone to producing biased outputs that are detrimental for subsequent analyses. In this work, we investigate two main forms of biases: class-dependent residuals, and mode collapse. We do this in a case study, in which we estimate photometric redshift as a classification problem using convolutional neural networks (CNNs) trained with galaxy images and associated spectroscopic redshifts. We focus on point estimates and propose a set of consecutive steps for resolving the two biases based on CNN models, involving representation learning with multichannel outputs, balancing the training data, and leveraging soft labels. The residuals can be viewed as a function of spectroscopic redshift or photometric redshift, and the biases with respect to these two definitions are incompatible and should be \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:qxL8FJ1GzNcC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=3432640400353258554",
+    "cites_id": [
+        "3432640400353258554"
+    ],
+    "pub_url": "https://www.aanda.org/articles/aa/abs/2022/06/aa42751-21/aa42751-21.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ouy12EEwoy8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 3
+    }
+}

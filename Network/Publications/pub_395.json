@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The P2S2 segmentation dataset: annotated in-field multi-crop RGB images acquired under various conditions",
+        "pub_year": 2019,
+        "citation": "7th International Workshop on Image Analysis Methods in the Plant Sciences \u2026, 2019",
+        "author": "Simon Madec and Kamran Irfan and Etienne David and Kaaviya Velumani and Gaetan Daubige and Jeremy Labrosse and Wei Guo and Marie Weiss and Frederic Baret and Kamran Ifran",
+        "journal": "7th International Workshop on Image Analysis Methods in the Plant Sciences (IAMPS), Lyon, France",
+        "abstract": "Images play a vital role in crop phenotyping. Pixel-wise classification (into vegetation/background) or semantic segmentation is a critical step in the computation of several canopy state variables. Current state of the art methodologies based on convolutional neural networks are trained on data acquired under controlled environments. These models are unable to generalize to real-world dataset and hence need to be fine-tuned using new labels. This motivated us to create the P2S2 segmentation dataset\u2013a collection of multi-crop RGB images from different acquisition conditions. We present here the dataset and state of the art results."
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:YOwf2qJgpHMC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=382764392637483725",
+    "cites_id": [
+        "382764392637483725"
+    ],
+    "pub_url": "https://www.academia.edu/download/92584754/2019_Madec_IAMPS.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zUrT5y_aTwUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 2
+    }
+}

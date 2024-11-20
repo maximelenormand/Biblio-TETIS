@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Community detection in multiplex networks",
+        "pub_year": 2019,
+        "citation": "arXiv e-prints, arXiv: 1910.07646, 2019",
+        "author": "Obaida Hanteer and Roberto Interdonato and Matteo Magnani and Andrea Tagarelli and Luca Rossi",
+        "journal": "arXiv e-prints",
+        "pages": "arXiv: 1910.07646",
+        "abstract": "A multiplex network models different modes of interaction among same-type entities. A great deal of attention has been devoted to the community detection problem in multiplex networks, that is, revealing meaningful patterns of node groupings into communities by considering different types of interactions among them. In this article, we provide the reader with a taxonomy on the community detection algorithms in multiplex networks. We characterize the different algorithms based on various properties and we discuss the type of communities detected by each method. We then provide an extensive evaluation of the reviewed methods according to different criteria trying to answer three main questions, to what extent the evaluated methods are able to detect ground truth communities, to what extent different methods produce similar community structures and to what extent the evaluated methods are scalable. The \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:70eg2SAEIzsC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=12998436862082799409",
+    "cites_id": [
+        "12998436862082799409"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=12998436862082799409&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MdfJF3W5Y7QJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 2,
+        "2022": 1
+    }
+}

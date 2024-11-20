@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A CNN-based approach for the estimation of canopy heights and wood volume from GEDI waveforms",
+        "pub_year": 2021,
+        "citation": "Remote Sensing of Environment 265, 112652, 2021",
+        "author": "Ibrahim Fayad and Dino Ienco and Nicolas Baghdadi and Raffaele Gaetano and Clayton Alcarde Alvares and Jose Luiz Stape and Henrique Ferra\u00e7o Scolforo and Guerric Le Maire",
+        "journal": "Remote Sensing of Environment",
+        "volume": "265",
+        "pages": "112652",
+        "publisher": "Elsevier",
+        "abstract": "Full waveform (FW) LiDAR systems have proven their effectiveness to map forest biophysical variables in the last two decades, owing to their ability of measuring, with high accuracy, forest vertical structures. The Global Ecosystem Dynamics Investigation (GEDI) system on board the International Space Station (ISS) is the latest FW spaceborne LiDAR instrument for the continuous observation of Earth's forests. FW systems rely on very sophisticated pre-processing steps to generate a priori metrics in order to leverage their capabilities for the accurate estimation of the aforementioned forest characteristics. The ever-expanding volume of acquired GEDI data, which to date comprises more than 25 billion acquired unfiltered shots, and along with the pre-processed data, amounting to more than 90 TB of data, raises new challenges in terms of adapted preprocessing methods for the suitable exploitation of such a huge and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:j3f4tGmQtD8C",
+    "num_citations": 29,
+    "citedby_url": "/scholar?hl=en&cites=3691540490316198965",
+    "cites_id": [
+        "3691540490316198965"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425721003722",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NbREb4T8OjMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 11,
+        "2023": 15,
+        "2024": 3
+    }
+}

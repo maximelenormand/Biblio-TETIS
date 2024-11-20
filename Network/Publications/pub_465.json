@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation Mapping Using Sentinel-1 Time Series",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Dino Ienco and Mehrez Zribi and Hatem Belhouchette",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "4711-4714",
+        "publisher": "IEEE",
+        "abstract": "The obj ective of this paper is to present an approach for mapping irrigated areas at plot scale using the Sentinel-1 radar time series. Over a study site located in Catalonia region of north Spain, a dense temporal series of S1 backscattering coefficients were first obtained at plot scale and grid scale (10km x 10km). The S1 time series at plot and grid scales were conjointly used to remove the ambiguity between rainfall events and irrigation events. The principal component analysis (PCA) and the wavelet transformation were applied to the SAR temporal series. Then, to classify irrigated/non-irrigated plots the random forest (RF) classifier was employed using the obtained principal components (PC) and the wavelet coefficients (WT). A convolutional neural network was also tested using the prepared S1 temporal series. The result of the classification reaches 90.7% and 89.1% using the PC and the WT in a random forest \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:YB4bud6kWLwC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9324358/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ysDulDOln_EJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation of Spatial Distribution of Leaf Area Density in Canopies from Terrestrial LiDAR Point Clouds",
+        "pub_year": 2021,
+        "citation": "# PLACEHOLDER_PARENT_METADATA_VALUE#, 173-175, 2021",
+        "author": "Maxime Soma and Fran\u00e7ois Pimont and Sylvie Durrieu and Jean-Luc Dupuy",
+        "conference": "# PLACEHOLDER_PARENT_METADATA_VALUE#",
+        "pages": "173-175",
+        "abstract": "Leaf area is a key variable of forest ecosystems functioning, as it controls energy, water and carbon exchanges between canopy and atmosphere. Quantifying and understanding these fluxes require a fine scale 3D description of vegetation structure, including the spatial distribution of leaf area density. Leaf Area Densities (LAD, m2/m3) are the one-sided areas of leaves per unit of volume. Their vertical integration provides leaf areas per unit of ground surface, ie the Leaf Area Index (LAI, m2/m2), which is key variable for parametrization of ecophysiological and 3D radiative transfer models in forests. Yet, measuring LAD manually is complex and time-consuming and hemispherical photos methods are limited by vegetation clumping and are not designed for 3D estimations. LiDAR technology has the potential to capture at high-throughput the required level of details for 3D description of canopy structure. While space-based or aerial LiDAR cover large areas, the size of their footprints and occlusion of signal limit the fine quantification of 3D spatial distribution of canopy components, in particular in medium to low vegetation. Terrestrial LIDAR operates from the ground level and provides high-density point clouds. This sensor has been widely used to assess wood volumes in forest inventories, generally relying on a discrete reconstruction of trunks and large branches. The use of terrestrial LiDAR to quantify leaf area is limited by significant bottlenecks. First, the appropriate choice of variables and statistics of interest for relating point cloud to LAD is still debated. Second, beam divergence affects the sampling of heterogeneous surfaces (B\u00e9land et al \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:t6usbXjVLHcC",
+    "num_citations": 0,
+    "pub_url": "https://www.researchgate.net/profile/Sylvie-Durrieu/publication/358667634_Estimation_of_Spatial_Distribution_of_Leaf_Area_Density_in_Canopies_from_Terrestrial_LiDAR_Point_Clouds/links/620e525eeb735c508adb1384/Estimation-of-Spatial-Distribution-of-Leaf-Area-Density-in-Canopies-from-Terrestrial-LiDAR-Point-Clouds.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BJX29yvmwCgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

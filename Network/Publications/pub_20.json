@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Object-based multi-temporal and multi-source land cover mapping leveraging hierarchical class relationships",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (17), 2814, 2020",
+        "author": "Yawogan Jean Eudes Gbodjo and Dino Ienco and Louise Leroux and Roberto Interdonato and Raffaele Gaetano and Babacar Ndao",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "17",
+        "pages": "2814",
+        "publisher": "MDPI",
+        "abstract": "European satellite missions Sentinel-1 (S1) and Sentinel-2 (S2) provide at high spatial resolution and high revisit time, respectively, radar and optical images that support a wide range of Earth surface monitoring tasks, such as Land Use/Land Cover mapping. A long-standing challenge in the remote sensing community is about how to efficiently exploit multiple sources of information and leverage their complementarity, in order to obtain the most out of radar and optical data. In this work, we propose to deal with land cover mapping in an object-based image analysis (OBIA) setting via a deep learning framework designed to leverage the multi-source complementarity provided by radar and optical satellite image time series (SITS). The proposed architecture is based on an extension of Recurrent Neural Network (RNN) enriched via a modified attention mechanism capable to fit the specificity of SITS data. Our framework also integrates a pretraining strategy that allows to exploit specific domain knowledge, shaped as hierarchy over the set of land cover classes, to guide the model training. Thorough experimental evaluations, involving several competitive approaches were conducted on two study sites, namely the Reunion island and a part of the Senegalese groundnut basin. Classification results, 79% of global accuracy on the Reunion island and 90% on the Senegalese site, respectively, have demonstrated the suitability of the proposal."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:KxtntwgDAa4C",
+    "num_citations": 30,
+    "citedby_url": "/scholar?hl=en&cites=17984081793503263678",
+    "cites_id": [
+        "17984081793503263678"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/17/2814",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vvtUgRtLlPkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 12,
+        "2022": 5,
+        "2023": 10
+    }
+}

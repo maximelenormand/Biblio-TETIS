@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Animal disease surveillance: How to represent textual data for classifying epidemiological information",
+        "pub_year": 2023,
+        "citation": "Preventive Veterinary Medicine 216, 105932, 2023",
+        "author": "Sarah Valentin and R\u00e9my Decoupes and Renaud Lancelot and Mathieu Roche",
+        "journal": "Preventive Veterinary Medicine",
+        "volume": "216",
+        "pages": "105932",
+        "publisher": "Elsevier",
+        "abstract": "The value of informal sources in increasing the timeliness of disease outbreak detection and providing detailed epidemiological information in the early warning and preparedness context is recognized. This study evaluates machine learning methods for classifying information from animal disease-related news at a fine-grained level (i.e., epidemiological topic). We compare two textual representations, the bag-of-words method and a distributional approach, i.e., word embeddings. Both representations performed well for binary relevance classification (F-measure of 0.839 and 0.871, respectively). Bag-of-words representation was outperformed by word embedding representation for classifying sentences into fine-grained epidemiological topics (F-measure of 0.745). Our results suggest that the word embedding approach is of interest in the context of low-frequency classes in a specialized domain. However, this \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:ULOm3_A8WrAC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S016758772300096X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Z72cQLH8zH0J:scholar.google.com/",
+    "cites_per_year": {}
+}

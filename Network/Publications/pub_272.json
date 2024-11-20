@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Penetration analysis of SAR signals in the C and L bands for wheat, maize, and grasslands",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 11 (1), 31, 2018",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Hassan Bazzi and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "1",
+        "pages": "31",
+        "publisher": "MDPI",
+        "abstract": "This paper assesses the potential of Synthetic Aperture Radar (SAR) in the C and L bands to penetrate into the canopy cover of wheat, maize and grasslands. For wheat and grasslands, the sensitivity of the C and L bands to in situ surface soil moisture (SSM) was first studied according to three levels of the Normalized Difference Vegetation Index (NDVI < 0.4, 0.4 < NDVI < 0.7, and NDVI > 0.7). Next, the temporal evolution of the SAR signal in the C and L bands was analyzed according to SSM and the NDVI. For wheat and grasslands, the results showed that the L-band in HH polarization penetrates the canopy even when the canopy is well-developed (NDVI > 0.7), whereas the penetration of the C-band into the canopy is limited for an NDVI < 0.7. For an NDVI less than 0.7, the sensitivity of the radar signal to SSM is approximately 0.27 dB/vol.% for the L-band in HH polarization and approximately 0.12 dB/vol.% for the C-band (in both VV and VH polarizations). For highly developed wheat and grassland cover (NDVI > 0.7), the sensitivity of the L-band in HH polarization to SSM is approximately 0.19 dB/vol.%, whereas as the C-band is insensitive to SSM. For maize, only the temporal evolution of the C-band according to SSM and the NDVI was studied because the swath of SAR images in the L-band did not cover the maize plots. The results showed that the C-band in VV polarization is able to penetrate the maize canopy even when the canopy is well developed (NDVI > 0.7) due to high-order scattering along the soil-vegetation pathway that contains a soil contribution. According to results obtained in this paper, the L-band would penetrate a well \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:U4n9YNQMCAIC",
+    "num_citations": 133,
+    "citedby_url": "/scholar?hl=en&cites=12476874500240399079",
+    "cites_id": [
+        "12476874500240399079"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/1/31",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:51r1rUDDJq0J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 8,
+        "2020": 26,
+        "2021": 36,
+        "2022": 34,
+        "2023": 23,
+        "2024": 4
+    }
+}

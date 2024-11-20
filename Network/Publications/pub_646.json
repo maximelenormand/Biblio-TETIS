@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Solving structured segmentation of aerial images as puzzles",
+        "pub_year": 2016,
+        "citation": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2016",
+        "author": "Diego Marcos and Michele Volpi and Devis Tuia",
+        "conference": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "3346-3349",
+        "publisher": "IEEE",
+        "abstract": "Traditional approaches to structured semantic segmentation employ appearance-based classifiers to provide a class-likelihood at each spatial location and then post-process it with Markov Random Fields (MRF) to enforce label smoothness and structure in the output space. The spatial support for such techniques is usually a patch of pixels, which makes the prediction over-smoothed because the borders of objects are not explicitly taken into account. This is further exacerbated by MRF post-processing employing the standard Potts model, which tends to further over-smooth predictions at boundaries. In this paper, we propose a different but related approach: we optimize an energy function finding the optimal combination of small ground truth (GT) tiles from training data over predictions at test time, effectively solving a puzzle. We optimize over a first configuration given by a Convolutional Neural Network (CNN) output."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:Y0pCki6q_DkC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7729865/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:no2ygoJ9tyQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep Learning\u2010based Semantic Segmentation in Remote Sensing",
+        "pub_year": 2021,
+        "citation": "Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote \u2026, 2021",
+        "author": "Devis Tuia and Diego Marcos and Konrad Schindler and Bertrand Le Saux",
+        "journal": "Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science, and Geosciences",
+        "pages": "46-66",
+        "publisher": "John Wiley & Sons Ltd",
+        "abstract": "Semantic segmentation consists of the generation of a categorical map, given an image in which each pixel of the image is automatically assigned a class. Deep learning allows the influence of the pixel's context to be learned by capturing the non\u2010linear relationships between surrounding image features at multiple scales, leading to large improvements in performance and opening up the door to new applications. This chapter explores the use of deep learning\u2010based semantic segmentation in Earth observation imagery and presents in detail three approaches specifically aimed at Earth observation applications."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:1sJd4Hv_s6UC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4067549052535010834",
+    "cites_id": [
+        "4067549052535010834"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EnbT_k_WcjgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 0,
+        "2024": 1
+    }
+}

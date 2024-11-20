@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Which optical traits enable an estimation of tree species diversity based on the Spectral Variation Hypothesis?",
+        "pub_year": 2021,
+        "citation": "Applied Vegetation Science 24 (2), e12586, 2021",
+        "author": "Michele Torresani and Hannes Feilhauer and Duccio Rocchini and Jean\u2010Baptiste F\u00e9ret and Marc Zebisch and Giustino Tonon",
+        "journal": "Applied Vegetation Science",
+        "volume": "24",
+        "number": "2",
+        "pages": "e12586",
+        "abstract": "Which optical traits, retrieved from biophysical models applied to Sentinel\u20102 images, enable an estimation of tree species diversity based on the Spectral Variation Hypothesis?Coniferous mountain forest in the eastern Italian Alps.We analyzed the PROSPECT\u20105 and Invertible Forest Reflectance Model (INFORM) biophysical parameters as retrieved from canopy reflectance data of different forest plots (using Sentinel\u20102 images for the years 2017, 2018 and 2019) as optical trait indicators (OTIs). We successively tested the Spectral Variation Hypothesis (SVH) for each retrieved OTI using the Rao's Q as heterogeneity index, validating them against Shannon's H values calculated as a tree species diversity index derived from in\u2010situ collected data.We demonstrated differences among OTIs in terms of how well their variations can be linked to species diversity. In particular the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:Tiz5es2fbqcC",
+    "num_citations": 22,
+    "citedby_url": "/scholar?hl=en&cites=2255085595567422824",
+    "cites_id": [
+        "2255085595567422824"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/avsc.12586",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aH3ltWasSx8J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 11,
+        "2023": 7,
+        "2024": 3
+    }
+}

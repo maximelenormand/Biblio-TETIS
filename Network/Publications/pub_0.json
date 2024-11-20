@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessing the optimal preprocessing steps of MODIS time series to map cropping systems in Mato Grosso, Brazil",
+        "pub_year": 2020,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 92, 102150, 2020",
+        "author": "Patrick Calvano Kuchler and Agnes Begue and Margareth Simoes and Raffaele Gaetano and Damien Arvor and Rodrigo PD Ferraz",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "92",
+        "pages": "102150",
+        "publisher": "Elsevier",
+        "abstract": "The adoption of new cropping practices such as integrated Crop-Livestock systems (iCL) aims at improving the land use sustainability of the agricultural sector in the Brazilian Amazon. The emergence of such integrated systems, based on crop and pasture rotations over and within years, challenges the remote sensing community who needs to implement accurate and efficient methods to process satellite image time series (SITS) in order to come up with a monitoring protocol. These methods generally include a SITS preprocessing step which can be time consuming. The aim of this study is to assess the importance of preprocessing operations such as temporal smoothing and computation of phenological metrics on the mapping of main cropping systems (i.e. pasture, single cropping, double cropping and iCL), with a special emphasis on the iCL class. The study area is located in the state of Mato Grosso, an \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:CHSYGLWDkRkC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=17470691498757511892",
+    "cites_id": [
+        "17470691498757511892"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0303243419311225",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1Nrgu1pddPIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 8,
+        "2023": 7,
+        "2024": 1
+    }
+}

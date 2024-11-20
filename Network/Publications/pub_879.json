@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of Sentinel-1 images for estimating the soil roughness over bare agricultural soils",
+        "pub_year": 2018,
+        "citation": "Water 10 (2), 131, 2018",
+        "author": "Nicolas Baghdadi and Mohammad El Hajj and Mohammad Choker and Mehrez Zribi and Hassan Bazzi and Emmanuelle Vaudour and Jean-Marc Gilliot and Dav M Ebengo",
+        "journal": "Water",
+        "volume": "10",
+        "number": "2",
+        "pages": "131",
+        "publisher": "MDPI",
+        "abstract": "The purpose of this study is to analyze the potential of Sentinel-1 C-band SAR data in VV polarization for estimating the surface roughness (Hrms) over bare agricultural soils. An inversion technique based on Multi-Layer Perceptron neural networks is used. It involves two steps. First, a neural network (NN) is used for estimating the soil moisture without taking into account the soil roughness. Then, a second neural network is used for retrieving the soil roughness when using as an input to the network the soil moisture that was estimated by the first network. The neural networks are trained and validated using simulated datasets generated from the radar backscattering model IEM (Integral Equation Model) with the range of soil moisture and surface roughness encountered in agricultural environments. The inversion approach is then validated using Sentinel-1 images collected over two agricultural study sites, one in France and one in Tunisia. Results show that the use of C-band in VV polarization for estimating the soil roughness does not allow a reliable estimate of the soil roughness. From the synthetic dataset, the achievable accuracy of the Hrms estimates is about 0.94 cm when using the soil moisture estimated by the NN built with a priori information on the moisture volumetric content \u201cmv\u201d (accuracy of mv is about 6 vol. %). In addition, an overestimation of Hrms for low Hrms-values and an underestimation of Hrms for Hrms higher than 2 cm are observed. From a real dataset, results show that the accuracy of the estimates of Hrms in using the mv estimated over a wide area (few km2) is similar to that in using the mv estimated at the plot scale \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:mlAyqtXpCwEC",
+    "num_citations": 41,
+    "citedby_url": "/scholar?hl=en&cites=6973290960628157193",
+    "cites_id": [
+        "6973290960628157193"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-4441/10/2/131",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CQuvvy4bxmAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 10,
+        "2020": 7,
+        "2021": 8,
+        "2022": 6,
+        "2023": 8
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep learning approach for classifying, detecting and predicting photometric redshifts of quasars in the Sloan Digital Sky Survey stripe 82",
+        "pub_year": 2018,
+        "citation": "Astronomy & Astrophysics 611, A97, 2018",
+        "author": "Johanna Pasquet-Itam and J\u00e9r\u00f4me Pasquet",
+        "journal": "Astronomy & Astrophysics",
+        "volume": "611",
+        "pages": "A97",
+        "publisher": "EDP Sciences",
+        "abstract": "We have applied a convolutional neural network (CNN) to classify and detect quasars in the Sloan Digital Sky Survey Stripe 82 and also to predict the photometric redshifts of quasars. The network takes the variability of objects into account by converting light curves into images. The width of the images, noted w, corresponds to the five magnitudes ugriz and the height of the images, noted h, represents the date of the observation. The CNN provides good results since its precision is 0.988 for a recall of 0.90, compared to a precision of 0.985 for the same recall with a random forest classifier. Moreover 175 new quasar candidates are found with the CNN considering a fixed recall of 0.97. The combination of probabilities given by the CNN and the random forest makes good performance even better with a precision of 0.99 for a recall of 0.90. For the redshift predictions, the CNN presents excellent results which are \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:eQOLeE2rZwMC",
+    "num_citations": 75,
+    "citedby_url": "/scholar?hl=en&cites=8410826599316107112",
+    "cites_id": [
+        "8410826599316107112"
+    ],
+    "pub_url": "https://www.aanda.org/articles/aa/abs/2018/03/aa31106-17/aa31106-17.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aK-kxzpCuXQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 7,
+        "2020": 8,
+        "2021": 20,
+        "2022": 26,
+        "2023": 10,
+        "2024": 2
+    }
+}

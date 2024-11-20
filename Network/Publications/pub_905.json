@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How to combine spatio-temporal and thematic features in online news for enhanced animal disease surveillance?",
+        "pub_year": 2018,
+        "citation": "Procedia Computer Science 126, 490-497, 2018",
+        "author": "Sarah Valentin and Renaud Lancelot and Mathieu Roche",
+        "journal": "Procedia Computer Science",
+        "volume": "126",
+        "pages": "490-497",
+        "publisher": "Elsevier",
+        "abstract": "Early detection of outbreaks of emerging and exotic pathogens is one of the means of preventing the introduction of infectious diseases into unaffected territories. In that context, since 2016, the French Animal Health Epidemic Intelligence team (Veille Sanitaire Internationale, VSI) monitors the online news sources through a designated Platform for Automated extraction of Disease Information from the web (PADI-web). The tool automatically detects, categorizes, and extracts information from online news reports. We focus on the combination of epidemiological features (locations, dates, diseases and hosts) extracted from free text of the news in order to automatically find similarity between different news reports. We describe an original approach based on text mining and data fusion methods and evaluate its performance on a specialized corpus."
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:2osOgNQ5qMEC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=6523255411859925181",
+    "cites_id": [
+        "6523255411859925181"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1877050918312596",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vSgOQzxCh1oJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1,
+        "2023": 2
+    }
+}

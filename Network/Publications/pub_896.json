@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "NEW TOOL TO IMPROVE THE OASIS ECOSYSTEM USING QGIS. CASE STUDY: BISKRA CITY INALGERIA.",
+        "pub_year": 2021,
+        "citation": "Urbanism. Architecture. Constructions/Urbanism. Arhitectura. Constructii 12 (1), 2021",
+        "author": "Fatma Zohra Hadagha and Abdallah Farhi and Christiane Weber",
+        "journal": "Urbanism. Architecture. Constructions/Urbanism. Arhitectura. Constructii",
+        "volume": "12",
+        "number": "1",
+        "abstract": "The world experiences a phenomenon of accelerated urbanization since the last century to our day that poses several problems, in particular natural environment. The oasis ecosystem in Biskra is threatened or even degraded due to accelerated urban growth in recent decades. This urbanization, which takes place at the expense of the palm grove, has led to the loss of a very large number of palm trees. This prompts reflection on solutions for its sustainability. We suppose that using GIS tools helps in measuring the losses in terms of palms number in the oasis of Biskra, then we can use these founds to improve the ecosystem oasis and to reduce the urbanization impact. The goal of this work is to find a tool that helps in improving the oasis ecosystem in Biskra and corresponds to its context. Also, it attempts to prove that GIS are useful for measuring the impact of urbanization on the oasis of Biskra. The results show \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:gKiMpY-AVTkC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=17679822058813547918",
+    "cites_id": [
+        "17679822058813547918"
+    ],
+    "pub_url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=20690509&AN=148643396&h=vf1sUai4ZswDdVyRMKJbUIwr1ZwU6guKpTcv8Sj%2FH70iLP3NfjiBOYqgfk%2Bay5hierNiQVoKO7b0Osd6Hk8uuQ%3D%3D&crl=c",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jmWyo31YW_UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 5,
+        "2023": 1
+    }
+}

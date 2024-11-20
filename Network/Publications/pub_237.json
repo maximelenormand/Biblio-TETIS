@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Environmental and Geo-Spatial Data Analytics (EnGeoData'2018)",
+        "pub_year": 2018,
+        "citation": "2018 IEEE 5th International Conference on Data Science and Advanced \u2026, 2018",
+        "author": "Maguelonne Teisseire and Mathieu Roche and Diana Inkpen",
+        "conference": "2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)",
+        "pages": "575-576",
+        "publisher": "IEEE",
+        "abstract": "The special session\u201d Environmental and Geospatial Data Analytics\u201d(EnGeoData) brings together researchers interested by pre-and post-processing of environmental data, geographical information retrieval, spatial data mining and spatial data warehousing, knowledge discovery use-cases dedicated to environmental data, spatial text mining, spatial ontology, spatial recommendations and personalization, visual analytics for geospatial data, and dedicated applications. This year, the special session EnGeoData'2018 of the 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA'2018) contains a collection of four papers and provides high-quality research covering part of the challenges of Spatio-Temporal Data Science, from a theoretical or experimental point of view."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:ZzlSgRqYykMC",
+    "num_citations": 0,
+    "pub_url": "https://agritrop.cirad.fr/588949",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vR3qXmD1mm4J:scholar.google.com/",
+    "cites_per_year": {}
+}

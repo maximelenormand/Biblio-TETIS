@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparing sterile male releases and other methods for integrated control of the tiger mosquito in temperate and tropical climates",
+        "pub_year": 2021,
+        "citation": "Scientific reports 11 (1), 7354, 2021",
+        "author": "L\u00e9a Douchet and Marion Haramboure and Thierry Baldet and Gregory L\u2019ambert and David Damiens and Louis Cl\u00e9ment Gouagna and Jeremy Bouyer and Pierrick Labb\u00e9 and Annelise Tran",
+        "journal": "Scientific reports",
+        "volume": "11",
+        "number": "1",
+        "pages": "7354",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "The expansion of mosquito species worldwide is creating a powerful network for the spread of arboviruses. In addition to the destruction of breeding sites (prevention) and mass trapping, methods based on the sterile insect technique (SIT), the autodissemination of pyriproxyfen (ADT), and a fusion of elements from both of these known as boosted SIT (BSIT), are being developed to meet the urgent need for effective vector control. However, the comparative potential of these methods has yet to be explored in different environments. This is needed to propose and integrate informed guidelines into sustainable mosquito management plans. We extended a weather-dependent model of Aedes albopictus population dynamics to assess the effectiveness of these different vector control methods, alone or in combination, in a tropical (Reunion island, southwest Indian Ocean) and a temperate (Montpellier area, southern \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:5qfkUJPXOUwC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=1775296765860816786",
+    "cites_id": [
+        "1775296765860816786"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-021-86798-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kqcIrAAfoxgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 6,
+        "2023": 4
+    }
+}

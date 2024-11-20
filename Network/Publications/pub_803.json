@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Visual question answering from remote sensing images",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Sylvain Lobry and Jesse Murray and Diego Marcos and Devis Tuia",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "4951-4954",
+        "publisher": "IEEE",
+        "abstract": "Remote sensing images carry wide amounts of information beyond land cover or land use. Images contain visual and structural information that can be queried to obtain high level information about specific image content or relational dependencies between the objects sensed. This paper explores the possibility to use questions formulated in natural language as a generic and accessible way to extract this type of information from remote sensing images, i.e. visual question answering. We introduce an automatic way to create a dataset using OpenStreetMap 1  data and present some preliminary results. Our proposed approach is based on deep learning, and is trained using our new dataset."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:O3NaXMp0MMsC",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=4775495325917356174",
+    "cites_id": [
+        "4775495325917356174"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8898891/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jqDXf7L3RUIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 4,
+        "2022": 8,
+        "2023": 3
+    }
+}

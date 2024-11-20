@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining 2D encoding and convolutional neural network to enhance land cover mapping from Satellite Image Time Series",
+        "pub_year": 2023,
+        "citation": "Engineering Applications of Artificial Intelligence 122, 106152, 2023",
+        "author": "Azza Abidi and Dino Ienco and Ali Ben Abbes and Imed Riadh Farah",
+        "journal": "Engineering Applications of Artificial Intelligence",
+        "volume": "122",
+        "pages": "106152",
+        "publisher": "Pergamon",
+        "abstract": "The use of high spatial resolution Satellite Image Time Series (SITS) provides an opportunity for a wide spectrum of Earth surface monitoring applications such as Land Use/Land Cover (LULC) mapping. Whereas the majority of Time Series (TS) classification literature concentrates on the analysis of raw 1D signals, here, we investigate a framework for LULC mapping based on 2D encoded multivariate SITS data to enhance their classification performances. In this novel approach, multivariate SITS data are transformed from 1D signals to 2D images using several encoding techniques namely Gramian Angular Summation field (GASF), Gramian angular difference field (GADF), Markov Transition Field (MTF), and Recurrence Plot (RP). Successively, a new multi-band image is derived and it is used as input to a state-of-the-art convolutional neural network (CNN) classification model. The possibility to effectively encode \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:IT1MJ6E3JesC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=2364337974200860054",
+    "cites_id": [
+        "2364337974200860054"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0952197623003366",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ln01WdzQzyAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 6,
+        "2024": 2
+    }
+}

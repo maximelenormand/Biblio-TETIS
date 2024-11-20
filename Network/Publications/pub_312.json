@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Exploring the link between spectral variance and upper canopy taxonomic diversity in a tropical forest: influence of spectral processing and feature selection",
+        "pub_year": 2023,
+        "citation": "Remote Sensing in Ecology and Conservation 9 (2), 235-250, 2023",
+        "author": "Colette Badourdine and Jean\u2010baptiste F\u00e9ret and Rapha\u00ebl P\u00e9lissier and Gr\u00e9goire Vincent",
+        "journal": "Remote Sensing in Ecology and Conservation",
+        "volume": "9",
+        "number": "2",
+        "pages": "235-250",
+        "abstract": "The rapid loss of biodiversity in tropical rainforests calls for new remote sensing approaches capable of providing rapid estimates of biodiversity over large areas. Imaging spectroscopy has shown potential for the estimation of taxonomic diversity, but the link with spectral diversity has not been investigated extensively with experimental data so far. We explored the relationship between taxonomic diversity and visible to near infrared spectral variance derived from various spectral processing techniques by means of a labeled dataset comprising 2000 individual tree crowns from 200 species from an experimental tropical forest station in French Guiana. We generated a set of artificially assembled communities covering a broad range of taxonomic diversity from this experimental dataset. We analyzed the impact of various processing steps: spectral normalization, spectral transformation through principal component \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:eflP2zaiRacC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=8522186793899314093",
+    "cites_id": [
+        "8522186793899314093"
+    ],
+    "pub_url": "https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1002/rse2.306",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rcvkj7zjRHYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 2
+    }
+}

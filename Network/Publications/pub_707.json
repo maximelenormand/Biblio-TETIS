@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An integrative eco-epidemiological analysis of West Nile virus transmission",
+        "pub_year": 2017,
+        "citation": "EcoHealth 14, 474-489, 2017",
+        "author": "Annelise Tran and Gr\u00e9gory L\u2019ambert and Gilles Balan\u00e7a and Sophie Pradier and Vladimir Grosbois and Thomas Balenghien and Thierry Baldet and Sylvie Lecollinet and Agnes Leblond and Nicolas Gaidet-Drapier",
+        "journal": "EcoHealth",
+        "volume": "14",
+        "pages": "474-489",
+        "publisher": "Springer US",
+        "abstract": "West Nile disease, caused by the West Nile virus (WNV), is a mosquito-borne zoonotic disease affecting humans and horses that involves wild birds as amplifying hosts. The mechanisms of WNV transmission remain unclear in Europe where the occurrence of outbreaks has dramatically increased in recent years. We used a dataset on the competence, distribution, abundance, diversity and dispersal of wild bird hosts and mosquito vectors to test alternative hypotheses concerning the transmission of WNV in Southern France. We modelled the successive processes of introduction, amplification, dispersal and spillover of WNV to incidental hosts based on host\u2013vector contact rates on various land cover types and over four seasons. We evaluated the relative importance of the mechanisms tested using two independent serological datasets of WNV antibodies collected in wild birds and horses. We found that the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:WA5NYHcadZ8C",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=17759476294395690354",
+    "cites_id": [
+        "17759476294395690354"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s10393-017-1249-6",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cv1slJhVdvYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 3,
+        "2020": 4,
+        "2021": 4,
+        "2022": 2,
+        "2023": 5
+    }
+}

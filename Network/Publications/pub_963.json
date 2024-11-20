@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Desert roughness retrieval using CYGNSS GNSS-R data",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (4), 743, 2020",
+        "author": "Donato Stilla and Mehrez Zribi and Nazzareno Pierdicca and Nicolas Baghdadi and Mireille Huc",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "4",
+        "pages": "743",
+        "publisher": "MDPI",
+        "abstract": "The aim of this paper is to assess the potential use of data recorded by the Global Navigation Satellite System Reflectometry (GNSS-R) Cyclone Global Navigation Satellite System (CYGNSS) constellation to characterize desert surface roughness. The study is applied over the Sahara, the largest non-polar desert in the world. This is based on a spatio-temporal analysis of variations in Cyclone Global Navigation Satellite System (CYGNSS) data, expressed as changes in reflectivity (\u0393). In general, the reflectivity of each type of land surface (reliefs, dunes, etc.) encountered at the studied site is found to have a high temporal stability. A grid of CYGNSS \u0393 measurements has been developed, at the relatively fine resolution of 0.03\u00b0 \u00d7 0.03\u00b0, and the resulting map of average reflectivity, computed over a 2.5-year period, illustrates the potential of CYGNSS data for the characterization of the main types of desert land surface (dunes, reliefs, etc.). A discussion of the relationship between aerodynamic or geometric roughness and CYGNSS reflectivity is proposed. A high correlation is observed between these roughness parameters and reflectivity. The behaviors of the GNSS-R reflectivity and the Advanced Land Observing Satellite-2 (ALOS-2) Synthetic Aperture Radar (SAR) backscattering coefficient are compared and found to be strongly correlated. An aerodynamic roughness (Z0) map of the Sahara is proposed, using four distinct classes of terrain roughness."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:QyXJ3EUuO1IC",
+    "num_citations": 27,
+    "citedby_url": "/scholar?hl=en&cites=3405411446668246924",
+    "cites_id": [
+        "3405411446668246924"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/4/743",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jL-1CKtzQi8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 6,
+        "2022": 12,
+        "2023": 5,
+        "2024": 1
+    }
+}

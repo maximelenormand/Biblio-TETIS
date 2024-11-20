@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sensitivity of surface soil moisture retrieval to satellite-derived vegetation descriptors over wheat fields in the Kairouan plain",
+        "pub_year": 2023,
+        "citation": "European Journal of Remote Sensing 56 (1), 2260555, 2023",
+        "author": "Emna Ayari and Mehrez Zribi and Zohra Lili-Chabaane and Zeineb Kassouk and Lionel Jarlan and Nemesio Rodriguez-Fernandez and Nicolas Baghdadi",
+        "journal": "European Journal of Remote Sensing",
+        "volume": "56",
+        "number": "1",
+        "pages": "2260555",
+        "publisher": "Taylor & Francis",
+        "abstract": "Soil moisture estimation is a key component in hydrological processes and irrigation amounts' estimation. The synergetic use of optical and radar data has been proven to retrieve the surface soil moisture at a field scale using the Water Cloud Model (WCM). In this work, we evaluate the impact of staellite-derived vegetation descriptors to estimate the surface soil moisture. Therefore, we used the Sentinel-1 data to test the polarization ratio () and the normalized polarization ratio (IN) and the frequently used optical Normalized Difference vegetation Index (NDVI) as vegetation descriptors. Synchronous with Sentinel-1 acquisitions, in situ soil moisture were collected over wheat fields in the Kairouan plain in the center of Tunisia. To avoid the bare soil roughness effect and the radar signal saturation in dense vegetation context, we considered the data where the NDVI values vary between 0.25 and 0.7. The soil \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:M_lZXyI38BkC",
+    "num_citations": 0,
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/22797254.2023.2260555",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:f1R1i9fYmh0J:scholar.google.com/",
+    "cites_per_year": {}
+}

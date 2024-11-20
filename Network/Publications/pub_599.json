@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mieux int\u00e9grer les sols dans la s\u00e9quence \u00abEviter - R\u00e9duire - Compenser\u00bb",
+        "pub_year": 2023,
+        "citation": "\u00c9tude et Gestion des Sols 30, 347-363, 2023",
+        "author": "SarrazinF. etSchwartzC Cortet J. and Paquet S. and Billet P. and Bougon N. and Calvet C. and Charnet F. and Chenu C. and Gascuel- Odoux C. and Damas O. and Desrousseaux M. and Monod K. and Poin\u00e7ot F. and Raous S. and Rigou L.",
+        "journal": "\u00c9tude et Gestion des Sols",
+        "volume": "30",
+        "pages": "347-363",
+        "abstract": "Alors que les enjeux de la pr\u00e9servation des sols gagnent en visibilit\u00e9 au sein de la soci\u00e9t\u00e9, la loi fran\u00e7aise du 22 ao\u00fbt 2021, dite loi Climat et R\u00e9silience, inscrit dans la l\u00e9gislation fran\u00e7aise un objectif de \u00abz\u00e9ro artificialisation nette\u00bb(ZAN) et introduit la notion de compensation de l\u2019artificialisation des sols, \u00e9tablissant un lien logique avec la s\u00e9quence \u00ab\u00e9viter, r\u00e9duire, compenser\u00bb(dite s\u00e9quence ERC).Introduite en droit fran\u00e7ais par la loi sur la protection de la nature du 10 juillet 1976 et consolid\u00e9e par la loi pour la reconqu\u00eate de la biodiversit\u00e9, de la nature et des paysages du 8 ao\u00fbt 2016, la s\u00e9quence ERC constitue un dispositif largement partag\u00e9 \u00e0 l\u2019\u00e9chelle internationale ayant pour but de limiter l\u2019impact \u00e9cologique des projets de travaux, ouvrages am\u00e9nagements et des documents de planification (plans, sch\u00e9mas, programmes). Cette s\u00e9quence est mise en \u0153uvre au travers d\u2019actions visant \u00e0 \u00e9viter, r\u00e9duire puis si n\u00e9cessaire \u00e0 compenser les pertes en apportant des gains \u00e9cologiques \u00e9quivalents aux pertes, voire \u00e0 les surcompenser (additionnalit\u00e9 \u00e9cologique)."
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:M3NEmzRMIkIC",
+    "num_citations": 0,
+    "pub_url": "https://rnest.fr/wp-content/uploads/2023/12/EGS_2023_30_Cortet_347-363-5.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5hGbkALCiK4J:scholar.google.com/",
+    "cites_per_year": {}
+}

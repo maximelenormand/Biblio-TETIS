@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Costa Rica\u2019s Organic Farming Support Law: From successful design to partial implementation",
+        "pub_year": 2020,
+        "citation": "Economie rurale 372 (2), 85-101, 2020",
+        "author": "Muriel Bonin and Fernando Saenz and Jean-Fran\u00e7ois Le Coq",
+        "journal": "Economie rurale",
+        "volume": "372",
+        "number": "2",
+        "pages": "85-101",
+        "publisher": "Soci\u00e9t\u00e9 Fran\u00e7aise d\u2019\u00c9conomie Rurale",
+        "abstract": "This article analyzes the design and implementation of Costa Rica\u2019s Organic Farming Support Law based on a review of previous work and legal texts, as well as interviews conducted at the national level. The policy-making process was marked by agroecology social movements and Ministry of Agriculture staff influencing the content of the law, which culminated in its promulgation in 2007. The implementation of the law has been hampered by a system dominated by conventional agriculture, by divisions within social movements, and uncoordinated actions with the Ministry of Agriculture, linked to conflicting visions of organic agriculture and agroecology. The recent creation of a department dedicated to organic agriculture within the Ministry of Agriculture is hoping to overcome the stumbling blocks that have been identified."
+    },
+    "filled": true,
+    "author_pub_id": "ARl-VIoAAAAJ:_Ybze24A_UAC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=6715110333767831808",
+    "cites_id": [
+        "6715110333767831808"
+    ],
+    "pub_url": "https://www.cairn-int.info/article-E_ECRU_372_0085--costa-rica-s-organic-farming-support.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AFHJN0XdMF0J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

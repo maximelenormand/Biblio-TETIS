@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Identification des effets \u00e9conomiques d'une infrastructure de donn\u00e9es g\u00e9o-spatiales sur le d\u00e9veloppement territorial",
+        "pub_year": 2017,
+        "citation": "IX\u00e8me \u00e9dition du colloque Management des Technologies Organisationnelles-MTO \u2026, 2017",
+        "author": "Chadi Jabbour and Pierre Maurel and H Rey Valette and Jean-Michel Salles and Amadou Niang",
+        "conference": "IX\u00e8me \u00e9dition du colloque Management des Technologies Organisationnelles-MTO'2017",
+        "pages": "9",
+        "abstract": "French. L'objectif de cette communication est d'analyser les impacts socio-\u00e9conomiques d'Infrastructures de Donn\u00e9es et de Services (IDS) bas\u00e9es sur l'imagerie satellitaire dans les politiques publiques environnementales, agricoles et territoriales. Nous nous appuierons pour cela sur le cas de l'IDS GEOSUD \u00e0 la Maison de la T\u00e9l\u00e9d\u00e9tection \u00e0 Montpellier. Apr\u00e8s une analyse d\u00e9taill\u00e9e des t\u00e9l\u00e9chargements d'information spatiale aupr\u00e8s de GEOSUD pour qualifier le champ des politiques publiques concern\u00e9es, l'article propose d'\u00e9tudier la structure des effets li\u00e9s \u00e0 l'action de GEOSUD. L'hypoth\u00e8se est que la mise \u00e0 disposition gratuite d'informations satellitaires pour les organismes de recherche et les services publics, renforce l'acc\u00e8s \u00e0 ce type de donn\u00e9es, et g\u00e9n\u00e8re des \u00e9conomies de mutualisation et des gains significatifs en termes de productivit\u00e9 pour les services publics au niveau de l'efficacit\u00e9, la visibilit\u00e9 et la transparence des politiques publiques et plus g\u00e9n\u00e9ralement pour le d\u00e9veloppement des territoires. Dans un deuxi\u00e8me temps l'article \u00e9value \u00e0 titre d'exemple quelques-uns de ces effets dans le cas du suivi des coupes rases li\u00e9es aux plans de gestion des for\u00eats."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:t7zJ5fGR-2UC",
+    "num_citations": 0,
+    "pub_url": "https://agris.fao.org/search/en/providers/122439/records/6474718c79cbb2c2c1b1d164",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qHSPzT0ttc4J:scholar.google.com/",
+    "cites_per_year": {}
+}

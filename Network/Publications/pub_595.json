@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analyse de la cha\u00eene de Manioc en C\u00f4te d\u2019Ivoire",
+        "pub_year": 2017,
+        "citation": "Rapport pour l\u2019Union Europ\u00e9enne, DG-DEVCO. Value Chain Analysis for \u2026, 2017",
+        "author": "P Mendez del Villar and A Adaye and T Tran and K Allagba and V Bancal",
+        "journal": "Rapport pour l\u2019Union Europ\u00e9enne, DG-DEVCO. Value Chain Analysis for Development Project (VCA4D CTR 2016/375-804), Abidjan"
+    },
+    "filled": true,
+    "author_pub_id": "nPrjzMgAAAAJ:BUYA1_V_uYcC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=8632000553646615010",
+    "cites_id": [
+        "8632000553646615010"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=8632000553646615010&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4ukU7cQGy3cJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 0,
+        "2021": 3,
+        "2022": 1,
+        "2023": 1
+    }
+}

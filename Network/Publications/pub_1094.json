@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Remote monitoring of natural slopes: insights from the first terrestrial Insar Campaign in Vietnam",
+        "pub_year": 2020,
+        "citation": "Italian journal of engineering geology and environment, 55-63, 2020",
+        "author": "Saverio Romeo and Quoc Cuong Tran and Giandomenico Mastrantoni and Duc Do Minh and Duc Dao Minh and Huy Thang Nguyen and Paolo Mazzanti",
+        "journal": "Italian journal of engineering geology and environment",
+        "number": "1",
+        "pages": "55-63",
+        "abstract": "The present work, realized in the framework of a research project funded by the Vietnamese Space Science & Technology Program, shows the first insights of remote monitoring at the Nam Dan landslide (Northern Vietnam). The Terrestrial SARInterferometry (TInSAR) technique was used for the first time in the Country. The activities were performed in Nam Dan village, where an active landslide with several geomorphological evidences as open cracks and scarps, severely damaged dwellings and public assets, constituting a serious hazard to the local inhabitants. The monitoring activities were carried out between August and December 2019 through a new TInSAR device called Phoenix which it was used for one of its first on-field applications. The Terrestrial SAR was aimed at creating displacement maps and related time series, providing detailed information on the location and deformation rate of the processes under investigation. The use of such a remote sensing technique, coupled with contact instrumentation (inclinometers, piezometers, rain gauge) and field surveys have contributed to improving the knowledge about the Nam Dan landslide and the understanding of its behaviour, with particular regard to the time evolution of deformations."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:738O_yMBCRsC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6128326913734824126",
+    "cites_id": [
+        "6128326913734824126"
+    ],
+    "pub_url": "https://rosa.uniroma1.it/rosa02/engineering_geology_environment/article/view/1019",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vlCh2NswDFUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

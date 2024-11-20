@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Complementarity of empirical and process-based approaches to modelling mosquito population dynamics with Aedes albopictus as an example\u2014Application to the development of an operational mapping tool of vector populations",
+        "pub_year": 2020,
+        "citation": "PloS one 15 (1), e0227407, 2020",
+        "author": "Annelise Tran and Morgan Mangeas and Marie Demarchi and Emmanuel Roux and Pascal Degenne and Marion Haramboure and Gilbert Le Goff and David Damiens and Louis-Cl\u00e9ment Gouagna and Vincent Herbreteau and Jean-S\u00e9bastien Dehecq",
+        "journal": "PloS one",
+        "volume": "15",
+        "number": "1",
+        "pages": "e0227407",
+        "publisher": "Public Library of Science",
+        "abstract": "Mosquitoes are responsible for the transmission of major pathogens worldwide. Modelling their population dynamics and mapping their distribution can contribute effectively to disease surveillance and control systems. Two main approaches are classically used to understand and predict mosquito abundance in space and time, namely empirical (or statistical) and process-based models. In this work, we used both approaches to model the population dynamics in Reunion Island of the 'Tiger mosquito', Aedes albopictus, a vector of dengue and chikungunya viruses, using rainfall and temperature data. We aimed to i) evaluate and compare the two types of models, and ii) develop an operational tool that could be used by public health authorities and vector control services. Our results showed that Ae. albopictus dynamics in Reunion Island are driven by both rainfall and temperature with a non-linear relationship. The predictions of the two approaches were consistent with the observed abundances of Ae. albopictus aquatic stages. An operational tool with a user-friendly interface was developed, allowing the creation of maps of Ae. albopictus densities over the whole territory using meteorological data collected from a network of weather stations. It is now routinely used by the services in charge of vector control in Reunion Island."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:tYavs44e6CUC",
+    "num_citations": 36,
+    "citedby_url": "/scholar?hl=en&cites=75445644268493080",
+    "cites_id": [
+        "75445644268493080"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227407",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GFl56mkJDAEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 9,
+        "2022": 11,
+        "2023": 13
+    }
+}

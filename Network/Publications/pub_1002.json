@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Ha Long\u2014Cam Pha Cities Evolution Analysis Utilizing Remote Sensing Data",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (5), 1241, 2022",
+        "author": "Giang Cong Nguyen and Khac Vu Dang and Tuan Anh Vu and Anh Khac Nguyen and Christiane Weber",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "5",
+        "pages": "1241",
+        "publisher": "MDPI",
+        "abstract": "Socio-economic development has promoted the modification of land cover patterns in the coastal area of Ha Long, Cam Pha cities since the 1990s. The urban growth, together with intensive coal mining activities, has improved the life quality of residents. However, it has also caused many environmental problems in this region. Change detection techniques based on post-classification comparison were applied for monitoring the spatial and temporal evolution of land covers. The confusion matrix for 2001 and 2019 showed high overall accuracy (97.99%, 94.95%) and Kappa coefficient (0.97, 0.92), respectively. Statistics from classified images have revealed that man-made features increased by about 15.32%, while natural features, mangrove jungles, and water bodies decreased 10.64%, 1.96%, 2.72%, respectively, and urban evolution presents various dynamics, soft in the first period (1991\u20132001), but stronger in the second period (2001\u20132019) with different characteristics. The study also expresses the constraint of topographic and geologic resources, which have prevented the urban development in this coastal area. Such obtained results are very important for understanding interactions and relations between natural and human phenomena and they may help authorities by providing indicators and maps able to highlight necessary actions for sustainable development."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:jL-93Qbq4QoC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=3378362181907760220",
+    "cites_id": [
+        "3378362181907760220"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/5/1241",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XMQ5T4Fa4i4J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

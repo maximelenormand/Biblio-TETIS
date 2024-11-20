@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A novel approach for mapping wheat areas using high resolution Sentinel-2 images",
+        "pub_year": 2018,
+        "citation": "Sensors 18 (7), 2089, 2018",
+        "author": "Ali Nasrallah and Nicolas Baghdadi and Mario Mhawej and Ghaleb Faour and Talal Darwish and Hatem Belhouchette and Salem Darwich",
+        "journal": "Sensors",
+        "volume": "18",
+        "number": "7",
+        "pages": "2089",
+        "publisher": "MDPI",
+        "abstract": "Global wheat production reached 754.8 million tons in 2017, according to the FAO database. While wheat is considered as a staple food for many populations across the globe, mapping wheat could be an effective tool to achieve the SDG2 sustainable development goal\u2014End Hunger and Secure Food Security. In Lebanon, this crop is supported financially, and sometimes technically, by the Lebanese government. However, there is a lack of statistical databases, at both national and regional scales, as well as critical information much needed in the subsidy and compensation system. In this context, this study proposes an innovative approach, named Simple and Effective Wheat Mapping Approach (SEWMA), to map the winter wheat areas grown in the Bekaa plain, the primary wheat production area in Lebanon, in the years of 2016 and 2017. The proposed methodology is a tree-like approach relying on the Normalized Difference Vegetation Index (NDVI) values of four-month period that coincides with several phenological stages of wheat (i.e., tillering, stem extension, heading, flowering and ripening). The usage of the freely available Sentinel-2 imageries, with a high spatial (10 m) and temporal (5 days) resolutions, was necessary, particularly due to the small sized and overlapped plots encountered in the study area. Concerning the wheat areas, results show that there was a decrease from 11,063 \u00b1 1309 ha in 2016 to 7605 \u00b1 1184 in 2017. When SEWMA was applied using 2016 ground truth data, the overall accuracy reached 87.0% on 2017 data, whereas, when implemented using 2017 ground truth data, the overall accuracy was 82.6% on \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:r_AWSJRzSzQC",
+    "num_citations": 58,
+    "citedby_url": "/scholar?hl=en&cites=7591556122918868793",
+    "cites_id": [
+        "7591556122918868793"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/18/7/2089",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:OVcFbxKgWmkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 7,
+        "2020": 14,
+        "2021": 13,
+        "2022": 10,
+        "2023": 13,
+        "2024": 1
+    }
+}

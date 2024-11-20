@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Des d\u00e9buts de la haute r\u00e9solution spatiale\u2026 \u00e0 la r\u00e9volution num\u00e9rique",
+        "pub_year": 2019,
+        "citation": "Bulletin de la Soci\u00e9t\u00e9 G\u00e9ographique de Li\u00e8ge, 2019",
+        "author": "Christiane Weber",
+        "journal": "Bulletin de la Soci\u00e9t\u00e9 G\u00e9ographique de Li\u00e8ge",
+        "abstract": "Le changement de paradigme vers la tr\u00e8s haute r\u00e9solution spatiale (THRS) a \u00e9t\u00e9 r\u00e9alis\u00e9 en douceur tout au moins au d\u00e9but. L'am\u00e9lioration de la r\u00e9solution spatiale devait aboutir \u00e0 une meilleure ad\u00e9quation entre la r\u00e9alit\u00e9 et sa repr\u00e9sentation pixellaire. On allait pouvoir cartographier, analyser suivre dans le temps les dynamiques des paysages, et plus particuli\u00e8rement le volet urbain qui enfin se d\u00e9voilerait. La recherche urbaine at -elle \u00e9t\u00e9 r\u00e9ellement plus performante ? L'image est-elle devenue un \u00e9l\u00e9ment de prise de d\u00e9cision ? Quels sont les impacts de cette r\u00e9volution num\u00e9rique auxquels nous faisons face ? Les enjeux sont plus nombreux mais sommes-nous mieux arm\u00e9s pour proposer quelques solutions ? La transition num\u00e9rique actuelle nous offre la possibilit\u00e9 d'un regard sur les derni\u00e8res \u00e9volutions qu'il serait int\u00e9ressant d'\u00e9tudier. Mots cl\u00e9s observation de la Terre, syst\u00e8mes urbains, pratiques territoriales, transition num\u00e9rique Abstract The paradigm shift towards very high spatial resolution was smoothly achieved at least at the beginning. The improvement of the spatial resolution should lead to a better match between reality and its pixel representation. Has urban research been more effective? Have we really brought another vision of the territories or influenced planning practices? Has the image become an element of decision-making? What are the impacts of this digital revolution that we are facing? Imagery has positioned itself as a must in many fields, it remains an unparalleled medium of information and the offer embraces a multitude of possibilities. The current digital transition offers us the opportunity to look at the latest \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:fFSKOagxvKUC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=3936592205568877004",
+    "cites_id": [
+        "3936592205568877004"
+    ],
+    "pub_url": "https://hal.science/hal-02915070/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zCGBBsGVoTYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

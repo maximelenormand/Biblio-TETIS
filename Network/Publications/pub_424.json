@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping Lorey\u2019s height over Hyrcanian forests of Iran using synergy of ICESat/GLAS and optical images",
+        "pub_year": 2018,
+        "citation": "European Journal of Remote Sensing 51 (1), 100-115, 2018",
+        "author": "Manizheh Rajab Pourrahmati and Nicolas Baghdadi and Ali A Darvishsefat and Manouchehr Namiranian and Valery Gond and Jean-St\u00e9phane Bailly and Nosratollah Zargham",
+        "journal": "European Journal of Remote Sensing",
+        "volume": "51",
+        "number": "1",
+        "pages": "100-115",
+        "publisher": "Taylor & Francis",
+        "abstract": "Lorey\u2019s height, representative of mean height in uneven-aged forest stands, is a valuable parameter for forest ecosystem management. While in situ measures provide the most precise information, remote-sensing techniques may provide less expensive but denser and more operational alternative of Lorey\u2019s height estimation over highly mountainous areas. This research aims first to evaluate the performances of two nonparametric data mining methods, random forest (RF) and artificial neural network (ANN), for estimation of Lorey\u2019s height using ice, cloud and land elevation satellite/geoscience laser altimeter system (ICESat/GLAS) in Hyrcanian forests of Iran and then to provide Lorey\u2019s height map using a synergy of ICESat/GLAS and optical images (TM and SPOT). RF and ANN GLAS height models were developed using waveform deterministic metrics, principal components (PCs) from principal component \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:YohjEiUPhakC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=4842130348218191886",
+    "cites_id": [
+        "4842130348218191886"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/22797254.2017.1405717",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DhCvoeWzMkMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 3,
+        "2022": 1,
+        "2023": 1
+    }
+}

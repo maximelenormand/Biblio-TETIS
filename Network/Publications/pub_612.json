@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping of Ebola virus spillover: Suitability and seasonal variability at the landscape scale",
+        "pub_year": 2021,
+        "citation": "PLOS Neglected Tropical Diseases 15, e0009683, 2021",
+        "author": "Larisa Lee-Cruz and Maxime Lenormand and Julien Cappelle and Alexandre Caron and H\u00e9l\u00e8ne De Nys and Martine Peeters and Mathieu Bourgarel and Fran\u00e7ois Roger and Annelise Tran",
+        "journal": "PLOS Neglected Tropical Diseases",
+        "volume": "15",
+        "pages": "e0009683",
+        "publisher": "Public Library of Science",
+        "abstract": "The unexpected Ebola virus outbreak in West Africa in 2014 involving the Zaire ebolavirus made clear that other regions outside Central Africa, its previously documented niche, were at risk of future epidemics. The complex transmission cycle and a lack of epidemiological data make mapping areas at risk of the disease challenging. We used a Geographic Information System-based multicriteria evaluation (GIS-MCE), a knowledge-based approach, to identify areas suitable for Ebola virus spillover to humans in regions of Guinea, Congo and Gabon where Ebola viruses already emerged. We identified environmental, climatic and anthropogenic risk factors and potential hosts from a literature review. Geographical data layers, representing risk factors, were combined to produce suitability maps of Ebola virus spillover at the landscape scale. Our maps show high spatial and temporal variability in the suitability for Ebola virus spillover at a fine regional scale. Reported spillover events fell in areas of intermediate to high suitability in our maps, and a sensitivity analysis showed that the maps produced were robust. There are still important gaps in our knowledge about what factors are associated with the risk of Ebola virus spillover. As more information becomes available, maps produced using the GIS-MCE approach can be easily updated to improve surveillance and the prevention of future outbreaks."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:bFI3QPDXJZMC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=10059618546544463921",
+    "cites_id": [
+        "10059618546544463921"
+    ],
+    "pub_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009683",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MdC2GsXxmosJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 5,
+        "2023": 6,
+        "2024": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Retour sur 40 ans d\u2019installation des jeunes ruraux en agriculture irrigu\u00e9e dans le delta du fleuve S\u00e9n\u00e9gal",
+        "pub_year": 2019,
+        "citation": "Structures agraires et acc\u00e8s des jeunes \u00e0 la terre: gestion intrafamiliale \u2026, 2019",
+        "author": "P Girard and J Bourgoin and D Diop and A Diao Camara and D Dia",
+        "journal": "Structures agraires et acc\u00e8s des jeunes \u00e0 la terre: gestion intrafamiliale du foncier et strat\u00e9gies d\u2019autonomisation des jeunes, Paris, AFD, MEAE",
+        "pages": "123-140"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:CHSYGLWDkRkC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=490503313713186490",
+    "cites_id": [
+        "490503313713186490"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=490503313713186490&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:usYGPyqezgYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 1
+    }
+}

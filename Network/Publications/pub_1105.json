@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture estimates at 1 km resolution making a synergistic use of Sentinel data",
+        "pub_year": 2023,
+        "citation": "Hydrology and Earth System Sciences 27 (6), 1221-1242, 2023",
+        "author": "Remi Madelon and Nemesio J Rodr\u00edguez-Fern\u00e1ndez and Hassan Bazzi and Nicolas Baghdadi and Clement Albergel and Wouter Dorigo and Mehrez Zribi",
+        "journal": "Hydrology and Earth System Sciences",
+        "volume": "27",
+        "number": "6",
+        "pages": "1221-1242",
+        "publisher": "Copernicus Publications",
+        "abstract": "Very high-resolution (\u2013100\u202fm) surface soil moisture (SM) observations are important for applications in  agriculture, among other purposes. This is the original goal of the S (Sentinel-1/Sentinel-2-Derived Soil Moisture Product) algorithm, which was designed to retrieve surface SM at the agricultural plot scale by simultaneously using Sentinel-1 (S1) backscatter coefficients and Sentinel-2 (S2) NDVI (Normalized Difference Vegetation Index) as inputs to a neural network trained with Water Cloud Model simulations. However, for many applications, including  hydrology and climate impact assessment at regional level, large maps with a high resolution (HR) of around 1\u202fkm are already a significant improvement with respect to most of the publicly available SM datasets, which have resolutions of about 25\u202fkm.In this study, the S algorithm was adapted to work at 1\u202fkm resolution and extended from croplands to herbaceous vegetation types. A target resolution of 1\u202fkm also allows the evaluation of the interest in using NDVI derived from Sentinel-3 (S3) instead of S2. Two sets of SM maps at 1\u202fkm resolution were produced with S over six regions of \u202fkm in Spain, Tunisia, North America, Australia, and the southwest and southeast regions of France for the whole year of 2019. The first set was derived from the combination of S1 and S2 data (S1\u202f\u202fS2 maps), while the second one was derived from the combination of S1 and S3 (S1\u202f\u202fS3 maps). S1\u202f\u202fS2 and S1\u202f\u202fS3 SM maps were compared to each other, to those of the 1\u202fkm resolution Copernicus Global Land Service (CGLS) SM and Soil Water Index (SWI) datasets, and to those of the Soil Moisture Active Passive (SMAP)\u202f\u202fS1 product.The S S1\u202f\u202fS2 and S1\u202f\u202fS3 SM maps are in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:g8uWPOAv7ggC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=5207645635194452892",
+    "cites_id": [
+        "5207645635194452892"
+    ],
+    "pub_url": "https://hess.copernicus.org/articles/27/1221/2023/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nPvgKR1GRUgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 2
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimating 500-m resolution soil moisture using Sentinel-1 and optical data synergy",
+        "pub_year": 2020,
+        "citation": "Water 12 (3), 866, 2020",
+        "author": "Myriam Foucras and Mehrez Zribi and Cl\u00e9ment Albergel and Nicolas Baghdadi and Jean-Christophe Calvet and Thierry Pellarin",
+        "journal": "Water",
+        "volume": "12",
+        "number": "3",
+        "pages": "866",
+        "publisher": "MDPI",
+        "abstract": "The aim of this study is to estimate surface soil moisture at a spatial resolution of 500 m and a temporal resolution of at least 6 days, by combining remote sensing data from Sentinel-1 and optical data from Sentinel-2 and MODIS (Moderate-Resolution Imaging Spectroradiometer). The proposed methodology is based on the change detection technique, applied to a series of measurements over a three-year period (2015 to 2018). The algorithm described here as \u201cSoil Moisture Estimations from the Synergy of Sentinel-1 and optical sensors (SMES)\u201d proposes different options, allowing information from vegetation densities and seasonal conditions to be taken into account. The output from this algorithm is a moisture index ranging between 0 and 1, with 0 corresponding to the driest soils and 1 to the wettest soils. This methodology has been tested at different test sites (South of France, Central Tunisia, Western Benin and Southwestern Niger), characterized by a wide range of different climatic conditions. The resulting surface soil moisture estimations are compared with in situ measurements and already existing satellite-derived soil moisture ASCAT (Advanced SCATterometer) products. They are found to be well correlated, for the African regions in particular (RMSE below 6 vol.%). This outcome indicates that the proposed algorithm can be used with confidence to estimate the surface soil moisture of a wide range of climatically different sites."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:U_HPUtbDl20C",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=670396193687924027",
+    "cites_id": [
+        "670396193687924027"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-4441/12/3/866",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:O-2KR8m5TQkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 6,
+        "2021": 13,
+        "2022": 6,
+        "2023": 7,
+        "2024": 2
+    }
+}

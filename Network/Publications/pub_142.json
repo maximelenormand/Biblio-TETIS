@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The use of terrestrial LiDAR for enhance forest inventory",
+        "pub_year": 2017,
+        "citation": "Acte de colloque. Conference: Earth Observation Summit 2017, Montr\u00e9al, Canada., 2017",
+        "author": "Richard A Fournier and Jean-Fran\u00e7ois C\u00f4t\u00e9 and Joris Ravaglia and Ulysse R\u00e9millard and Olivier Martin-Ducup and Florentin Bourge and Abdelmouna\u00efme Safia and Robert Schneider and Alexandra Bac and Alexandre Piboule and Sylvie Durrieu and Tony Franceschini",
+        "journal": "Acte de colloque. Conference: Earth Observation Summit 2017, Montr\u00e9al, Canada.",
+        "abstract": "Terrestrial LiDAR (TLidar) is an emerging technology that has high potential for forestry applications. It provides a detailed three\u2010dimensional (3D) point cloud representation of forest structure at tree\u2010 and plot\u2010level from which a wide range of forest attributes could be extracted with appropriate methods. Consequently, TLidar potentially offers the opportunity to expand on the estimation of new attributes beyond what is currently measured with conventional forest inventory. The presentation will describe how the use of TLiDAR data can enhance forest inventory. More specifically it will describe three novel sets of algorithms involving the use of TLiDAR data. The first set of algorithms provides information on forest plots that can routinely be extracted from TLiDAR using existing algorithms currently available as open source. The set of attributes includes stem diameter at breast height, tree height, map of tree position, digital terrain model and canopy height model. The second set includes four new algorithms developed in our group to estimate structural attributes from the point cloud collected in field plots, namely (1) the automatic estimation of stem taper of all trees in a plot, (2) the automatic segmentation of all the tree crowns, (3) tools to allow spatial analysis of tree growth/competition and (4) tools to quantify tree branchiness for wood quality assessment. Algorithms 1 and 2 are innovative adaptations of specific mathematical principles to take advantage of the spatially\u2010explicit information provided by the TLiDAR data. Our validation tests provided an average error on stem taper generally within 1.2 cm for the lower part of the stem (up to 5 to 10 m \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:70eg2SAEIzsC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5694850173512658421",
+    "cites_id": [
+        "5694850173512658421"
+    ],
+    "pub_url": "https://semaphore.uqar.ca/id/eprint/1571",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9S1LaQ8sCE8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

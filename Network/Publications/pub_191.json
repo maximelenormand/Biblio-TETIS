@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Systematic comparison of trip distribution laws and models",
+        "pub_year": 2016,
+        "citation": "Journal of Transport Geography 51, 158-169, 2016",
+        "author": "Maxime Lenormand and Aleix Bassolas and Jos\u00e9 J Ramasco",
+        "journal": "Journal of Transport Geography",
+        "volume": "51",
+        "pages": "158-169",
+        "abstract": "Trip distribution laws are basic for the travel demand characterization needed in transport and urban planning. Several approaches have been considered in the last years. One of them is the so-called gravity law, in which the number of trips is assumed to be related to the population at origin and destination and to decrease with the distance. The mathematical expression of this law resembles Newton's law of gravity, which explains its name. Another popular approach is inspired by the theory of intervening opportunities which argues that the distance has no effect on the destination choice, playing only the role of a surrogate for the number of intervening opportunities between them. In this paper, we perform a thorough comparison between these two approaches in their ability at estimating commuting flows by testing them against empirical trip data at different scales and coming from different countries. Different \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:9ZlFYXVOiuMC",
+    "num_citations": 176,
+    "citedby_url": "/scholar?hl=en&cites=6710059305318003107",
+    "cites_id": [
+        "6710059305318003107"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0966692315002422",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:o7FIA2PrHl0J:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 5,
+        "2017": 8,
+        "2018": 20,
+        "2019": 21,
+        "2020": 23,
+        "2021": 23,
+        "2022": 25,
+        "2023": 41,
+        "2024": 9
+    }
+}

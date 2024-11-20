@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Optimization of transformation protocol for japonica rice cv. Taichung 65 through Agrobacterium tumefaciens",
+        "pub_year": 2015,
+        "citation": "Journal of Science and Development 13, 764-773, 2015",
+        "author": "Hoang Thi Giang and Duc Mai Chung and Hue Nguyen Thi and J\u00e9r\u00e9my Lavarenne and Mathieu Gonin and Thanh Hai Nguyen and Nang Vinh Do and Pascal Gantet",
+        "journal": "Journal of Science and Development",
+        "volume": "13",
+        "pages": "764-773",
+        "abstract": "In  the  present  study,  we  have  successfully  developed  a  transformation  protocol  for  a  rice  variety  Taichung  65 mediated by Agrobacterium tumefacienswith high efficiency, easy manipulation and reductionin labourwork. In the protocol,  we  have  optimized  all  steps  of  transformation,  standardized  components  of  culture  media  and  presented several manipulation experiments. Experimental results have shown that using petri dishes with high edge (15mm) and  exposing  explants  not  only  increased  the  rate  of  callus  formation,  but  also  enhanced  the  size  and  quality  of calluses.  Using  bacterial  suspension  at  density  OD600nm=  0.1  was  optimal  with  high  GUS  expression  in  callus (81.25%)  and  low  contamination.  During  the  selection  phase,  transformed  callusesgrew  better  in  petri  dishes  with high edge (15 mm) and exposing explants. Checking for the presence of R4 promoter at the molecular level showed high frequency of regenerated plantlets carrying thetransgenes (up to 90.24%). GUS expression in different tissues of transgenic plants indicated the high activity of promoter R4, leading to initiate transcription and synthesis ofGUS enzyme. Analysis of T1 plants confirmed the stable inheritance of transgene to the next generation."
+    },
+    "filled": true,
+    "author_pub_id": "A17UErUAAAAJ:eQOLeE2rZwMC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=8648706755210341747",
+    "cites_id": [
+        "8648706755210341747"
+    ],
+    "pub_url": "https://hal.science/hal-03187083/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:c23VlvhgBngJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    }
+}

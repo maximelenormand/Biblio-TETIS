@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Climate mitigation in the Mediterranean Europe: An assessment of regional and city-level plans",
+        "pub_year": 2021,
+        "citation": "Journal of Environmental Management 295 (113146), 2021",
+        "author": "Monica Salvia and Marta Olazabal and Paris A. Fokaides and L\u00e9a Tardieu and Sofia G. Simoes and Davide Geneletti and Sonia De Gregorio Hurtado and Vincent Vigui\u00e9 and Niki-Artemis Spyridaki and Filomena Pietrapertosa and Byron I. Ioannou and Marko Matosovi\u0107 and Alexandros Flamos and Mario V. Balzan and Efren Feliu and Klavdija Ri\u017enar and Nata\u0161a Bel\u0161ak \u0160el and Oliver Heidrich and Diana Reckien",
+        "journal": "Journal of Environmental Management",
+        "volume": "295",
+        "number": "113146",
+        "abstract": "In Europe, regions in the Mediterranean area share common characteristics in terms of high sensitivity to climate change impacts. Does this translate into specificities regarding climate action that could arise from these Mediterranean characteristics? This paper sheds light on regional and local climate mitigation actions of the Mediterranean Europe, focusing on the plans to reduce greenhouse gases emissions in a representative sample of 51 regions and 73 cities across 9 Mediterranean countries (Croatia, Cyprus, France, Greece, Italy, Malta, Portugal, Slovenia, Spain). The study investigates: (i) the availability of local and regional mitigation plans, (ii) their goals in term of greenhouse gas emissions reduction targets on the short and medium-long term, and (iii) the impact of transnational climate networks on such local and regional climate mitigation planning. Results of this study indicate an uneven and fragmented \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:r0BpntZqJG4C",
+    "num_citations": 32,
+    "citedby_url": "/scholar?hl=en&cites=17986356735713235595",
+    "cites_id": [
+        "17986356735713235595"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0301479721012081",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:i1KkwydgnPkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 12,
+        "2023": 17,
+        "2024": 2
+    }
+}

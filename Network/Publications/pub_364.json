@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "BIODIVERSITY\u2013Une Nouvelle Mission Spatiale Pour Le Suivi Des Ecosyst\u00e8mes A Une Echelle Fine, BIODIVERSITY\u2013A new space mission to monitor Earth ecosystems at fine scale",
+        "pub_year": 2022,
+        "citation": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection 224 (1), 33-58, 2022",
+        "author": "Xavier Briottet and Touria Bajjouk and Malik Chami and Christophe Delacourt and Jean-Baptiste Feret and Stephane Jacquemoud and Audrey Minghelli and David Sheeren and Christiane Weber and Sophie Fabre and Karine Adeline and Emmanuelle Vaudour and Sandra Luque and Yannick Deville and Kamel Soudani and Charles Verpooter",
+        "journal": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection",
+        "volume": "224",
+        "number": "1",
+        "pages": "33-58",
+        "publisher": "Societe Francaise de Photogrammetrie",
+        "abstract": "Imaging spectroscopy has demonstrated its interest in characterizing the biochemical, biophysical and structural properties of vegetation, natural and agricultural soils, as well as artificial surfaces. Following the Hyperion mission, new space missions have emerged (PRISMA, EnMap), or are under study (CHIME, SBG). However, one of their main limitations lies in their spatial resolution that induces a large number of mixed pixels reducing their potential for discrimination for very heterogeneous areas. The BIODIVERSITY mission aims to complement these space missions with better GSD acquisitions (typically 8-10 m) with a 5-day revisit on targeted reference sites with identified and well-located characteristics. It will thus make it possible, in particular, to answer two scientific issues that will design the instrument. The first issue concerns the spatial and temporal distribution of vegetation traits in species assemblages; these traits are associated with the resilience of terrestrial ecosystems, anthropogenic influences, and the biodiversity of ecosystems in terms of species composition and assemblages. The second issue relates to improving our knowledge of coastal areas and inland waters in terms of biodiversity, water quality and bathymetry, in order to assess the impact of human activity on their ecosytems. The scientific challenges as well as the user requirements for such a mission are presented for each application."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:wbdj-CoPYUoC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12974283912153699948",
+    "cites_id": [
+        "12974283912153699948"
+    ],
+    "pub_url": "https://archimer.ifremer.fr/doc/00834/94599/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bJb8NnrqDbQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Near real-time agriculture monitoring at national scale at parcel resolution: Performance assessment of the Sen2-Agri automated system in various cropping systems around the world",
+        "pub_year": 2019,
+        "citation": "Remote sensing of environment 221, 551-568, 2019",
+        "author": "Pierre Defourny and Sophie Bontemps and Nicolas Bellemans and Cosmin Cara and G\u00e9rard Dedieu and Eric Guzzonato and Olivier Hagolle and Jordi Inglada and Laurentiu Nicola and Thierry Rabaute and Mickael Savinaud and Cosmin Udroiu and Silvia Valero and Agn\u00e8s B\u00e9gu\u00e9 and Jean-Fran\u00e7ois Dejoux and Abderrazak El Harti and Jamal Ezzahar and Nataliia Kussul and Kamal Labbassi and Valentine Lebourgeois and Zhang Miao and Terrence Newby and Adolph Nyamugama and Norakhan Salh and Andrii Shelestov and Vincent Simonneaux and Pierre Sibiry Traore and Souleymane S Traore and Benjamin Koetz",
+        "journal": "Remote sensing of environment",
+        "volume": "221",
+        "pages": "551-568",
+        "publisher": "Elsevier",
+        "abstract": "The convergence of new EO data flows, new methodological developments and cloud computing infrastructure calls for a paradigm shift in operational agriculture monitoring. The Copernicus Sentinel-2 mission providing a systematic 5-day revisit cycle and free data access opens a completely new avenue for near real-time crop specific monitoring at parcel level over large countries. This research investigated the feasibility to propose methods and to develop an open source system able to generate, at national scale, cloud-free composites, dynamic cropland masks, crop type maps and vegetation status indicators suitable for most cropping systems. The so-called Sen2-Agri system automatically ingests and processes Sentinel-2 and Landsat 8 time series in a seamless way to derive these four products, thanks to streamlined processes based on machine learning algorithms and quality controlled in situ data. It \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:_5tno0g5mFcC",
+    "num_citations": 299,
+    "citedby_url": "/scholar?hl=en&cites=2067494954871388981",
+    "cites_id": [
+        "2067494954871388981"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425718305145",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NXsFGLU3sRwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 26,
+        "2020": 60,
+        "2021": 68,
+        "2022": 68,
+        "2023": 67,
+        "2024": 10
+    }
+}

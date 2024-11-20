@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Vision Transformers, a new approach for high-resolution and large-scale mapping of canopy heights",
+        "pub_year": 2023,
+        "citation": "arXiv preprint arXiv:2304.11487, 2023",
+        "author": "Ibrahim Fayad and Philippe Ciais and Martin Schwartz and Jean-Pierre Wigneron and Nicolas Baghdadi and Aur\u00e9lien de Truchis and Alexandre d'Aspremont and Frederic Frappart and Sassan Saatchi and Agnes Pellissier-Tanon and Hassan Bazzi",
+        "journal": "arXiv preprint arXiv:2304.11487",
+        "abstract": "Accurate and timely monitoring of forest canopy heights is critical for assessing forest dynamics, biodiversity, carbon sequestration as well as forest degradation and deforestation. Recent advances in deep learning techniques, coupled with the vast amount of spaceborne remote sensing data offer an unprecedented opportunity to map canopy height at high spatial and temporal resolutions. Current techniques for wall-to-wall canopy height mapping correlate remotely sensed 2D information from optical and radar sensors to the vertical structure of trees using LiDAR measurements. While studies using deep learning algorithms have shown promising performances for the accurate mapping of canopy heights, they have limitations due to the type of architectures and loss functions employed. Moreover, mapping canopy heights over tropical forests remains poorly studied, and the accurate height estimation of tall canopies is a challenge due to signal saturation from optical and radar sensors, persistent cloud covers and sometimes the limited penetration capabilities of LiDARs. Here, we map heights at 10 m resolution across the diverse landscape of Ghana with a new vision transformer (ViT) model optimized concurrently with a classification (discrete) and a regression (continuous) loss function. This model achieves better accuracy than previously used convolutional based approaches (ConvNets) optimized with only a continuous loss function. The ViT model results show that our proposed discrete/continuous loss significantly increases the sensitivity for very tall trees (i.e., > 35m), for which other approaches show saturation effects. The height maps \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:3A3nxV7CjKIC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=15039481082935736181",
+    "cites_id": [
+        "15039481082935736181"
+    ],
+    "pub_url": "https://arxiv.org/abs/2304.11487",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dXeXwlz4ttAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

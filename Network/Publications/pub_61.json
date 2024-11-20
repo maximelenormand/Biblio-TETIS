@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Bringing Lurking in Game Theory",
+        "pub_year": 2018,
+        "citation": "Mining Lurkers in Online Social Networks: Principles, Models, and \u2026, 2018",
+        "author": "Andrea Tagarelli and Roberto Interdonato and Andrea Tagarelli and Roberto Interdonato",
+        "journal": "Mining Lurkers in Online Social Networks: Principles, Models, and Computational Methods",
+        "pages": "77-85",
+        "publisher": "Springer International Publishing",
+        "abstract": "In this chapter, we describe the Lurker Game, i.e., a model for analyzing the transitions from a lurking to a non-lurking (i.e., active) user role, and vice versa, in terms of evolutionary game theory. A study carried out on different complex network models shows how the Lurker Game is suitable to model lurking dynamics, and how the adoption of rewarding mechanisms combined with the modeling of hypothetical heterogeneity of users\u2019 interests may lead users in an online community towards a cooperative behavior."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:Zph67rFs4hoC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-00229-9_8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ooh8y1CND4kJ:scholar.google.com/",
+    "cites_per_year": {}
+}

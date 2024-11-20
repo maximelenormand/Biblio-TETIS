@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An Influence Maximization based approach to the Engagement of Silent Users in Online Social Networks.",
+        "pub_year": 2017,
+        "citation": "SEBD, 210, 2017",
+        "author": "Roberto Interdonato and Chiara Pulice and Andrea Tagarelli",
+        "conference": "SEBD",
+        "pages": "210",
+        "abstract": "We discuss a targeted influence maximization (TIM) approach, based on the linear threshold (LT) diffusion model, which is designed to support the engagement of silent members, aka lurkers, of an online social network. A key aspect of this approach is the objective function of the underlying optimization problem, which is defined in terms of the lurking scores associated with the nodes in the final active set, or delurking capital. The resulting TIM problem shares the computational intractability with classic influence maximization (IM) problems. However, since the proposed objective function is shown to be monotone and submodular under the LT model, a greedy algorithm (with a guaranteed approximation ratio) is provided to compute a k-node set that maximizes the delurking capital in the network, for a given lurking threshold. Results have demonstrated the significance of our approach. A comparative evaluation with state-of-the-art algorithms for non-targeted and targeted LT-based IM has also shown the superiority of our approach in terms of the estimated overall delurking capital."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:hqOjcs7Dif8C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12906953985536581877",
+    "cites_id": [
+        "12906953985536581877"
+    ],
+    "pub_url": "http://ceur-ws.org/Vol-2037/paper_30.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9WA4EES2HrMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

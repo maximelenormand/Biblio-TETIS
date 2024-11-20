@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Calibration of the water cloud model at C-band for winter crop fields and grasslands",
+        "pub_year": 2017,
+        "citation": "Remote Sensing 9 (9), 969, 2017",
+        "author": "Nicolas Baghdadi and Mohammad El Hajj and Mehrez Zribi and Safa Bousbih",
+        "journal": "Remote Sensing",
+        "volume": "9",
+        "number": "9",
+        "pages": "969",
+        "publisher": "MDPI",
+        "abstract": "In a perspective to develop an inversion approach for estimating surface soil moisture of crop fields from Sentinel-1/2 data (radar and optical sensors), the Water Cloud Model (WCM) was calibrated from C-band Synthetic Aperture Radar (SAR) data and Normalized Difference Vegetation Index (NDVI) values collected over crops fields and grasslands. The soil contribution that depends on soil moisture and surface roughness (in addition to SAR instrumental parameters) was simulated using the physical backscattering model IEM (Integral Equation Model). The vegetation descriptor used in the WCM is the NDVI because it can be directly calculated from optical images. A large dataset consisting of radar backscattered signal in Vertical transmit and Vertical receive (VV) and Vertical transmit and Horizontal receive (VH) polarizations with wide range of incidence angle, soil moisture, surface roughness, and NDVI-values was used. It was collected over two agricultural study sites. Results show that the soil contribution to the total radar backscattered signal is lower in VH than in VV because VH is more sensitive to vegetation cover. Thus, the use of VH alone or in addition to VV for retrieving the soil moisture is not advantageous in presence of well-developed vegetation cover."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:edDO8Oi4QzsC",
+    "num_citations": 186,
+    "citedby_url": "/scholar?hl=en&cites=6660091961160791714",
+    "cites_id": [
+        "6660091961160791714"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/9/9/969",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:onZsHFpmbVwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 10,
+        "2019": 32,
+        "2020": 32,
+        "2021": 44,
+        "2022": 35,
+        "2023": 28,
+        "2024": 3
+    }
+}

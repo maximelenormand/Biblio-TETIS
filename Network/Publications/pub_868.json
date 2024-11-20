@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Elaboration of a new framework for fine-grained epidemiological annotation",
+        "pub_year": 2022,
+        "citation": "Scientific Data 9 (1), 655, 2022",
+        "author": "Sarah Valentin and Elena Arsevska and Aline Vilain and Val\u00e9rie De Waele and Renaud Lancelot and Mathieu Roche",
+        "journal": "Scientific Data",
+        "volume": "9",
+        "number": "1",
+        "pages": "655",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "Event-based surveillance (EBS) gathers information from a variety of data sources, including online news articles. Unlike the data from formal reporting, the EBS data are not structured, and their interpretation can overwhelm epidemic intelligence (EI) capacities in terms of available human resources. Therefore, diverse EBS systems that automatically process (all or part of) the acquired nonstructured data from online news articles have been developed. These EBS systems (e.g., GPHIN, HealthMap, MedISys, ProMED, PADI-web) can use annotated data to improve the surveillance systems. This paper describes a framework for the annotation of epidemiological information in animal disease-related news articles. We provide annotation guidelines that are generic and applicable to both animal and zoonotic infectious diseases, regardless of the pathogen involved or its mode of transmission (e.g., vector-borne \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:kNdYIx-mwKoC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=11638368301292414811",
+    "cites_id": [
+        "11638368301292414811"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41597-022-01743-2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W2ezq07Kg6EJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 2
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "3D urban data to assess local urban regulation influence",
+        "pub_year": 2018,
+        "citation": "Computers, Environment and Urban Systems 68, 37-52, 2018",
+        "author": "Micka\u00ebl Brasebin and Julien Perret and S\u00e9bastien Musti\u00e8re and Christiane Weber",
+        "journal": "Computers, Environment and Urban Systems",
+        "volume": "68",
+        "pages": "37-52",
+        "publisher": "Pergamon",
+        "abstract": "Systematically assessing the influence of new urban plans is an important challenge for designing them efficiently. In this paper, we propose a method to assess the influence of local \u2018Right to Build\u2019 regulations on constructibility. Our method is based on an optimization algorithm that generates building configurations. This method requires a geographic model that supports the formalization of the Right to Build regulation in order to check if a building respects it. The proposed approach relies on the trans-dimensional simulated annealing optimization method, which produces building configurations composed of a set of parametric objects (boxes in our implementation). Our proposition is released as the SimPLU3D Open-Source project (http://ignf.github.io/simplu3D/). In this paper, we present some tests and results based on this implementation and a use related to the assistance to \u2018Right to Build\u2019 designers."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:ClCfbGk0d_YC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=12613652557432661585",
+    "cites_id": [
+        "12613652557432661585"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0198971516302162",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Uab4xSuyDK8J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 2,
+        "2020": 3,
+        "2021": 1,
+        "2022": 5,
+        "2023": 0,
+        "2024": 1
+    }
+}

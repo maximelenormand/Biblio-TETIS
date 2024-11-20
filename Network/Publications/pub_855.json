@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Air pollution removal by trees in public green spaces in Strasbourg city, France",
+        "pub_year": 2016,
+        "citation": "Urban forestry & urban greening 17, 192-201, 2016",
+        "author": "Wissal Selmi and Christiane Weber and Emmanuel Rivi\u00e8re and Nad\u00e8ge Blond and Lotfi Mehdi and David Nowak",
+        "journal": "Urban forestry & urban greening",
+        "volume": "17",
+        "pages": "192-201",
+        "publisher": "Urban & Fischer",
+        "abstract": "This study integrates i-Tree Eco model in order to estimate air pollution removal by urban trees in Strasbourg city, France. Applied for the first time in a French city, the model shows that public trees, i.e., trees managed by the city, removed about 88 t of pollutants during one year period (from July 2012 to June 2013): about 1 ton for CO; 14 tons for NO2; 56 tons for O3; 12 tons for PM10coarse (particles with diameter ranging from 2.5 to 10 \u03bcm); 5 tons for PM2.5 and 1 ton for SO2. Air pollution removal varied mainly with the tree cover and the level of air pollutants concentrations. Comparison between simulated pollution removal rates and local emissions shows that public trees of Strasbourg reduce about 7% of the emitted PM10coarse in the city\u2019s atmosphere; however, effect on other air pollutants is small. Thus, our study reveals that urban trees are a significant element to reduce air pollution but are not the only \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:2KloaMYe4IUC",
+    "num_citations": 474,
+    "citedby_url": "/scholar?hl=en&cites=14806787785224376230",
+    "cites_id": [
+        "14806787785224376230"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1618866716301571",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pk_kegpHfM0J:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 6,
+        "2017": 27,
+        "2018": 48,
+        "2019": 67,
+        "2020": 72,
+        "2021": 85,
+        "2022": 84,
+        "2023": 62,
+        "2024": 19
+    }
+}

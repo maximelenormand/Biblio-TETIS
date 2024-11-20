@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "La r\u00e9serve d\u2019actifs naturels, chapitre 12",
+        "pub_year": 2015,
+        "citation": "retaurer la nature ppour att\u00e9nuer les impacts du d\u00e9veloppement, analyse des \u2026, 2015",
+        "author": "Coralie Calvet and Harold Levrel and Claude Napol\u00e9one and Thierry Dutoit",
+        "journal": "retaurer la nature ppour att\u00e9nuer les impacts du d\u00e9veloppement, analyse des mesures compensatoires pour la biodiversit\u00e9",
+        "pages": "314"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:aqlVkmm33-oC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=12785112913206506757",
+    "cites_id": [
+        "12785112913206506757"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=12785112913206506757&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BfXuxHTYbbEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 0,
+        "2020": 1
+    }
+}

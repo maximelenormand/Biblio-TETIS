@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Complementarity between textural and radiometric indices from airborne and spaceborne multi VHSR Data: Disentangling the complexity of heterogeneous landscape matrix",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (6), 693, 2019",
+        "author": "Marc Lang and Samuel Alleaume and Sandra Luque and Nicolas Baghdadi and Jean-Baptiste F\u00e9ret",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "6",
+        "pages": "693",
+        "publisher": "MDPI",
+        "abstract": "The quantitative characterization of landscape structure is critical to assess conservation, and monitor and manage biodiversity. The Mediterranean Basin is a biodiversity hotspot that illustrates the strong relationship between biodiversity and the complexity of the landscape mosaic. Our objective was to test the relevance of two textural indices and one radiometric index (the normalized difference vegetation index (NDVI)) to characterize vegetation structure. These indices could be used as indicators of vegetation composition and organization of four vertical strata when derived from airborne and Pl\u00e9iades space-borne VHSR imagery. More specifically, we analyzed the influence of the spatial resolution and the radiometric information on the characterization of the landscape structure. Our results indicated that NDVI information at 0.5 m spatial resolution was necessary to be able to incorporate the heterogeneity of vegetation structure. Indices derived from lower resolution NDVI images or different radiometric information than airborne images also proved to be sensitive to vegetation fragmentation and composition. NDVI images brought out details on ligneous/herbs patterns while panchromatic image brought out more details on herbs/bare soil patterns. Combined textural and NDVI indices show strong potential for vegetation structure understanding, allowing detailed mapping. NDVI information shows good potential for applications related to landscape closure dynamics; related habitat degradation indicators caused by shrub encroachment. Panchromatic derived information, on the other hand, provides information relevant in applications focusing \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:5nxA0vEk-isC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=4768871509520865400",
+    "cites_id": [
+        "4768871509520865400"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/6/693",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:eNh4EF9vLkIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

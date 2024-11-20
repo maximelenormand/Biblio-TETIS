@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Forage Biomass Estimation Using Sentinel-2 Imagery at High Latitudes",
+        "pub_year": 2023,
+        "citation": "Remote Sensing 15 (9), 2350, 2023",
+        "author": "Junxiang Peng and Niklas Zeiner and David Parsons and Jean-Baptiste F\u00e9ret and Mats S\u00f6derstr\u00f6m and Julien Morel",
+        "journal": "Remote Sensing",
+        "volume": "15",
+        "number": "9",
+        "pages": "2350",
+        "publisher": "MDPI",
+        "abstract": "Forages are the most important kind of crops at high latitudes and are the main feeding source for ruminant-based dairy industries. Maximizing the economic and ecological performances of farms and, to some extent, of the meat and dairy sectors require adequate and timely supportive field-specific information such as available biomass. Sentinel-2 satellites provide open access imagery that can monitor vegetation frequently. These spectral data were used to estimate the dry matter yield (DMY) of harvested forage fields in northern Sweden. Field measurements were conducted over two years at four sites with contrasting soil and climate conditions. Univariate regression and multivariate regression, including partial least square, support vector machine and random forest, were tested for their capability to accurately and robustly estimate in-season DMY using reflectance values and vegetation indices obtained from Sentinel-2 spectral bands. Models were built using an iterative (300 times) calibration and validation approach (75% and 25% for calibration and validation, respectively), and their performances were formally evaluated using an independent dataset. Among these algorithms, random forest regression (RFR) produced the most stable and robust results, with Nash\u2013Sutcliffe model efficiency (NSE) values (average \u00b1 standard deviation) for the calibration, validation and evaluation of 0.92 \u00b1 0.01, 0.55 \u00b1 0.22 and 0.86 \u00b1 0.04, respectively. Although relatively promising, these results call for larger and more comprehensive datasets as performances vary largely between calibration, validation and evaluation datasets. Moreover, RFR, as any \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:5ugPr518TE4C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7514381268569925107",
+    "cites_id": [
+        "7514381268569925107"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/15/9/2350",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:86X1a_NxSGgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

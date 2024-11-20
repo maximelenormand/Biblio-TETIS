@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Influence of GEDI acquisition and processing parameters on canopy height estimates over tropical forests",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (24), 6264, 2022",
+        "author": "Kamel Lahssini and Nicolas Baghdadi and Guerric Le Maire and Ibrahim Fayad",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "24",
+        "pages": "6264",
+        "publisher": "MDPI",
+        "abstract": "LiDAR technology has been widely used to characterize structural parameters of forest ecosystems, which in turn are valuable information for forest monitoring. GEDI is a spaceborne LiDAR system specifically designed to measure vegetation\u2019s vertical structure, and it has been acquiring waveforms on a global scale since April 2019. In particular, canopy height is an important descriptor of forest ecosystems, as it allows for quantifying biomass and other inventory information. This paper analyzes the accuracy of canopy height estimates from GEDI data over tropical forests in French Guiana and Gabon. The influence of various signal acquisition and processing parameters is assessed to highlight how they impact the estimation of canopy heights. Canopy height models derived from airborne LiDAR data are used as reference heights. Several linear and non-linear approaches are tested given the richness of the available GEDI information. The results show that the use of regression models built on multiple GEDI metrics allows for reaching improved accuracies compared to a direct estimation from a single GEDI height metric. In a notable way, random forest improves the canopy height estimation accuracy by almost 80% (in terms of RMSE) compared to the use of rh_95 as a direct proxy of canopy height. Additionally, convolutional neural networks calibrated on GEDI waveforms exhibit similar results to the ones of other regression models. Beam type as well as beam sensitivity, which are related to laser penetration, appear as parameters of major influence on the data derived from GEDI waveforms and used as input for canopy height estimation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:R22Rs3tN8aoC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=9113673837582592125",
+    "cites_id": [
+        "9113673837582592125"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/24/6264",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fajhpxFGen4J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 4,
+        "2024": 4
+    }
+}

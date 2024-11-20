@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Distilling before refine: Spatio-temporal transfer learning for mapping irrigated areas using Sentinel-1 time series",
+        "pub_year": 2020,
+        "citation": "IEEE Geoscience and Remote Sensing Letters 17 (11), 1909-1913, 2020",
+        "author": "Hassan Bazzi and Dino Ienco and Nicolas Baghdadi and Mehrez Zribi and Val\u00e9rie Demarez",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "volume": "17",
+        "number": "11",
+        "pages": "1909-1913",
+        "publisher": "IEEE",
+        "abstract": "This letter proposes a deep learning model to deal with the spatial transfer challenge for the mapping of irrigated areas through the analysis of Sentinel-1 data. First, a convolutional neural network (CNN) model called \u201cTeacher Model\u201d is trained on a source geographical area characterized by a huge volume of samples. Then, this model is transferred from the source area to the target area characterized by a limited number of samples. The transfer learning framework is based on a distill and refine strategy, in which the teacher model is first distilled into a student model and, successively, refined by data samples coming from the target geographical area. The proposed strategy is compared with different approaches including a random forest (RF) classifier trained on the target data set and a CNN trained on the source data set and directly applied on the target area as well as several CNN classifiers trained on the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:OBSaB-F7qqsC",
+    "num_citations": 22,
+    "citedby_url": "/scholar?hl=en&cites=18379143520978168776",
+    "cites_id": [
+        "18379143520978168776"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8951247/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yGvTy6fVD_8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 3,
+        "2022": 7,
+        "2023": 6,
+        "2024": 2
+    }
+}

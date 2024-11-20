@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluation of the performances of radar and lidar altimetry missions for water level retrievals in mountainous environment: The case of the Swiss lakes",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (11), 2196, 2021",
+        "author": "Fr\u00e9d\u00e9ric Frappart and Fabien Blarel and Ibrahim Fayad and Muriel Berg\u00e9-Nguyen and Jean-Fran\u00e7ois Cr\u00e9taux and Song Shu and Jo\u00ebl Schregenberger and Nicolas Baghdadi",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "11",
+        "pages": "2196",
+        "publisher": "MDPI",
+        "abstract": "Radar altimetry is now commonly used to provide long-term monitoring of inland water levels in complement to or for replacing disappearing in situ networks of gauge stations. Recent improvements in tracking and acquisition modes improved the quality the water retrievals. The newly implemented Open Loop mode is likely to increase the number of monitored water bodies owing to the use of an a priori elevation, especially in hilly and mountainous areas. The novelty of this study is to provide a comprehensive evaluation of the performances of the past and current radar altimetry missions according to their acquisition (Low Resolution Mode or Synthetic Aperture Radar) and tracking (close or open loop) modes, and acquisition frequency (Ku or Ka) in a mountainous area where tracking losses of the signal are likely to occur, as well as of the recently launched ICESat-2 and GEDI lidar missions. To do so, we evaluate the quality of water level retrievals from most radar altimetry missions launched after 1995 over eight lakes in Switzerland, using the recently developed ALtimetry Time Series software, to compare the performances of the new tracking and acquisition modes and also the impact of the frequency used. The combination of the Open Loop tracking mode with the Synthetic Aperture Radar acquisition mode on SENTINEL-3A and B missions outperforms the classical Low Resolution Mode of the other missions with a lake observability greater than 95%, an almost constant bias of (\u22120.17 \u00b1 0.04) m, a RMSE generally lower than 0.07 m and a R most of the times higher than 0.85 when compared to in situ gauge records. To increase the number of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:X0DADzN9RKwC",
+    "num_citations": 40,
+    "citedby_url": "/scholar?hl=en&cites=3587143987097438661",
+    "cites_id": [
+        "3587143987097438661"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/11/2196",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xQkfZXMYyDEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 7,
+        "2022": 15,
+        "2023": 17,
+        "2024": 1
+    }
+}

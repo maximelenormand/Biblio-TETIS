@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Learning deep structured active contours end-to-end",
+        "pub_year": 2018,
+        "citation": "Proceedings of the IEEE conference on computer vision and pattern \u2026, 2018",
+        "author": "Diego Marcos and Devis Tuia and Benjamin Kellenberger and Lisa Zhang and Min Bai and Renjie Liao and Raquel Urtasun",
+        "conference": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+        "pages": "8877-8885",
+        "abstract": "The world is covered with millions of buildings, and precisely knowing each instance's position and extents is vital to a multitude of applications. Recently, automated building footprint segmentation models have shown superior detection accuracy thanks to the usage of Convolutional Neural Networks (CNN). However, even the latest evolutions struggle to precisely delineating borders, which often leads to geometric distortions and inadvertent fusion of adjacent building instances. We propose to overcome this issue by exploiting the distinct geometric properties of buildings. To this end, we present Deep Structured Active Contours (DSAC), a novel framework that integrates priors and constraints into the segmentation process, such as continuous boundaries, smooth edges, and sharp corners. To do so, DSAC employs Active Contour Models (ACM), a family of constraint-and prior-based polygonal models. We learn ACM parameterizations per instance using a CNN, and show how to incorporate all components in a structured output model, making DSAC trainable end-to-end. We evaluate DSAC on three challenging building instance segmentation datasets, where it compares favorably against state-of-the-art. Code will be made available."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:LkGwnXOMwfcC",
+    "num_citations": 177,
+    "citedby_url": "/scholar?hl=en&cites=1193297421461090891,2187770592826270920",
+    "cites_id": [
+        "1193297421461090891",
+        "2187770592826270920"
+    ],
+    "pub_url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Marcos_Learning_Deep_Structured_CVPR_2018_paper.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:S_KTta5xjxAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 24,
+        "2020": 38,
+        "2021": 39,
+        "2022": 35,
+        "2023": 32,
+        "2024": 9
+    }
+}

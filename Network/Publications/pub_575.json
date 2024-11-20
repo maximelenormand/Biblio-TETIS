@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Cereal crops soil parameters retrieval using L-band ALOS-2 and C-band sentinel-1 sensors",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (7), 1393, 2021",
+        "author": "Emna Ayari and Zeineb Kassouk and Zohra Lili-Chabaane and Nicolas Baghdadi and Safa Bousbih and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "7",
+        "pages": "1393",
+        "publisher": "MDPI",
+        "abstract": "This paper discusses the potential of L-band Advanced Land Observing Satellite-2 (ALOS-2) and C-band Sentinel-1 radar data for retrieving soil parameters over cereal fields. For this purpose, multi-incidence, multi-polarization and dual-frequency satellite data were acquired simultaneously with in situ measurements collected over a semiarid area, the Merguellil Plain (central Tunisia). The L- and C-band signal sensitivity to soil roughness, moisture and vegetation was investigated. High correlation coefficients were observed between the radar signals and soil roughness values for all processed multi-configurations of ALOS-2 and Sentinel-1 data. The sensitivity of SAR (Synthetic Aperture Radar) data to soil moisture was investigated for three classes of the normalized difference vegetation index (NDVI) (low vegetation cover, medium cover and dense cover), illustrating a decreasing sensitivity with increasing NDVI values. The highest sensitivity to soil moisture under the dense cover class is observed in L-band data. For various vegetation properties (leaf area index (LAI), height of vegetation cover (H) and vegetation water content (VWC)), a strong correlation is observed with the ALOS-2 radar signals (in HH(Horizontal-Horizontal) and HV(Horizontal-Vertical) polarizations). Different empirical models that link radar signals (in the L- and C-bands) to soil moisture and roughness parameters, as well as the semi-empirical Dubois modified model (Dubois-B) and the modified integral equation model (IEM-B), over bare soils are proposed for all polarizations. The results reveal that IEM-B performed a better accuracy comparing to Dubois-B. This analysis \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:oPLKW5k6eA4C",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=13972802042255152586",
+    "cites_id": [
+        "13972802042255152586"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/7/1393",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ypV4JW1d6cEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 12,
+        "2023": 8
+    }
+}

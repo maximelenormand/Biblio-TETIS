@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Semi-supervised clustering with multiresolution autoencoders",
+        "pub_year": 2018,
+        "citation": "2018 International Joint Conference on Neural Networks (IJCNN), 1-8, 2018",
+        "author": "Dino Ienco and Ruggero G Pensa",
+        "conference": "2018 International Joint Conference on Neural Networks (IJCNN)",
+        "pages": "1-8",
+        "publisher": "IEEE",
+        "abstract": "In most real world clustering scenarios, experts generally dispose of limited background information, but such knowledge is valuable and may guide the analysis process. Semi-supervised clustering can be used to drive the algorithmic process with prior knowledge and to enable the discovery of clusters that meet the analyst's expectations. Usually, in the semi-supervised clustering setting, the background knowledge is converted to some kind of constraint and, successively, metric learning or constrained clustering are adopted to obtain the final data partition. Conversely, we propose a new semi-supervised clustering algorithm that directly exploits prior knowledge, under the form of labeled examples, avoiding the necessity to derive constraints. Our algorithm employs a multiresolution strategy to generate an ensemble of semi-supervised autoencoders that fit the data together with the background knowledge \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:BJtnxTr0fRcC",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=8568120730171581802",
+    "cites_id": [
+        "8568120730171581802"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8489353/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aqWJgmgU6HYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 4,
+        "2021": 1,
+        "2022": 4,
+        "2023": 2
+    }
+}

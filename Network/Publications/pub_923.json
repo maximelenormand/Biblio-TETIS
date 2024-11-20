@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Preparing the future: The HYPXIM mission",
+        "pub_year": 2016,
+        "citation": "Proceedings of the 36th EARSeL Symposium, Bonn, Germany, 20-24, 2016",
+        "author": "Marie-Jos\u00e9 Lef\u00e8vre-Fonollosa and T Bajouk and X Briottet and V Carr\u00e8re and C Delacourt and J Feret and J Gastellu-Etchegorry and C Gomez and S Jacquemoud and N Le Dantec and R Marion and T Petit and C Weber",
+        "journal": "Proceedings of the 36th EARSeL Symposium, Bonn, Germany",
+        "pages": "20-24",
+        "abstract": "\u25a0 After 2 preliminary studies (ie phase 0) conducted by CNES and its institutional and industrial partners (2009-2010/2011-2012), A phase A based on a very performant instrument took place mid-2012 but was frozen in early 2013 for financial reasons. An option of demonstrator was also considered in 2015, studying the interest of very low orbits (VLEO)."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:pqnbT2bcN3wC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=13454255946791709598",
+    "cites_id": [
+        "13454255946791709598"
+    ],
+    "pub_url": "https://www.sfpt.fr/hyperspectral/wp-content/uploads/2016/08/EARSeL-2016-Hyperspectral_-HYPXIM_V4.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nuu0-X8et7oJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 2,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1
+    }
+}

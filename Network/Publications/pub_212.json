@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of the normalized polarization ratio and the interferometric coherence Sentinel-1 data to reconstruct the NDVI wheat cycle at a field scale",
+        "pub_year": 2023,
+        "citation": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2023",
+        "author": "Emna Ayari and Zeineb Kassouk and Zohra Lili Chabaane and Nadia Ouaadi and Nicolas Baghdadi and Mehrez Zribi",
+        "conference": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "3217-3220",
+        "publisher": "IEEE",
+        "abstract": "The aim of this study is to retrieve the NDVI values during the wheat cycle using the radar data over reference fields located in the Kairouan plain in the center of Tunisia. The developed approach is based on the use of C-band Sentinel-1 acquisition specifically the cross-polarization ratio and the estimated coherence as features of curve fitting equations and machine learning algorithms such as the random forest and the support vector machine regressors. The NDVI retrieve according to the wheat growth stage, at a field scale, was marked by RMSE values lower than 0.13 and bias values under -0.03"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:GYcXSSpN504C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=9865033693840000638",
+    "cites_id": [
+        "9865033693840000638"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10282255/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fsaXmuCj54gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

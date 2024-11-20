@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Optical and radar satellite synergy for the estimation of the surface water condition",
+        "pub_year": 2018,
+        "citation": "EGU General Assembly Conference Abstracts, 7804, 2018",
+        "author": "Safa Bousbih and Mehrez Zribi and Zohra Lili-Chabaane and Nicolas Baghdadi and Mohammad El Hajj and Bernard Mougenot",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "7804",
+        "abstract": "Soil moisture is a key parameter in agricultural process and an important measure for crop yield prediction. The monitoring of soil moisture allows a quick detection of water stress over agricultural areas. Radar sensors allow Soil moisture mapping regardless of the meteorological and temporal conditions. With the arrival of Sentinel-1 and Sentinel-2 ESA spatial missions, data is acquired with high spatial and temporal resolution over different regions in the world. In the semi arid regions the absence of rainfall, with the occurrence of long periods of drought, represents one of the main environmental factors having a negative effect on agricultural productivity. The evaluation of vegetation cover and the monitoring of soil moisture are indispensable in these regions. The aim of this study is to optimize an optical and radar data synergy for a regional mapping of soil water content, through experimental campaigns over \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:8xutWZnSdmoC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.7804B/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oQdO3OiiJCMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

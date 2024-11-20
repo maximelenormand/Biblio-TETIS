@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sensitivity of Sentinel-1 radar data to soil and vegetation parameters",
+        "pub_year": 2018,
+        "citation": "Fifth recent advances in quantitative remote sensing, 292, 2018",
+        "author": "Safa Bousbih and Mehrez Zribi and Zohra Lili-Chabaane and Pascal Fanise and Bernard Mougenot and Nicolas Baghdadi",
+        "journal": "Fifth recent advances in quantitative remote sensing",
+        "pages": "292",
+        "publisher": "Universitat de Val\u00e8ncia",
+        "abstract": "In semi-arid regions, climate is characterized by extended periods of drought. In this context, the characterization of surface parameters play a key role in the modeling of the water balance. The aim of this study is to analyze the potential of Sentinel-1 (S1) radar data to soil characteristics (roughness and water content) and to vegetation parameters (Leaf Area Index\" LAI \u201cand Vegetation Water Content\" VWC \u201c) in agricultural areas. Simultaneously to several radar acquisitions over the Kairouan Plain (Tunisia, North Africa), acquired between 2015 and 2017 using S1 sensors, ground measurements (soil roughness, soil water content, LAI, VWC) were carried out. The NDVI (Normalized Difference Vegetation Index) index calculated from Landsat optical images revealed a strong correlation with in situ measurements of LAI and VWC. The sensitivity of the S1 measurements to variations in soil moisture, which has been reported in several scientific publications, is confirmed in this study. This sensitivity decreases with increasing vegetation cover growth (NDVI), and is stronger in the VV than in the VH polarization. The results also reveal a similar increase in the dynamic range of the radar signals observed in VV and VH polarizations, as a function of soil roughness. The sensitivity of S1 measurements to vegetation parameters (LAI and H) in the VV polarization is also determined, showing that the radar signal strength decreases when the vegetation parameters increase. No vegetation parameter sensitivity is observed in the VH polarization, probably as a consequence of volume scattering effects."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:jgBuDB5drN8C",
+    "num_citations": 0,
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=qwV_DwAAQBAJ&oi=fnd&pg=PA292&dq=info:S3zCSr7qBgsJ:scholar.google.com&ots=61mPxaC0xs&sig=e_V0fc1fw2l0HzM1Fcw5D3dj1mA",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:S3zCSr7qBgsJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PDiscoNet: Semantically consistent part discovery for fine-grained recognition",
+        "pub_year": 2023,
+        "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision \u2026, 2023",
+        "author": "Robert van der Klis and Stephan Alaniz and Massimiliano Mancini and Cassio F Dantas and Dino Ienco and Zeynep Akata and Diego Marcos",
+        "conference": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+        "pages": "1866-1876",
+        "abstract": "Fine-grained classification often requires recognizing specific object parts, such as beak shape and wing patterns for birds. Encouraging a fine-grained classification model to first detect such parts and then using them to infer the class could help us gauge whether the model is indeed looking at the right details better than with interpretability methods that provide a single attribution map. We propose PDiscoNet to discover object parts by using only image-level class labels along with priors encouraging the parts to be: discriminative, compact, distinct from each other, equivariant to rigid transforms, and active in at least some of the images. In addition to using the appropriate losses to encode these priors, we propose to use part-dropout, where full part feature vectors are dropped at once to prevent a single part from dominating in the classification, and part feature vector modulation, which makes the information coming from each part distinct from the perspective of the classifier. Our results on CUB, CelebA, and PartImageNet show that the proposed method provides substantially better part discovery performance than previous methods while not requiring any additional hyper-parameter tuning and without penalizing the classification performance."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:QIV2ME_5wuYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1823681273174544736",
+    "cites_id": [
+        "1823681273174544736"
+    ],
+    "pub_url": "https://openaccess.thecvf.com/content/ICCV2023/html/van_der_Klis_PDiscoNet_Semantically_consistent_part_discovery_for_fine-grained_recognition_ICCV_2023_paper.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YNEZp3QETxkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

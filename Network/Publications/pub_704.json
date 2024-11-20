@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of the relationship between backscattered P-band radar signals and soil roughness",
+        "pub_year": 2016,
+        "citation": "Remote Sensing of Environment 186, 13-21, 2016",
+        "author": "Mehrez Zribi and M Sahnoun and N Baghdadi and Thuy Le Toan and A Ben Hamida",
+        "journal": "Remote Sensing of Environment",
+        "volume": "186",
+        "pages": "13-21",
+        "publisher": "Elsevier",
+        "abstract": "In this paper, the potential use of P-band radar signals for the estimation of soil roughness parameters is analyzed. The numerical moment method backscattering model is used to study the sensitivity to soil roughness parameters of backscattered P-band signals. Two roughness scales related to terrain microtopography and low frequency roughness structures are considered. In the case of microtopography, the rms height is shown to be the dominant influence in the relationship between radar signals and roughness. For low frequency structures, the parameter Zs is strongly correlated with the backscattered signals. An analysis of the behavior of P-band radar signals as a function of multi-scale soil roughness (microtopography and large-scale roughness structures) reveals the complexity of using P-band data for the study of bare surface soil parameters.The Moment method model is then compared with the real \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:WA5NYHcadZ8C",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=7712871545308971169",
+    "cites_id": [
+        "7712871545308971169"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425716303091",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oQBcUM6fCWsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 1,
+        "2019": 1,
+        "2020": 1,
+        "2021": 0,
+        "2022": 4,
+        "2023": 1,
+        "2024": 1
+    }
+}

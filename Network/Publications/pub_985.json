@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Leaf-rolling in maize crops: from leaf scoring to canopy-level measurements for phenotyping",
+        "pub_year": 2018,
+        "citation": "Journal of experimental botany 69 (10), 2705-2716, 2018",
+        "author": "Frederic Baret and Simon Madec and Kamran Irfan and Jeremy Lopez and Alexis Comar and Matthieu Hemmerl\u00e9 and Dan Dutartre and Sebastien Praud and Marie Helene Tixier",
+        "journal": "Journal of experimental botany",
+        "volume": "69",
+        "number": "10",
+        "pages": "2705-2716",
+        "publisher": "Oxford University Press",
+        "abstract": "Leaf rolling in maize crops is one of the main plant reactions to water stress that can be visually scored in the field. However, leaf-scoring techniques do not meet the high-throughput requirements needed by breeders for efficient phenotyping. Consequently, this study investigated the relationship between leaf-rolling scores and changes in canopy structure that can be determined by high-throughput remote-sensing techniques. Experiments were conducted in 2015 and 2016 on maize genotypes subjected to water stress. Leaf-rolling was scored visually over the whole day around the flowering stage. Concurrent digital hemispherical photographs were taken to evaluate the impact of leaf-rolling on canopy structure using the computed fraction of intercepted diffuse photosynthetically active radiation, FIPARdif. The results showed that leaves started to roll due to water stress around 09:00 h and leaf-rolling reached \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:9yKSN-GCB0IC",
+    "num_citations": 75,
+    "citedby_url": "/scholar?hl=en&cites=481636141335479665",
+    "cites_id": [
+        "481636141335479665"
+    ],
+    "pub_url": "https://academic.oup.com/jxb/article-abstract/69/10/2705/4958446",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cYVKy4QdrwYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 9,
+        "2020": 11,
+        "2021": 20,
+        "2022": 12,
+        "2023": 18,
+        "2024": 2
+    }
+}

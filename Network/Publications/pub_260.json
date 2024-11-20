@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A generic model to exploit urban regulation knowledge",
+        "pub_year": 2016,
+        "citation": "ISPRS International Journal of Geo-Information 5 (2), 14, 2016",
+        "author": "Micka\u00ebl Brasebin and Julien Perret and S\u00e9bastien Musti\u00e8re and Christiane Weber",
+        "journal": "ISPRS International Journal of Geo-Information",
+        "volume": "5",
+        "number": "2",
+        "pages": "14",
+        "publisher": "MDPI",
+        "abstract": "The Right to Build is defined by textual elements that determine what an owner can build on a parcel. Such regulations contain elements that can influence the development of territories. Expressed through legal texts, their effects on the territory are difficult to assess because of the documents\u2019 complexity and of the diversity of urban configurations. In this paper, we present a generic and extendable model to represent such regulations. This model is based on (1) a representation of geographical concepts (attributes, features and relations) mentioned in regulations and (2) rules formalized with Object Constraints Language (OCL). We also propose an implementation that allows the handling of formalized rules in order to check if a building configuration proposal respects urban regulations. Many applications are possible in order to assist in the conception of such regulations, land acquisition strategy or territorial evolution studies, in this article, we notably describe a future application dedicated to assist building permit surveyors."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:NJ774b8OgUMC",
+    "num_citations": 22,
+    "citedby_url": "/scholar?hl=en&cites=13608249314826261873",
+    "cites_id": [
+        "13608249314826261873"
+    ],
+    "pub_url": "https://www.mdpi.com/2220-9964/5/2/14",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cRUs-aY22rwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 2,
+        "2018": 4,
+        "2019": 2,
+        "2020": 3,
+        "2021": 3,
+        "2022": 2,
+        "2023": 3,
+        "2024": 1
+    }
+}

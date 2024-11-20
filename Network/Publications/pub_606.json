@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "R01. 4 How to combine spatio-temporal information and Danger theory for animal disease surveillance?",
+        "pub_year": 2023,
+        "citation": "GeoVet 2023 International Conference, 2023",
+        "author": "Bahdja Boudoua and Manon Richard and Mathieu Roche and Maguelonne Teisseire and Annelise Tran",
+        "journal": "GeoVet 2023 International Conference",
+        "abstract": "Event Based Surveillance (EBS) systems such as HealthMap, Promed and PADI-web are used daily to detect outbreak events reported in web articles. Once the articles are collected, these systems rely on human moderation, and implement supervised classification algorithms to classify articles according to their relevance (Valentin et al., 2020). Applying such supervised methods can be challenging, as epidemiological datasets have an imbalanced class distribution, and because the annotation task, which is critical to the success of these models, can be expensive and time consuming. Another important limitation of EBS systems is that the drivers of disease transmission (eg disease characteristics, environmental and epidemiological risk factors) are not always found in textual data and are therefore not taken into account by EBS systems (Kim & Ahn, 2021)."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:2tRrZ1ZAMYUC",
+    "num_citations": 0,
+    "pub_url": "https://www.veterinariaitaliana.izs.it/index.php/GEOVET23/article/view/3301",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hE51-gDr-psJ:scholar.google.com/",
+    "cites_per_year": {}
+}

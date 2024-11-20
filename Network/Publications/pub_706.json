@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Speeding-up a convolutional neural network by connecting an SVM network",
+        "pub_year": 2016,
+        "citation": "2016 IEEE International Conference on Image Processing (ICIP), 2286-2290, 2016",
+        "author": "J\u00e9r\u00f4me Pasquet and Marc Chaumont and G\u00e9rard Subsol and Mustapha Derras",
+        "conference": "2016 IEEE International Conference on Image Processing (ICIP)",
+        "pages": "2286-2290",
+        "publisher": "IEEE",
+        "abstract": "Deep neural networks yield positive object detection results in aerial imaging. To deal with the massive computational time required, we propose to connect an SVM Network to the different feature maps of a CNN. After the training of this SVM Network, we use an activation path to cross the network in a predefined order. We stop the crossing as quickly as possible. This early exit from the CNN allows us to reduce the computational burden. Experimental results are obtained for an industrial application in urban object detection. We show that potentially the computation cost could be reduced by 98%. Additionally, performance is slightly improved; for example, for a 55% recall, precision increases by 5%."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=12531862325546729446",
+    "cites_id": [
+        "12531862325546729446"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7532766/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5j9QcGMe6q0J:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 1,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 2
+    }
+}

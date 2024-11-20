@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of irrigation events on maize plots using Sentinel-1 soil moisture products",
+        "pub_year": 2020,
+        "citation": "EGU General Assembly Conference Abstracts, 8588, 2020",
+        "author": "Michel Le Page and Lionel Jarlan and Aaron Boone and Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "8588",
+        "abstract": "An accurate knowledge of irrigation timing and rate is essential to compute the water balance of irrigated plots. However, at the plot scale irrigation is a data essentially known by the irrigator. These data do not go up to higher management scales, thus limiting both the management of water resources on a regional scale and the development of irrigation decision support tools at the farm scale. The study focuses on 6 experimental plots in the south-west of France. The new method consists in assessing surface soil moisture (SSM) change between observations and a water balance model. The approach was tested using both in situ measurements and surface soil moisture (SSM) maps derived from Sentinel-1 radar data. The score is obtained by assessing if the irrigation event is detected within+/-three days. The use of in situ SSM showed that:(1) the best revisit time between two SSM observations is 3 days; short \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:T_ojBgVMvoEC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2020EGUGA..22.8588L/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jkmNAfNY5cUJ:scholar.google.com/",
+    "cites_per_year": {}
+}

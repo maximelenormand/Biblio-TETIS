@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Suivi de la s\u00e9curit\u00e9 alimentaire en Afrique de l'Ouest: Quelles m\u00e9thodes d'analyse de donn\u00e9es pour traiter l'interdisciplinarit\u00e9 de la s\u00e9curit\u00e9 alimentaire",
+        "pub_year": 2021,
+        "citation": "Journal of Interdisciplinary Methodologies and Issues in Sciences 8 \u2026, 2021",
+        "author": "Hugo Del\u00e9glise and Agn\u00e8s B\u00e9gu\u00e9 and Roberto Interdonato and Elodie Ma\u00eetre d'H\u00f4tel and Maguelonne Teisseire",
+        "journal": "Journal of Interdisciplinary Methodologies and Issues in Sciences",
+        "volume": "8",
+        "number": "Geographical Information Science, Geomatics, Spatial Analysis",
+        "publisher": "Episciences. org",
+        "abstract": "La faim en Afrique augmente \u00e0 nouveau apr\u00e8s avoir recul\u00e9 pendant plusieurs ann\u00e9es. Elle repr\u00e9sente un enjeu soci\u00e9tal mondial auquel toutes les disciplines se pr\u00e9occupant d\u2019analyse de donn\u00e9es sont confront\u00e9es. Dans le cadre d\u2019une collaboration pluridisciplinaire entre informaticiens, \u00e9conomistes et t\u00e9l\u00e9d\u00e9tecteurs, nous nous int\u00e9ressons au cas du Burkina Faso qui est l\u2019un des pays d\u2019Afrique de l\u2019Ouest les plus touch\u00e9s par l\u2019ins\u00e9curit\u00e9 alimentaire. Nous d\u00e9taillons les donn\u00e9es disponibles qui permettront d\u2019alimenter un syst\u00e8me de surveillance et d\u2019alerte pr\u00e9coce. Nous d\u00e9crivons deux approches d\u2019analyse de donn\u00e9es h\u00e9t\u00e9rog\u00e8nes (valeurs quantitatives, s\u00e9ries temporelles, images, etc.) qui sont les m\u00e9thodes d\u2019apprentissage et les m\u00e9thodes d\u2019extraction de motifs spatio-temporels. Puis, nous dressons les premiers bilans des exp\u00e9rimentations r\u00e9alis\u00e9es, les mod\u00e8les utilis\u00e9es ont permis d\u2019obtenir une accuracy de 0.75 pour le score de consommation alimentaire et de 0.73 pour le score de diversit\u00e9 alimentaire. Nous listons enfin les travaux que nous poursuivons dans ce contexte."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:isC4tDSrTZIC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=11448255914613977702",
+    "cites_id": [
+        "11448255914613977702"
+    ],
+    "pub_url": "https://jimis.episciences.org/7063",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZrJUUBlg4J4J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

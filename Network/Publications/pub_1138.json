@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison of tropical forest above ground biomass estimation techniques based on polarimetrie and tomographic SAR data acquired at P band",
+        "pub_year": 2017,
+        "citation": "2017 European Radar Conference (EURAD), 29-32, 2017",
+        "author": "Bassam El Hajj Chehade and Laurent Ferro-Famil and Stefano Tebaldini and Dinh Ho Tong Minh and Thuy Le Toan",
+        "conference": "2017 European Radar Conference (EURAD)",
+        "pages": "29-32",
+        "publisher": "IEEE",
+        "abstract": "To understand and quantify the role of forests on carbon cycle and its impact on climate change, it is critical to accurately quantify and monitor changes in forest AboveGround-Biomass (AGB). New advances in radar technologies have enabled the development of methods to map forest structure in 3-D. These techniques are based on the use of Polarimetric SAR Tomography (PolTomSAR) that enables the estimation of vertical profiles through a tridimensional (3-D) mapping of the backscattered power. The estimated vertically-spaced slices of backscattered power may contain information relative to two uncorrelated layers: the ground defined as a surface backscat-terer and the canopy modeled with its volume vertical structure. Thus, an accurate AGB information may be extracted from the power measured at a domain adapted to the canopy layer and less affected by the ground echo mainly due to the double \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:O3NaXMp0MMsC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6968919577858805576",
+    "cites_id": [
+        "6968919577858805576"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8249139/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SA-K4m6TtmAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

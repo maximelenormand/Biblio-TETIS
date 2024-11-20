@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Counterfactual Explanations for Land Cover Mapping in a Multi-class Setting",
+        "pub_year": 2023,
+        "citation": "arXiv preprint arXiv:2301.01520, 2023",
+        "author": "Cassio F Dantas and Diego Marcos and Dino Ienco",
+        "journal": "arXiv preprint arXiv:2301.01520",
+        "abstract": "Counterfactual explanations are an emerging tool to enhance interpretability of deep learning models. Given a sample, these methods seek to find and display to the user similar samples across the decision boundary. In this paper, we propose a generative adversarial counterfactual approach for satellite image time series in a multi-class setting for the land cover classification task. One of the distinctive features of the proposed approach is the lack of prior assumption on the targeted class for a given counterfactual explanation. This inherent flexibility allows for the discovery of interesting information on the relationship between land cover classes. The other feature consists of encouraging the counterfactual to differ from the original sample only in a small and compact temporal segment. These time-contiguous perturbations allow for a much sparser and, thus, interpretable solution. Furthermore, plausibility/realism of the generated counterfactual explanations is enforced via the proposed adversarial learning strategy."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:08ZZubdj9fEC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=12235542942825974333",
+    "cites_id": [
+        "12235542942825974333"
+    ],
+    "pub_url": "https://arxiv.org/abs/2301.01520",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PQou1XphzakJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    }
+}

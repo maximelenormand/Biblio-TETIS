@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deepwater archaeological survey: An interdisciplinary and complex process",
+        "pub_year": 2019,
+        "citation": "3D Recording and Interpretation for Maritime Archaeology, 135-153, 2019",
+        "author": "Pierre Drap and Odile Papini and Djamal Merad and J\u00e9r\u00f4me Pasquet and Jean-Philip Royer and Mohamad Motasem Nawaf and Mauro Saccone and Mohamed Ben Ellefi and Bertrand Chemisky and Julien Seinturier and Jean-Christophe Sourisseau and Timmy Gambin and Filipe Castro",
+        "journal": "3D Recording and Interpretation for Maritime Archaeology",
+        "pages": "135-153",
+        "publisher": "Springer International Publishing",
+        "abstract": "This chapter introduces several state of the art techniques that could help to make deep underwater archaeological photogrammetric surveys easier, faster, more accurate, and to provide more visually appealing representations in 2D and 3D for both experts and public. We detail how the 3D captured data is analysed and then represented using ontologies, and how this facilitates interdisciplinary interpretation and cooperation. Towards more automation, we present a new method that adopts a deep learning approach for the detection and the recognition of objects of interest, amphorae for example. In order to provide more readable, direct and clearer illustrations, we describe several techniques that generate different styles of sketches out of orthophotos developed using neural networks. In the same direction, we present the Non-Photorealistic Rendering (NPR) technique, which converts a 3D model into a more readable 2D representation that is more useful to communicate and simplifies the identification of objects of interest. Regarding public dissemination, we demonstrate how recent advances in virtual reality to provide an accurate, high resolution, amusing and appropriate visualization tool that offers the public the possibility to \u2018visit\u2019an unreachable archaeological site. Finally, we conclude by introducing the plenoptic approach, a new promising technology that can change the future of the photogrammetry by making it easier and less time consuming and that allows a user to create a 3D model using only one camera shot. Here, we introduce the concepts, the developing process, and some results, which we obtained with underwater imaging."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:0EnyYjriUFMC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=10518594762909449972",
+    "cites_id": [
+        "10518594762909449972"
+    ],
+    "pub_url": "https://library.oapen.org/bitstream/handle/20.500.12657/23078/1007080.pdf?sequence=1#page=140",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9H6A-zSO-ZEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 3,
+        "2022": 1
+    }
+}

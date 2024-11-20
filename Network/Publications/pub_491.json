@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of Four Decades of Land Use and Land Cover Change in Semiarid Tunisia Using Google Earth Engine",
+        "pub_year": 2023,
+        "citation": "Remote Sensing 15 (13), 3257, 2023",
+        "author": "Nesrine Kadri and Sihem Jebari and Xavier Augusseau and Naceur Mahdhi and Guillaume Lestrelin and Ronny Berndtsson",
+        "journal": "Remote Sensing",
+        "volume": "15",
+        "number": "13",
+        "pages": "3257",
+        "publisher": "Multidisciplinary Digital Publishing Institute",
+        "abstract": "Semiarid Tunisia is characterized by agricultural production that is delimited by water availability and degraded soil. This situation is exacerbated by human pressure and the negative effects of climate change. To improve the knowledge of long-term (1980 to 2020) drivers for Land Use and Land Cover (LULC) changes, we investigated the semiarid Rihana region in central Tunisia. A new approach involving Google Earth Engine (GEE) was used to map LULC using Landsat imagery and vegetative indices (NDVI, MSAVI, and EVI) by applying a Random Forest (RF) classifier. A Rapid Participatory Systemic Diagnosis (RPSD) was used to consider the relation between LULC changes and their key drivers. The methodology relied on interviews with the local population and experts. Focus groups were conducted with practicians of the Regueb Agricultural Extension Services, followed by semi-structured interviews with 52 households. Results showed the following:(1) the RF classifier in Google Earth Engine had strong performance across diverse Landsat image types resulting in overall classification accuracy of\u2265 0.96 and a kappa coefficient\u2265 0.93;(2) rainfed olive land increased four times during the study period while irrigated agriculture increased substantially during the last decade; rangeland and rainfed annual crops decreased by 58 and 88%, respectively, between 1980 and 2021;(3) drivers of LULC changes are predominately local in nature, including topography, local climate, hydrology, strategies of household, effects of the 2010 revolution, associated increasing demand for natural resources, agricultural policy, population growth, high \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:bnK-pcrLprsC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=3664766848231570612",
+    "cites_id": [
+        "3664766848231570612"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/15/13/3257",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tHx4HQje2zIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3
+    }
+}

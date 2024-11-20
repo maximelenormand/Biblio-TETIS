@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Agricultural systems studies using remote sensing",
+        "pub_year": 2015,
+        "citation": "Remote Sensing Handbook 2, 113-130, 2015",
+        "author": "Agn\u00e8s B\u00e9gu\u00e9 and Damien Arvor and Camille Lelong and Elodie Vintrou and Margareth Simoes",
+        "journal": "Remote Sensing Handbook",
+        "volume": "2",
+        "pages": "113-130",
+        "abstract": "The world population is expected to reach 9.3 billion in 2050 (UN, 2010). To feed this population, the Food and Agriculture Organization\u2019s last global projection exercise forecasted that the world\u2019s agricultural production will need to increase by approximately 70% by 2050, compared with the 2005 production levels (FAO, 2011). Approximately 80% of the increased agricultural production will need to come from yield increases, and higher cropping intensities such as increased multiple cropping and/or shortening of fallow periods.Such evolutions must cope with climate change (characterized by changing rainfall patterns and an increasing number of extreme weather events) and its consequences (changing distributions of plant and vector-borne diseases, and increased crop yield variability), more competition for land (increased competition between food and bioenergy production), and the associated increased environmental pressures (eg, overexploitation of ground water resources, water quality degradation, and soil degradation). As a consequence, in addition to the need to increase crop production, another major agricultural challenge is the task of improving the management of natural resources, especially through the adoption of more environmental-friendly practices, such as ecological intensification or conservation agriculture. Major agricultural powers such as Europe and Brazil have launched ambitious programs, for example, the Good Agricultural Practices (GAP) guidelines and the ABC Program (Brazilian Low Carbon Agriculture Program), respectively. These programs give a special role to multifunctional landscapes to establish \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:j8SEvjWlNXcC",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=6474874213553988820",
+    "cites_id": [
+        "6474874213553988820"
+    ],
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=fifSCgAAQBAJ&oi=fnd&pg=PA113&dq=info:1OQ4uMpf21kJ:scholar.google.com&ots=dUeep587LM&sig=GEY2qv3-UGaRFw7L9IPQwTeozPo",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1OQ4uMpf21kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 4,
+        "2017": 2,
+        "2018": 3,
+        "2019": 5,
+        "2020": 6,
+        "2021": 5,
+        "2022": 3,
+        "2023": 4
+    }
+}

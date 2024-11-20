@@ -1,0 +1,17 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "T\u00e9l\u00e9d\u00e9tection et agriculture: quelle structuration de la communaut\u00e9 nationale?",
+        "pub_year": 2020,
+        "citation": "Salon de l'Agriculture, 2020",
+        "author": "Nicolas Baghdadi and Pierre Maurel",
+        "conference": "Salon de l'Agriculture"
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:P5F9QuxV20EC",
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=8247979688131450336&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4FW2odO1dnIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

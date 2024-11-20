@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "LinkedMDR: un mod\u00e8le s\u00e9mantique de repr\u00e9sentation de corpus de documents multim\u00e9dia.",
+        "pub_year": 2017,
+        "citation": "INFORSID, 11-26, 2017",
+        "author": "Nathalie Charbel and Christian Sallaberry and S\u00e9bastien Laborie and Gilbert Tekli and Richard Chbeir",
+        "conference": "INFORSID",
+        "pages": "11-26",
+        "abstract": "Dans le domaine du BTP, les projets de construction impliquent l'\u00e9change d'un volume important d'informations entre divers acteurs ayant des domaines d'expertises et des int\u00e9r\u00eats diff\u00e9rents. La plupart des donn\u00e9es \u00e9chang\u00e9es au sein de tels projets sont non ou semi-structur\u00e9es, pr\u00e9sent\u00e9es dans des documents h\u00e9t\u00e9rog\u00e8nes (souvent multim\u00e9dia tels que des plans ou des rapports) et proviennent de sources vari\u00e9es. Bien \u00e9videmment, ces documents sont li\u00e9s les uns aux autres par des liens explicites (p.ex., des r\u00e9f\u00e9rences \u00e0 tout ou partie de documents introduites par l'auteur) ou bien implicites (p.ex., selon les th\u00e8mes abord\u00e9s dans les documents, tels que la plomberie, l'\u00e9l\u00e9ctricit\u00e9 ou l'isolation thermique du b\u00e2timent). Identifier ce r\u00e9seau de donn\u00e9es li\u00e9es entre documents tout au long de l'\u00e9volution d'un projet de construction, de l'indexation jusqu'\u00e0 la recherche d'information, est aujourd'hui primordial pour faciliter la t\u00e2che d'un ma\u00eetre d'ouvrage ou d'un ma\u00eetre d'oeuvre. Pour mener \u00e0 bien cet objectif, dans cet article nous d\u00e9crivons une nouvelle ontologie intitul\u00e9e LinkedMDR (Linked Multimedia Document Representation). Cette ontologie est fond\u00e9e sur l'int\u00e9gration d'\u00e9l\u00e9ments issus de plusieurs standards de description de m\u00e9tadonn\u00e9es multim\u00e9dia dont Dublin Core (DC), Text Encoding Initiative (TEI) et Multimedia Content Description Interface (MPEG-7). Nous proposons de lier les standards de description les uns aux autres gr\u00e2ce \u00e0 notre ontologie tout en fournissant de nouveaux concepts et relations non-pris en charge actuellement par ces standards. Cette repr\u00e9sentation unifi\u00e9e des documents nous permet donc de repr\u00e9senter \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:kzcrU_BdoSEC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01553840/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:I3l7MyKaM54J:scholar.google.com/",
+    "cites_per_year": {}
+}

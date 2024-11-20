@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring direct drivers of small-scale tropical forest disturbance in near real-time with Sentinel-1 and-2 data",
+        "pub_year": 2023,
+        "citation": "Remote Sensing of Environment 295, 113655, 2023",
+        "author": "Bart Slagter and Johannes Reiche and Diego Marcos and Adugna Mullissa and Etse Lossou and Marielos Pe\u00f1a-Claros and Martin Herold",
+        "journal": "Remote Sensing of Environment",
+        "volume": "295",
+        "pages": "113655",
+        "publisher": "Elsevier",
+        "abstract": "Advancements in satellite-based forest monitoring increasingly enable the near real-time detection of small-scale tropical forest disturbances. However, there is an urgent need to enhance such monitoring methods with automated direct driver attributions to detected disturbances. This would provide important additional information to make forest disturbance alerts more actionable and useful for uptake by different stakeholders. In this study, we demonstrate spatially explicit and near real-time methods to monitor direct drivers of small-scale tropical forest disturbance across a range of tropical forest conditions in Suriname, the Republic of the Congo and the Democratic Republic of the Congo. We trained a convolutional neural network with Sentinel-1 and Sentinel-2 data to continuously classify newly detected RAdar for Detecting Deforestation (RADD) alerts as smallholder agriculture, road development, selective \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:eJXPG6dFmWUC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=14512571782327270929",
+    "cites_id": [
+        "14512571782327270929"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425723002067",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EX75JiUDZ8kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 7,
+        "2024": 2
+    }
+}

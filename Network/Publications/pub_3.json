@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fusion of SAR-optical data for land cover monitoring",
+        "pub_year": 2017,
+        "citation": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2017",
+        "author": "Raffaele Gaetano and Davide Cozzolino and Luca D'Amiano and Luisa Verdoliva and Giovanni Poggi",
+        "conference": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "5470-5473",
+        "publisher": "IEEE",
+        "abstract": "This work deals with the fusion of SAR and optical data for land cover monitoring. We first propose to use co-registered optical data as a guide for nonlocal SAR image despeckling. Then, we fuse filtered Sentinel-1 SAR data with optical Sentinel-2 data for land-use classification. Experiments show that using optical-driven despeckled SAR data largely improves classification accuracy w.r.t using the original data and even multitemporal filtered data."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:lSLTfruPkqcC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=8859508609382037629",
+    "cites_id": [
+        "8859508609382037629"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8128242/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fTi7-iNM83oJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 4,
+        "2020": 2,
+        "2021": 2,
+        "2022": 5,
+        "2023": 1,
+        "2024": 1
+    }
+}

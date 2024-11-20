@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Clear-cuts detection services for the monitoring needs of the french Ministry of agriculture",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Kenji Os\u00e9 and R\u00e9mi Cresson",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "4284-4287",
+        "publisher": "IEEE",
+        "abstract": "In France, clear-cuts are a logging practice regulated by law under the Forest Code. The French Ministry of Agriculture, in charge of forest policies, needs exhaustive mapping methods to monitor the clear-cuts and allow its agents to efficiently take actions in the field. We present here the evolution of a clear-cut detection service relying on optical satellite data, from very high spatial resolution images to Sentinel-2 time series. Its nationwide deployment was possible due to a favorable context both technical and institutional."
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:Wp0gIr-vW9MC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8897825/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jbJBbMb5T5MJ:scholar.google.com/",
+    "cites_per_year": {}
+}

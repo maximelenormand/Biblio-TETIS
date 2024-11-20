@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Introduction. Humanit\u00e9s num\u00e9riques et analyses spatiales: enjeux et perspectives",
+        "pub_year": 2021,
+        "citation": "Humanit\u00e9s num\u00e9riques, 2021",
+        "author": "Carmen Brando and Francesca Frontini and Dominic Moreau and Mathieu Roche and \u00c9ric Masson",
+        "journal": "Humanit\u00e9s num\u00e9riques",
+        "number": "3",
+        "publisher": "Humanistica",
+        "abstract": "Cet article propose une introduction aux contributions pr\u00e9sent\u00e9es dans ce num\u00e9ro th\u00e9matique d\u00e9di\u00e9 aux humanit\u00e9s num\u00e9riques spatialis\u00e9es. Trois grands th\u00e8mes sont abord\u00e9s : (1) le traitement de l\u2019information spatiale dans des corpus textuels issus des travaux en sciences humaines et sociales, principalement en \u00e9tudes litt\u00e9raires ; (2) les probl\u00e9matiques d\u2019acquisition, de spatialisation et de diffusion de donn\u00e9es g\u00e9ographiques du pass\u00e9 et du patrimoine, donc, ici, davantage en lien avec la recherche en histoire ; (3) l\u2019information spatiale, son traitement et ses usages en arch\u00e9ologie. Pour chacun de ces th\u00e8mes, nous pr\u00e9sentons les initiatives fondatrices, un bref \u00e9tat de l\u2019art et une synth\u00e8se des contributions."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:__bU50VfleQC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=4650044356137385971,5140868495878916010",
+    "cites_id": [
+        "4650044356137385971",
+        "5140868495878916010"
+    ],
+    "pub_url": "https://journals.openedition.org/revuehn/2038",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8_9gdbRGiEAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

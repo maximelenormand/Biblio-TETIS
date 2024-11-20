@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Querying RDF Data: a Multigraph\u2010based Approach",
+        "pub_year": 2018,
+        "citation": "NoSQL Data Models: Trends and Challenges 1, 135-165, 2018",
+        "author": "Vijay Ingalalli and Dino Ienco and Pascal Poncelet",
+        "journal": "NoSQL Data Models: Trends and Challenges",
+        "volume": "1",
+        "pages": "135-165",
+        "publisher": "John Wiley & Sons, Inc.",
+        "abstract": "Resource description framework (RDF) data are cherished and exploited by various domains such as life sciences, Semantic Web and social networks. This chapter provides basic definitions on the interplay between RDF and its multigraph representation. The multigraph representation enables to construct lightweight indexing structures that ameliorate the time performance of Attributed Multigraph Based Engine for RDF querying (AMbER). The chapter discusses a graph\u2010based RDF querying engine, AMbER, which involves two steps. The first step is an offline step, where RDF data are transformed into multigraph and are indexed. The second step is an online step, where an efficient approach to answer a SPARQL query is proposed. The proposed engine AMbER has been tested over large RDF triplestores. The chapter focuses on the SELECT/WHERE clause of the SPARQL language, which constitutes \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:WzTVkKNmPSkC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=16785587566728015616",
+    "cites_id": [
+        "16785587566728015616"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119528227.ch5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AG8JRfVi8ugJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1
+    }
+}

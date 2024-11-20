@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "DynPestSols: un mod\u00e8le pour repr\u00e9senter les pressions agricoles dues aux pesticides sur le long terme \u00e0 l\u2019\u00e9chelle des territoires",
+        "pub_year": 2022,
+        "citation": "ACTES DU COLLOQUE, 14, 2022",
+        "author": "Victor Dufleit and Vincent Bonnal and Annelise Tran and Pascal Degenne and Philippe Cattan",
+        "journal": "ACTES DU COLLOQUE",
+        "pages": "14",
+        "abstract": "Si l\u2019emploi des pesticides en agriculture repre sente aujourd\u2019hui un risque ave re pour la sante des utilisateurs mais aussi des populations5, la caracte risation du risque reste difficile car les impacts des pesticides s\u2019 observent sur le long terme. Or les usages sont variables dans le temps, au gre de la mise sur le marche ou du retrait des substances actives, mais aussi dans l\u2019espace selon les pratiques d\u2019e pandage qui de terminent les types, fre quences, doses et modes d\u2019application. Notre article s\u2019 inte resse a la repre sentation spatio-temporelle de ces usages a l\u2019e chelle des territoires et aux indicateurs de pression affe rents.Le mode le DynPestSols ae te de veloppe sur la plateforme de mode lisation OCELET3 dans le cadre du projet Gessica4. Ce projet cherche a identifier les facteurs de risque des cancers en Guadeloupe, et notamment les pratiques agricoles d\u2019utilisation de pesticides. Le mode le propose une simulation des traitements pesticides re alise s chaque anne e sur la sole agricole guadeloupe enne. Pour cela, il se base sur une mode lisation des dynamiques spatiales et repose sur 4"
+    },
+    "filled": true,
+    "author_pub_id": "v2Zo6cQAAAAJ:HDshCWvjkbEC",
+    "num_citations": 0,
+    "pub_url": "https://www.chlordecone-infos.fr/sites/default/files/files/Actes_Chlordecone_connaitre_pour_agir_2022.pdf#page=14",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:V15UY7a36nAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

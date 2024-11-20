@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparative Analysis of the Sensitivity of SAR Data in C and L Bands for the Detection of Irrigation Events",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (10), 2312, 2022",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Fran\u00e7ois Charron and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "10",
+        "pages": "2312",
+        "publisher": "MDPI",
+        "abstract": "Comprehensive knowledge about irrigation timing is crucial for water resource management. This paper presents a comparative analysis between C- and L-band Synthetic Aperture Radar (SAR) data for the detection of irrigation events. The analysis was performed using C-band time series data derived from the Sentinel-1 (S1) satellite and two L-band images from the PALSAR-2 (ALOS-2) sensor acquired over irrigated grassland plots in the Crau plain of southeast France. The S1 C-band time series was first analyzed as a function of rainfall and irrigation events. The backscattering coefficients in both the L and C bands were then compared to the time difference between the date of the acquired SAR image and the date of the last irrigation event occurring before the SAR acquisition (\u0394t). Sensitivity analysis was performed for 2 classes of the Normalized Difference Vegetation Index (NDVI \u22640.7 and NDVI >0.7). The main results showed that when the vegetation is moderately developed (NDVI \u22640.7), the C-band temporal variation remains sensitive to the soil moisture dynamics and the irrigation events could be detected. The C-VV signal decreases due to the drying out of the soil when the time difference between the S1 image and irrigation event increases. For well-developed vegetation cover (NDVI >0.7), the C-band sensitivity to irrigation events becomes dependent on the crop type. For well-developed Gramineae grass with longs stalks and seedheads, the C band shows no correlation with \u0394t due to the absence of the soil contribution in the backscattered signal, contrary to the legume grass type, where the C band shows a good \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:xm0LlTxljI0C",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=5231876924042440661",
+    "cites_id": [
+        "5231876924042440661"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/10/2312",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1e8cvldcm0gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 5,
+        "2024": 2
+    }
+}

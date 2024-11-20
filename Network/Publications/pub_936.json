@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Contribution of the integrated topo\u2010bathymetric model for coastal wetland evolution: case of geomorphologic and biological evolution of Ichkeul Marshes (North Tunisia)",
+        "pub_year": 2018,
+        "citation": "QGIS and Applications in Water and Risks 4, 35-76, 2018",
+        "author": "Zeineb Kassouk and Zohra Lili\u2010Chabaane and Benoit Deffontaines and Mohammad El Hajj and Nicolas Baghdadi",
+        "journal": "QGIS and Applications in Water and Risks",
+        "volume": "4",
+        "pages": "35-76",
+        "publisher": "John Wiley & Sons, Inc.",
+        "abstract": "This chapter focuses on the reliability of remote sensing imagery combined with topographic and bathymetric data to map the coastal wetland communities in Ichkeul marshes. It combines both the object\u2010oriented classification of high spatial resolution imagery and the integrated topographic\u2010bathymetric digital terrain model (topo\u2010bathymetric DTM) in order to characterize and to map vegetation communities across Ichkeul marshes. The chapter settles the integrated topo\u2010bathymetric DTM by combining three datasets: the lake bathymetry, the marshes and the mountain digital topographies. It classifies Ichkeul marshes, the new topo\u2010bathymetric DTM is used with multispectral imagery from Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) images from the Terra satellite. In the chapter, classification rules for distinguishing vegetation communities are created automatically by \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:9c2xU6iGI7YC",
+    "num_citations": 0,
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119476726.ch2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:q7CWpNLWWQ8J:scholar.google.com/",
+    "cites_per_year": {}
+}

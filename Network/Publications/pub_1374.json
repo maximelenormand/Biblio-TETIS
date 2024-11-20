@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Genome-wide association mapping for root traits in a panel of rice accessions from Vietnam",
+        "pub_year": 2016,
+        "citation": "BMC plant biology 16, 1-19, 2016",
+        "author": "Nhung Thi Phuong Phung and Chung Duc Mai and Giang Thi Hoang and Hue Thi Minh Truong and Jeremy Lavarenne and Mathieu Gonin and Khanh Le Nguyen and Thuy Thi Ha and Vinh Nang Do and Pascal Gantet and Brigitte Courtois",
+        "journal": "BMC plant biology",
+        "volume": "16",
+        "pages": "1-19",
+        "publisher": "BioMed Central",
+        "abstract": "Despite recent sequencing efforts, local genetic resources remain underexploited, even though they carry alleles that can bring agronomic benefits. Taking advantage of the recent genotyping with 22,000 single-nucleotide polymorphism markers of a core collection of 180 Vietnamese rice varieties originating from provinces from North to South Vietnam and from different agrosystems characterized by contrasted water regimes, we have performed a genome-wide association study for different root parameters. Roots contribute to water stress avoidance and are a still underexploited target for breeding purpose due to the difficulty to observe them.The panel of 180 rice varieties was phenotyped under greenhouse conditions for several root traits in an experimental design with 3 replicates. The phenotyping system consisted of long \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "A17UErUAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 65,
+    "citedby_url": "/scholar?hl=en&cites=3933334510078720505",
+    "cites_id": [
+        "3933334510078720505"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1186/s12870-016-0747-y",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-fkGsOUCljYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 5,
+        "2018": 5,
+        "2019": 7,
+        "2020": 15,
+        "2021": 13,
+        "2022": 11,
+        "2023": 8
+    }
+}

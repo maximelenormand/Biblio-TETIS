@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards a bio-inspired approach to match heterogeneous documents",
+        "pub_year": 2017,
+        "citation": "International Conference on Web Information Systems and Technologies 2, 276-283, 2017",
+        "author": "Nourelhouda Yahi and Hacene Belhadef and Mathieu Roche and Amer Draa",
+        "conference": "International Conference on Web Information Systems and Technologies",
+        "volume": "2",
+        "pages": "276-283",
+        "publisher": "Scitepress",
+        "abstract": "Matching heterogeneous text documents coming from different sources means matching data extracted from these documents, generally structured in the form of vectors. The accuracy of matching directly depends on the right choice of the content of these vectors. That\u2019s why we need to select the best features. In this paper, we present a new approach to select the minimum set of features that represents the semantics of a set of text documents, using a quantum inspired genetic algorithm. Among different Vs characterizing the big data we focus on \u2018Variety\u2019 criterion, therefore, we used three sets of different sources that are semantically similar to retrieve their best features which describe the semantics of the corpus. In the matching phase, our approach shows significant improvement compared with the classic \u2018Bag-of-words\u2019 approach."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:tH6gc1N1XXoC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=11461239612590825397",
+    "cites_id": [
+        "11461239612590825397"
+    ],
+    "pub_url": "https://www.scitepress.org/Papers/2017/62940/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tZ8cErSADp8J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

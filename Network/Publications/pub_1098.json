@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "First results from the glorie polarimetric GNSS-R airborne campaign dedicated to land parameters estimation",
+        "pub_year": 2016,
+        "citation": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2016",
+        "author": "Erwan Motte and Mehrez Zribi and Pascal Fanise and Fr\u00e9d\u00e9ric Baup and Nicolas Baghdadi and Pierre-Louis Frison and Dominique Guyon and Laurent Lestarquit and Jean-Pierre Wigneron",
+        "conference": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "5617-5620",
+        "publisher": "IEEE",
+        "abstract": "The GLORIE GNSS-R airborne campaign was conducted in the late spring 2015 with the GLORI polarimetric receiver. More than 15 hours or raw data was gathered during 5 flights that spanned over a 3-week period. The aircraft flew over several areas if interest including: 1) agricultural plots with coincident in-situ measurements of soil moisture, vegetation biomass and roughness, 2) in situ monitored forest plots with a wide range of above ground biomass values and 3) inland water bodies in order to test phase altimetry retrievals. Apparent reflectivity was computed from the data, showing a good dynamics above various types of terrains. Phase altimetry was performed over calm water, showing a precision in the range of the centimeter level."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:EkHepimYqZsC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7730467/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NmRJcELS2OMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

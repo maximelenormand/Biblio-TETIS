@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of GEDI elevation data accuracy for inland waterbodies altimetry",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (17), 2714, 2020",
+        "author": "Ibrahim Fayad and Nicolas Baghdadi and Jean St\u00e9phane Bailly and Fr\u00e9d\u00e9ric Frappart and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "17",
+        "pages": "2714",
+        "publisher": "MDPI",
+        "abstract": "The Global Ecosystem Dynamics Investigation (GEDI) Light Detection And Ranging (LiDAR) altimetry mission was recently launched to the International Space Station with a capability of providing billions of high-quality measurements of vertical structures globally. This study assesses the accuracy of the GEDI LiDAR altimetry estimation of lake water levels. The difference between GEDI\u2019s elevation estimates to in-situ hydrological gauge water levels was determined for eight natural lakes in Switzerland. The elevation accuracy of GEDI was assessed as a function of each lake, acquisition date, and the laser used for acquisition (beam). The GEDI elevation estimates exhibit an overall good agreement with in-situ water levels with a mean elevation bias of 0.61 cm and a standard deviation (std) of 22.3 cm and could be lowered to 8.5 cm when accounting for instrumental and environmental factors. Over the eight studied lakes, the bias between GEDI elevations and in-situ data ranged from \u221213.8 cm to +9.8 cm with a standard deviation of the mean difference ranging from 14.5 to 31.6 cm. Results also show that the acquisition date affects the precision of the GEDI elevation estimates. GEDI data acquired in the mornings or late at night had lower bias in comparison to acquisitions during daytime or over weekends. Even though GEDI is equipped with three identical laser units, a systematic bias was found based on the laser units used in the acquisitions. Considering the eight studied lakes, the beams with the highest elevation differences compared to in-situ data were beams 1 and 6 (standard deviations of \u221210.2 and +18.1 cm, respectively). In contrast \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:A8cqit5AE6sC",
+    "num_citations": 29,
+    "citedby_url": "/scholar?hl=en&cites=17342418228681745246",
+    "cites_id": [
+        "17342418228681745246"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/17/2714",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XqPVsn6lrPAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 5,
+        "2022": 10,
+        "2023": 9,
+        "2024": 5
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assimilating Sentinel-2 data in a modified vegetation photosynthesis and respiration model (VPRM) to improve the simulation of croplands CO2 fluxes in Europe",
+        "pub_year": 2024,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 127 \u2026, 2024",
+        "author": "Hassan Bazzi and Philippe Ciais and Ezzeddine Abbessi and David Makowski and Diego Santaren and Eric Ceschia and Aurore Brut and Tiphaine Tallec and Nina Buchmann and Regine Maier and Manuel Acosta and Benjamin Loubet and Pauline Buysse and Jo\u00ebl L\u00e9onard and Fr\u00e9d\u00e9ric Bornet and Ibrahim Fayad and Jinghui Lian and Nicolas Baghdadi and Ricard Segura Barrero and Christian Br\u00fcmmer and Marius Schmidt and Bernard Heinesch and Matthias Mauder and Thomas Gruenwald",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "127",
+        "pages": "103666",
+        "publisher": "Elsevier",
+        "abstract": "In Europe, the heterogeneous features of crop systems with majority of small to medium sized agricultural holdings, and diversity of crop rotations, require high-resolution information to estimate cropland Net Ecosystem Exchange (NEE) and its two main components of Gross Ecosystem Exchange (GEE) and the Ecosystem Respiration (R ECO). In this context, this paper presents an assimilation of high-resolution Sentinel-2 indices with eddy covariance measurements at selected European cropland flux sites in a new modified version of Vegetation Photosynthesis Respiration Model (VPRM). VRPM is a data-driven model simulating CO 2 fluxes previously applied using satellite-derived vegetation indices from the Moderate Resolution Imaging Spectroradiometer (MODIS). This study proposes a modification of the VPRM by including an explicit soil moisture stress function to the GEE and changing the equation of R \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:9LpHyFPp1DQC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1569843224000207",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JOlxElu1Nr4J:scholar.google.com/",
+    "cites_per_year": {}
+}

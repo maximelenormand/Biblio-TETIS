@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A French text-message corpus: 88milSMS. Synthesis and usage",
+        "pub_year": 2020,
+        "citation": "Corpus, 2020",
+        "author": "Rachel Panckhurst and C\u00e9dric Lopez and Mathieu Roche",
+        "journal": "Corpus",
+        "number": "20",
+        "publisher": "Bases, corpus et langage-UMR 6039",
+        "abstract": "Dans cet article, nous d\u00e9crivons synth\u00e9tiquement le projet sud4science et la collecte de donn\u00e9es associ\u00e9e (http://sud4science.org), les \u00e9tapes de traitement/analyse qui en d\u00e9coulent et le corpus en r\u00e9sultant, 88milSMS (http://88milsms.huma-num.fr). Nous donnons d'abord un aper\u00e7u des travaux r\u00e9alis\u00e9s dans le cadre de ce projet \u00e0 travers quelques citations et r\u00e9f\u00e9rences (\u00a7 1). Ensuite, nous fournissons un \u00e9tat de l'art sur des initiatives de recherche s'appuyant sur 88milSMS qui s'inscrivent dans des domaines et cadres de travail vari\u00e9s, ce qui ouvre la voie \u00e0 de nouvelles perspectives interdisciplinaires (\u00a7 2). Puis, nous pr\u00e9sentons d'autres usages du corpus 88milSMS que nous avons identifi\u00e9s via un sondage (\u00a7 3). Enfin, nous faisons quelques propositions pour la collecte et l\u2019analyse de donn\u00e9es textuelles."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:kF1pexMAQbMC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4926358398226888713",
+    "cites_id": [
+        "4926358398226888713"
+    ],
+    "pub_url": "https://journals.openedition.org/corpus/4852",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CXiTutzwXUQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

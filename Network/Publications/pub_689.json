@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Agriculture et environnement dans les Suds",
+        "pub_year": 2023,
+        "citation": "Bulletin de l\u2019association de g\u00e9ographes fran\u00e7ais. G\u00e9ographies 100 (100-1), 3-5, 2023",
+        "author": "J\u00e9r\u00e9my Bourgoin and Xavier Augusseau and B\u00e9n\u00e9dicte Thibaud and G\u00e9raud Magrin",
+        "journal": "Bulletin de l\u2019association de g\u00e9ographes fran\u00e7ais. G\u00e9ographies",
+        "volume": "100",
+        "number": "100-1",
+        "pages": "3-5",
+        "publisher": "Association de g\u00e9ographes fran\u00e7ais",
+        "abstract": "Ce num\u00e9ro du BAGF a \u00e9t\u00e9 construit pour l\u2019essentiel \u00e0 partir d\u2019une s\u00e9lection de communications pr\u00e9sent\u00e9es au colloque commission D\u00e9veloppements et tropicalit\u00e9s du CNFG, organis\u00e9 par le CIRAD/UMR TETIS, Maison de laT\u00e9l\u00e9d\u00e9tection, Montpellier les 6-7 septembre 2021"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:eJXPG6dFmWUC",
+    "num_citations": 0,
+    "pub_url": "https://journals.openedition.org/bagf/10517",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IWnMrK-pvJMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

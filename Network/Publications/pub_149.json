@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SilviLaser 2015, France, 28-30 September 2015.",
+        "pub_year": 2017,
+        "citation": "Remote Sensing of Environment 194, 414-454, 2017",
+        "author": "S Durrieu and C V\u00e9ga and RA Fournier and RE McRoberts",
+        "journal": "Remote Sensing of Environment",
+        "volume": "194",
+        "pages": "414-454",
+        "publisher": "Elsevier Ltd",
+        "abstract": "This special section contains four papers presented at the SilviLaser 2015 Conference covering the following topics: potential of TLS and mobile lidar for tree structure reconstruction and allometries, photon counting systems and future spaceborne lidar systems, lidar time series and change detection, and forest inventory and mapping."
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:wbdj-CoPYUoC",
+    "num_citations": 0,
+    "pub_url": "https://www.cabdirect.org/cabdirect/abstract/20173186192",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HuH7MpAaHOAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

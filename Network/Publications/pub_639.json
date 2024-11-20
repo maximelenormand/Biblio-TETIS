@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-1 data for winter wheat phenology monitoring and mapping",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (19), 2228, 2019",
+        "author": "Ali Nasrallah and Nicolas Baghdadi and Mohammad El Hajj and Talal Darwish and Hatem Belhouchette and Ghaleb Faour and Salem Darwich and Mario Mhawej",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "19",
+        "pages": "2228",
+        "publisher": "MDPI",
+        "abstract": "The ability of Synthetic Aperture Radar (SAR) Sentinel-1 data to detect the main wheat phenological phases was investigated in the Bekaa plain of Lebanon. Accordingly, the temporal variation of Sentinel-1 (S1) signal was analyzed as a function of the phenological phases\u2019 dates observed in situ (germination; heading and soft dough), and harvesting. Results showed that S1 data, unlike the Normalized Difference Vegetation Index (NDVI) data, were able to estimate the dates of theses phenological phases due to significant variations in S1 temporal series at the dates of germination, heading, soft dough, and harvesting. Particularly, the ratio VV/VH at low incidence angle (32\u201334\u00b0) was able to detect the germination and harvesting dates. VV polarization at low incidence angle (32\u201334\u00b0) was able to detect the heading phase, while VH polarization at high incidence angle (43\u201345\u00b0) was better than that at low incidence angle (32\u201334\u00b0), in detecting the soft dough phase. An automated approach for main wheat phenological phases\u2019 determination was then developed on the western part of the Bekaa plain. This approach modelled the S1 SAR temporal series by smoothing and fitting the temporal series with Gaussian functions (up to three Gaussians) allowing thus to automatically detect the main wheat phenological phases from the sum of these Gaussians. To test its robustness, the automated method was applied on the northern part of the Bekaa plain, in which winter wheat is harvested usually earlier because of the different weather conditions. The Root Mean Square Error (RMSE) of the estimation of the phenological phases\u2019 dates was 2.9 days for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Br1UauaknNIC",
+    "num_citations": 84,
+    "citedby_url": "/scholar?hl=en&cites=3811342791260887351",
+    "cites_id": [
+        "3811342791260887351"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/19/2228",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:N9lZRhOc5DQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 18,
+        "2021": 16,
+        "2022": 32,
+        "2023": 16,
+        "2024": 1
+    }
+}

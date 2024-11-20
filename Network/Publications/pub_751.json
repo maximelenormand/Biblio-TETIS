@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Quality of urban climate adaptation plans over time",
+        "pub_year": 2023,
+        "citation": "npj Urban Sustainability 3 (1), 13, 2023",
+        "author": "Diana Reckien and Attila Buzasi and Marta Olazabal and Niki-Artemis Spyridaki and Peter Eckersley and Sofia G Simoes and Monica Salvia and Filomena Pietrapertosa and Paris Fokaides and Sascha M Goonesekera and L\u00e9a Tardieu and Mario V Balzan and Cheryl L de Boer and Sonia De Gregorio Hurtado and Efr\u00e9n Feliu and Alexandros Flamos and Aoife Foley and Davide Geneletti and Stelios Grafakos and Oliver Heidrich and Byron Ioannou and Anna Krook-Riekkola and Marko Matosovic and Hans Orru and Kati Orru and Ivan Paspaldzhiev and Klavdija Ri\u017enar and Magdalena Smigaj and Maria Szalm\u00e1n\u00e9 Csete and Vincent Vigui\u00e9 and Anja Wejs",
+        "journal": "npj Urban Sustainability",
+        "volume": "3",
+        "number": "1",
+        "pages": "13",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "Defining and measuring progress in adaptation are important questions for climate adaptation science, policy, and practice. Here, we assess the progress of urban adaptation planning in 327 European cities between 2005 and 2020 using three \u2018ADAptation plan Quality Assessment\u2019 indices, called ADAQA-1/ 2/ 3, that combine six plan quality principles. Half of the cities have an adaptation plan and its quality significantly increased over time. However, generally, plan quality is still low in many cities. Participation and monitoring and evaluation are particularly weak aspects in urban adaptation policy, together with plan \u2018consistency\u2019. Consistency connects impacts and vulnerabilities with adaptation goals, planned measures, actions, monitoring and evaluation, and participation processes. Consistency is a key factor in the overall quality of plans. To help evaluate the quality of plans and policies and promote learning \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:RYcK_YlVTxYC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=17962009580448228154",
+    "cites_id": [
+        "17962009580448228154"
+    ],
+    "pub_url": "https://www.nature.com/articles/s42949-023-00085-1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:OqPH7ovgRfkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 8,
+        "2024": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Constitution de corpus th\u00e9matique: Pour un meilleur suivi du territoire de la M\u00e9tropole de Montpellier M\u00e9diterran\u00e9e",
+        "pub_year": 2021,
+        "citation": "SAGEO'21 16\u00e8me Conf\u00e9rence Internationale de la G\u00e9omatique, de l'Analyse \u2026, 2021",
+        "author": "Rodrique Kafando and R\u00e9my Decoupes and Maguelonne Teisseire and Lucile Sautot and Christiane Weber",
+        "conference": "SAGEO'21 16\u00e8me Conf\u00e9rence Internationale de la G\u00e9omatique, de l'Analyse Spatiale et des Sciences de l'Information G\u00e9ographique.",
+        "abstract": "Dans le cadre d\u2019un partenariat avec la m\u00e9tropole de Montpellier (3M) et son service ville intelligente, nous \u00e9tablissons une plateforme permettant l\u2019int\u00e9gration et l\u2019analyse de donn\u00e9es h\u00e9t\u00e9rog\u00e8nes massives pour une observation intelligente du territoire concern\u00e9. Dans cet article, nous d\u00e9crivons un processus de r\u00e9colte automatique de documents de sources diverses, selon trois th\u00e9matiques choisies par 3M qui sont l\u2019urbanisation, l\u2019agriculture et l\u2019hydrologie. A partir de termes graines \u00e0 dire d\u2019experts enrichies gr\u00e2ce \u00e0 des articles Wikip\u00e9dia puis Google, un vocabulaire de concepts est automatiquement constitu\u00e9. Les documents obtenus \u00e0 partir d\u2019un moteur de recherche sont ensuite \u00e9valu\u00e9s \u00e0 l\u2019aide d\u2019une mesure s\u00e9mantique sp\u00e9cifique. N ous d\u00e9taillons les premiers r\u00e9sultats obtenus et pr\u00e9sentons les avantages du protocole propos\u00e9.In collaboration with the metropolis of Montpellier (3M) and its smart city service, we are establishing a platform allowing the integration and analysis of massive heterogeneous data for intelligent observation of the territory concerned. In this article, we describe the process implemented to ensure an automatic collection of documents according to three themes chosen by 3M, which are urbanization, agriculture and hydrology. Results are detailed and the benefits oft his s calable s olution are highlited."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:L1USKYWJimsC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=7194593972175476524",
+    "cites_id": [
+        "7194593972175476524"
+    ],
+    "pub_url": "https://hal.science/hal-03243745/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LJevXhlV2GMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    }
+}

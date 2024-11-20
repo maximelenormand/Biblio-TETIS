@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Aboveground biomass mapping in French Guiana using remote sensing and environmental data",
+        "pub_year": 2016,
+        "citation": "41st Scientific Assembly of the Committee on Space Research and Associated \u2026, 2016",
+        "author": "N Baghdadi and I Fayad and Thuy Le Toan and Dinh Ho Tong Minh",
+        "conference": "41st Scientific Assembly of the Committee on Space Research and Associated Events (COSPAR)",
+        "pages": "3",
+        "abstract": "Mapping forest aboveground biomass (AGB) is becoming an important task, particularly for the reporting of forest carbon stocks and their changes. An approach for AGB mapping over the tropical forest of French Guiana was developed using regression-kriging of remote sensing and environmental data. The RMSE on the AGB estimates is of 51 Mg/ha (R2=0.66) with 1 km resolution map. This paper summarizes the approach developed for tropical forest biomass retrieval and the main results."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:UmS_249rOGwC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02603649/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lGSTIz3QDaAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

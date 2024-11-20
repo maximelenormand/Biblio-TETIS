@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "La confiance est dans l'air! Application \u00e0 l'identification des parcours hospitaliers",
+        "pub_year": 2016,
+        "citation": "GAST: Gestion et Analyse des donn\u00e9es Spatiales et Temporelles, 2016",
+        "author": "Yves Mercadier and Jessica Pinaire and J\u00e9r\u00f4me Az\u00e9 and Sandra Bringay and Maguelonne Teisseire",
+        "conference": "GAST: Gestion et Analyse des donn\u00e9es Spatiales et Temporelles",
+        "abstract": "L'extraction de motifs s\u00e9quentiels permet d'identifier les s\u00e9quences fr\u00e9quentes d'\u00e9v\u00e9nements ordonn\u00e9s. Afin de r\u00e9soudre le probl\u00e8me du grand nombre de motifs obtenus, nous proposons l'extension pour les motifs s\u00e9quentiels de la confiance, mesure d'int\u00e9r\u00eat utilis\u00e9e classiquement pour s\u00e9lectionner les r\u00e8gles d'association. Dans cet article, apr\u00e8s avoir pr\u00e9sent\u00e9 les donn\u00e9es, nous d\u00e9finirons formellement la notion de confiance appliqu\u00e9e aux motifs s\u00e9quentiels. Nous appliquerons cette mesure pour identifier des trajectoires hospitali\u00e8res, repr\u00e9sent\u00e9es par les motifs s\u00e9quentiels, dans des donn\u00e9es issues du PMSI (Programme de M\u00e9dicalisation des Syst\u00e8mes d'Information). Nous nous sommes focalis\u00e9s sur un cas d'\u00e9tude hospitali\u00e8re : l'infarctus du myocarde (IM), et notamment la pr\u00e9diction de la trajectoire des patients ayant eu un IM entre 2009 et 2013. Les r\u00e9sultats obtenus ont \u00e9t\u00e9 soumis \u00e0 un sp\u00e9cialiste pour discussion et validation."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:evX43VCCuoAC",
+    "num_citations": 0,
+    "pub_url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01288459/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZnFHDyvR0KcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

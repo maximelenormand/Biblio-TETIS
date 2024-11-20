@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "RetweetPatterns: detection of spatio-temporal patterns of retweets",
+        "pub_year": 2016,
+        "citation": "New advances in information systems and technologies, 879-888, 2016",
+        "author": "Tomy Rodrigues and Tiago Cunha and Dino Ienco and Pascal Poncelet and Carlos Soares",
+        "conference": "New advances in information systems and technologies",
+        "pages": "879-888",
+        "publisher": "Springer International Publishing",
+        "abstract": "Social media is strongly present in people\u2019s everyday life and Twitter is one example that stands out. The data within these types of services can be analyzed in order to discover useful knowledge. One interesting approach is to use data mining techniques to perceive hidden behaviours and patterns. The primary focus of this paper is the identification of patterns of retweets and to understand how information spreads over time in Twitter. The aim of this work lies in the adaptation of the GetMove tool, that is capable of extracting spatio-temporal pattern trajectories, and TweeProfiles, that identifies tweet profiles regarding several dimensions: spatial, temporal, social and content. We hope that the more flexible clustering strategy from TweeProfiles will enhance the results extracted by GetMove. We study the application of said mechanism to one case study and developed a visualization tool to interpret the results."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:3_LpOwP6eMYC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=16698546279572239371",
+    "cites_id": [
+        "16698546279572239371"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-31232-3_83",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:C_RSW14nvecJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1,
+        "2023": 2
+    }
+}

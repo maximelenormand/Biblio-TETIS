@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How to deal with multi-source data for tree detection based on deep learning",
+        "pub_year": 2017,
+        "citation": "2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP \u2026, 2017",
+        "author": "Lionel Pibre and Marc Chaumon and G\u00e9rard Subsol and Dino Lenco and Mustapha Derras",
+        "conference": "2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP)",
+        "pages": "1150-1154",
+        "publisher": "IEEE",
+        "abstract": "In the field of remote sensing, it is very common to use data from several sensors in order to make classification or segmentation. Most of the standard Remote Sensing analysis use machine learning methods based on image descriptions as HOG or SIFT and a classifier as SVM. In recent years neural networks have emerged as a key tool regarding the detection of objects. Due to the heterogeneity of information (optical, infrared, LiDAR), the combination of multi-source data is still an open issue in the Remote Sensing field. In this paper, we focus on managing data from multiple sources for the task of localization of urban trees in multi-source (optical, infrared, DSM) aerial images and we evaluate the different effects of preprocessing on the input data of a CNN."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:aDl3D7KC1E4C",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=15469352920818894997",
+    "cites_id": [
+        "15469352920818894997"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8309141/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lciPdoUurtYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 2,
+        "2020": 4,
+        "2021": 5,
+        "2022": 5,
+        "2023": 2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Exploitation de l\u2019h\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9 dans les donn\u00e9es textuelles",
+        "pub_year": 2019,
+        "citation": "Information Retrieval, Document and Semantic Web 19 (1), 2019",
+        "author": "Jacques Fize and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Information Retrieval, Document and Semantic Web",
+        "volume": "19",
+        "number": "1",
+        "abstract": "Depuis plusieurs d\u00e9cennies, on observe une utilisation croissante des syst\u00e8mes d\u2019information, ce qui provoque une augmentation exponentielle des donn\u00e9es textuelles. Bien que l\u2019aspect volum\u00e9trique de ces donn\u00e9es textuelles soit r\u00e9solu, sa dimension h\u00e9t\u00e9rog\u00e8ne reste un d\u00e9fi pour la communaut\u00e9 scientifique. La maitrise de ces donn\u00e9es h\u00e9t\u00e9rog\u00e8nes offre de nombreuses opportunit\u00e9s par un acc\u00e8s \u00e0 une information plus riche. Dans nos travaux, nous concevons un processus de mise en correspondance de donn\u00e9es textuelles h\u00e9t\u00e9rog\u00e8nes, bas\u00e9 sur leur spatialit\u00e9. Dans cet article, nous pr\u00e9sentons les r\u00e9sultats retourn\u00e9s par ce processus sur des donn\u00e9es produites \u00e0 Madagascar dans le cadre du projet BVLAC, dirig\u00e9 par le CIRAD. En se basant sur un ensemble de 4 crit\u00e8res de qualit\u00e9, nous obtenons de bonnes correspondances spatiales entre ces documents.Over the last decades, there has been an increasing use of information systems, resulting in an exponential increase in textual data. Although the volumetric dimension of these textual data has been resolved, its heterogeneous dimension remains a challenge for the scientific community. The management of the heterogeneity in data offers many opportunities through an access to a richer information. In our work, we design a process for mapping heterogeneous textual data, based on their spatiality. In this article, we present the results returned by this process on data produced in Madagascar as part of the BVLAC project, led by CIRAD. Based on a set of 4 quality criteria, we obtain good spatial correspondence between these documents."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:BJbdYPG6LGMC",
+    "num_citations": 0,
+    "pub_url": "http://131.254.150.21/ojs/index.php/ridows/article/view/17",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3-Nx8I4Ee3QJ:scholar.google.com/",
+    "cites_per_year": {}
+}

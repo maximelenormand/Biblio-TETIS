@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeoNLPlify: Une augmentation spatiale de corpus li\u00e9s aux crises pour des t\u00e2ches de classification",
+        "pub_year": 2023,
+        "citation": "Extraction et Gestion des Connaissances: Actes de la conf\u00e9rence EGC'2023 39, 2023",
+        "author": "R\u00e9my Decoupes and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Extraction et Gestion des Connaissances: Actes de la conf\u00e9rence EGC'2023",
+        "volume": "39",
+        "publisher": "BoD-Books on Demand",
+        "abstract": "L\u2019article\" Deux cygnes retrouv\u00e9s mort au Parc de la T\u00eate d\u2019Or \u00e0 Lyon\" parle-t-il de l\u2019\u00e9pid\u00e9mie de grippe aviaire? Nos travaux proposent d\u2019utiliser l\u2019information spatiale pour g\u00e9n\u00e9rer des donn\u00e9es artificielles \u00e9tiquet\u00e9es afin d\u2019am\u00e9liorer les classifications de textes bas\u00e9es sur BERT. Ainsi, apr\u00e8s avoir mis en \u00e9vidence, par des m\u00e9thodes d\u2019explicabilit\u00e9, l\u2019importance de l\u2019information spatiale dans les corpus li\u00e9s \u00e0 des crises, nous proposons diff\u00e9rentes strat\u00e9gies d\u2019augmentation de donn\u00e9es qui tirent profit de ce constat. Notre m\u00e9thode, GeoNLPlify, est \u00e9valu\u00e9e sur des jeux de donn\u00e9es publics (PADI-web et CrisisNLP) et compar\u00e9e aux augmentations de donn\u00e9es classiques."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:F2UWTTQJPOcC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=9637147628410368330",
+    "cites_id": [
+        "9637147628410368330"
+    ],
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=ar2uEAAAQBAJ&oi=fnd&pg=PA441&dq=info:SvFlT7UGvoUJ:scholar.google.com&ots=KDj5RXuhcy&sig=QbLh8bkv4r65qCagqJpVZp9g2fs",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SvFlT7UGvoUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

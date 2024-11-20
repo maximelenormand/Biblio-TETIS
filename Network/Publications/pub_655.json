@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ComSAR: A new algorithm for processing Big Data SAR Interferometry",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 820-823, 2021",
+        "author": "Dinh Ho Tong Minh and Yen-Nhi Ngo",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "820-823",
+        "publisher": "IEEE",
+        "abstract": "Modern Synthetic Aperture Radar (SAR) missions provide an unprecedented massive interferometric SAR (InSAR) time series. The processing of the Big InSAR Data is challenging for long term monitoring. This paper introduces a novel ComSAR algorithm based on a compression technique for reducing computational efforts while maintaining the performance robustly. The algorithm divides the massive data into many mini-stacks and then compresses them. The compressed estimator is close to the theoretical Cramer-Rao lower bound under a realistic C-band Sentinel-1 decorrelation scenario. The ComSAR performance is validated via simulation and application to Sentinel-1 data to map land subsidence of Mexico City."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:B3FOqHPlNUQC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=17301358797927000974",
+    "cites_id": [
+        "17301358797927000974"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9553675/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jqsEAinGGvAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 5,
+        "2023": 2,
+        "2024": 1
+    }
+}

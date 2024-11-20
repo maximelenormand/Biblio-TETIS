@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Toward spatio\u2013spectral analysis of sentinel-2 time series data for land cover mapping",
+        "pub_year": 2019,
+        "citation": "IEEE Geoscience and Remote Sensing Letters 17 (2), 307-311, 2019",
+        "author": "Yawogan Jean Eudes Gbodjo and Dino Ienco and Louise Leroux",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "volume": "17",
+        "number": "2",
+        "pages": "307-311",
+        "publisher": "IEEE",
+        "abstract": "Modern earth observation (EO) systems produce huge volumes of images with the objective to monitor the earth surface. Due to the high revisit time of EO systems, such as Sentinel-2 constellation, satellite image time series (SITS) is continuously produced allowing to improve the monitoring of spatiotemporal phenomena. How to efficiently analyze SITS considering both spectral and spatial information is still an open question in the remote sensing field. To deal with SITS classification, in this letter, we propose a spatio-spectral classification framework that leverages the mathematical morphology to extract spatial characteristics from SITS data and combines them with the already available spectral and temporal information. Experiments carried out on two study sites characterized by different heterogeneous land covers have demonstrated the significance of our proposal and the value to combine spatial as well as \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:lK9BDNCuzFgC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=5129737885904698509",
+    "cites_id": [
+        "5129737885904698509"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8732470/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jXw2wG19MEcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 5,
+        "2022": 3,
+        "2023": 6
+    }
+}

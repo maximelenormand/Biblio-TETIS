@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fluorescence Across Space and Time (2017 FAST Campaign): Investigating the multiscale links between fluorescence and photosynthesis",
+        "pub_year": 2017,
+        "citation": "AGU Fall Meeting Abstracts 2017, B44C-07, 2017",
+        "author": "Albert Porcar-Castell and Jon Atherton and Paulina Anna Rajewicz and Anu Riikonen and Steffen Gebre and Weiwei Liu and Juho Aalto and Ryad Bendoula and Andreas Burkart and Huilin Chen and Kukka-Maaria Erkkil\u00e4 and Jean-Baptiste Feret and Beatr\u00edz Fern\u00e1ndez-Mar\u00edn and Jose Ignacio Garc\u00eda-Plazaola and Teemu Hakala and Saara Hartikainen and Eija Honkavaara and Janne Ihalainen and Tommaso Julitta and Pasi Kolari and Linda Kooijmans and Janne Levula and Matti Loponen and Alasdair Mac Arthur and Troy Magney and Kadmiel S Maseyk and Matti Mottus and Santa Neimane and Esko Oksa and Gregory B Osterman and Iain Robinson and Matthew T Robson and Neus Sabater and Twinkle Solanki and Mikko Tikkanen and Raisa M\u00e4kip\u00e4\u00e4 and Eva-Mari Aro and Uwe Rascher and Christian Frankenberg and Markku Tapio Kulmala and Timo Vesala and Jaana K Back",
+        "journal": "AGU Fall Meeting Abstracts",
+        "volume": "2017",
+        "pages": "B44C-07",
+        "abstract": "The use of solar-induced chlorophyll fluorescence (ChlF) as a tracer of photosynthesis is rapidly expanding with increasing numbers of measurements from towers, drones, aircrafts, or satellites. But how to integrate all the informative potential of these multiscale datasets? The connection between ChlF and photosynthesis takes place via multiple mechansisms that depend on the scale. At the leaf level, diurnal variations in ChlF may indicate changes in photochemical or non-photochemical quenching processes, whereas seasonal variations may indicate changes in the protein structure or pigment composition of the photosynthetic apparatus. At the canopy level, variations in ChlF may also reflect changes in total leaf area, canopy structure, species composition, changes in illumination or sun-target-sensor geometry, background properties, etc. At the pixel level, the dynamics of the atmosphere are also important. It is \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:hMod-77fHWUC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=8779356301296084021",
+    "cites_id": [
+        "8779356301296084021"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2017AGUFM.B44C..07P/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NSRXfwqK1nkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1
+    }
+}

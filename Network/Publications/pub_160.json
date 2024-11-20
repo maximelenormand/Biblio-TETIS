@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Simulation of Lidar signal with DART for the development of LEAF, a spaceborne Lidar mission for forest ecosystem monitoring",
+        "pub_year": 2019,
+        "citation": "ESA Living Planet Symposium, 21, 2019",
+        "author": "S Durrieu and F de Boissieu and Jean-Philippe Gastellu-Etchegorry and G Vincent and C Lavalley and G Couderc and S Mpili and F Heuschmidt and J Costeraste and JB Feret and D Ebengo and Nicolas Lauret and MJ Lef\u00e8vre Fonollosa and T Yin",
+        "conference": "ESA Living Planet Symposium",
+        "pages": "21",
+        "abstract": "Understanding the Global Climate Change and the way it will affect the Earth and preserving biodiversity are two major challenges of the 21st century. Forests cover 30% of continental surfaces and are a major contributor to the carbon cycle. Sequestration of carbon in forest biomass appears as an important mechanism - in conjunction with reduced emissions - for mitigating climate change. Adequate management of forest resources could strengthen the action of forests as a carbon sink. Forests also play a key role for biodiversity conservation and energy supply. Sustainable management of forest ecosystems is thus critical for the future of mankind. However, the lack of consistent information on forest structure and biomass and on their dynamics at global scale hampers the development of ecological models and of earth-vegetation-atmosphere interaction global models that are essential to improve knowledge on forest ecosystem functioning and to address the challenge of forest sustainable management. By its ability to measure the vertical structure of land cover, airborne Lidar technology is highly qualified for forest applications. NASA's ICESat1 mission (2003-2009) paved the way for Earth observation from space with Lidar systems. ICESat2, launched in September 2018, although primarily designed for ice monitoring will also provide vegetation height measurements worldwide. Vegetation profiles with high vertical resolution should also become soon available with GEDI (NASA) and MOLI (JAXA) missions that will be installed on the ISS at the end of 2018 and in 2019 or 2020, respectively. Although data coverage will be limited from 52\u00b0S to \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:tS2w5q8j5-wC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02609788/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iDNAFIpK4hIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

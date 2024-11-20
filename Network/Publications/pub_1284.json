@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A remote sensing approach for regional-scale mapping of agricultural land-use systems based on NDVI time series",
+        "pub_year": 2017,
+        "citation": "Remote Sensing 9 (6), 600, 2017",
+        "author": "Beatriz Bell\u00f3n and Agn\u00e8s B\u00e9gu\u00e9 and Danny Lo Seen and Claudio Aparecido De Almeida and Margareth Sim\u00f5es",
+        "journal": "Remote Sensing",
+        "volume": "9",
+        "number": "6",
+        "pages": "600",
+        "publisher": "MDPI",
+        "abstract": "In response to the need for generic remote sensing tools to support large-scale agricultural monitoring, we present a new approach for regional-scale mapping of agricultural land-use systems (ALUS) based on object-based Normalized Difference Vegetation Index (NDVI) time series analysis. The approach consists of two main steps. First, to obtain relatively homogeneous land units in terms of phenological patterns, a principal component analysis (PCA) is applied to an annual MODIS NDVI time series, and an automatic segmentation is performed on the resulting high-order principal component images. Second, the resulting land units are classified into the crop agriculture domain or the livestock domain based on their land-cover characteristics. The crop agriculture domain land units are further classified into different cropping systems based on the correspondence of their NDVI temporal profiles with the phenological patterns associated with the cropping systems of the study area. A map of the main ALUS of the Brazilian state of Tocantins was produced for the 2013\u20132014 growing season with the new approach, and a significant coherence was observed between the spatial distribution of the cropping systems in the final ALUS map and in a reference map extracted from the official agricultural statistics of the Brazilian Institute of Geography and Statistics (IBGE). This study shows the potential of remote sensing techniques to provide valuable baseline spatial information for supporting agricultural monitoring and for large-scale land-use systems analysis."
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:hCrLmN-GePgC",
+    "num_citations": 108,
+    "citedby_url": "/scholar?hl=en&cites=12496001021916546353,566664018464555394",
+    "cites_id": [
+        "12496001021916546353",
+        "566664018464555394"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/9/6/600",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MQVBCLm2aq0J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 15,
+        "2019": 11,
+        "2020": 18,
+        "2021": 25,
+        "2022": 13,
+        "2023": 23,
+        "2024": 3
+    }
+}

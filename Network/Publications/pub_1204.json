@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The Multiscale TROPIcal CatchmentS critical zone observatory M\u2010TROPICS dataset II: land use, hydrology and sediment production monitoring in Houay Pano, northern Lao PDR",
+        "pub_year": 2021,
+        "citation": "Hydrological processes 35 (5), e14126, 2021",
+        "author": "Laurie Boithias and Yves Auda and St\u00e9phane Audry and Jean\u2010Pierre Bricquet and Alounsavath Chanhphengxay and Vincent Chaplot and Anneke De Rouw and Thierry Henry des Tureaux and Sylvain Huon and Jean\u2010Louis Janeau and Keooudone Latsachack and Yann Le Troquer and Guillaume Lestrelin and Jean\u2010Luc Maeght and Pierre Marchand and Pierre Moreau and Andrew Noble and Anne Pando\u2010Bahuon and Kongkeo Phachomphon and Khambai Phanthavong and Alain Pierret and Olivier Ribolzi and Jean Riotte and Henri Robain and Emma Rochelle\u2010Newall and Saysongkham Sayavong and Oloth Sengtaheuanghoung and Norbert Silvera and Nivong Sipaseuth and Bounsamay Soulileuth and Xaysatith Souliyavongsa and Phapvilay Sounyaphong and Sengkeo Tasaketh and Chanthamousone Thammahacksa and Jean\u2010Pierre Thiebaux and Christian Valentin and Olga Vigiak and Marion Viguier and Khampaseuth Xayyathip",
+        "journal": "Hydrological processes",
+        "volume": "35",
+        "number": "5",
+        "pages": "e14126",
+        "publisher": "John Wiley & Sons, Inc.",
+        "abstract": "Mountain regions of the humid tropics are characterized by steep slopes and heavy rains. These regions are thus prone to both high surface runoff and soil erosion. In Southeast Asia, uplands are also subject to rapid land\u2010use change, predominantly as a result of increased population pressure and market forces. Since 1998, the Houay Pano site, located in northern Lao PDR (19.85\u00b0N 102.17\u00b0E) within the Mekong basin, aims at assessing the long\u2010term impact of the conversion of traditional slash\u2010and\u2010burn cultivation systems to commercial perennial monocultures such as teak tree plantations, on the catchment hydrological response and sediment yield. The instrumented site monitors hydro\u2010meteorological and soil loss parameters at both microplot (1 m2) and small catchment (0.6 km2) scales. The monitored catchment is part of the network of critical zone observatories named Multiscale TROPIcal CatchmentS (M \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:vRqMK49ujn8C",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=13418247403994141691",
+    "cites_id": [
+        "13418247403994141691"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.14126",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-9Ngx-swN7oJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 9,
+        "2022": 3
+    }
+}

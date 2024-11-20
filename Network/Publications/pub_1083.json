@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Clay Content Mapping Using Soil Moisture Products Derived From a Synergetic Use of Sentinel-1 and Sentinel-2 Data",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Safa Bousbih and Mehrez Zribi and Zohra Lili Chabaane and Nicolas Baghdadi and Azza Gorrab and Nadhira Ben Aissa",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "4910-4913",
+        "publisher": "IEEE",
+        "abstract": "Soil texture estimation is important in several applications. However, field sampling or laboratory analyzes are very expensive and not very representative. Besides, existing soil maps are neither exhaustive nor sufficiently precise for modeling and meeting needs at field scale. This study aimed to explore the potential of Sentinel satellites to predict topsoil texture, and more precisely to produce clay content map at fine spatial resolution. With its components and its porosity, soil texture is directly linked to soil moisture. In this context and with the arrival of Sentinel constellation, data are acquired with high spatial and temporal resolution. And soil moisture is retrieved from a synergetic use of Sentinel-l (S-1) and Sentinel-2 (S-2) data between July and early December 2017, over a semi-arid area in central Tunisia. Relationship between soil moisture and clay content is studied and used to produce texture map \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:BJrgspguQaEC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9323773/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:S_0BbL9ZF8sJ:scholar.google.com/",
+    "cites_per_year": {}
+}

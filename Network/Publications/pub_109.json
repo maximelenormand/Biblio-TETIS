@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "On enhancing the pilot-aided sampling clock offset estimation of mobile OFDM systems",
+        "pub_year": 2016,
+        "citation": "Journal of Communication and Information Systems 31 (1), 2016",
+        "author": "C\u00e1ssio Fraga Dantas and Davi Castro and Cristiano Magalh\u00e3es Panazio",
+        "journal": "Journal of Communication and Information Systems",
+        "volume": "31",
+        "number": "1",
+        "abstract": "Sampling Clock Offset (SCO) estimation is an important issue in Orthogonal Frequency-Division Multiplexing (OFDM) systems because sampling frequency mismatch between the transmitter and the receiver may severely degrade the system performance due to the loss of orthogonality between the subcarriers."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:u-x6o8ySG0sC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=10228136154715157211",
+    "cites_id": [
+        "10228136154715157211"
+    ],
+    "pub_url": "https://jcis.emnuvens.com.br/jcis/article/view/373",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:23IgSKSj8Y0J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 3,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1,
+        "2023": 2
+    }
+}

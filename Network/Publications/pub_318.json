@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Products and services of the\" Urban\" THEIA Scientific expertise Centre",
+        "pub_year": 2022,
+        "citation": "ESA Living Planet Symposium 2022, 2022",
+        "author": "Anne Puissant and Thibault Catry and R\u00e9mi Cresson and Nadine Dessay and Laurent Demagistri and S\u00e9bastien Gadal and Arnaud Le Bris and Kenji Ose and Benjamin Pillot",
+        "conference": "ESA Living Planet Symposium 2022",
+        "abstract": "The THEIA data and services centre (www.theia-land.fr) is a consortium of 10 French public institutions (CEA, CEREMA, CIRAD, CNES, IGN, INRAE, CNRS, IRD, M\u00e9t\u00e9o France, and ONERA) designed to foster the use of Earth Observations data for environmental studies. The \u201cUrban\u201d SEC brings together teams from several research laboratories in France that carry out research and develop innovative data processing methods for urban remote sensing using optical and SAR sensors. They are working on the validation of the urban products provided by the THEIA SDI and try to demonstrate user-tailored applications."
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:r0BpntZqJG4C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=4370447851041803442",
+    "cites_id": [
+        "4370447851041803442"
+    ],
+    "pub_url": "https://hal.campus-aar.fr/ESPACE_AIX-EN-PROVENCE/hal-03678980v1",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sky3NirzpjwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

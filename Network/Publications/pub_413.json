@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatio-Temporal data mining: From big data to patterns",
+        "pub_year": 2016,
+        "citation": "SIMBig 2016, 17-18, 2016",
+        "author": "Maguelonne Teisseire",
+        "conference": "SIMBig 2016",
+        "pages": "17-18",
+        "abstract": "Technological advances in terms of data acquisition enable to better monitor dynamic phenomena in various domains (areas, fields) including environment. The collected data is more and more complex - spatial, temporal, heterogeneous and multi-scale. Exploiting this data requires new data analysis and knowledge discovery methods. In that context, approaches aimed at discovering spatio-Temporal patterns are particularly relevant. This paper1 focuses on spatio-Temporal data and associated data mining methods."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:IWHjjKOFINEC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01542879/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SHJdiHenMyQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

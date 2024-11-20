@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "LEAP4FNSSA lexicon: Towards a new dataset of keywords dealing with food security",
+        "pub_year": 2022,
+        "citation": "Data in Brief 45, 2022",
+        "author": "Mathieu Roche and Agneta Lindsten and Tomas Lund\u00e9n and Thierry Helmer",
+        "journal": "Data in Brief",
+        "volume": "45",
+        "publisher": "Elsevier",
+        "abstract": "The main objective of the project LEAP4FNSSA (Long-term EU-AU Research and Innovation Partnership for Food and Nutrition Security and Sustainable Agriculture) is to provide a tool for European and African institutions to engage in a sustainable partnership platform for research and innovation on Food and Nutrition Security, and Sustainable Agriculture (FNSSA). The FNSSA roadmap facilitates the involvement of stakeholders for addressing and linking research to innovation dealing with food security issues. In this context, the LEAP4FNSSA project supports the driving of the roadmap. Research and innovation activities were captured in different data, i.e. LEAP4FNSSA database and heterogeneous textual data including project reports, websites, scientific publications, workshop reports and student theses. The Knowledge Extractor Pipeline System (KEOPS) was implemented to support the processing and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:L24QuVWYgZ0C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16622978607756393344",
+    "cites_id": [
+        "16622978607756393344"
+    ],
+    "pub_url": "https://www.data-in-brief.com/article/S2352-3409(22)00885-X/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gLs8sPiusOYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 2
+    }
+}

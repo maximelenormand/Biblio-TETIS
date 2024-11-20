@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A CNN-based approach for forest parameter regression by fusion of Sentinel-2 and TanDEM-X data",
+        "pub_year": 2022,
+        "citation": "ESA Living Planet Symposium 2022, 2022",
+        "author": "Daniel Carcereri and Paola Rizzoli and Dino Ienco and Jose Luis Bueso Bello and Carolina Gonzalez and Lorenzo Bruzzone",
+        "journal": "ESA Living Planet Symposium 2022",
+        "abstract": "electronic library - A CNN-based approach for forest parameter regression by fusion of \nSentinel-2 and TanDEM-X data elib DLR-Header DLR-Logo -> http://www.dlr.de DLR Portal \nHome | Impressum | Datenschutz | Kontakt | English Schriftgr\u00f6\u00dfe: [-] Text [+] Erweiterte Suche \nVersenden Drucken A CNN-based approach for forest parameter regression by fusion of \nSentinel-2 and TanDEM-X data Carcereri, Daniel und Rizzoli, Paola und Ienco, Dino und Bueso \nBello, Jose Luis und Gonzalez, Carolina und Bruzzone, Lorenzo (2022) A CNN-based \napproach for forest parameter regression by fusion of Sentinel-2 and TanDEM-X data. In: ESA \nLiving Planet Symposium 2022. ESA Living Planet Symposium, 2022-05-23 - 2022-05-27, \nBonn, Germany. Dieses Archiv kann nicht den Volltext zur Verf\u00fcgung stellen. elib-URL des \nEintrags: https://elib.dlr.de/186248/ Dokumentart: Konferenzbeitrag (Vortrag) Titel: A CNN-based \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:oldoQiaHq2UC",
+    "num_citations": 0,
+    "pub_url": "https://elib.dlr.de/186248/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gLTjFBNCbiIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

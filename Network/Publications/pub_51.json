@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Characterization and Ranking of Lurkers",
+        "pub_year": 2018,
+        "citation": "Mining Lurkers in Online Social Networks: Principles, Models, and \u2026, 2018",
+        "author": "Andrea Tagarelli and Roberto Interdonato and Andrea Tagarelli and Roberto Interdonato",
+        "journal": "Mining Lurkers in Online Social Networks: Principles, Models, and Computational Methods",
+        "pages": "15-27",
+        "publisher": "Springer International Publishing",
+        "abstract": "In this chapter, we discuss computational approaches to identify and rank lurkers in online social networks. We begin with a formal definition of topology-driven lurking and a detailed description of a family of centrality methods specifically conceived for ranking lurkers solely based on network topology, namely LurkerRank. To better model dynamics of user behaviors, the Time-Aware LurkerRank models are also described. The chapter ends with the description of a learning-to-rank framework for lurker prediction and classification."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:YOwf2qJgpHMC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-00229-9_3",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hbVOrKVuaLMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

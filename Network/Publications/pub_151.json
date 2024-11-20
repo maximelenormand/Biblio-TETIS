@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modelling forest volume with small area estimation of forest inventory using GEDI footprints as auxiliary information",
+        "pub_year": 2022,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 114 \u2026, 2022",
+        "author": "Shaohui Zhang and C\u00e9dric Vega and Christine Deleuze and Sylvie Durrieu and Pierre Barbillon and Olivier Bouriaud and Jean-Pierre Renaud",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "114",
+        "pages": "103072",
+        "publisher": "Elsevier",
+        "abstract": "The French National Forest Inventory provides detailed forest information up to large national and regional scales. Forest inventory for small areas of interest within a large population is equally important for decision making, such as for local forest planning and management purposes. However, sampling these small areas with sufficient ground plots is often not cost efficient. In response, small area estimation has gained increasing popularity in forest inventory. It consists of a set of techniques that enables predictions of forest attributes of subpopulation with the help of auxiliary information that compensates for the small field samples.Common sources of auxiliary information usually come from remote sensing technology, such as airborne laser scanning and satellite imagery. The newly launched NASA\u2019s Global Ecosystem Dynamics Investigation (GEDI), a full waveform Lidar instrument, provides an unprecedented \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:Fu2w8maKXqMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=809164866300384766",
+    "cites_id": [
+        "809164866300384766"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1569843222002606",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_pWPpCi7OgsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

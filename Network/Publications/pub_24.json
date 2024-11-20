@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fast super-resolution of 20 m Sentinel-2 bands using convolutional neural networks",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (22), 2635, 2019",
+        "author": "Massimiliano Gargiulo and Antonio Mazza and Raffaele Gaetano and Giuseppe Ruello and Giuseppe Scarpa",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "22",
+        "pages": "2635",
+        "publisher": "MDPI",
+        "abstract": "Images provided by the ESA Sentinel-2 mission are rapidly becoming the main source of information for the entire remote sensing community, thanks to their unprecedented combination of spatial, spectral and temporal resolution, as well as their associated open access policy. Due to a sensor design trade-off, images are acquired (and delivered) at different spatial resolutions (10, 20 and 60 m) according to specific sets of wavelengths, with only the four visible and near infrared bands provided at the highest resolution (10 m). Although this is not a limiting factor in general, many applications seem to emerge in which the resolution enhancement of 20 m bands may be beneficial, motivating the development of specific super-resolution methods. In this work, we propose to leverage Convolutional Neural Networks (CNNs) to provide a fast, upscalable method for the single-sensor fusion of Sentinel-2 (S2) data, whose aim is to provide a 10 m super-resolution of the original 20 m bands. Experimental results demonstrate that the proposed solution can achieve better performance with respect to most of the state-of-the-art methods, including other deep learning based ones with a considerable saving of computational burden."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:qUcmZB5y_30C",
+    "num_citations": 47,
+    "citedby_url": "/scholar?hl=en&cites=1139595630650681450",
+    "cites_id": [
+        "1139595630650681450"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/22/2635",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:amiFMDCo0A8J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 10,
+        "2021": 13,
+        "2022": 12,
+        "2023": 11
+    }
+}

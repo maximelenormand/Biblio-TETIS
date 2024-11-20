@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How Much Would You Pay for a Satellite Image?: Lessons Learned From French Spatial-Data Infrastructure",
+        "pub_year": 2020,
+        "citation": "IEEE geoscience and remote sensing magazine 8 (4), 8-22, 2020",
+        "author": "Chady Jabbour and Anis Hoayek and Pierre Maurel and Helene Rey-Valette and Jean-Michel Salles",
+        "journal": "IEEE geoscience and remote sensing magazine",
+        "volume": "8",
+        "number": "4",
+        "pages": "8-22",
+        "publisher": "IEEE",
+        "abstract": "Satellite imagery is increasingly employed for land-use analysis and planning. In this article, we examine the economic value of high-resolution (HR) satellite images as perceived by direct users. Drawing on a French spatial-data infrastructure (SDI), the direct users of which are mostly from public bodies, we used a contingent-valuation method to evaluate their willingness to pay (WTP) for satellite imagery. A clear understanding of the value of these images is critical for justifying the large investments made in this sector and supporting policies that aim to develop and sustain these resources. We analyzed the differences in the stated values according to the various types of users. A survey of the registered users on the Geo Information for Sustainable Development (GEOSUD) platform found a mean value of \u20ac1,696 for a 60 \u00d7 60-km2 HR image. Charging this amount leads to an acceptance rate of 43%, with 57% of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:4TOpqqG69KYC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=2470095477812263963",
+    "cites_id": [
+        "2470095477812263963"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9005374/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:G3xM_L-KRyIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1
+    }
+}

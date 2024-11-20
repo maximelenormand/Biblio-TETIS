@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Premi\u00e8re exp\u00e9rimentation de compensation par l'offre: bilan et perspective",
+        "pub_year": 2015,
+        "citation": "Sciences Eaux & Territoires pour tous, 64-69, 2015",
+        "author": "Thierrry Dutoit and Renaud Jaunatre and Jean-Fran\u00e7ois Alignan and Adeline Bulot and Elise Buisson and Coralie Calvet and Axel Wolff and Fanny Sauguet and Jean-Fran\u00e7ois Debras and Erick Provost and Claude Napoleone",
+        "journal": "Sciences Eaux & Territoires pour tous",
+        "number": "1",
+        "pages": "64-69",
+        "publisher": "Cairn/Hyptique",
+        "abstract": "R\u00e9sumeM\u00eame s'il suscite encore de nombreux d\u00e9bats, le principe de compensation \u00e9cologique pour les d\u00e9g\u00e2ts caus\u00e9s \u00e0 la biodiversit\u00e9 lors de projets d\u2019am\u00e9nagements a finalement \u00e9t\u00e9 adopt\u00e9 en mars dernier dans le cadre de la loi \u00ab Biodiversit\u00e9 \u00bb.\u00c0 travers l'exemple de la r\u00e9habilitation \u00e9cologique et pastorale du verger de Cossure en plaine de Crau, premi\u00e8re exp\u00e9rimentation fran\u00e7aise de compensation \u00e9cologique par l'offre, les auteurs s'int\u00e9ressent ici au bilan \u00e9cologique et \u00e9conomique de l'op\u00e9ration pour en d\u00e9gager les effets positifs, mais \u00e9galement les dysfonctionnements et les limites."
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:UeHWp8X0CEIC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=9080631960068841551",
+    "cites_id": [
+        "9080631960068841551"
+    ],
+    "pub_url": "https://www.cairn.info/revue-sciences-eaux-et-territoires-2015-1-page-64.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:T2D2C6jiBH4J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 6,
+        "2019": 1,
+        "2020": 5,
+        "2021": 1
+    }
+}

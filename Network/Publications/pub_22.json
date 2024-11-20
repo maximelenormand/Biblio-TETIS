@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": ": A Deep Learning Architecture for Multiscale Multimodal Multitemporal Satellite Data Fusion",
+        "pub_year": 2018,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2018",
+        "author": "Paola Benedetti and Dino Ienco and Raffaele Gaetano and Kenji Ose and Ruggero G Pensa and Stephane Dupuy",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "11",
+        "number": "12",
+        "pages": "4939-4949",
+        "publisher": "IEEE",
+        "abstract": "Modern Earth Observation systems provide remote sensing data at different temporal and spatial resolutions. Among all the available spatial mission, today the Sentinel-2 program supplies high temporal (every five days) and high spatial resolution (HSR) (10 m) images that can be useful to monitor land cover dynamics. On the other hand, very HSR (VHSR) imagery is still essential to figure out land cover mapping characterized by fine spatial patterns. Understanding how to jointly leverage these complementary sources in an efficient way when dealing with land cover mapping is a current challenge in remote sensing. With the aim of providing land cover mapping through the fusion of multitemporal HSR and VHSR satellite images, we propose a suitable end-to-end deep learning framework, namely M 3 Fusion, which is able to simultaneously leverage the temporal knowledge contained in time series data as well as \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:SP6oXDckpogC",
+    "num_citations": 111,
+    "citedby_url": "/scholar?hl=en&cites=18204912649617736151",
+    "cites_id": [
+        "18204912649617736151"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8516352/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1wF735nXpPwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 4,
+        "2019": 9,
+        "2020": 27,
+        "2021": 28,
+        "2022": 21,
+        "2023": 16,
+        "2024": 6
+    }
+}

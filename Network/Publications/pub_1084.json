@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Measuring \u03b2\u2010diversity by remote sensing: A challenge for biodiversity monitoring",
+        "pub_year": 2018,
+        "citation": "Methods in Ecology and Evolution 9 (8), 1787-1798, 2018",
+        "author": "Duccio Rocchini and Sandra Luque and Nathalie Pettorelli and Lucy Bastin and Daniel Doktor and Nicol\u00f2 Faedi and Hannes Feilhauer and Jean\u2010Baptiste F\u00e9ret and Giles M Foody and Yoni Gavish and Sergio Godinho and William E Kunin and Angela Lausch and Pedro J Leitao and Matteo Marcantonio and Markus Neteler and Carlo Ricotta and Sebastian Schmidtlein and Petteri Vihervaara and Martin Wegmann and Harini Nagendra",
+        "journal": "Methods in Ecology and Evolution",
+        "volume": "9",
+        "number": "8",
+        "pages": "1787-1798",
+        "abstract": "  Biodiversity includes multiscalar and multitemporal structures and processes, with different levels of functional organization, from genetic to ecosystemic levels. One of the mostly used methods to infer biodiversity is based on taxonomic approaches and community ecology theories. However, gathering extensive data in the field is difficult due to logistic problems, especially when aiming at modelling biodiversity changes in space and time, which assumes statistically sound sampling schemes. In this context, airborne or satellite remote sensing allows information to be gathered over wide areas in a reasonable time. Most of the biodiversity maps obtained from remote sensing have been based on the inference of species richness by regression analysis. On the contrary, estimating compositional turnover (\u03b2\u2010diversity) might add crucial information related to relative abundance of different species instead of just \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:k_IJM867U9cC",
+    "num_citations": 111,
+    "citedby_url": "/scholar?hl=en&cites=9940970779952872481",
+    "cites_id": [
+        "9940970779952872481"
+    ],
+    "pub_url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210x.12941",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IfygPUFs9YkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 5,
+        "2019": 15,
+        "2020": 21,
+        "2021": 20,
+        "2022": 33,
+        "2023": 14,
+        "2024": 3
+    }
+}

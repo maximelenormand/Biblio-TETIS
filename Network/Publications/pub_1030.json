@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Effect of soil roughness on backscattered P-band radar signal over bare soil",
+        "pub_year": 2016,
+        "citation": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2016",
+        "author": "Mehrez Zribi and Mouna Sahnoun and Nicolas Baghdadi and Ahmed Ben Hamida",
+        "conference": "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "1683-1686",
+        "publisher": "IEEE",
+        "abstract": "In this paper, the potential use of P-band radar signal for the estimation of soil roughness parameters is analyzed. The Integral Equation Model (IEM) is used to study the sensitivity of backscattered P-band signal to soil surface parameters. A new roughness parameter referred to as Zp, combining the root mean square surface height and the correlation length, is proposed to describe the behavior of P-band radar signal as a function of soil roughness. The IEM model is validated using real data covering a large range of roughness values, derived from experimental airborne P-band SAR campaigns made over agricultural fields. Discrepancies between the measurements and simulations led to the analysis of the influence of low frequency roughness structures on backscattering simulations. The analysis of the behavior of P-band radar signal as a function of multi-scale soil roughness (micro topography and large \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:epqYDVWIO7EC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7729430/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:eQU6-GTvJ_kJ:scholar.google.com/",
+    "cites_per_year": {}
+}

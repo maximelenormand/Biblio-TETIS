@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Implementation of zoning to guide management of foot and mouth disease in Tunisia",
+        "pub_year": 2022,
+        "citation": "Transboundary and Emerging Diseases 69 (3), 1338-1348, 2022",
+        "author": "Oumaima Mtaallah and C\u00e9cile Squarzoni\u2010Diaw and Sana Kalthoum and Rachid Bouguedour and Facundo Mu\u00f1oz and Annelise Tran and Caroline Coste",
+        "journal": "Transboundary and Emerging Diseases",
+        "volume": "69",
+        "number": "3",
+        "pages": "1338-1348",
+        "abstract": "The World Organisation for Animal Health advocates the zoning approach for the surveillance and monitoring of foot and mouth disease (FMD), a highly contagious animal disease. Our purpose is to implement the zoning approach in Tunisia by identifying existing natural and artificial barriers to the movement of live animals. A Geographic Information System (GIS)\u2010based MultiCriteria Evaluation approach was developed. Eight national and international experts were asked to identify the barriers and prioritize them, characterized by a percentage weight between 0 and 100. These barriers were mapped and combined, taking into account their relative importance, to create a friction map that makes it possible to visualize areas where animal movements are restricted. Uncertainty analysis was performed to assess the robustness of the model. The results showed that the selected barriers were in order of decreasing \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:PVjk1bu6vJQC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=18200652719127949802",
+    "cites_id": [
+        "18200652719127949802"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/tbed.14101",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6nHegze1lfwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

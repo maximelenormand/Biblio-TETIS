@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparaison de mod\u00e8les num\u00e9riques de surface photogramm\u00e9triques de diff\u00e9rentes r\u00e9solutions en for\u00eat mixte. Estimation d'une variable dendrom\u00e9trique simple: la hauteur dominante",
+        "pub_year": 2017,
+        "citation": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection, 143-152, 2017",
+        "author": "Xavier Lucie and Sylvie Durrieu and Anne Jolly and Sylvain Labb\u00e9 and Jean-Pierre Renaud",
+        "journal": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection",
+        "number": "213",
+        "pages": "143-152",
+        "abstract": "Renewed interest in photogrammetry and recent developments of unmanned aerial vehicles (UAVs) open new possibilities in the field of forest planning and management. As the assessment of forest dendrometric parameters is usually a costly task, involving intensive field measurements, we were interested to evaluate how the use of accurate photogrammetric digital surface models (DSMs) could facilitate these estimations. Based on DSMs, dendrometric models were calibrated using circular plots (700 m\u00b2) measured in an area of interest (AOI). UAVs flight above these AOI were acquired at very high resolution (VHRI) giving images with a spatial resolution of 2.5 cm, as compared to 25,0 cm for the standard IGN aerial images. We were also interested in assessing the impact of DSMs resolution. For this purpose, DSMs were computed at the original resolution as well as degraded resolutions from 5.0 cm to 40.0 cm. Each DSM's elevation was then compared to manual stereoscopic measurements realized on the VHRI. By subtracting a digital terrain model (DTM) from each DSM, we derived canopy height models (CHMs). From these CHMs, we observed that plot height distributions were interesting indicators of forest structures and we were also able to established dominant height (H0) models. These results underline the interest of new photogrammetric approaches, and the importance of spatial resolutions, to improve forest planning and management."
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:YFjsv_pBGBYC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=8779305694528156695",
+    "cites_id": [
+        "8779305694528156695"
+    ],
+    "pub_url": "https://hal.science/hal-01772218/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FzTqsANc1nkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

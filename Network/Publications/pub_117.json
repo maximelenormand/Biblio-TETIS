@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deforestation processes in the livestock territory of La V\u00eda L\u00e1ctea, Matagalpa, Nicaragua",
+        "pub_year": 2019,
+        "citation": "Journal of Land Use Science 14 (3), 225-241, 2019",
+        "author": "Diego Tobar-L\u00f3pez and Muriel Bonin and Hern\u00e1n J Andrade and Astrid Pulido and Muhammad Ibrahim",
+        "journal": "Journal of Land Use Science",
+        "volume": "14",
+        "number": "3",
+        "pages": "225-241",
+        "publisher": "Taylor & Francis",
+        "abstract": "Land-use change is considered one of the main causes of environmental degradation. Thus, its analysis will allow stakeholders to make reasonable decisions for land management. The objective of the present study was to understand the patterns of land-use/land-cover change and deforestation in a territory of importance for livestock development in Nicaragua: La V\u00eda L\u00e1ctea. The methodology was based on the digital processing of satellite images using the geographic information system that allowed the generation of the thematic cartography of land-use/land-cover for 1978, 1986, 1998, and 2011. Between 1978 and 2011, a total of 93% of the forest cover was converted to pasture for livestock development; this change has been influenced by socio-economic and political factors. This study, moreover, reinforces the idea that livestock is the main driver of deforestation. Landscape restoration requires increasing \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ARl-VIoAAAAJ:PELIpwtuRlgC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=3621724319030451150",
+    "cites_id": [
+        "3621724319030451150"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/1747423X.2019.1671907",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zhs0VhTzQjIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 3,
+        "2022": 2,
+        "2023": 2
+    }
+}

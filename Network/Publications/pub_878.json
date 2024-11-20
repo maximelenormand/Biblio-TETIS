@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessment of sentinel-1 radiometric stability and quality",
+        "pub_year": 2017,
+        "citation": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2017",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi and S\u00e9bastien Angelliaume",
+        "conference": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "5406-5409",
+        "publisher": "IEEE",
+        "abstract": "The main goal of this paper is to assess the radiometric stability of the new Sentinel-1A (S-1A) SAR (Synthetic Aperture Radar) sensors. The S-1A radiometric stability was assessed by analyzing the temporal variations of the backscattering coefficient (\u03c3\u00b0) returned from invariant targets. The results show three stable sub-time series of S-1A data. The first (between 1 October 2014 and 19 March 2015) and third (between 25 November 2015 and 1 February 2016) sub-time series have almost the same mean \u03c3\u00b0-values (a difference lower than 0.3 dB). The mean \u03c3\u00b0-value of the second sub-time series (between 19 March 2015 and 25 November 2015) is higher than that of the first and the third sub-time series by roughly 0.9 dB. Moreover, our results show that the stability of each sub-time series is better than 0.48 dB."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:DJbcl8HfkQkC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8128226/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tY8rUls0xY0J:scholar.google.com/",
+    "cites_per_year": {}
+}

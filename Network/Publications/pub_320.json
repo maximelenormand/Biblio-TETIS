@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Optical Satellite Image Environment Time Series Applications: Analysis for From Classical Methods to Deep Learning and Beyond",
+        "pub_year": 2021,
+        "citation": "Change Detection and Image Time Series Analysis 2: Supervised Methods, 109, 2021",
+        "author": "Matthieu MOLINIER and Dino IENCO and Shi QIU and Zhe ZHU",
+        "journal": "Change Detection and Image Time Series Analysis 2: Supervised Methods",
+        "pages": "109",
+        "publisher": "John Wiley & Sons",
+        "abstract": "Satellite image time series (SITS) analysis is increasingly leveraged to address the needs related to environment monitoring, whether it is detecting abrupt changes like deforestation, forest fires or storm damages, gradual environmental trends like forest regrowth or similarly slow ecosystem changes, or both types of changes simultaneously."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:kO05sadLmrgC",
+    "num_citations": 0,
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=ao1SEAAAQBAJ&oi=fnd&pg=PA109&dq=info:3jLmQtJAEUwJ:scholar.google.com&ots=HcsZKW-8UO&sig=B1b4lvSBkDN1D0kGO2Eg17ZYVg0",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3jLmQtJAEUwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Querying RDF data using a multigraph-based approach",
+        "pub_year": 2016,
+        "citation": "EDBT 2016-19th International Conference on Extending Database Technology \u2026, 2016",
+        "author": "Vijay Ingalalli and Dino Ienco and Pascal Poncelet and Serena Villata",
+        "conference": "EDBT 2016-19th International Conference on Extending Database Technology",
+        "pages": "245-256",
+        "publisher": "OpenProceedings. org",
+        "abstract": "RDF is a standard for the conceptual description of knowledge , and SPARQL is the query language conceived to query RDF data. The RDF data is cherished and exploited by various domains such as life sciences, Semantic Web, social network, etc. Further, its integration at Web-scale compels RDF management engines to deal with complex queries in terms of both size and structure. In this paper, we propose AMbER (Attributed Multigraph Based Engine for RDF querying), a novel RDF query engine specifically designed to optimize the computation of complex queries. AMbER leverages subgraph matching techniques and extends them to tackle the SPARQL query problem. First of all RDF data is represented as a multigraph, and then novel indexing structures are established to efficiently access the information from the multigraph. Finally a SPARQL query is represented as a multigraph, and the SPARQL querying problem is reduced to the subgraph homomorphism problem. AMbER exploits structural properties of the query multigraph as well as the proposed indexes, in order to tackle the problem of subgraph homomorphism. The performance of AMbER, in comparison with state-of-the-art systems, has been extensively evaluated over several RDF benchmarks. The advantages of employing AMbER for complex SPARQL queries have been experimentally validated."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:bVQMTfhMCi4C",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=7568861030066928194",
+    "cites_id": [
+        "7568861030066928194"
+    ],
+    "pub_url": "http://hal-lirmm.ccsd.cnrs.fr/lirmm-01245146/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QrpvWwH_CWkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 8,
+        "2019": 1,
+        "2020": 2,
+        "2021": 3,
+        "2022": 2,
+        "2023": 2
+    }
+}

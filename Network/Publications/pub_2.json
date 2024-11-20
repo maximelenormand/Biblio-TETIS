@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Object-based multi-temporal and multi-source land cover mapping leveraging hierarchical class relationships",
+        "pub_year": 2019,
+        "citation": "arXiv e-prints, arXiv: 1911.08815, 2019",
+        "author": "Yawogan Jean Eudes Gbodjo and Dino Ienco and Louise Leroux and Roberto Interdonato and Raffaele Gaetano and Babacar Ndao and Stephane Dupuy",
+        "journal": "arXiv e-prints",
+        "pages": "arXiv: 1911.08815",
+        "abstract": "European satellite missions Sentinel-1 (S1) and Sentinel-2 (S2) provide at highspatial resolution and high revisit time, respectively, radar and optical imagesthat support a wide range of Earth surface monitoring tasks such as LandUse/Land Cover mapping. A long-standing challenge in the remote sensingcommunity is about how to efficiently exploit multiple sources of information and leverage their complementary. In this particular case, get the most out ofradar and optical satellite image time series (SITS). Here, we propose to dealwith land cover mapping through a deep learning framework especially tailoredto leverage the multi-source complementarity provided by radar and opticalSITS. The proposed architecture is based on an extension of Recurrent NeuralNetwork (RNN) enriched via a customized attention mechanism capable to fitthe specificity of SITS data. In addition, we propose a new pretraining \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:7PzlFSSx8tAC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2019arXiv191108815E/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qN1rABy0AwwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Impact of tree park management methods on the dynamics of agricultural landscapes, a case study in Senegal.",
+        "pub_year": 2018,
+        "citation": "VertigO-La Revue Electronique en Sciences de l'Environment 18 (2), 2018",
+        "author": "M Ba and J Bourgoin and I Thiaw and V Soti",
+        "journal": "VertigO-La Revue Electronique en Sciences de l'Environment",
+        "volume": "18",
+        "number": "2",
+        "publisher": "Editions en Environment",
+        "abstract": "In Senegal, we observe important discrepancies in forest densities within similar agro-ecological zones. Our work focuses on studying the management methods of two forested areas within a similar agricultural landscape, the groundnut basin of Senegal. These two sites show differences in tree density while being subjected to the same macro-drivers. Here, we make the assumption that local drivers and management practices explain the observed differences. In order to understand the explanatory factors of this heterogeneity, our fieldwork consisted in surveying a range of factors involved in forest management. For instance, we focused on local governance, uses and practices regarding this resource. The results of the study indicate that forest landscapes mainly result from local practices and management methods. Hence, peasant selection, combined with social considerations that differ from one landscape to another, cause forest patches to differ from one plot to another and from one village to another."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:Tiz5es2fbqcC",
+    "num_citations": 0,
+    "pub_url": "https://www.cabdirect.org/cabdirect/abstract/20193124498",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UB6jHHhEDo4J:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Crowdsourcing indicators for cultural ecosystem services: A geographically weighted approach for mountain landscapes",
+        "pub_year": 2016,
+        "citation": "Ecological Indicators 64, 237-248, 2016",
+        "author": "Patrizia Tenerelli and Ur\u0161ka Dem\u0161ar and Sandra Luque",
+        "journal": "Ecological Indicators",
+        "volume": "64",
+        "pages": "237-248",
+        "publisher": "Elsevier",
+        "abstract": "Integrating cultural dimensions into the ecosystem service framework is essential for appraising non-material benefits stemming from different human\u2013environment interactions. This study investigates how the actual provision of cultural services is distributed across the landscape according to spatially varying relationships. The final aim was to analyse how landscape settings are associated to people's preferences and perceptions related to cultural ecosystem services in mountain landscapes. We demonstrated a spatially explicit method based on geo-tagged images from popular social media to assess revealed preferences. A spatially weighted regression showed that specific variables correspond to prominent drivers of cultural ecosystem services at the local scale. The results of this explanatory approach can be used to integrate the cultural service dimension into land planning by taking into account specific \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:2_BaaiyHPJIC",
+    "num_citations": 277,
+    "citedby_url": "/scholar?hl=en&cites=6750762335873483294",
+    "cites_id": [
+        "6750762335873483294"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1470160X16000030",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HkLT0JOGr10J:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 9,
+        "2017": 25,
+        "2018": 38,
+        "2019": 37,
+        "2020": 35,
+        "2021": 49,
+        "2022": 41,
+        "2023": 36,
+        "2024": 3
+    }
+}

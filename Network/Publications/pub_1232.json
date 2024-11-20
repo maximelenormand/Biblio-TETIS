@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Le tournant environnemental en Amazonie: ampleur et limites du d\u00e9couplage entre production et d\u00e9forestation",
+        "pub_year": 2017,
+        "citation": "EchoG\u00e9o, 2017",
+        "author": "Fran\u00e7ois Laurent and Damien Arvor and Marion Daugeard and Reinis Osis and Isabelle Tritsch and Emilie Coudel and Marie-Gabrielle Piketty and Marc Piraux and Cecilia Viana and Vincent Dubreuil and Ali F Hasan and Fran\u00e7ois Messner",
+        "journal": "EchoG\u00e9o",
+        "number": "41",
+        "publisher": "P\u00f4le de recherche pour l'organisation et la diffusion de l'information g\u00e9ographique (CNRS UMR 8586)",
+        "abstract": "L\u2019Amazonie a amorc\u00e9 depuis quelques ann\u00e9es une baisse de la d\u00e9forestation coupl\u00e9e \u00e0 un d\u00e9veloppement \u00e9conomique. Le processus est cependant in\u00e9gal. Si les grands et moyens producteurs font \u00e9voluer leurs syst\u00e8mes de production vers l\u2019intensification et la diversification dans les espaces d\u00e9j\u00e0 ouverts, d\u00e9laissant en apparence les strat\u00e9gies d\u2019expansion, l\u2019agriculture familiale reste \u00e0 l\u2019\u00e9cart du d\u00e9couplage entre production et d\u00e9forestation. Dans cet article, les engagements des pouvoirs publics et des fili\u00e8res, leurs effets en mati\u00e8re de d\u00e9forestation et les in\u00e9galit\u00e9s d\u2019adaptation sont analys\u00e9s \u00e0 l\u2019\u00e9chelle de l\u2019Amazonie L\u00e9gale et \u00e0 celle d\u2019une municipalit\u00e9 consid\u00e9r\u00e9e comme un mod\u00e8le car \u00e0 l\u2019initiative d\u2019une d\u00e9marche de Munic\u00edpio Verde : Paragominas, en Amazonie orientale."
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=2335190274965204194",
+    "cites_id": [
+        "2335190274965204194"
+    ],
+    "pub_url": "https://journals.openedition.org/echogeo/15035",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4mw_xi5DaCAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 3,
+        "2020": 3,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1
+    }
+}

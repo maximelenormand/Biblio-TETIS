@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modelling and assessing forest ecosystem services at small region scales",
+        "pub_year": 2016,
+        "citation": "Sciences Eaux & Territoires, 58-63, 2016",
+        "author": "T Cordonnier and F Berger and C Chauvin and B Courbaud and M Fuhr and P Tenerelli and V Lafond and S Luque and Zhun Mao",
+        "journal": "Sciences Eaux & Territoires",
+        "number": "21",
+        "pages": "58-63",
+        "abstract": "La for\u00eat occupe pr\u00e8s de 30 % du territoire fran\u00e7ais et fournit de nombreux services de production, de r\u00e9gulation et culturels. L'\u00e9valuation de ces services \u00e9cosyst\u00e9miques et de leurs \u00e9volutions sous diff\u00e9rents sc\u00e9narios socio-\u00e9conomiques pose des d\u00e9fis majeurs pour les scientifiques et les d\u00e9cideurs, qui plus est \u00e0 l'\u00e9chelle des petits territoires pour lesquels les donn\u00e9es ou indicateurs \u00e9labor\u00e9s \u00e0 l'\u00e9chelle nationale ne sont gu\u00e8re transposables. Des progr\u00e8s importants ont \u00e9t\u00e9 r\u00e9alis\u00e9s ces derni\u00e8res ann\u00e9es pour favoriser une meilleure \u00e9valuation de certains services. Ces progr\u00e8s reposent le plus souvent sur l'utilisation conjointe de bases de donn\u00e9es, d'outils de t\u00e9l\u00e9d\u00e9tection et de mod\u00e8les d\u00e9mographiques appliqu\u00e9s \u00e0 diff\u00e9rentes \u00e9chelles. Dans cet article, nous discutons des int\u00e9r\u00eats et limites de quelque unes de ces approches en prenant des exemples concernant des territoires de l'Is\u00e8re. Ces exemples permettent de mettre en exergue certains verrous techniques et scientifiques. Une voie de progr\u00e8s possible \u00e0 court terme nous semble r\u00e9sider dans la construction d'une chaine de traitement qui articule l'acquisition de donn\u00e9es de t\u00e9l\u00e9d\u00e9tection, l'initialisation de mod\u00e8les de dynamique foresti\u00e8re et l'\u00e9valuation de la production de services par des fonctions de lien pertinentes."
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:5N-NJrZHaHcC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01438991/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rbp2ylzYFeYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

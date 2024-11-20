@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The potential use of high resolution X-band SAR moisture products for the calibration of a water balance model over bare agricultural soils (Tunisia)",
+        "pub_year": 2016,
+        "citation": "2016 International Symposium on Signal, Image, Video and Communications \u2026, 2016",
+        "author": "Azza Gorrab and Vincent Simonneaux and Mehrez Zribi and Sameh Saadi and Nicolas Baghdadi and Zohra Lili-Chabaane",
+        "conference": "2016 International Symposium on Signal, Image, Video and Communications (ISIVC)",
+        "pages": "185-190",
+        "publisher": "IEEE",
+        "abstract": "The aim of this paper was to demonstrate the potential of multi-temporal X-band Synthetic Aperture Radar (SAR) moisture products to be used for the calibration of a model reproducing soil moisture (SM) variations. We propose the MHYSAN model (Modele de bilan HYdrique des Sols Agricoles Nus) for simulating soil water balance of bare soils. This model was used to simulate surface evaporation fluxes and soil moisture content (SMC) at daily time scale over a semi-arid, bare agricultural site in Tunisia (North Africa). The MHYSAN model was calibrated using seven very high-resolution SAR (TerraSAR-X) SM outputs ranging over only two months. Then, the simulated SM was validated using continuous thetaprobe measurements during 15 months. The high performances observed could be explained by the fact that although images were acquired during a short time range, the important soil moisture variation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:-FonjvnnhkoC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7893984/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GakzOe0zxaQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

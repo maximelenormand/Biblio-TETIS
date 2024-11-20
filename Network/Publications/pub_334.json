@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Habitat connectivity in agricultural landscapes improving multi-functionality of constructed wetlands as nature-based solutions",
+        "pub_year": 2022,
+        "citation": "Ecological Engineering 182, 106725, 2022",
+        "author": "Cl\u00e9mentine Pr\u00e9au and Julien Tournebize and Maxime Lenormand and Samuel Alleaume and V\u00e9ronique Gouy Boussada and Sandra Luque",
+        "journal": "Ecological Engineering",
+        "volume": "182",
+        "pages": "106725",
+        "publisher": "Elsevier",
+        "abstract": "The prevention of biodiversity loss in agricultural landscapes to protect ecosystem stability and functions is of major importance in itself and for the maintenance of associated ecosystem services. Intense agriculture leads to a loss in species richness and homogenization of species pools as well as the fragmentation of natural habitats and groundwater pollution. Constructed wetlands stand as nature-based solutions (NBS) to buffer the degradation of water quality by intercepting the transfer of particles, nutrients and pesticides between crops and surface waters. In karstic watersheds where sinkholes short-cut surface water directly to groundwater increasing water resource vulnerability, constructed wetlands are recommended to mitigate agricultural pollutants. Constructed wetlands also have the potential to improve landscape connectivity by providing refuge and breeding sites for wildlife, especially for amphibians \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:rO6llkc54NcC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=18293129142481232219",
+    "cites_id": [
+        "18293129142481232219"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0925857422001860",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W6HwrwhA3v0J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 11,
+        "2024": 2
+    }
+}

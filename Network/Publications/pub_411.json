@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evolutions in estuary governance? Reflections and lessons from Australia, France and New Caledonia",
+        "pub_year": 2020,
+        "citation": "Marine Policy 112, 103704, 2020",
+        "author": "Katherine A Daniell and Roel Plant and Victoria Pilbeam and Catherine Sabinot and Nicolas Paget and Karen Astles and Ruben Steffens and Olivier Barreteau and Severine Bouard and Peter Coad and Anna Gordon and Nils Ferrand and Pierre-Yves Le Meur and Caroline Lejars and Pierre Maurel and Ana Rubio and Jean-Emmanuel Rougier and Ian White",
+        "journal": "Marine Policy",
+        "volume": "112",
+        "pages": "103704",
+        "publisher": "Pergamon",
+        "abstract": "Estuaries are cradles of life for the communities who live around and within them. They are valued in multiple ways for the services they provide to humans, including food production, recreation, water purification, navigation and amenity. Various groups of stakeholders all place different importance on these values, how their needs and practices interact, and what it means to effectively manage an estuary towards a range of desirable goals. This typically creates value conflicts over how estuaries should be managed. Navigating such conflicts requires governance arrangements and methods that allow multiple parties to find a common path forward. Using Evolutionary Governance Theory (EGT) and a hybrid analytic framework incorporating aspects of multi-level/multi-scalar governance, risk governance and territorial intelligence theory, this paper explores the (co-)evolution of governance processes by analysing \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:HDshCWvjkbEC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=3472427819951935965",
+    "cites_id": [
+        "3472427819951935965"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0308597X18303336",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3VFrXLSKMDAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 5,
+        "2022": 2,
+        "2023": 4,
+        "2024": 1
+    }
+}

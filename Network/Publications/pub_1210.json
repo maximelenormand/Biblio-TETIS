@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparative analysis of the accuracy of surface soil moisture estimation from the C-and L-bands",
+        "pub_year": 2019,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 82, 101888, 2019",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "82",
+        "pages": "101888",
+        "publisher": "Elsevier",
+        "abstract": "Surface soil moisture (SSM) estimation is of great importance in several areas, such as hydrology, agriculture and risk assessment. C-band SAR (synthetic aperture radar) data have been widely used to estimate SSM, whereas few studies have been performed using L-band SAR due to the low availability of L-band SAR data. In this context, the objective of the present paper is to compare the SSM estimation potentials of the C- (Sentinel-1) and L-bands (PALSAR) for wheat and grassland plots. The inversion approach developed in this study uses neural networks to invert the SAR signal and estimate the SSM. For each radar frequency, the developed neural networks were trained using the following as an input vector: SAR incidence angle, SAR polarization (VV for the C-band and HH for the L-band), and NDVI from optical images. Artificial Neural networks (ANNs) were developed and validated using synthetic and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:owLR8QvbtFgC",
+    "num_citations": 44,
+    "citedby_url": "/scholar?hl=en&cites=1489815001591755375",
+    "cites_id": [
+        "1489815001591755375"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0303243419302594",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:b7LsvtnirBQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 11,
+        "2021": 11,
+        "2022": 10,
+        "2023": 11,
+        "2024": 1
+    }
+}

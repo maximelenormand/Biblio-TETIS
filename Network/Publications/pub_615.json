@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How Textual Datasets Enhance the PADI-Web Tool?",
+        "pub_year": 2022,
+        "citation": "18th International Conference on Web Information Systems and Technologies \u2026, 2022",
+        "author": "Mathieu Roche and Elena Arsevska and Sarah Valentin and Sylvain Falala and Julien Rabatel and Renaud Lancelot",
+        "conference": "18th International Conference on Web Information Systems and Technologies, WEBIST 2022",
+        "volume": "2022",
+        "pages": "327-331",
+        "publisher": "Science and Technology Publications, Lda",
+        "abstract": "The ability to rapidly detect outbreaks of emerging infectious diseases is a health priority of global health agencies. In this context, event-based surveillance (EBS) systems gather outbreak-related information from heterogeneous data sources, including online news articles. EBS systems, thus, increasingly marshal text-mining methods to alleviate the amount of manual curation of the freely available text. This paper documents the use of datasets obtained through an EBS system, PADI-Web (Platform for Automated extraction of Disease Information from the web), dedicated to digital outbreak detection in animal health. This paper describes the datasets used for improving 3 important tasks related to PADI-Web, i.e., news classification, information extraction and dissemination"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:Zph67rFs4hoC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-04006834/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3izQLo-J42kJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Collect and analysis of agro-biodiversity data in a participative context: A business intelligence framework",
+        "pub_year": 2021,
+        "citation": "Ecological Informatics 61, 101231, 2021",
+        "author": "Sandro Bimonte and Olivier Billaud and Beno\u00eet Fontaine and Thomy Martin and Fr\u00e9d\u00e9ric Flouvat and Ali Hassan and Nora Rouillier and Lucile Sautot",
+        "journal": "Ecological Informatics",
+        "volume": "61",
+        "pages": "101231",
+        "publisher": "Elsevier",
+        "abstract": "In France and Europe, farmland represents a large fraction of land cover. The study and assessment of biodiversity in farmland is therefore a major challenge. To monitor biodiversity across wide areas, citizen science programs have demonstrated their effectiveness and relevance. The involvement of citizens in data collection offers a great opportunity to deploy extensive networks for biodiversity monitoring. But citizen science programs come with two issues: large amounts of data to manage and large numbers of participants with heterogeneous skills, needs and expectations about these data. In this article, we offer a solution to these issues, concretized by an information system. The study is based on a real life citizen science program tailored for farmers. This information system provides data and tools at several levels of complexity, to fit the needs and the skills of several users, from citizens with basic IT \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "NAGlML4AAAAJ:LkGwnXOMwfcC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=1450160452115027540",
+    "cites_id": [
+        "1450160452115027540"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1574954121000224",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VNaidz8BIBQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 2,
+        "2023": 4,
+        "2024": 2
+    }
+}

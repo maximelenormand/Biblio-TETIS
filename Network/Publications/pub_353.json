@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An Hybrid Approach for Soil Moisture Estimation with Sentinel Data",
+        "pub_year": 2023,
+        "citation": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2023",
+        "author": "Mehrez Zribi and Simon Nativel and Emna Ayari and Simon Gascoin and Clement Albergel and Nicolas Baghdadi and R\u00e9mi Madelon and Nemesio Rodriguez-Fernandez",
+        "conference": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "3186-3189",
+        "publisher": "IEEE",
+        "abstract": "We propose a methodology combining a change detection approach with a neural network algorithm to monitor soil moisture. The methodology utilizes Sentinel-1 and Sentinel-2 data, incorporating various metrics such as radar signals (VV and VH polarization), surface soil moisture index (I_SSM), radar incidence angle, normalized difference vegetation index (NDVI), and VH/VV ratio. In situ data from the International Soil Moisture Network (ISMN) across diverse climatic contexts are used for testing. The results demonstrate improved soil moisture estimations using the hybrid algorithms."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:txeM2kYbVNMC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10281450/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jTCs5IGzHtwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

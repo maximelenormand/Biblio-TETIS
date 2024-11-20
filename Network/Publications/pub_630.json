@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Linking beekeepers\u2019 and farmers\u2019 preferences towards pollination services in Greek kiwi systems",
+        "pub_year": 2023,
+        "citation": "Animals 13 (5), 806, 2023",
+        "author": "Elie Abou Nader and Georgios Kleftodimos and Leonidas Sotirios Kyrgiakos and Christina Kleisiari and Nicola Gallai and Salem Darwich and Tristan Berchoux and George Vlontzos and Hatem Belhouchette",
+        "journal": "Animals",
+        "volume": "13",
+        "number": "5",
+        "pages": "806",
+        "publisher": "MDPI",
+        "abstract": "Greek kiwi production systems suffer from a Pollination Services (PS) shortage due to the declining number of wild pollinators. This study assesses the barriers towards the implementation of a PS market in Greek kiwi production systems by conducting two separate quantitative surveys, one for beekeepers and one for kiwi producers. The field survey findings corroborate the existence of a strong basis for further collaboration between the two stakeholders, as both of them acknowledge the importance of PS. Moreover, the farmers\u2019 willingness to pay and the beekeepers\u2019 willingness to receive regarding the renting of their hives for PS were examined.The kiwi is a highly insect-pollinated dependent crop and is the cornerstone of the Greek agricultural sector, rendering the country as the fourth biggest kiwi producer worldwide, with an expected increase in national production the following years. This extensive transformation of the Greek arable land to Kiwi monocultures in combination with a worldwide shortage of pollination services due to the wild pollinators\u2019 decline raises questions for the provision of pollination services, and consequently, for the sustainability of the sector. In many countries, this shortage of pollination services has been addressed by the installation of pollination services markets, such as those in the USA and France. Therefore, this study tries to identify the barriers towards the implementation of a pollination services market in Greek kiwi production systems by conducting two separate quantitative surveys, one for beekeepers and one for kiwi producers. The findings \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:ZeXyd9-uunAC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16267178298519403665,11802905536717931223",
+    "cites_id": [
+        "16267178298519403665",
+        "11802905536717931223"
+    ],
+    "pub_url": "https://www.mdpi.com/2076-2615/13/5/806",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kTwxrXmgwOEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

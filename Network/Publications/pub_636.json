@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Immigrant community integration in world cities",
+        "pub_year": 2018,
+        "citation": "PLOS ONE 13, e0191612, 2018",
+        "author": "Fabio Lamanna and Maxime Lenormand and Mar\u00eda Henar Salas-Olmedo and Gustavo Romanillos and Bruno Gon\u00e7alves and Jos\u00e9 J Ramasco",
+        "journal": "PLOS ONE",
+        "volume": "13",
+        "pages": "e0191612",
+        "abstract": "As a consequence of the accelerated globalization process, today major cities all over the world are characterized by an increasing multiculturalism. The integration of immigrant communities may be affected by social polarization and spatial segregation. How are these dynamics evolving over time? To what extent the different policies launched to tackle these problems are working? These are critical questions traditionally addressed by studies based on surveys and census data. Such sources are safe to avoid spurious biases, but the data collection becomes an intensive and rather expensive work. Here, we conduct a comprehensive study on immigrant integration in 53 world cities by introducing an innovative approach: an analysis of the spatio-temporal communication patterns of immigrant and local communities based on language detection in Twitter and on novel metrics of spatial integration. We quantify the Power of Integration of cities \u2013their capacity to spatially integrate diverse cultures\u2013 and characterize the relations between different cultures when acting as hosts or immigrants."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:-f6ydRqryjwC",
+    "num_citations": 79,
+    "citedby_url": "/scholar?hl=en&cites=2278291971635629349",
+    "cites_id": [
+        "2278291971635629349"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191612",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JU33L3oenh8J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 2,
+        "2019": 11,
+        "2020": 26,
+        "2021": 13,
+        "2022": 16,
+        "2023": 7,
+        "2024": 2
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Conflation of expert and crowd reference data to validate global binary thematic maps",
+        "pub_year": 2019,
+        "citation": "Remote sensing of environment 221, 235-246, 2019",
+        "author": "Fran\u00e7ois Waldner and Anne Schucknecht and Myroslava Lesiv and Javier Gallego and Linda See and Ana P\u00e9rez-Hoyos and Rapha\u00ebl d'Andrimont and Thomas De Maet and Juan Carlos Laso Bayas and Steffen Fritz and Olivier Leo and Herv\u00e9 Kerdiles and M\u00f3nica D\u00edez and Kristof Van Tricht and Sven Gilliams and Andrii Shelestov and Mykola Lavreniuk and Margareth Sim\u00f5es and Rodrigo Ferraz and Beatriz Bell\u00f3n and Agn\u00e8s B\u00e9gu\u00e9 and Gerard Hazeu and Vaclav Stonacek and Jan Kolomaznik and Jan Misurec and Santiago R Ver\u00f3n and Diego De Abelleyra and Dmitry Plotnikov and Li Mingyong and Mrinal Singha and Prashant Patil and Miao Zhang and Pierre Defourny",
+        "journal": "Remote sensing of environment",
+        "volume": "221",
+        "pages": "235-246",
+        "publisher": "Elsevier",
+        "abstract": "With the unprecedented availability of satellite data and the rise of global binary maps, the collection of shared reference data sets should be fostered to allow systematic product benchmarking and validation. Authoritative global reference data are generally collected by experts with regional knowledge through photo-interpretation. During the last decade, crowdsourcing has emerged as an attractive alternative for rapid and relatively cheap data collection, beckoning the increasingly relevant question: can these two data sources be combined to validate thematic maps? In this article, we compared expert and crowd data and assessed their relative agreement for cropland identification, a land cover class often reported as difficult to map. Results indicate that observations from experts and volunteers could be partially conflated provided that several consistency checks are performed. We propose that conflation, i.e \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:6ZxmRoH8BuwC",
+    "num_citations": 35,
+    "citedby_url": "/scholar?hl=en&cites=2207381978908868212",
+    "cites_id": [
+        "2207381978908868212"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425718305017",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dD528DYyoh4J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 6,
+        "2020": 11,
+        "2021": 2,
+        "2022": 11,
+        "2023": 4,
+        "2024": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Challenges of achieving biodiversity offset outcomes through agri-environmental schemes: Evidence from an empirical study in Southern France",
+        "pub_year": 2019,
+        "citation": "Ecological economics 163, 113-125, 2019",
+        "author": "Coralie Calvet and Philippe Le Coent and Claude Napoleone and Fabien Qu\u00e9tier",
+        "journal": "Ecological economics",
+        "volume": "163",
+        "pages": "113-125",
+        "publisher": "Elsevier",
+        "abstract": "Biodiversity offsetting (BO) claims to slow down biodiversity loss caused by development projects by generating ecological gains mainly through restoration activities conducted on land acquired to this effect. This leads to social conflicts around accessing land, especially with farmers and other land-users. The purpose of this paper is to analyze the opportunities and challenges of implementing BO by involving farmers through contracts akin to agri-environmental or stewardship schemes to produce ecological gains. We call them Agri-environmental Biodiversity Offsets Schemes (ABOS) and conduct an empirical analysis of a large ABOS program implemented for a new railway line in Southern France. We examine the effectiveness of ABOS through a survey carried out with 145 farmers and find that the main determinants of ABOS acceptability are: i) socio-economic factors, ii) social norms, iii) trust with contracting \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:WF5omc3nYNoC",
+    "num_citations": 40,
+    "citedby_url": "/scholar?hl=en&cites=10986412222652629611",
+    "cites_id": [
+        "10986412222652629611"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0921800918308905",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:a0I4P7WTd5gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 0,
+        "2020": 6,
+        "2021": 6,
+        "2022": 10,
+        "2023": 13,
+        "2024": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining transductive and active learning to improve object-based classification of remote sensing images",
+        "pub_year": 2016,
+        "citation": "Remote Sensing Letters 7 (4), 358-367, 2016",
+        "author": "Fabio N G\u00fcttler and Dino Ienco and Pascal Poncelet and Maguelonne Teisseire",
+        "journal": "Remote Sensing Letters",
+        "volume": "7",
+        "number": "4",
+        "pages": "358-367",
+        "publisher": "Taylor & Francis",
+        "abstract": "In this letter, we propose a new active transductive learning (ATL) framework for object-based classification of satellite images. The framework couples graph-based label propagation with active learning (AL) to exploit positive aspects of the two learning settings. The transductive approach considers both labelled and unlabelled image objects to perform its classification as they are all available at training time while the AL strategy smartly guides the construction of the training set employed by the learner. The proposed framework was tested in the context of a land cover classification task using RapidEye optical imagery. A reference land cover map was elaborated over the whole study area in order to get reliable information about the performance of the ATL framework. The experimental evaluation underlines that, with a reasonable amount of training data, our framework outperforms state of the art classification \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:YPNY0knpFBYC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=16671733569634726872",
+    "cites_id": [
+        "16671733569634726872"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/2150704X.2016.1142678",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2HMI2FnlXecJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 5,
+        "2018": 1,
+        "2019": 2,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1,
+        "2023": 2
+    }
+}

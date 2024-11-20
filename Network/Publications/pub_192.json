@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Learning Decision Trees Recurrently Through Communication",
+        "pub_year": 2021,
+        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2021",
+        "author": "Stephan Alaniz and Diego Marcos and Bernt Schiele and Zeynep Akata",
+        "conference": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "13518-13527",
+        "abstract": "Integrated interpretability without sacrificing the prediction accuracy of decision making algorithms has the potential of greatly improving their value to the user. Instead of assigning a label to an image directly, we propose to learn iterative binary sub-decisions, inducing sparsity and transparency in the decision making process. The key aspect of our model is its ability to build a decision tree whose structure is encoded into the memory representation of a Recurrent Neural Network jointly learned by two models communicating through message passing. In addition, our model assigns a semantic meaning to each decision in the form of binary attributes, providing concise, semantic and relevant rationalizations to the user. On three benchmark image classification datasets, including the large-scale ImageNet, our model generates human interpretable binary decision sequences explaining the predictions of the network while maintaining state-of-the-art accuracy."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:abG-DnoFyZgC",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=16169697230988411086",
+    "cites_id": [
+        "16169697230988411086"
+    ],
+    "pub_url": "http://openaccess.thecvf.com/content/CVPR2021/html/Alaniz_Learning_Decision_Trees_Recurrently_Through_Communication_CVPR_2021_paper.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zoCu-vVNZuAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 7,
+        "2023": 7
+    }
+}

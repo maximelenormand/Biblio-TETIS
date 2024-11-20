@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Revue Internationale de G\u00e9omatique",
+        "pub_year": 2018,
+        "citation": "Rev. Int. Geomat 28 (2), 191-217, 2018",
+        "author": "Fran\u00e7ois Pinet and Didier Josselin and Alain Bouju and Thomas Leduc and Xenia Stavropulos-Laffaille and Ignacio Requena-Ruiz and Allessandro Araldi and David Emsellem and Giovanni Fusco and Andrea Tettamanzi and Denis Overal and Joan Perez and Yukio Sadahiro and Jacques Fize and Lucile Sautot and Martin Lentschat and Laurence Dujourdy and Ludovic Journaux and Mohamed Hilaf and Cl\u00e9ment Moreau and Thomas Devogele and Laurent Etienne and Hajer Baazaoui Zghal and Christophe Claramunt and Cyril De Runz and Eric Kergosien and Christian Sallaberry and Eric Masson",
+        "journal": "Rev. Int. Geomat",
+        "volume": "28",
+        "number": "2",
+        "pages": "191-217",
+        "abstract": "In this paper, we propose spatial extensions of the Object Constraint Language associated to UML. The goal of the proposed languages is to allow expressing a large range of integrity constraints in spatial databases. We highlight two extensions of OCL to express constraints involving spatial regions; the first one is based on the topological relations of the 9-Intersection model, and the second one is based on topological relations qualified by adverbs. We establish the equivalence between the expressive powers of these two extensions. Their difference is their level of usability. Our proposals have been integrated in a code generator OCL2SQL; this makes possible to produce automatically operational integrity mechanisms issued from OCL constraints. We also present a case study concerning the application of the proposed solution on an information system for agricultural spreading."
+    },
+    "filled": true,
+    "author_pub_id": "v2Zo6cQAAAAJ:r0BpntZqJG4C",
+    "num_citations": 0,
+    "pub_url": "https://archives-rig.revuesonline.com/article.jsp?articleId=16369",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KnQr8I66RmoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

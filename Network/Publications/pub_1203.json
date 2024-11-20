@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A spatialised information system to support decisions regarding grazing management in mountainous and Mediterranean rangelands",
+        "pub_year": 2022,
+        "citation": "Computers and Electronics in Agriculture, 2022",
+        "author": "Urcel Kalenga and Bassira Djibo and Lucile Sautot and Maguelonne Teisseire and Magali Jouven",
+        "journal": "Computers and Electronics in Agriculture",
+        "abstract": "Agro-sylvo-pastoral systems are common around the Mediterranean Basin, where they provide a variety of goods and services to the local populations. Their sustainability relies on efficient grazing management, especially in Mediterranean rangelands. The diversity of pastoral resources, combined with the variety of grazing management techniques and farming objectives, has slowed down the development of digital tools to assist grazing management in these conditions. However, digital technologies could serve agro-sylvo-pastoral farms by improving the efficiency of grazing management and reducing the difficulty of the associated work. In this objective, and to take into account the variety of situations, we suggest developing an information system (IS) based on a variety of (contextualised) complementary data. For southern France, the following data can be combined: Sentinel 2 images, Registre Parcellaire \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:QyXJ3EUuO1IC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6660568366245343189",
+    "cites_id": [
+        "6660568366245343189"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0168169922004173",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1e9B0KMXb1wJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

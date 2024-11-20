@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Validation of the DART model for airborne laser scanner simulations on complex forest environments",
+        "pub_year": 2023,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023",
+        "author": "Florian De Boissieu and Florence Heuschmidt and Nicolas Lauret and Dav M Ebengo and Gr\u00e9goire Vincent and Jean-Baptiste F\u00e9ret and Tiangang Yin and Jean-Philippe Gastellu-Etchegorry and Josiane Costeraste and Marie-Jos\u00e9 Lef\u00e8vre-Fonollosa and Sylvie Durrieu",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "publisher": "IEEE",
+        "abstract": "With the recent progresses in lidar technology for Earth remote sensing, the development of a reliable lidar simulator is becoming central in order to define specifications for new sensors, perform intercomparisons, train machine learning algorithms, and help transferring information from one scale to another. The discrete anisotropic radiative transfer (DART) model includes such a lidar simulator. Although already tested on several virtual scenes, the DART outputs still need to be rigorously evaluated against actual sensor acquisitions, especially on real complex scenes of various forest types, such as dense tropical forests. That is the purpose of the present study. A real airborne laser scanner (ALS) with full-waveform capacity was first radiometrically calibrated on targets of measured reflectance. The properties of the ALS system were then introduced in the DART model, along with a 3-D virtual scene built from \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:35r97b3x0nAC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10242262/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:T_9bq2a5jycJ:scholar.google.com/",
+    "cites_per_year": {}
+}

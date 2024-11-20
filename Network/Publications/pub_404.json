@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Xart: Discovery of correlated arguments of n-ary relations in text",
+        "pub_year": 2017,
+        "citation": "Expert Systems with Applications 73, 115-124, 2017",
+        "author": "Soumia Lilia Berrahou and Patrice Buche and Juliette Dibie and Mathieu Roche",
+        "journal": "Expert Systems with Applications",
+        "volume": "73",
+        "pages": "115-124",
+        "publisher": "Pergamon",
+        "abstract": "Here we present the Xart system based on a three-step hybrid method using data mining approaches and syntactic analysis to automatically discover and extract relevant data modeled as n-ary relations in plain text. A n-ary relation links a studied object with its features considered as several arguments. We addressed the challenge of designing a novel method to handle the identification and extraction of heterogeneous arguments such as symbolic arguments, quantitative arguments composed of numbers and various measurement units. We thus developed the Xart system, which relies on a domain ontology for discovering patterns, in plain text, to identify arguments involved in n-ary relations. The discovered patterns take advantage of different ontological levels that facilitate identification of all arguments and pool them in the sought n-ary relation."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:nZcligLrVowC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=17888482094719498911",
+    "cites_id": [
+        "17888482094719498911"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417416307102",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:n_qwGrCnQPgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 2,
+        "2019": 6,
+        "2020": 3,
+        "2021": 2,
+        "2022": 2
+    }
+}

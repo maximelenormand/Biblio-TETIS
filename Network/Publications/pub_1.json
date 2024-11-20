@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimating Forest Heights and Wood Volume using a Deep Learning Approach from Gedi Waveform Data",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "Ibrahim Fayad and Dino Ienco and Nicolas Baghdadi and Raffaele Gaetano and Clayton Alcarde Alvares and Jose Luiz Stape and Henrique Ferra\u00e7o Scolforo and Guerric Le Maire",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "7301-7304",
+        "publisher": "IEEE",
+        "abstract": "The Global Ecosystem Dynamics Investigation (GEDI) instrument, as all FW systems, relies on very sophisticated pre-processing steps to generate a priori metrics in order to accurately estimate forest characteristics, such as forest heights and wood volume. The ever-expanding volume of acquired GEDI data, which to September 2020 comprised more than 25 billion shots, and requiring more than 90 TB of storage space, raises new challenges in terms of adapted preprocessing methods for the suitable exploitation of such a huge and complex amount of LiDAR data. Therefore, to avoid metric computation, we leveraged deep learning techniques in order to estimate canopy dominant heights (H dom ) and wood volume (V) of Eucalyptus plantations over five different regions in Brazil. Performance comparisons were conducted between a convolutional neural network based model that uses GEDI waveform data and a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:ldfaerwXgEUC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9883973/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2PgNNqm0d5QJ:scholar.google.com/",
+    "cites_per_year": {}
+}

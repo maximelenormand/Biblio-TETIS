@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "UNESCO\u2013MAB Biosphere Reserves already deal with ecosystem services and sustainable development",
+        "pub_year": 2017,
+        "citation": "Proceedings of the National Academy of Sciences 114 (22), E4318-E4318, 2017",
+        "author": "Peter Bridgewater and Didier Babin",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "volume": "114",
+        "number": "22",
+        "pages": "E4318-E4318",
+        "publisher": "National Academy of Sciences",
+        "abstract": "Xu et al.(1) make a most useful contribution to the debate on protected areas (PAs) in China and make a welcome focus on ecosystem services rather than threatened species. Nonetheless, their continued focus is on the establishment of PAs, rather than wider landscape-scale approaches, which are more suitable to the Agenda 2030 and Sustainable Development Goals. In particular, they say,\u201cFirst, there is no PA type particular to ecosystem services conservation and directly aimed at enhancing ecological security for human beings. Nature reserves are established primarily for biodiversity conservation, not for ecosystem services. Second, important areas for conservation of biodiversity and of different ecosystem services do not always match well. Many places important for ecosystem services are not important for biodiversity conservation.\u201d These assertions need to be challenged for several reasons. United \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "8FIUc1AAAAAJ:BrmTIyaxlBUC",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=12741032896526619794",
+    "cites_id": [
+        "12741032896526619794"
+    ],
+    "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.1702761114",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:khQJHeo90bAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 5,
+        "2019": 3,
+        "2020": 2,
+        "2021": 5,
+        "2022": 2
+    }
+}

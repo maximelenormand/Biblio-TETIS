@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Supervised level-wise pretraining for sequential data classification",
+        "pub_year": 2020,
+        "citation": "Neural Information Processing: 27th International Conference, ICONIP 2020 \u2026, 2020",
+        "author": "Dino Ienco and Roberto Interdonato and Raffaele Gaetano",
+        "conference": "Neural Information Processing: 27th International Conference, ICONIP 2020, Bangkok, Thailand, November 18\u201322, 2020, Proceedings, Part V 27",
+        "pages": "449-457",
+        "publisher": "Springer International Publishing",
+        "abstract": "Recurrent Neural Networks (RNNs) can be seriously impacted by the initial parameters assignment, which may result in poor generalization performances on new unseen data. With the objective to tackle this crucial issue, in the context of RNN based classification, we propose a new supervised layer-wise pretraining strategy to initialize network parameters. The proposed approach leverages a data-aware strategy that sets up a taxonomy of classification problems automatically derived by the model behavior. To the best of our knowledge, despite the great interest in RNN-based classification, this is the first data-aware strategy dealing with the initialization of such models. The proposed strategy has been tested on five benchmarks coming from three different domains, i.e., Text Classification, Speech Recognition and Remote Sensing. Results underline the benefit of our approach and point out that data \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:HDshCWvjkbEC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-63823-8_52",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TLJ3Omc72hkJ:scholar.google.com/",
+    "cites_per_year": {}
+}

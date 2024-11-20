@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Methodology for identifying study sites in scientific corpus",
+        "pub_year": 2018,
+        "citation": "arXiv preprint arXiv:1808.04124, 2018",
+        "author": "Eric Kergosien and Marie-No\u00eblle Bessagnet and Maguelonne Teisseire and Joachim Sch\u00f6pfel and Mohammad Amin Farvardin and St\u00e9phane Chaudiron and Bernard Jacquemin and Annig Le Parc-Lacayrelle and Mathieu Roche and Christian Sallaberry and Jean-Philippe Tonneau and Marie-Noelle Bessagnet and Amin Farvardin and Annig Lacayrelle",
+        "journal": "arXiv preprint arXiv:1808.04124",
+        "abstract": "The TERRE-ISTEX project aims at identifying the evolution of research working relation to study areas, disciplinary crossings and concrete research methods based on the heterogeneous digital content available in scientific corpora. The project is divided into three main actions: (1) to identify the periods and places which have been the subject of empirical studies, and which reflect the publications resulting from the corpus analyzed, (2) to identify the thematics addressed in these works and (3) to develop a web-based geographical information retrieval tool (GIR). The first two actions involve approaches combining Natural languages processing patterns with text mining methods. By crossing the three dimensions (spatial, thematic and temporal) in a GIR engine, it will be possible to understand what research has been carried out on which territories and at what time. In the project, the experiments are carried out on a heterogeneous corpus including electronic thesis and scientific articles from the ISTEX digital libraries and the CIRAD research center."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:nZcligLrVowC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/1808.04124",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mUQ6SE_05pcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

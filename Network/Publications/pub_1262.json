@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Building a data set over 12 globally distributed sites to support the development of agriculture monitoring applications with Sentinel-2",
+        "pub_year": 2015,
+        "citation": "Remote Sensing 7 (12), 16062-16090, 2015",
+        "author": "Sophie Bontemps and Marcela Arias and Cosmin Cara and G\u00e9rard Dedieu and Eric Guzzonato and Olivier Hagolle and Jordi Inglada and Nicolas Matton and David Morin and Ramona Popescu and Thierry Rabaute and Mickael Savinaud and Guadalupe Sepulcre and Silvia Valero and Ijaz Ahmad and Agn\u00e8s B\u00e9gu\u00e9 and Wu Bingfang and Diego De Abelleyra and Alhousseine Diarra and St\u00e9phane Dupuy and Andrew French and Ibrar Ul Hassan Akhtar and Nataliia Kussul and Valentine Lebourgeois and Michel Le Page and Terrence Newby and Igor Savin and Santiago R Ver\u00f3n and Benjamin Koetz and Pierre Defourny",
+        "journal": "Remote Sensing",
+        "volume": "7",
+        "number": "12",
+        "pages": "16062-16090",
+        "publisher": "MDPI",
+        "abstract": "Developing better agricultural monitoring capabilities based on Earth Observation data is critical for strengthening food production information and market transparency. The Sentinel-2 mission has the optimal capacity for regional to global agriculture monitoring in terms of resolution (10\u201320 meter), revisit frequency (five days) and coverage (global). In this context, the European Space Agency launched in 2014 the \u201cSentinel2 for Agriculture\u201d project, which aims to prepare the exploitation of Sentinel-2 data for agriculture monitoring through the development of open source processing chains for relevant products. The project generated an unprecedented dataset, made of \u201cSentinel-2 like\u201d time series and in situ data acquired in 2013 over 12 globally distributed sites. Earth Observation time series were mostly built on the SPOT4 (Take 5) data set, which was specifically designed to simulate Sentinel-2. They also included Landsat 8 and RapidEye imagery as complementary data sources. Images were pre-processed to Level 2A and the quality of the resulting time series was assessed. In situ data about cropland, crop type and biophysical variables were shared by site managers, most of them belonging to the \u201cJoint Experiment for Crop Assessment and Monitoring\u201d network. This data set allowed testing and comparing across sites the methodologies that will be at the core of the future \u201cSentinel2 for Agriculture\u201d system."
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:35r97b3x0nAC",
+    "num_citations": 73,
+    "citedby_url": "/scholar?hl=en&cites=5399519151365835828",
+    "cites_id": [
+        "5399519151365835828"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/7/12/16062",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NEwUbw_y7koJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 4,
+        "2017": 7,
+        "2018": 9,
+        "2019": 14,
+        "2020": 13,
+        "2021": 8,
+        "2022": 7,
+        "2023": 10,
+        "2024": 1
+    }
+}

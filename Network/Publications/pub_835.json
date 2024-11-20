@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Les \u00e9coles-acteurs en Guadeloupe, un espace de d\u00e9bat sur les pollutions agricoles et le devenir de l\u2019agriculture",
+        "pub_year": 2021,
+        "citation": "Cahiers Agricultures 30, 9, 2021",
+        "author": "Jean-Philippe Tonneau and Vincent Bonnal and Jeremy Bourgoin and Agathe Cheval and Magalie Jannoyer and Jean-Pierre Ch\u00e9ry and Philippe Cattan",
+        "journal": "Cahiers Agricultures",
+        "volume": "30",
+        "pages": "9",
+        "publisher": "EDP Sciences",
+        "abstract": "Le projet RIVAGE veut favoriser l\u2019adoption de pratiques alternatives pour g\u00e9rer les impacts de la pollution diffuse dans le bassin versant de la rivi\u00e8re P\u00e9rou en Guadeloupe. Son objectif est de produire et partager les connaissances sur les processus, les impacts et les pratiques innovantes avec les acteurs du territoire. Pour faciliter la prise en compte des r\u00e9sultats, le projet a cr\u00e9\u00e9 une \u00ab\u2009\u00e9cole-acteurs\u2009\u00bb. L\u2019\u00e9cole-acteurs est un espace d\u2019\u00e9changes autour des th\u00e9matiques li\u00e9es \u00e0 la pollution diffuse agricole. Le concept d\u2019\u00e9cole-acteurs fait r\u00e9f\u00e9rence aux th\u00e9ories d\u2019\u00e9ducation populaire et d\u2019apprentissage collectif. L\u2019article rappelle ces r\u00e9f\u00e9rences th\u00e9oriques et les utilise dans un processus d\u2019auto-\u00e9valuation des premiers r\u00e9sultats obtenus par l\u2019\u00e9cole-acteurs. Les auteurs dressent quelques enseignements et orientations pour le futur."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:NhqRSupF_l8C",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=14530748029532633824",
+    "cites_id": [
+        "14530748029532633824"
+    ],
+    "pub_url": "https://www.edp-open.org/articles/cagri/pdf/2021/01/cagri200067.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4Pr_fFiWp8kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    }
+}

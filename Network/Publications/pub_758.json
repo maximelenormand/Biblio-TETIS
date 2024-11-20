@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The p2s2 validation database for decametric resolution crop products: Green area index, fraction of intercepted light, green fraction and chlorophyll content",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Marie Weiss and Kamran Irfan and Simon Madec and Fran\u00e7ois Charron and J-F Dejoux and Val\u00e9rie Demarez and Herv\u00e9 Gibrin and Beno\u00eet de Solan and A Brelot and S Porrez and J-P Goffart and Viviane Planchon and Yannick Curnel and Fr\u00e9d\u00e9ric Baret",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "4588-4591",
+        "publisher": "IEEE",
+        "abstract": "SENTINEL-2 observations are particularly well suited for crop management due to the short revisiting time and decametric spatial resolution. In this context, Green Area Index (GAI), the fraction of Photosynthetically Active Radiation Intercepted by the green vegetation (FIPAR), the fractional green vegetation cover (GF(0)) and Leaf Chlorophyll Content (LCC), are four variables of particular interest since they relate to the canopy state and can eventually be assimilated into crop functioning models to predict crop yield and optimize management practices. We present the results from the first year of the P2S2 project (Produits Pour Sentinel-2) that consisted in acquiring an extensive calibration and validation dataset over agricultural areas based on DHP measurements for GAI, GF(0) and FIPAR combined with SPAD-502 Minolta chlorophyll meter acquisitions for LCC."
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:WF5omc3nYNoC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=9512247917756476709",
+    "cites_id": [
+        "9512247917756476709"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8900400/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Je1SSRVLAoQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 2
+    }
+}

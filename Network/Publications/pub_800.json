@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Using Machine-Learning Algorithms to Predict Soil Organic Carbon Content from Combined Remote Sensing Imagery and Laboratory Vis-NIR Spectral Datasets",
+        "pub_year": 2023,
+        "citation": "Remote Sensing 15 (17), 4264, 2023",
+        "author": "Hayfa Zayani and Youssef Fouad and Didier Michot and Zeineb Kassouk and Nicolas Baghdadi and Emmanuelle Vaudour and Zohra Lili-Chabaane and Christian Walter",
+        "journal": "Remote Sensing",
+        "volume": "15",
+        "number": "17",
+        "pages": "4264",
+        "publisher": "MDPI",
+        "abstract": "Understanding spatial and temporal variability in soil organic carbon (SOC) content helps simultaneously assess soil fertility and several parameters that are strongly associated with it, such as structural stability, nutrient cycling, biological activity, and soil aeration. Therefore, it appears necessary to monitor SOC regularly and investigate rapid, non-destructive, and cost-effective approaches for doing so, such as proximal and remote sensing. To increase the accuracy of predictions of SOC content, this study evaluated combining remote sensing time series with laboratory spectral measurements using machine and deep-learning algorithms. Partial least squares (PLS) regression, random forest (RF), and deep neural network (DNN) models were developed using Sentinel-2 (S2) time series of 58 sampling points of bare soil and according to three approaches. In the first approach, only S2 bands were used to calibrate and compare the performance of the models. In the second, S2 indices, Sentinel-1 (S1) indices, and S1 soil moisture were added separately during model calibration to evaluate their effects individually and then together. In the third, we added the laboratory indices incrementally and tested their influence on model accuracy. Using only S2 bands, the DNN model outperformed the PLS and RF models (ratio of performance to the interquartile distance RPIQ = 0.79, 1.36 and 1.67, respectively). Additional information improved performances only for model calibration, with S1 soil moisture yielding the most stable improvement among three iterations. Including equivalent indices of the S2 indices calculated using soil spectra obtained under \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:uUvzmPk0f8oC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1335374666484259630",
+    "cites_id": [
+        "1335374666484259630"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/15/17/4264",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LpvZHS80iBIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

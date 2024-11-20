@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Les observatoires territoriaux-Des outils de la soci\u00e9t\u00e9 de la connaissance?",
+        "pub_year": 2017,
+        "citation": "Revue internationale de g\u00e9omatique 27 (3), 335-354, 2017",
+        "author": "Jean Philippe Tonneau and Philippe Lemoisson and \u00c9milie Coudel and Pierre Maurel and Magalie Jannoyer and Vincent Bonnal and Jeremy Bourgoin and Philippe Cattan and Jean Pierre Chery and Marc Piraux and Guillaume Lestrelin",
+        "journal": "Revue internationale de g\u00e9omatique",
+        "volume": "27",
+        "number": "3",
+        "pages": "335-354",
+        "publisher": "Lavoisier",
+        "abstract": "Le d\u00e9veloppement territorial a pour ambition de renouveler l\u2019action publique et de r\u00e9pondre aux grands enjeux soci\u00e9taux. Mobilisant les nouvelles technologies de l\u2019information et de la communication, les observatoires territoriaux sont aussi des dispositifs de coop\u00e9ration favorisant des processus d\u2019apprentissage collectif. Leur mise en \u0153uvre est difficile car il s\u2019agit de construire simultan\u00e9ment une organisation, un projet et un syst\u00e8me d\u2019information dans un processus de validation mutuelle. CoObs, m\u00e9thode de conception collaborative d\u2019observatoires territoriaux, est bas\u00e9e sur l\u2019\u00e9laboration de trois mod\u00e8les : le mod\u00e8le des dynamiques territoriales, le mod\u00e8le de l\u2019action et le mod\u00e8le de l\u2019observation. L\u2019article introduit et pr\u00e9sente cette m\u00e9thode. \u00c0 partir de l\u2019analyse de deux exp\u00e9riences, aux Antilles et dans le Bassin de Thau, les auteurs d\u00e9montrent que les observatoires territoriaux contribuent \u00e0 la soci\u00e9t\u00e9 de la \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:TQgYirikUcIC",
+    "num_citations": 24,
+    "citedby_url": "/scholar?hl=en&cites=3806751744336800239",
+    "cites_id": [
+        "3806751744336800239"
+    ],
+    "pub_url": "https://rig.revuesonline.com/articles/lvrig/abs/2017/03/rig00035/rig00035.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7ylL3YpM1DQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 5,
+        "2019": 0,
+        "2020": 6,
+        "2021": 1,
+        "2022": 6,
+        "2023": 4
+    }
+}

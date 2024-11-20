@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A combined random forest and OBIA classification scheme for mapping smallholder agriculture at different nomenclature levels using multisource data (simulated Sentinel-2 time series, VHRS and DEM)",
+        "pub_year": 2017,
+        "citation": "Remote Sensing 9 (3), 259, 2017",
+        "author": "Valentine Lebourgeois and St\u00e9phane Dupuy and \u00c9lodie Vintrou and Ma\u00ebl Ameline and Suzanne Butler and Agn\u00e8s B\u00e9gu\u00e9",
+        "journal": "Remote Sensing",
+        "volume": "9",
+        "number": "3",
+        "pages": "259",
+        "publisher": "MDPI",
+        "abstract": "Sentinel-2 images are expected to improve global crop monitoring even in challenging tropical small agricultural systems that are characterized by high intra- and inter-field spatial variability and where satellite observations are disturbed by the presence of clouds. To overcome these constraints, we analyzed and optimized the performance of a combined Random Forest (RF) classifier/object-based approach and applied it to multisource satellite data to produce land use maps of a smallholder agricultural zone in Madagascar at five different nomenclature levels. The RF classifier was first optimized by reducing the number of input variables. Experiments were then carried out to (i) test cropland masking prior to the classification of more detailed nomenclature levels, (ii) analyze the importance of each data source (a high spatial resolution (HSR) time series, a very high spatial resolution (VHSR) coverage and a digital elevation model (DEM)) and data type (spectral, textural or other), and (iii) quantify their contributions to classification accuracy levels. The results show that RF classifier optimization allowed for a reduction in the number of variables by 1.5- to 6-fold (depending on the classification level) and thus a reduction in the data processing time. Classification results were improved via the hierarchical approach at all classification levels, achieving an overall accuracy of 91.7% and 64.4% for the cropland and crop subclass levels, respectively. Spectral variables derived from an HSR time series were shown to be the most discriminating, with a better score for spectral indices over the reflectances. VHSR data were only found to be essential when \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:FPJr55Dyh1AC",
+    "num_citations": 218,
+    "citedby_url": "/scholar?hl=en&cites=4946135988310520438",
+    "cites_id": [
+        "4946135988310520438"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/9/3/259",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:djIGwnk0pEQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 18,
+        "2019": 41,
+        "2020": 44,
+        "2021": 38,
+        "2022": 35,
+        "2023": 33,
+        "2024": 5
+    }
+}

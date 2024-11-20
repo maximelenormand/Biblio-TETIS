@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Simulating spectral heterogeneity in tropical forest canopy reflectance with 3D radiative transfer modeling",
+        "pub_year": 2019,
+        "citation": "WHISPERS, Workshop on Hyperspectral Image and Signal Processing: Evolution \u2026, 2019",
+        "author": "Dav Ebengo Mwampongo and Florian de Boissieu and Claudia Lavalley and Gr\u00e9goire Vincent and Christiane Weber and Jean-Baptiste Feret",
+        "conference": "WHISPERS, Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing",
+        "abstract": "Modeling radiative transfer is useful for simulating spectral heterogeneity, which can meaningfully characterize environmental heterogeneity. In this study, we analyze the effect of leaf optical properties (LOPs) variability among trees on the simulation of spectral heterogeneity of tropical forest canopy reflectance. Simulations are performed on 3D scenes. LOPs are integrated in simulations following two approaches: either using unique LOP for each individual tree crown (ITC) (ITC scale approach), or for all individual pixels of the whole scene (pixel scale approach). Heterogeneity among ITCs is then computed independently for simulated and measured data using spectral angle as similarity metric. Spectral heterogeneity obtained from pixel scale approach produces stronger similarity with measured data (r = 0.41) than ITC scale approach (r = 0.30). For a large number of individuals, spectral dissimilarity observed in simulated data is correlated with that observed in measured data. Spectral dissimilarity among ITC is overestimated for ITC scale approach and underestimated for pixels\u2019 scale."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:cFHS6HbyZ2cC",
+    "num_citations": 0,
+    "pub_url": "https://hal.umontpellier.fr/hal-02445433",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ti3OimO_qkMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

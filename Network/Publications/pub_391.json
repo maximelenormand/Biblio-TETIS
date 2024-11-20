@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Rendre visible les impacts des pesticides du soja: contributions et limites d\u2019un observatoire de science citoyenne \u00e0 Santar\u00e9m, Amazonie br\u00e9silienne",
+        "pub_year": 2021,
+        "citation": "VertigO-la revue \u00e9lectronique en sciences de l'environnement 21 (3), 2021",
+        "author": "Emilie Coudel and St\u00e9phanie Nasuti and Danielle Wagner Silva and Marie-Paule Bonnet and Mariana Piva and Beatriz Abreu dos Santos and Ricardo Folhes and Vincent Bonnal and Val\u00e9ria Fechine and Denise Lima and Carlos Jos\u00e9 Sousa Passos and Txai Mitt Schwamborn and Ione Nakamura and Gracivane Rodrigues de Moura",
+        "journal": "VertigO-la revue \u00e9lectronique en sciences de l'environnement",
+        "volume": "21",
+        "number": "3",
+        "publisher": "Les \u00e9ditions en environnements VertigO",
+        "abstract": "Le Br\u00e9sil est parmi les plus gros consommateurs mondiaux de pesticides, pourtant leur impact sur les populations locales peine \u00e0 \u00e9merger en tant que probl\u00e8me public, en raison d\u2019un contexte politique particuli\u00e8rement favorable \u00e0 l\u2019agriculture industrielle. Dans cet article, nous investiguons comment les connaissances produites sur l\u2019impact des pesticides contribuent (ou non) \u00e0 faire \u00e9merger ce probl\u00e8me public. Notre r\u00e9flexion s\u2019appuie sur un processus de science citoyenne men\u00e9 dans la r\u00e9gion de Santar\u00e9m, en Amazonie Br\u00e9silienne, o\u00f9 le soja conna\u00eet une importante expansion depuis 20 ans. Nous y avons construit depuis 2017 un observatoire en partenariat avec les syndicats paysans, pour rendre visible l\u2019impact des pesticides utilis\u00e9s dans les cultures de soja sur l\u2019agriculture familiale. Des jeunes agriculteurs, form\u00e9s \u00e0 \u00eatre \u00ab chercheurs communautaires \u00bb, ont administr\u00e9 544 questionnaires aupr\u00e8s d\u2019agriculteurs familiaux pour conna\u00eetre leurs pratiques et \u00e9valuer les changements occasionn\u00e9s depuis l\u2019arriv\u00e9e du soja. Nous menons une analyse \u00e0 trois niveaux : au niveau national, nous suivons l\u2019\u00e9mergence des pesticides comme probl\u00e8me public, sa consolidation au cours du gouvernement travailliste (2003-2016), puis son d\u00e9mant\u00e8lement ; au niveau local, l\u2019enqu\u00eate montre \u00e0 quel point les agriculteurs familiaux sont fortement impact\u00e9s par les pesticides et dans le m\u00eame temps peu conscients d\u2019\u00eatre des \u00ab victimes \u00bb ; enfin, au niveau territorial, nous nous interrogerons sur la fragilisation du d\u00e9bat entre science et politique, notamment au sein du Forum r\u00e9gional de lutte contre l\u2019impact des pesticides mis en place \u00e0 Santar\u00e9m."
+    },
+    "filled": true,
+    "author_pub_id": "v2Zo6cQAAAAJ:ZeXyd9-uunAC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=13375409530281226765",
+    "cites_id": [
+        "13375409530281226765"
+    ],
+    "pub_url": "https://journals.openedition.org/vertigo/33716",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DXLJERoAn7kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A graph-based approach to detect spatiotemporal dynamics in satellite image time series",
+        "pub_year": 2017,
+        "citation": "ISPRS Journal of Photogrammetry and Remote Sensing 130, 92-107, 2017",
+        "author": "Fabio Guttler and Dino Ienco and Jordi Nin and Maguelonne Teisseire and Pascal Poncelet",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "volume": "130",
+        "pages": "92-107",
+        "publisher": "Elsevier",
+        "abstract": "Enhancing the frequency of satellite acquisitions represents a key issue for Earth Observation community nowadays. Repeated observations are crucial for monitoring purposes, particularly when intra-annual process should be taken into account. Time series of images constitute a valuable source of information in these cases. The goal of this paper is to propose a new methodological framework to automatically detect and extract spatiotemporal information from satellite image time series (SITS). Existing methods dealing with such kind of data are usually classification-oriented and cannot provide information about evolutions and temporal behaviors. In this paper we propose a graph-based strategy that combines object-based image analysis (OBIA) with data mining techniques. Image objects computed at each individual timestamp are connected across the time series and generates a set of evolution graphs. Each \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:g8uWPOAv7ggC",
+    "num_citations": 46,
+    "citedby_url": "/scholar?hl=en&cites=7645120651839981912",
+    "cites_id": [
+        "7645120651839981912"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271616306396",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WMnsLbrsGGoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 3,
+        "2019": 8,
+        "2020": 11,
+        "2021": 8,
+        "2022": 3,
+        "2023": 10,
+        "2024": 2
+    }
+}

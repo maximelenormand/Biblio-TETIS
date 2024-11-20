@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new reflectivity index for the retrieval of surface soil moisture from radar data",
+        "pub_year": 2020,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2020",
+        "author": "Mehrez Zribi and Myriam Foucras and Nicolas Baghdadi and Jerome Demarty and Sekhar Muddu",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "14",
+        "pages": "818-826",
+        "publisher": "IEEE",
+        "abstract": "A new approach based on the change detection technique is proposed for the estimation of surface soil moisture (SSM) from a time series of radar measurements. A new index of reflectivity (IR) is defined that uses radar signals and Fresnel coefficients. This index is equal to 0 in the case of the smallest value of the Fresnel coefficient, corresponding to the driest conditions and the weakest radar signal, and is equal to 1 for the highest value of the Fresnel coefficient, corresponding to the wettest soil conditions and the strongest radar signal. The integrated equation model is used to simulate the behavior of radar signals as a function of soil moisture and roughness. This approach validates the greater usefulness of the IR compared with that of the commonly used index of SSM (ISSM), which assumes that the SSM varies linearly as a function of radar signal strength. The IR-based approach was tested using Sentinel-1 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:ZqE1mSdD_DYC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=9350109402377520337",
+    "cites_id": [
+        "9350109402377520337"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9237103/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0YTAY_ZCwoEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 7,
+        "2023": 3
+    }
+}

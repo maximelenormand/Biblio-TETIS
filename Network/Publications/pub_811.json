@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Touristic site attractiveness seen through Twitter",
+        "pub_year": 2016,
+        "citation": "EPJ Data Science 5, 1-9, 2016",
+        "author": "Aleix Bassolas and Maxime Lenormand and Ant\u00f2nia Tugores and Bruno Gon\u00e7alves and Jos\u00e9 J Ramasco",
+        "journal": "EPJ Data Science",
+        "volume": "5",
+        "pages": "1-9",
+        "publisher": "SpringerOpen",
+        "abstract": "Tourism is becoming a significant contributor to medium and long range travels in an increasingly globalized world. Leisure traveling has an important impact on the local and global economy as well as on the environment. The study of touristic trips is thus raising a considerable interest. In this work, we apply a method to assess the attractiveness of 20 of the most popular touristic sites worldwide using geolocated tweets as a proxy for human mobility. We first rank the touristic sites based on the spatial distribution of the visitors\u2019 place of residence. The Taj Mahal, the Pisa Tower and the Eiffel Tower appear consistently in the top 5 in these rankings. We then pass to a coarser scale and classify the travelers by country of residence. Touristic site\u2019s visiting figures are then studied by country of residence showing that the Eiffel Tower, Times Square and the London Tower welcome the majority of the visitors of each country \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:dhFuZR0502QC",
+    "num_citations": 64,
+    "citedby_url": "/scholar?hl=en&cites=14167986067497561796,14233324528707862760",
+    "cites_id": [
+        "14167986067497561796",
+        "14233324528707862760"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1140/epjds/s13688-016-0073-5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xC7gX0PMnsQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 6,
+        "2017": 9,
+        "2018": 14,
+        "2019": 8,
+        "2020": 6,
+        "2021": 11,
+        "2022": 5,
+        "2023": 4
+    }
+}

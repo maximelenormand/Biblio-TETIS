@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The new abnormal: Identifying and ranking anomalies in the land trade market",
+        "pub_year": 2022,
+        "citation": "Plos one 17 (12), e0277608, 2022",
+        "author": "Roberto Interdonato and Jeremy Bourgoin and Quentin Grislain and Andrea Tagarelli",
+        "journal": "Plos one",
+        "volume": "17",
+        "number": "12",
+        "pages": "e0277608",
+        "publisher": "Public Library of Science",
+        "abstract": "Large-scale national and transnational commercial land transactions, or Large-Scale Land Acquisitions (LSLAs), have been gaining a lot of academic attention since the late 2000s and since the reported rush for land, resulting in turn from an increase in demand for arable land. If many data exist to characterize land deals, the analysis of investment networks remain limited and predominantly portrays power asymmetries between countries from the Global North investing in the Global South. The aim of this work is to perform a deeper investigation on the land trade market, specifically focusing on cases that do not follow such narratives. For instance, almost 25% of the countries included in the transnational land trade network do not follow a strict investor/target dichotomy, thus being characterized by a double role, i.e., they both acquire and cede land in the transnational context. In order to globally acknowledge for what was currently considered as abnormal cases, we model open access data about LSLAs extracted from the Land Matrix Initiative (LMI) open-access database into a network graph, and adapt an eigenvector based centrality method originally conceived for online social networks, namely LurkerRank, to identify and rank anomalous profiles in the land trade market. We take into account three different network snapshots: a multi-sector network (including all the transnational deals in the LMI database), and three networks referring to specific investment sectors (agriculture,mines and biofuels). Experimental results show that emerging economies (e.g., China and Malaysia) play a central role in the land trade market, by creating alternative \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:vV6vV6tmYwMC",
+    "num_citations": 0,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277608",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:U2dH7R59tmwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

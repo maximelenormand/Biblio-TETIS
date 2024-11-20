@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Out-of-year corn yield prediction at field-scale using Sentinel-2 satellite imagery and machine learning methods",
+        "pub_year": 2023,
+        "citation": "Computers and Electronics in Agriculture 209, 107807, 2023",
+        "author": "Johann Desloires and Dino Ienco and Antoine Botrel",
+        "journal": "Computers and Electronics in Agriculture",
+        "volume": "209",
+        "pages": "107807",
+        "publisher": "Elsevier",
+        "abstract": "Crop yield prediction for an ongoing season is crucial for food security interventions and commodity markets for decisions such as inventory management, understanding yield trends and variability. This work considers corn yield prediction at field-scale with input variables derived from satellite and environmental data. Crop yield data were obtained consecutively from 2017 to 2021 for a total of 1164 fields in the US states of Iowa and Nebraska. We forecast yield \u201cout-of-year\u201d, ie we test year from using machine learning methods trained on data from other years. This study includes evaluating what spectral information derived from the raw Sentinel-2 bands best explains the observed variability in yields, but also how time is considered for temporal resampling. We found that resampling the annual time series on thermal time and using biophysical parameters estimates increased the R 2 on average by 0.25 to 0.42 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:BPS1z4jHU5cC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=12751803032251928285",
+    "cites_id": [
+        "12751803032251928285"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0168169923001953",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3Q4gv0uB97AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 6,
+        "2024": 3
+    }
+}

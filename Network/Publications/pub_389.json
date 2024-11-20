@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Partial linear NMF-based unmixing methods for detection and area estimation of photovoltaic panels in urban hyperspectral remote sensing data",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (18), 2164, 2019",
+        "author": "Moussa Sofiane Karoui and Fatima Zohra Benhalouche and Yannick Deville and Khelifa Djerriri and Xavier Briottet and Thomas Houet and Arnaud Le Bris and Christiane Weber",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "18",
+        "pages": "2164",
+        "publisher": "MDPI",
+        "abstract": "High-spectral-resolution hyperspectral data are acquired by sensors that gather images from hundreds of narrow and contiguous bands of the electromagnetic spectrum. These data offer unique opportunities for characterization and precise land surface recognition in urban areas. So far, few studies have been conducted with these data to automatically detect and estimate areas of photovoltaic panels, which currently constitute an important part of renewable energy systems in urban areas of developed countries. In this paper, two hyperspectral-unmixing-based methods are proposed to detect and to estimate surfaces of photovoltaic panels. These approaches, related to linear spectral unmixing (LSU) techniques, are based on new nonnegative matrix factorization (NMF) algorithms that exploit known panel spectra, which makes them partial NMF methods. The first approach, called Grd-Part-NMF, is a gradient-based method, whereas the second one, called Multi-Part-NMF, uses multiplicative update rules. To evaluate the performance of these approaches, experiments are conducted on realistic synthetic and real airborne hyperspectral data acquired over an urban region. For the synthetic data, obtained results show that the proposed methods yield much better overall performance than NMF-unmixing-based methods from the literature. For the real data, the obtained detection and area estimation results are first confirmed by using very high-spatial-resolution ortho-images of the same regions. These results are also compared with those obtained by standard NMF-unmixing-based methods and by a one-class-classification-based approach. This \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:HIFyuExEbWQC",
+    "num_citations": 41,
+    "citedby_url": "/scholar?hl=en&cites=13802944015311504909",
+    "cites_id": [
+        "13802944015311504909"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/18/2164",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DQY_Z3Pojb8J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 6,
+        "2021": 9,
+        "2022": 11,
+        "2023": 14
+    }
+}

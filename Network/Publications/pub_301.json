@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Satellite based multi-scale methods to support the governance of Brazilian low-carbon agriculture (abc plan)",
+        "pub_year": 2016,
+        "citation": "6th International Conference on Geographic Object-Based Image Analysis \u2026, 2016",
+        "author": "Margareth Simoes and Rodrigo PD Ferraz and Agn\u00e8s B\u00e9gu\u00e9 and B Bell\u00f3n and PL Freitas and PLOA Machado and ML Neves and L Skorupa",
+        "conference": "6th International Conference on Geographic Object-Based Image Analysis, GEOBIA 2016: Solutions & Synergies",
+        "publisher": "University of Twente, Faculty of Geo-Information Science and Earth Observation (ITC)",
+        "abstract": "Brazilian Low Carbon Agriculture Plan (ABC Plan) is one the initiatives that places the climate in the agricultural agenda towards a more sustainable and adapted agriculture under global changes. Among the several practices listed and supported by the ABC Plan, zero tillage and integrated crop-livestock-forestry systems including the recovery of degraded pasture are the most relevant ones. Those practices introduced a complexity to agriculture landscape image analyse. The objective of this paper is to present the GeoABC Project and preliminary procedures using OBIA and satellite based multi-scale methods to monitor the introduced scenario of a new agriculture land use dynamics."
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:ILKRHgRFtOwC",
+    "num_citations": 0,
+    "pub_url": "https://research.utwente.nl/en/publications/satellite-based-multi-scale-methods-to-support-the-governance-of-",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0AfZq9tkcWIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

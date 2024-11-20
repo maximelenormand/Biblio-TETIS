@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Biogeographical network analysis of plant species distribution in the Mediterranean region",
+        "pub_year": 2019,
+        "citation": "Ecology and Evolution 9 (1), 237-250, 2019",
+        "author": "Maxime Lenormand and Guillaume Papuga and Olivier Argagnon and Maxence Soubeyrand and Guilhem De Barros and Samuel Alleaume and Sandra Luque",
+        "journal": "Ecology and Evolution",
+        "volume": "9",
+        "number": "1",
+        "pages": "237-250",
+        "abstract": "The delimitation of bioregions helps to understand historical and ecological drivers of species distribution. In this work, we performed a network analysis of the spatial distribution patterns of plants in south of France (Languedoc\u2010Roussillon and Provence\u2010Alpes\u2010C\u00f4te d'Azur) to analyze the biogeographical structure of the French Mediterranean flora at different scales. We used a network approach to identify and characterize biogeographical regions, based on a large database containing 2.5 million of geolocalized plant records corresponding to more than 3,500 plant species. This methodology is performed following five steps, from the biogeographical bipartite network construction to the identification of biogeographical regions under the form of spatial network communities, the analysis of their interactions, and the identification of clusters of plant species based on the species contribution to the biogeographical \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:aqlVkmm33-oC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=7902107562217686432",
+    "cites_id": [
+        "7902107562217686432"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.4718",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oMXp7vXsqW0J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 6,
+        "2021": 2,
+        "2022": 4,
+        "2023": 2
+    }
+}

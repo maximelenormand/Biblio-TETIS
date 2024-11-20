@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Leveraging efficient indexing schema to support multigraph query answering",
+        "pub_year": 2016,
+        "citation": "Revue des Sciences et Technologies de l'Information-S\u00e9rie ISI: Ing\u00e9nierie \u2026, 2016",
+        "author": "Dino Ienco and Vijay Ingalalli and Pascal Poncelet",
+        "journal": "Revue des Sciences et Technologies de l'Information-S\u00e9rie ISI: Ing\u00e9nierie des Syst\u00e8mes d'Information",
+        "volume": "21",
+        "number": "3",
+        "pages": "53-74",
+        "abstract": "Many real world datasets can be represented by graphs with a set of nodes intercon- nected with each other by multiple relations (e.g., social network, RDF graph, biological data). Such a rich graph, called multigraph, is well suited to represent real world scenarios with com- plex interactions. However, performing subgraph query on multigraphs is still an open issue since, unfortunately, all the existing algorithms for subgraph query matching are not able to ad- equately leverage the multiple relationships that exist between the nodes. Motivated by the lack of approaches for sub-multigraph query and stimulated by the increasing number of datasets that can be modelled as multigraphs, in this paper we propose IMQA (Index based Multigraph Query Answering), a novel algorithm to extract all the embeddings of a sub-multigraph query from a single large multigraph. IMQA is composed of two main phases: Firstly, it implements a novel indexing schema for multiple edges, which will help to efficiently retrieve the vertices of the multigraph that match the query vertices. Secondly, it performs an efficient subgraph search to output the entire set of embeddings for the given query. Extensive experiments conducted on real datasets prove the time efficiency as well as the scalability of IMQA."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:aEW5N-EHWIMC",
+    "num_citations": 0,
+    "pub_url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01399606/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-kcWpd27JE4J:scholar.google.com/",
+    "cites_per_year": {}
+}

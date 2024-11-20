@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Near real-time freeze detection over agricultural plots using Sentinel-1 data",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (12), 1976, 2020",
+        "author": "Ibrahim Fayad and Nicolas Baghdadi and Hassan Bazzi and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "12",
+        "pages": "1976",
+        "publisher": "MDPI",
+        "abstract": "Short-term freeze/thaw cycles, which mostly occur in the northern hemisphere across the majority of land surfaces, are reported to cause severe economic losses over broad areas of Europe and North America. Therefore, in order to assess the extent of frost damage in the agricultural sector, the objective of this study is to build an operational approach capable of detecting frozen plots at the plot scale in a near real-time scenario using Sentinel-1 (S1) data. C-band synthetic aperture radar (SAR) data show high potential for the detection of freeze/thaw surface states due to the significant alterations to the dielectric properties of the soil, which are distinctly observable in the backscattered signal. In this study, we propose an approach that relies on change detection in the high-resolution Sentinel-1 C-band SAR backscattered coefficients, to determine surface states at the plot scale as either frozen or unfrozen. A threshold analysis is first performed in order to determine the best thresholds for three distinct land cover classes, and for each polarization mode (VH, and VV). S-1 SAR data are then used to detect a plot\u2019s surface state as either unfrozen, mild-to-moderately frozen or severely frozen. A temperature-based filter has also been applied at the end of the detection chain to eliminate false detections in the freezing detection algorithm due mainly to rainfall, irrigation, tillage, or signal noise. Our approach has been tested over two study sites in France, and the output results, using either VH or VV, compared qualitatively well with both in situ air temperature data and soil temperature data provided by ERA5-Land. Overall, our algorithm was able to detect \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:tHtfpZlB6tUC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=17991106920655436415",
+    "cites_id": [
+        "17991106920655436415"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/12/1976",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fzq9YWxArfkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 6,
+        "2023": 0,
+        "2024": 1
+    }
+}

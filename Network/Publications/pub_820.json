@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Using high-resolution imagery and deep learning to classify land-use following deforestation: A case study in Ethiopia",
+        "pub_year": 2022,
+        "citation": "GIScience & Remote Sensing 59 (1), 1446-1472, 2022",
+        "author": "Robert N Masolele and Veronique De Sy and Diego Marcos and Jan Verbesselt and Fabian Gieseke and Kalkidan Ayele Mulatu and Yitebitu Moges and Heiru Sebrala and Christopher Martius and Martin Herold",
+        "journal": "GIScience & Remote Sensing",
+        "volume": "59",
+        "number": "1",
+        "pages": "1446-1472",
+        "publisher": "Taylor & Francis",
+        "abstract": "National-scale assessments of post-deforestation land-use are crucial for decreasing deforestation and forest degradation-related emissions. In this research, we assess the potential of different satellite data modalities (single-date, multi-date, multi-resolution, and an ensemble of multi-sensor images) for classifying land-use following deforestation in Ethiopia using the U-Net deep neural network architecture enhanced with attention. We performed the analysis on satellite image data retrieved across Ethiopia from freely available Landsat-8, Sentinel-2 and Planet-NICFI satellite data. The experiments aimed at an analysis of (a) single-date images from individual sensors to account for the differences in spatial resolution between image sensors in detecting land-uses, (b) ensembles of multiple images from different sensors (Planet-NICFI/Sentinel-2/Landsat-8) with different spatial resolutions, (c) the use of multi-date \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:738O_yMBCRsC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=9146748247007417375",
+    "cites_id": [
+        "9146748247007417375"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/15481603.2022.2115619",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:H9TNsBHH734J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 7,
+        "2024": 2
+    }
+}

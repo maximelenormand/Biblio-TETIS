@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How can big data be used to reduce uncertainty in stormwater modelling?",
+        "pub_year": 2016,
+        "citation": "Symposium of Spatial Accuracy, 322-329, 2016",
+        "author": "Nan\u00e9e Chahinian and Anne-Laure Piat-Marchand and Sandra Bringay and Maguelonne Teisseire and Elodie Boulogne and Laurent Deruelle and Mustapha Derras and Carole Delenne",
+        "conference": "Symposium of Spatial Accuracy",
+        "number": "ISBN: 978-2-9105-4510-5",
+        "pages": "322-329",
+        "abstract": "Urban growth is an ongoing trend and one of its direct consequences is the development of buried utility networks. With growing needs among consumers, new networks are being in- stalled and more underground space is being occupied. Locating these networks is becoming a challenging task. Mispositioning of utility networks is an important problem for both indus- trialised and developing countries and will worsen as cities expand and their networks increase in size and complexity (Jamil et al. (2012), Metje et al. (2007)). Over the past century, it was common practice for public service providers to install, operate and repair their networks sepa- rately Rogers et al. (2012). Now local authorities are confronted with the task of combing data produced by different parties, having distinct formats, variable precision and granularity (Chen and Cohn (2011)). Although in certain countries contractors are now obliged by law to position all buried networks within set precision ranges, finding data related to older network branches is a cumbersome task. Once located these data are often unavailable at the desired precision or are prone to errors or omissions. This study is a part of a global project which aims to recreate a storm water and a sewage network in settings where no accurate information regarding the position or characteristics of buried utility networks is available. The methodology consists in detecting objects, such as manhole covers or inlet grates, from areal photographs and very high resolution satellite imagery and use alternative sources of big data in order to extract interesting descriptor about them. The big data is original information \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:HoB7MX3m0LUC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=5266467652675785445",
+    "cites_id": [
+        "5266467652675785445"
+    ],
+    "pub_url": "https://hal.science/hal-01417491/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5VLTWm1AFkkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 0,
+        "2021": 1
+    }
+}

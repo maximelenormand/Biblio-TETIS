@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Compensation \u00e9cologique et agriculture: est-ce compatible?",
+        "pub_year": 2019,
+        "citation": "Revue \u00e9conomique 70 (1), 123-137, 2019",
+        "author": "S\u00e9bastien Roussel and L\u00e9a Tardieu and Anne-Charlotte Vaissi\u00e8re",
+        "journal": "Revue \u00e9conomique",
+        "volume": "70",
+        "number": "1",
+        "pages": "123-137",
+        "publisher": "Presses de Sciences Po",
+        "abstract": "Les mesures compensatoires des atteintes \u00e0 la biodiversit\u00e9 (MC) sont des actions assurant des gains \u00e9cologiques au moins \u00e9quivalents aux pertes subies \u00e0 la suite d\u2019un projet d\u2019am\u00e9nagement. La loi Biodiversit\u00e9 d\u2019ao\u00fbt 2016 rend plus coercitif le cadre des MC. Alors que 59,5 % du territoire fran\u00e7ais est d\u00e9di\u00e9 aux pratiques agricoles, les agriculteurs devraient devenir des acteurs majeurs de la compensation \u00e9cologique. Nous analysons par le biais d\u2019une exp\u00e9rience de choix les pr\u00e9f\u00e9rences des agriculteurs pour devenir op\u00e9rateurs de MC. Nous montrons que les exigences des contrats de MC ne conduiront pas \u00e0 une adh\u00e9sion syst\u00e9matique des agriculteurs. Nous sugg\u00e9rons des orientations de contrats par profil d\u2019agriculteurs et par type d\u2019impacts \u00e0 compenser.Classification JEL : Q15, Q24, Q57."
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:4TOpqqG69KYC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=7707573237658238011",
+    "cites_id": [
+        "7707573237658238011"
+    ],
+    "pub_url": "https://www.cairn.info/revue-economique-2019-1-page-123.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ozzt7gXN9moJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 0,
+        "2020": 4,
+        "2021": 1,
+        "2022": 2
+    }
+}

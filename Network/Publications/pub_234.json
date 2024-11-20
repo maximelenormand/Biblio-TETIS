@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A deep learning approach to observational cosmology with Supernovae",
+        "pub_year": 2019,
+        "citation": "American Astronomical Society Meeting Abstracts# 233 233, 225.07, 2019",
+        "author": "Johanna Pasquet",
+        "journal": "American Astronomical Society Meeting Abstracts# 233",
+        "volume": "233",
+        "pages": "225.07",
+        "abstract": "Artist view, Credit: Todd Mason, Mason Productions Inc./LSST Corporation a 10-year survey of the sky first light in 2020 a 8.4-meter special three-mirror design, creating an exceptionally wide field of view, and has the ability to survey the entire sky in only three nights. 200 petabyte set of images and data products!"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:MXK_kJrjxJIC",
+    "num_citations": 0,
+    "pub_url": "https://indico.in2p3.fr/event/18469/attachments/52306/67496/seminar.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aFQVZX6ErCcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "User-driven geo-temporal density-based exploration of periodic and not periodic events reported in social networks",
+        "pub_year": 2016,
+        "citation": "Information Sciences 340, 122-143, 2016",
+        "author": "Paolo Arcaini and Gloria Bordogna and Dino Ienco and Simone Sterlacchini",
+        "journal": "Information Sciences",
+        "volume": "340",
+        "pages": "122-143",
+        "publisher": "Elsevier",
+        "abstract": "In this paper we propose a procedure consisting of a first collection phase of social network messages, a subsequent user query selection, and finally a clustering phase, defined by extending the density-based DBSCAN algorithm, for performing a geographic and temporal exploration of a collection of items, in order to reveal and map their latent spatio-temporal structure. Specifically, both several geo-temporal distance measures and a density-based geo-temporal clustering algorithm are proposed. The approach can be applied to social messages containing an explicit geographic and temporal location. The algorithm usage is exemplified to identify geographic regions where many geotagged Twitter messages about an event of interest have been created, possibly in the same time period in the case of non-periodic events (aperiodic events), or at regular timestamps in the case of periodic events. This allows \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:TesyEGJKHF4C",
+    "num_citations": 24,
+    "citedby_url": "/scholar?hl=en&cites=7651953713729018847",
+    "cites_id": [
+        "7651953713729018847"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0020025516000165",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:35uMYFwzMWoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 1,
+        "2017": 6,
+        "2018": 3,
+        "2019": 5,
+        "2020": 4,
+        "2021": 2,
+        "2022": 1
+    }
+}

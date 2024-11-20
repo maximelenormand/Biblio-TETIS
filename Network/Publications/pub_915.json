@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Concept discovery for the interpretation of landscape scenicness",
+        "pub_year": 2020,
+        "citation": "Machine Learning and Knowledge Extraction 2 (4), 22, 2020",
+        "author": "Pim Arendsen and Diego Marcos and Devis Tuia",
+        "journal": "Machine Learning and Knowledge Extraction",
+        "volume": "2",
+        "number": "4",
+        "pages": "22",
+        "publisher": "MDPI",
+        "abstract": "In this paper, we study how to extract visual concepts to understand landscape scenicness. Using visual feature representations from a Convolutional Neural Network (CNN), we learn a number of Concept Activation Vectors (CAV) aligned with semantic concepts from ancillary datasets. These concepts represent objects, attributes or scene categories that describe outdoor images. We then use these CAVs to study their impact on the (crowdsourced) perception of beauty of landscapes in the United Kingdom. Finally, we deploy a technique to explore new concepts beyond those initially available in the ancillary dataset: Using a semi-supervised manifold alignment technique, we align the CNN image representation to a large set of word embeddings, therefore giving access to entire dictionaries of concepts. This allows us to obtain a list of new concept candidates to improve our understanding of the elements that contribute the most to the perception of scenicness. We do this without the need for any additional data by leveraging the commonalities in the visual and word vector spaces. Our results suggest that new and potentially useful concepts can be discovered by leveraging neighbourhood structures in the word vector spaces."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:3s1wT3WcHBgC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=12192174510919644222",
+    "cites_id": [
+        "12192174510919644222"
+    ],
+    "pub_url": "https://www.mdpi.com/2504-4990/2/4/22",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PvTv6h5OM6kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 3
+    }
+}

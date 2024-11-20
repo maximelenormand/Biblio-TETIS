@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Impact of dams and climate change on suspended sediment flux to the Mekong delta",
+        "pub_year": 2021,
+        "citation": "Science of the Total Environment 755, 142468, 2021",
+        "author": "Gianbattista Bussi and Stephen E Darby and Paul G Whitehead and Li Jin and Simon J Dadson and Hal E Voepel and Grigorios Vasilopoulos and Christopher R Hackney and Craig Hutton and Tristan Berchoux and Daniel R Parsons and Andrew Nicholas",
+        "journal": "Science of the Total Environment",
+        "volume": "755",
+        "pages": "142468",
+        "publisher": "Elsevier",
+        "abstract": "The livelihoods of millions of people living in the world's deltas are deeply interconnected with the sediment dynamics of these deltas. In particular a sustainable supply of fluvial sediments from upstream is critical for ensuring the fertility of delta soils and for promoting sediment deposition that can offset rising sea levels. Yet, in many large river catchments this supply of sediment is being threatened by the planned construction of large dams. In this study, we apply the INCA hydrological and sediment model to the Mekong River catchment in South East Asia. The aim is to assess the impact of several large dams (both existing and planned) on the suspended sediment fluxes of the river. We force the INCA model with a climate model to assess the interplay of changing climate and sediment trapping caused by dam construction. The results show that historical sediment flux declines are mostly caused by dams built in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 65,
+    "citedby_url": "/scholar?hl=en&cites=15424403551386298942",
+    "cites_id": [
+        "15424403551386298942"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0048969720359970",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Pmqn2E59DtYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 12,
+        "2022": 27,
+        "2023": 23,
+        "2024": 2
+    }
+}

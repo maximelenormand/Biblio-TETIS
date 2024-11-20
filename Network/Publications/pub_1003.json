@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Correction: Going Beyond Panaceas: The Diversity of Land Observatory Forms in Africa. Land 2020, 9, 70",
+        "pub_year": 2020,
+        "citation": "Land 9 (7), 219, 2020",
+        "author": "Quentin Grislain and Jeremy Bourgoin and Ward Anseeuw and Perrine Burnod and Eva Hershaw and Djibril Diop",
+        "journal": "Land",
+        "volume": "9",
+        "number": "7",
+        "pages": "219",
+        "publisher": "MDPI",
+        "abstract": "Background:Open Access CorrectionCorrection: Going Beyond Panaceas: The Diversity of Land Observatory Forms in Africa. Land 2020, 9, 70"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:yD5IFk8b50cC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=8500516299806680134",
+    "cites_id": [
+        "8500516299806680134"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-445X/9/7/219/htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RiRleYnm93UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

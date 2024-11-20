@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "L\u2019infrastructure de recherche \u00abP\u00f4le de donn\u00e9es et services pour le syst\u00e8me Terre\u00bb, \u00e0 la pointe des techniques d\u2019imagerie et de cartographie num\u00e9rique",
+        "pub_year": 2019,
+        "citation": "Annales des Mines-Responsabilit\u00e9 et environnement, 8-13, 2019",
+        "author": "Fr\u00e9d\u00e9ric Huynh and Nicolas Baghdadi and Michel Diament and Nicole Papineau and Gilbert Maudire and Richard Moreno and Pierre Maurel",
+        "journal": "Annales des Mines-Responsabilit\u00e9 et environnement",
+        "number": "2",
+        "pages": "8-13",
+        "publisher": "Cairn/Softwin",
+        "abstract": "Observer, comprendre et pr\u00e9voir de mani\u00e8re int\u00e9gr\u00e9e l\u2019historique, le fonctionnement et l\u2019\u00e9volution du syst\u00e8me Terre soumis aux changements globaux est un enjeu fondamental de recherche et une n\u00e9cessit\u00e9 pour la mise en \u0153uvre des objectifs du d\u00e9veloppement durable. Cela n\u00e9cessite des infrastructures interop\u00e9rables permettant d\u2019acc\u00e9l\u00e9rer l\u2019extraction, l\u2019analyse, la diffusion et l\u2019usage intelligent des donn\u00e9es, des indicateurs et des mod\u00e8les issus des syst\u00e8mes nationaux et internationaux d\u2019observation. Destin\u00e9s aux scientifiques, aux acteurs publics et \u00e0 ceux de l\u2019innovation, ces produits et services sont accessibles via des portails d\u00e9di\u00e9s, contribuant aux missions spatiales, \u00e0 celles des r\u00e9seaux d\u2019observation et venant en appui des politiques de d\u00e9veloppement durable. Coordonner, f\u00e9d\u00e9rer et optimiser l\u2019ensemble des institutions, dispositifs et moyens existants constitue une des ambitions importantes de l\u2019IR \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:MhiOAD_qIWkC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=323579975881858285",
+    "cites_id": [
+        "323579975881858285"
+    ],
+    "pub_url": "https://www.cairn.info/revue-responsabilite-et-environnement-2019-2-page-8.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7RzeDkaWfQQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 1
+    }
+}

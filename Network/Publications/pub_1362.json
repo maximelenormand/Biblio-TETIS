@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "La biodiversit\u00e9 \u00e0 l\u2019\u00e9preuve des choix d\u2019am\u00e9nagement: une approche par la mod\u00e9lisation appliqu\u00e9e \u00e0 la R\u00e9gion Occitanie",
+        "pub_year": 2020,
+        "citation": "Sciences Eaux & Territoires, 24-31, 2020",
+        "author": "Coralie Calvet and Vincent Delbar and Paul Chapron and Micka\u00ebl Brasebin and Julien Perret and Sylvain Moulherat",
+        "journal": "Sciences Eaux & Territoires",
+        "number": "31",
+        "pages": "24-31",
+        "abstract": "L'important d\u00e9veloppement de la s\u00e9quence Eviter-R\u00e9duire-Compenser (ERC) en France ne s' est pas n\u00e9cessairement accompagn\u00e9 d'une bonne application, celle-ci se heurtant \u00e0 de multiples difficult\u00e9s pratiques. Le manque de vision et de coordination territoriale est souvent mis en cause pour expliquer cela. Une planification anticip\u00e9e de l'am\u00e9nagement du territoire semble incontournable pour une meilleure prise en compte des enjeux de la s\u00e9quence ERC. De multiples initiatives port\u00e9es par des acteurs vari\u00e9s \u00e9mergent peu \u00e0 peu en ce sens en France. Dans ce contexte, la r\u00e9gion Occitanie a souhait\u00e9 se doter d'une strat\u00e9gie r\u00e9gionale pour l'application de cette s\u00e9quence. Ce travail a pour objectif d'appuyer les d\u00e9cideurs publics r\u00e9gionaux dans la d\u00e9termination des processus de changements d'occupation des sols, principalement les dynamiques urbaines, afin d'en \u00e9valuer les impacts sur la biodiversit\u00e9. L'originalit\u00e9 de ce travail de recherche r\u00e9side dans l'\u00e9tude des effets conjoints des dynamiques \u00e9cologiques et urbaines dans diff\u00e9rents types de sc\u00e9narios d'am\u00e9nagement plus ou moins consommateurs d'espace. Une approche par mod\u00e9lisation et simulation prospective appliqu\u00e9e \u00e0 la zone d'\u00e9tude de Montpellier M\u00e9diterran\u00e9e M\u00e9tropole, nous permet de mettre en \u00e9vidence l'importance des d\u00e9cisions en mati\u00e8re de choix de politiques d'am\u00e9nagement et de conservation de la biodiversit\u00e9. Au-del\u00e0 de ce projet de recherche, les questions soulev\u00e9es ouvrent des champs de r\u00e9flexions plus larges sur les modes de d\u00e9veloppement souhaitables et envisageables dans un contexte de changements globaux."
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:kNdYIx-mwKoC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=2935292839101442237",
+    "cites_id": [
+        "2935292839101442237"
+    ],
+    "pub_url": "https://revue-set.fr/article/view/6898",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vahjCklBvCgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 3,
+        "2023": 2,
+        "2024": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Volcanic eruption monitoring using coherence change detection matrix",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Thu Trang L\u00ea and Jean-Luc Froger and Nicolas Baghdadi and Dinh Ho Tong Minh",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "324-327",
+        "publisher": "IEEE",
+        "abstract": "This paper addresses the monitoring of volcanic eruption using a coherence change detection matrix constructed from a multitemporal InSAR image time series. The Piton de la Fournaise volcano (French island, La Reunion), one of the most active volcanoes worldwide, was selected as a case study. Changes on the ground related to eight volcanic eruptions were analyzed through a time series including 49 descending stripmap Sentinel-1 SAR images acquired from January 10, 2018 to August 21, 2019. The experimental results have shown the relevancy of the proposed framework."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:RtRctb2lSbAC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=16678980821839429391",
+    "cites_id": [
+        "16678980821839429391"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9323335/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:D79KPbCkd-cJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 1
+    }
+}

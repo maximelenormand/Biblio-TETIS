@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A generic remote sensing approach to derive operational essential biodiversity variables (EBVs) for conservation planning",
+        "pub_year": 2018,
+        "citation": "Methods in Ecology and Evolution 9 (8), 1822-1836, 2018",
+        "author": "Samuel Alleaume and Pauline Dusseux and Vincent Thierion and Lo\u00efc Commagnac and Sylvio Laventure and Marc Lang and Jean\u2010Baptiste F\u00e9ret and Laurence Hubert\u2010Moy and Sandra Luque",
+        "journal": "Methods in Ecology and Evolution",
+        "volume": "9",
+        "number": "8",
+        "pages": "1822-1836",
+        "abstract": "  The open access availability of satellite images from new sensors characterized by various spatial and temporal resolutions provides new challenges and possibilities for biodiversity conservation. Methodologies aiming at characterizing vegetation type, phenology, and function can now benefit from metric spatial resolution imagery combined with an improved revisit capability. Here, we test hybrid methods and data fusion, using very high spatial resolution (VHSR) sensors in different complex landscapes encompassing three French biogeographical regions. The methodological approach presented herein has a generic value in response to national conservation targets based on the concept of essential biodiversity variables accessed by remote sensing (RS\u2010enabled EBVs). We focused on deriving five RS\u2010enabled EBVs from natural and seminatural open ecosystems: (1) ecosystem distribution, (2) land cover \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:J_g5lzvAfSwC",
+    "num_citations": 33,
+    "citedby_url": "/scholar?hl=en&cites=16734840837438126472",
+    "cites_id": [
+        "16734840837438126472"
+    ],
+    "pub_url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13033",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iDkzoBMZPugJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 3,
+        "2020": 11,
+        "2021": 3,
+        "2022": 8,
+        "2023": 6
+    }
+}

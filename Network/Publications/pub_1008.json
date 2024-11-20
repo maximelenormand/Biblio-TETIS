@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new empirical model for radar scattering from bare soil surfaces",
+        "pub_year": 2016,
+        "citation": "Remote Sensing 8 (11), 920, 2016",
+        "author": "Nicolas Baghdadi and Mohammad Choker and Mehrez Zribi and Mohammad El Hajj and Simonetta Paloscia and Niko EC Verhoest and Hans Lievens and Frederic Baup and Francesco Mattia",
+        "journal": "Remote Sensing",
+        "volume": "8",
+        "number": "11",
+        "pages": "920",
+        "publisher": "MDPI",
+        "abstract": "The objective of this paper is to propose a new semi-empirical radar backscattering model for bare soil surfaces based on the Dubois model. A wide dataset of backscattering coefficients extracted from synthetic aperture radar (SAR) images and in situ soil surface parameter measurements (moisture content and roughness) is used. The retrieval of soil parameters from SAR images remains challenging because the available backscattering models have limited performances. Existing models, physical, semi-empirical, or empirical, do not allow for a reliable estimate of soil surface geophysical parameters for all surface conditions. The proposed model, developed in HH, HV, and VV polarizations, uses a formulation of radar signals based on physical principles that are validated in numerous studies. Never before has a backscattering model been built and validated on such an important dataset as the one proposed in this study. It contains a wide range of incidence angles (18\u00b0\u201357\u00b0) and radar wavelengths (L, C, X), well distributed, geographically, for regions with different climate conditions (humid, semi-arid, and arid sites), and involving many SAR sensors. The results show that the new model shows a very good performance for different radar wavelengths (L, C, X), incidence angles, and polarizations (RMSE of about 2 dB). This model is easy to invert and could provide a way to improve the retrieval of soil parameters."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:uWiczbcajpAC",
+    "num_citations": 130,
+    "citedby_url": "/scholar?hl=en&cites=18074117346377413973",
+    "cites_id": [
+        "18074117346377413973"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/8/11/920",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VTWNO_cp1PoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 4,
+        "2018": 12,
+        "2019": 26,
+        "2020": 27,
+        "2021": 26,
+        "2022": 19,
+        "2023": 14
+    }
+}

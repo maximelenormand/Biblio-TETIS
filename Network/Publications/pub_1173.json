@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "China-to-UK student migration and pro-environmental behaviour change: a social practice perspective",
+        "pub_year": 2019,
+        "citation": "Sociological Research Online 24 (4), 575-597, 2019",
+        "author": "Roger Tyers and Tristan Berchoux and Kun Xiang and Xu Yi Yao",
+        "journal": "Sociological Research Online",
+        "volume": "24",
+        "number": "4",
+        "pages": "575-597",
+        "publisher": "SAGE Publications",
+        "abstract": "Significant life-course changes can be \u2018windows of opportunity\u2019 to disrupt practices. Using qualitative focus group data, this article examines whether the life-course change experienced by Chinese students migrating to the UK has an effect on environmentally impactful practices. It does so by examining how such practices are understood and performed by Chinese and UK students living in their own countries, and contrasting them with those of Chinese students in the UK. Using a social practice framework, these findings suggest that practices do change, and this change can be conceptualised using a framework of competences, materials, and meanings. The findings show meanings \u2013 the cultural and social norms ascribed to pro-environmental behaviour \u2013 to be particularly susceptible to the influence of \u2018communities of practice\u2019 where immigrants and natives mix, with pro-environmental behaviour change \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:u-x6o8ySG0sC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=11401326046905307027",
+    "cites_id": [
+        "11401326046905307027"
+    ],
+    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/1360780418794194",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kw8zAqKlOZ4J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    }
+}

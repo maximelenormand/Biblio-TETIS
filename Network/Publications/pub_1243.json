@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The environmental turning point in the Amazon: the scale and limits of decoupling between production and deforestation.",
+        "pub_year": 2017,
+        "citation": "EchoG\u00e9o, 1-27, 2017",
+        "author": "F Laurent and D Arvor and M Daugeard and R Osis and I Tritsch and E Coudel and MG Piketty and M Piraux and C Viana and V Dubreuil and AF Hasan and F Messner",
+        "journal": "EchoG\u00e9o",
+        "number": "41",
+        "pages": "1-27",
+        "publisher": "Pole de Recherche pour l'Organisation et la Diffusion de l'Information Geographique",
+        "abstract": "The Amazon has recently experienced a dramatic decline in deforestation coupled with economic development. However, this process is uneven. While large and medium-sized producers are intensifying and diversifying their production systems in the already cleared areas, thus apparently abandoning expansion strategies at the moment, family farming remains aloof from this decoupling between production and deforestation. In this article, the commitments of public authorities and sectors, their effects on deforestation and inequalities of adaptation are analyzed at the scale of the Legal Amazon and in a municipality considered as a model because involved in a Munic\u00edpio Verde initiative: Paragominas, in the Eastern Amazon."
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:QYdC8u9Cj1oC",
+    "num_citations": 0,
+    "pub_url": "https://www.cabdirect.org/cabdirect/abstract/20183111586",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QiL7rYjVEIkJ:scholar.google.com/",
+    "cites_per_year": {}
+}

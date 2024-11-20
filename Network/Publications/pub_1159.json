@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial modeling of mosquito vectors for Rift Valley fever virus in Northern Senegal: Integrating satellite-derived meteorological estimates in population dynamics models",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (9), 1024, 2019",
+        "author": "Annelise Tran and Assane Gueye Fall and Biram Biteye and Mamadou Ciss and Geoffrey Gimonneau and Mathieu Castets and Momar Talla Seck and V\u00e9ronique Chevalier",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "9",
+        "pages": "1024",
+        "publisher": "MDPI",
+        "abstract": "Mosquitoes are vectors of major pathogen agents worldwide. Population dynamics models are useful tools to understand and predict mosquito abundances in space and time. To be used as forecasting tools over large areas, such models could benefit from integrating remote sensing data that describe the meteorological and environmental conditions driving mosquito population dynamics. The main objective of this study is to assess a process-based modeling framework for mosquito population dynamics using satellite-derived meteorological estimates as input variables. A generic weather-driven model of mosquito population dynamics was applied to Rift Valley fever vector species in northern Senegal, with rainfall, temperature, and humidity as inputs. The model outputs using meteorological data from ground weather station vs satellite-based estimates are compared, using longitudinal mosquito trapping data for validation at local scale in three different ecosystems. Model predictions were consistent with field entomological data on adult abundance, with a better fit between predicted and observed abundances for the Sahelian Ferlo ecosystem, and for the models using in-situ weather data as input. Based on satellite-derived rainfall and temperature data, dynamic maps of three potential Rift Valley fever vector species were then produced at regional scale on a weekly basis. When direct weather measurements are sparse, these resulting maps should be used to support policy-makers in optimizing surveillance and control interventions of Rift Valley fever in Senegal."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:9Nmd_mFXekcC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=16765640205054703722",
+    "cites_id": [
+        "16765640205054703722"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/9/1024",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:avhKNvCEq-gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 6,
+        "2021": 4,
+        "2022": 1,
+        "2023": 4
+    }
+}

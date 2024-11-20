@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Association between adiposity and lean mass with long\u2010term cardiovascular events in patients with coronary artery disease: no paradox",
+        "pub_year": 2018,
+        "citation": "Journal of the American Heart Association 7 (10), e007505, 2018",
+        "author": "Jose R Medina\u2010Inojosa and Virend K Somers and Randal J Thomas and Nathalie Jean and Sarah M Jenkins and Miguel Angel Gomez\u2010Ibarra and Marta Supervia and Francisco Lopez\u2010Jimenez",
+        "journal": "Journal of the American Heart Association",
+        "volume": "7",
+        "number": "10",
+        "pages": "e007505",
+        "abstract": "Prognosis based on body fat percentage (BF%) in patients with coronary artery disease has not been extensively studied. We tested the hypothesis that patients with coronary artery disease and increased BF% have a higher risk for major adverse cardiovascular events (MACEs) and that fat\u2010free mass is associated with better prognosis.We included 717 patients referred to cardiac rehabilitation after coronary artery disease events or procedures who underwent air displacement plethysmography to assess BF%; 75% were men, with a mean age 61.4\u00b111.4 years and a mean body mass index of 30\u00b15.4 kg/m2. Follow\u2010up was performed using a record linkage system. Patients were classified in sex\u2010specific quartiles of BF% and fat\u2010free mass index. The composite outcome of MACEs included acute coronary syndromes, coronary revascularization, stroke, or death from any cause. After \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "96iq_-QAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 60,
+    "citedby_url": "/scholar?hl=en&cites=47504073805865284",
+    "cites_id": [
+        "47504073805865284"
+    ],
+    "pub_url": "https://www.ahajournals.org/doi/abs/10.1161/JAHA.117.007505",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RCGVFLTEqAAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 13,
+        "2020": 6,
+        "2021": 14,
+        "2022": 11,
+        "2023": 9,
+        "2024": 1
+    }
+}

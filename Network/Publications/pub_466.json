@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "IndexMEED cases studies using\" Omics\" data with graph theory",
+        "pub_year": 2017,
+        "citation": "Biodiversity Information Science and Standards 1 (2), 340-361, 2017",
+        "author": "Romain David and Jean-Pierre F\u00e9ral and Sophie Archambeau and Fanny Arnaud and David Auber and Nicolas Bailly and Loup Bernard and Laure Berti-\u00c9quille and Cyrille Blanpain and Vincent Breton and Anne Chenuil-Maurel and Anna Cohen Nabeiro and Alrick Dias and Aur\u00e9lie Delavaud and Robin Goffaud and Sophie Gachet and Karina Gibert and Manuel Herrera Fernandez and Luc Hogie and Dino Ienco and Romain Julliard and Yvan Le Bras and Julien Lecubin and Yannick Legre and Michelle Leydet and Gr\u00e9goire Lois and B\u00e9n\u00e9dicte Madon and Fran\u00e7ois Marchal and V\u00edctor M\u00e9ndez Mu\u00f1oz and Jean-Charles Meunier and Jean-Baptiste Mihoub and Isabelle Mougenot and Sophie Pamerlon and Eric Peletier and Genevi\u00e8ve Romier and Dad Roux-Michollet and Alison Specht and Christian Surace and Jean-Claude Raynal and Thierry Tatoni",
+        "journal": "Biodiversity Information Science and Standards",
+        "volume": "1",
+        "number": "2",
+        "pages": "340-361",
+        "abstract": "Data produced within marine and terrestrial biodiversity research projects that evaluate and monitor Good Environmental Status, have a high potential for use by stakeholders involved in environmental management. However, environmental data, especially in ecology, are not readily accessible to various users. The specific scientific goals and the logics of project organization and information gathering lead to a decentralized data distribution. In such a heterogeneous system across different organizations and data formats, it is difficult to efficiently harmonize the outputs. Few tools are available to assist. For instance standards and specific protocols can be applied to interconnect databases. Such semantic approaches greatly increase data interoperability. This communication present the recent results and the consortium IndexMEED (Indexing for Mining Ecological and Environmental Data) activity that aims to build new approaches to investigate complex research questions, and support the emergence of new scientific hypotheses based on graph theory Auber et al. 2014). Current developments in data mining based on graphs, as well as the potential for relevant contributions to environmental research, particularly about strategic decision-making, and new ways of organizing data will be presented (David et al. 2015). In particular, the consortium makes decisions on how i) to analyze heterogeneous distributed data spread throughout different databases combining molecular and habitat characteristics data [3], ii) to create matches and incorporate some approximations, iii) to identify statistical relationships between observed data and the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:8VtEwCQfWZkC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01761535/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kr67sddtgZcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

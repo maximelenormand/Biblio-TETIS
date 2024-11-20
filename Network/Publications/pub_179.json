@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards the extraction of partial instances of N-Ary relations in textual data",
+        "pub_year": 2019,
+        "citation": "IN'OVIVE, 2019",
+        "author": "Martin Lentschat and Patrice Buche and Juliette Dibie-Barthelemy and Mathieu Roche",
+        "conference": "IN'OVIVE",
+        "abstract": "This paper presents a generic approach in order to extract experimental information from scientific documents in specialized domains. We are here describing the first phase of our work: the use of an Ontological and Terminological Resource (OTR) to research partial instances of N-Ary relations. The OTR drives the extraction with its domain vocabulary and guides the creation of a Representation of the results. Our contributions in this process is the identification of terminological variations and acronymic forms recognition to increase the coverage of the OTR vocabulary. The recognition and classification of text Segments (ie. document sections, figures...) is also used to contextualize the extraction of the partial instances of N-Ary relations."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:VN7nJs4JPk0C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03313690/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3w2uGJn-6nQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

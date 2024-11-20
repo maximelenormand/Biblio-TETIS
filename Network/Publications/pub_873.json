@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Field theory for recurrent mobility",
+        "pub_year": 2019,
+        "citation": "Nature communications 10, 3895, 2019",
+        "author": "Mattia Mazzoli and Alex Molas and Aleix Bassolas and Maxime Lenormand and Pere Colet and Jos\u00e9 J Ramasco",
+        "journal": "Nature communications",
+        "volume": "10",
+        "pages": "3895",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "Understanding human mobility is crucial for applications such as forecasting epidemic spreading, planning transport infrastructure and urbanism in general. While, traditionally, mobility information has been collected via surveys, the pervasive adoption of mobile technologies has brought a wealth of (real time) data. The easy access to this information opens the door to study theoretical questions so far unexplored. In this work, we show for a series of worldwide cities that commuting daily flows can be mapped into a well behaved vector field, fulfilling the divergence theorem and which is, besides, irrotational. This property allows us to define a potential for the field that can become a major instrument to determine separate mobility basins and discern contiguous urban areas. We also show that empirical fluxes and potentials can be well reproduced and analytically characterized using the so-called gravity model, while \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:k_IJM867U9cC",
+    "num_citations": 63,
+    "citedby_url": "/scholar?hl=en&cites=14883744970029568047",
+    "cites_id": [
+        "14883744970029568047"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41467-019-11841-2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:L5AeWjGvjc4J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 8,
+        "2021": 13,
+        "2022": 16,
+        "2023": 19,
+        "2024": 7
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Synergie recherche, action publique et secteur priv\u00e9: p\u00f4le national Theia et Projet GEOSUD",
+        "pub_year": 2018,
+        "citation": "S\u00e9minaire \u00abL'espace: nouvel horizon pour l'entreprenariat\u00bb, 24, 2018",
+        "author": "P Maurel",
+        "conference": "S\u00e9minaire \u00abL'espace: nouvel horizon pour l'entreprenariat\u00bb",
+        "pages": "24",
+        "abstract": "Pr\u00e9sentation de l'Equipex GEOSUD et du p\u00f4le Theia pour illustrer les formes de collaboration entre la recherche, l'action publique et le secteur priv\u00e9."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:M7yex6snE4oC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02609614/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rGPofpWl-PIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

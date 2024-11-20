@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Wetland restoration prioritization using artificial neural networks",
+        "pub_year": 2020,
+        "citation": "Wetlands 40, 179-192, 2020",
+        "author": "Saeideh Maleki and Ali Reza Soffianian and Saeid Soltani Koupaei and Nicolas Baghdadi and Mohamad EL-Hajj and Farid Sheikholeslam and Saeid Pourmanafi",
+        "journal": "Wetlands",
+        "volume": "40",
+        "pages": "179-192",
+        "publisher": "Springer Netherlands",
+        "abstract": "Wetland destruction is currently one of the greatest environmental problems in the world. Despite the functions of wetlands, these valuable ecosystems have steadily decreased because of human activities and climate change. To protect these valuable ecosystems, wetland restoration and rehabilitation are important operations that have been conducted worldwide. Since a wetland is a complex ecosystem with a variety of phenomena, increasing the number of variables considered during a restoration project will further boost the success rate of a restoration project. However, the inclusion of more variables will increase the complexity of the analysis. Thus, a method that can analyze complex models using many input variables is valuable. In most scientific studies, artificial intelligence algorithms have been widely applied to complex projects. However, the main question is whether these algorithms can learn the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:wKETBy42zhYC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=14139498815266851890",
+    "cites_id": [
+        "14139498815266851890"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s13157-019-01165-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MowJGkKXOcQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 4,
+        "2022": 1
+    }
+}

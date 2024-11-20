@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Creating shared value (s) from On-Farm Experimentation: ten key lessons learned from the development of the SoYield\u00ae digital solution in Africa",
+        "pub_year": 2023,
+        "citation": "Agronomy for Sustainable Development 43 (3), 38, 2023",
+        "author": "Chlo\u00e9 Alexandre and L\u00e9a Tresch and Julien Sarron and J\u00e9remy Lavarenne and Gaspard Bringer and Hamza Rkha Chaham and Hamza Bendahou and Sofia Carmeni and Philippe Borianne and Jean-Mathias Koffi and Emile Faye",
+        "journal": "Agronomy for Sustainable Development",
+        "volume": "43",
+        "number": "3",
+        "pages": "38",
+        "publisher": "Springer Paris",
+        "abstract": "This study is based on the observation that many digital tools and services for agriculture do not put farmers\u2019 expectations and interests first, resulting in top-down research and development. On-Farm Experimentation (OFE) contributes to overcoming these limitations because it places farmers at the center of innovation processes, while ensuring rich interactions with various value chain actors. The richness of OFE is in part explained by the diversity of stakeholders involved and the co-learning that results from their interactions. Studies in management and social sciences show that such open innovation processes can be difficult to manage. Aligning the visions and interests of the different stakeholders, fostering the sharing of resources and knowledge to produce value, and sharing the value created in an equitable manner remain a real challenge. Although these issues can refine the understanding of the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "A17UErUAAAAJ:roLk4NBRz8UC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=15201805792918192350",
+    "cites_id": [
+        "15201805792918192350"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s13593-023-00888-7",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3kBdd9Op99IJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

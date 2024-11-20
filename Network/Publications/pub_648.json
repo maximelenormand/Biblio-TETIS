@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Retrieving structural and chemical properties of individual tree crowns in a highly diverse tropical forest with 3D radiative transfer modeling and imaging spectroscopy",
+        "pub_year": 2018,
+        "citation": "Remote Sensing of Environment 211, 276-291, 2018",
+        "author": "Matheus Pinheiro Ferreira and Jean-Baptiste F\u00e9ret and Eloi Grau and Jean-Philippe Gastellu-Etchegorry and Cibele Hummel Do Amaral and Yosio Edemir Shimabukuro and Carlos Roberto de Souza Filho",
+        "journal": "Remote Sensing of Environment",
+        "volume": "211",
+        "pages": "276-291",
+        "publisher": "Elsevier",
+        "abstract": "Spatial and temporal information on the structural and chemical properties of tropical forest canopies are key to understanding ecosystem processes. However, such information is usually limited to field studies performed at the plot level (~1\u202fha). The combination of imaging spectroscopy with physically based radiative transfer (RT) models holds great promise for generalizing and extrapolating insights from plot-based studies to whole landscapes. Here, we tested the capacity of a simplified 3D RT approach to retrieve the structural and chemical traits of individual tree crowns (ITCs) from a highly diverse tropical forest. We first produced two datasets called measured and simulated. The measured dataset was composed of ITC reflectance extracted from sunlit imaging spectroscopy pixels. The simulated dataset was produced using a look-up-table approach and the discrete anisotropic radiative transfer (DART) model \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:NMxIlDl6LWMC",
+    "num_citations": 55,
+    "citedby_url": "/scholar?hl=en&cites=1064951254978336409",
+    "cites_id": [
+        "1064951254978336409"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425718301780",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mRYXKIZ3xw4J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 2,
+        "2019": 12,
+        "2020": 7,
+        "2021": 11,
+        "2022": 11,
+        "2023": 10,
+        "2024": 1
+    }
+}

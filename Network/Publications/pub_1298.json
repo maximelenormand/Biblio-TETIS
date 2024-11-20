@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "La mod\u00e9lisation spatiale des habitats et des corridors : un outil pour la conservation et la gestion des chauves-souris",
+        "pub_year": 2016,
+        "citation": "Symbioses 1 (34), 28-34, 2016",
+        "author": "M Le Roux and M. REDON and S VINCENT and L TILLON and T BOUIX and F ARCHAUX and S LUQUE",
+        "journal": "Symbioses",
+        "volume": "1",
+        "number": "34",
+        "pages": "28-34",
+        "publisher": "Museum d' histoire Naturel, France",
+        "abstract": "Les outils d\u2019analyse spatiale en \u00e9cologie du paysage permettent de mettre en relation les esp\u00e8ces et les caract\u00e9ristiques de leurs habitats dans un environnement donn\u00e9, et peuvent ainsi contribuer \u00e0 am\u00e9liorer la gestion et la conservation des milieux naturels, des esp\u00e8ces et de leurs habitats. Pour les Chiropt\u00e8res, l\u2019am\u00e9lioration des m\u00e9thodes d'observation de terrain permet aujourd\u2019hui d\u2019envisager de mettre en oeuvre ces outils d'analyse spatiale dans le cadre de projets concrets tels que des \u00e9tudes d'impact ou des op\u00e9rations de gestion et de restauration d'habitats naturels. Le projet MocHab \u00ab Mod\u00e9lisation de la distribution des esp\u00e8ces : un outil pour l\u2019\u00e9valuation, la conservation des habitats d\u2019esp\u00e8ces et des continuit\u00e9s \u00e9cologiques \u00bb a \u00e9t\u00e9 men\u00e9 en 2013 par l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture (Irstea-Grenoble) en partenariat avec l\u2019Office national des for\u00eats, les Ligues pour la protection des oiseaux de la Dr\u00f4me et de l'Is\u00e8re et le Groupe Chiropt\u00e8res Rh\u00f4ne-Alpes de la LPO coordination Rh\u00f4ne-Alpes. Cette \u00e9tude porte sur dix esp\u00e8ces de chauves-souris (Barbastella barbastellus, Eptesicus serotinus, Myotis daubentonii, Myotis mystacinus, Myotis nattereri, Nyctalus leisleri, Pipistrellus kuhlii, Pipistrellus pipistrellus, Rhinolophus ferrumequinum, Rhinolophus hipposideros) et sur deux sites d'\u00e9tude en r\u00e9gion de montagne (Parcs Naturels R\u00e9gionaux du Vercors et de la Chartreuse) et de plaine (For\u00eat Domaniale de Tron\u00e7ais). Elle vise \u00e0 la fois \u00e0 identifier les principaux facteurs qui r\u00e9gissent la r\u00e9partition des esp\u00e8ces \u00e9tudi\u00e9es et \u00e0 proposer des cartographies de distribution potentielle \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:JavbeY_VQWIC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=15792283124850202914",
+    "cites_id": [
+        "15792283124850202914"
+    ],
+    "pub_url": "https://hal.science/hal-02604806/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IpkXudR1KdsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1
+    }
+}

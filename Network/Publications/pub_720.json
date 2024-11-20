@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Croissance urbaine, mobilit\u00e9 et \u00e9missions de polluants atmosph\u00e9riques dans la r\u00e9gion d\u2019Oran, Alg\u00e9rie",
+        "pub_year": 2018,
+        "citation": "Cybergeo: European Journal of Geography, 2018",
+        "author": "Farid Rahal and Zahra Hadjou and Nad\u00e8ge Blond and Rahim Aguejdad",
+        "journal": "Cybergeo: European Journal of Geography",
+        "publisher": "CNRS-UMR G\u00e9ographie-cit\u00e9s 8504",
+        "abstract": "L\u2019urbanisme et la mobilit\u00e9 contraignent fortement les conditions environnementales pr\u00e9sentes et futures des grands centres urbains. L\u2019extension d\u00e9sorganis\u00e9e des villes alg\u00e9riennes engendre aujourd\u2019hui de multiples risques li\u00e9s au secteur des transports. La pollution de l\u2019air repr\u00e9sente l\u2019un de ces risques.L\u2019objectif de cette \u00e9tude est de d\u00e9velopper une m\u00e9thodologie permettant d\u2019\u00e9valuer les \u00e9missions de polluants atmosph\u00e9riques dues au trafic routier. La m\u00e9thodologie est bas\u00e9e sur un couplage entre SIG et mod\u00e9lisation d\u00e9terministe pour mieux repr\u00e9senter la r\u00e9partition spatio-temporelle des \u00e9missions.Elle est appliqu\u00e9e \u00e0 la ville d\u2019Oran en Alg\u00e9rie, dont on montre que la croissance du tissu urbain, et plus particuli\u00e8rement son \u00e9talement en p\u00e9riph\u00e9rie, sur la p\u00e9riode 1966-2015 a induit un transfert des populations du centre-ville vers les p\u00f4les p\u00e9riph\u00e9riques de Bir El Djir, Es S\u00e9nia et Sidi Chahmi. Cet \u00e9talement est confirm\u00e9 par l\u2019\u00e9tude d\u2019une s\u00e9rie chronologique d\u2019images satellitaires. Cette \u00e9volution de la forme urbaine g\u00e9n\u00e8re un besoin en mobilit\u00e9 accru et aggrave les probl\u00e8mes de circulation et de congestion de v\u00e9hicules fonctionnant \u00e0 l\u2019\u00e9nergie fossile qui est la source d\u2019\u00e9missions polluantes significatives dont l\u2019impact n\u00e9gatif sur la sant\u00e9 et l\u2019environnement n\u2019est plus \u00e0 d\u00e9montrer.La r\u00e9alisation d\u2019un cadastre des \u00e9missions polluantes est une \u00e9tape essentielle afin d\u2019\u00e9valuer la qualit\u00e9 de l\u2019air sur la r\u00e9gion d\u2019Oran. Ces \u00e9missions sont ici quantifi\u00e9es dans le temps et dans l\u2019espace gr\u00e2ce \u00e0 l\u2019application du mod\u00e8le EMISENS, \u00e0 partir de comptages de v\u00e9hicules. Compte tenu de l\u2019\u00e9volution du tissu urbain et du transport, ces \u00e9missions devraient \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:_Qo2XoVZTnwC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=18224346653445302006",
+    "cites_id": [
+        "18224346653445302006"
+    ],
+    "pub_url": "https://journals.openedition.org/cybergeo/29111",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9qYvfrni6fwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 3,
+        "2022": 2,
+        "2023": 4
+    }
+}

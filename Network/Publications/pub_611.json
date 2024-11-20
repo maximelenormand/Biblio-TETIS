@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sahara Subsurface Characterization Using Cygnss Gnss-R Data",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 7646 \u2026, 2021",
+        "author": "Mehrez Zribi and Donato Stilla and Nazzareno Pierdicca and Nicolas Baghdadi",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "7646-7649",
+        "publisher": "IEEE",
+        "abstract": "The objective of this study is to analyze the potential of global navigation satellite system reflectometry (GNSS-R) data from the Cyclone Global Navigation Satellite System (CYGNSS) constellation to map the subsurface of a desert environment, investigate fossil river systems, and identify geological structures hidden beneath dry sand. This analysis is based on reflectivity estimates considering the main component of the coherent signal using an average of the signal over a period of 2.5 years on a grid with a resolution of 0.03\u00b0. Two sites are analyzed: Kufrah in the Libyan Desert and the Bir Safsaf region located in the southern Egyptian Desert. In both cases, we observe strong similarity with past observations derived from L-band synthetic aperture radar (SAR) data. Although the spatial resolution of CYGNSS data is lower than that of SAR data, different structures of the subsurface can be identified by the former."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:yY3RG6sOEgwC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9554895/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6LidbM7aaI8J:scholar.google.com/",
+    "cites_per_year": {}
+}

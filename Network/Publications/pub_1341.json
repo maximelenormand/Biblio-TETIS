@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GEOSUD, un grand \u00e9quipement pour d\u00e9mocratiser l'acc\u00e8s \u00e0 l'imagerie satellitaire",
+        "pub_year": 2018,
+        "citation": "Les Dossiers d'Agropolis International, 1, 2018",
+        "author": "P Maurel",
+        "journal": "Les Dossiers d'Agropolis International",
+        "number": "23",
+        "pages": "1"
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:5nxA0vEk-isC",
+    "num_citations": 0,
+    "pub_url": "https://scholar.google.com/scholar?cluster=1642892068008986417&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MYf7paG5zBYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

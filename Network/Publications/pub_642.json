@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An operational framework for mapping irrigated areas at plot scale using Sentinel-1 and Sentinel-2 data",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (13), 2584, 2021",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Ghaith Amin and Ibrahim Fayad and Mehrez Zribi and Val\u00e9rie Demarez and Hatem Belhouchette",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "13",
+        "pages": "2584",
+        "publisher": "MDPI",
+        "abstract": "In this study, we present an operational methodology for mapping irrigated areas at plot scale, which overcomes the limitation of terrain data availability, using Sentinel-1 (S1) C-band SAR (synthetic-aperture radar) and Sentinel-2 (S2) optical time series. The method was performed over a study site located near Orl\u00e9ans city of north-central France for four years (2017 until 2020). First, training data of irrigated and non-irrigated plots were selected using predefined selection criteria to obtain sufficient samples of irrigated and non-irrigated plots each year. The training data selection criteria is based on two irrigation metrics; the first one is a SAR-based metric derived from the S1 time series and the second is an optical-based metric derived from the NDVI (normalized difference vegetation index) time series of the S2 data. Using the newly developed irrigation event detection model (IEDM) applied for all S1 time series in VV (Vertical-Vertical) and VH (Vertical-Horizontal) polarizations, an irrigation weight metric was calculated for each plot. Using the NDVI time series, the maximum NDVI value achieved in the crop cycle was considered as a second selection metric. By fixing threshold values for both metrics, a dataset of irrigated and non-irrigated samples was constructed each year. Later, a random forest classifier (RF) was built for each year in order to map the summer agricultural plots into irrigated/non-irrigated. The irrigation classification model uses the S1 and NDVI time series calculated over the selected training plots. Finally, the proposed irrigation classifier was validated using real in situ data collected each year. The results show that, using the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:c59VksA5Vz4C",
+    "num_citations": 28,
+    "citedby_url": "/scholar?hl=en&cites=5962456418599377822",
+    "cites_id": [
+        "5962456418599377822"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/13/2584",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nhtds4XmvlIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 10,
+        "2023": 11,
+        "2024": 3
+    }
+}

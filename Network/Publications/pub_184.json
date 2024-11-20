@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Wetland classification using L-band SAR images and satellite altimetry: the example of the Congo \u00abCuvette Centrale\u00bb",
+        "pub_year": 2019,
+        "citation": "ESA Living Planet Symposium, 1, 2019",
+        "author": "Fr\u00e9d\u00e9ric Frappart and Julie Betbeder Betbeder and R Bellot and N Baghdadi and S Gourlet Fleury and Guillaume Cornu and Thibault Catry and F Seyler and D Remy and V Gond",
+        "conference": "ESA Living Planet Symposium",
+        "pages": "1",
+        "abstract": "Our study is therefore interested in a detailed characterization of the different zones within the Cuvette according to their flood dynamics using radar data. Two sensors were used: the PALSAR-2 image sensor from the JAXA ALOS satellite, and the Jason-2 satellite Poseidon altimeter radar sensor jointly developed by NASA and CNES. The use of high-resolution time series (25 m) from the ALOS PALSAR-2 sensor allowed a first characterization of the different zones according to their flooding over time. A second characterization was performed by analyzing time-series of radar altimetry-based water levels automatically generated from the Ku-band backscattering from Jason-2. This second analysis allowed not only to support the characterization coming from the image SAR data but also to provide information concerning the shape of the flood wave. The results given in this study were then compared to the results from the earlier studies performed over the Congo \u00ab Cuvette Centrale \u00bb using PALSAR-1 and 2 images to discuss it."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:rbm3iO8VlycC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02609375/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9cwHD3B3ozoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Scan angle impact on LiDAR-derived metrics used in ABA models for prediction of forest stand characteristics: a grid based analysis",
+        "pub_year": 2020,
+        "citation": "The International Archives of the Photogrammetry, Remote Sensing and Spatial \u2026, 2020",
+        "author": "KR Dayal and S Durrieu and S Alleaume and F Revers and E Larmanou and J-P Renaud and M Bouvier",
+        "journal": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "volume": "43",
+        "pages": "975-982",
+        "publisher": "Copernicus GmbH",
+        "abstract": " Lidar scan angle can affect estimation of lidar-derived forest metrics used in area-based approaches (ABAs). As commonly used first-order metrics and various user-developed metrics are computed in the form of a grid or a raster, their response to various scan angles needs to be investigated similarly. The objective of this study was to highlight the impact of scan angles on 11 metrics (9 height-based and 2 other commonly used metrics) at the level of the grid-cell. The study area was divided into a grid of cell size 30\u2009m. In every grid-cell, the flight lines that sampled at least 90% area of the grid-cell were identified. The flight lines and the corresponding point clouds were then classified based on their mean scan angle into four classes 0\u00b0\u201310\u00b0, 10\u00b0\u201320\u00b0, 20\u00b0\u201330\u00b0 and 30\u00b0\u201340\u00b0. Metrics were computed for one flight line per class for each grid-cell. This resulted in a maximum of four values for a metric in every grid-cell. Comparing these values revealed the evolving nature of the metrics with the scan angle. For the comparison we used a paired t-test and simple linear regression. We observed that most of the metrics were systematically under-estimated with increasing scan angle. Gap-fraction, rumple index were affected more than standard deviation of height while the maximum height was relatively stable. Among the height percentiles, the higher percentiles were relatively more stable compared to the lower percentiles. Scan angles can indeed have an impact on the estimation of lidar derived metrics. Although, many of the metrics studied showed statistically significant differences in their computation for different scan angles, their impact on the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:1qzjygNMrQYC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=11334636325533537041",
+    "cites_id": [
+        "11334636325533537041"
+    ],
+    "pub_url": "https://isprs-archives.copernicus.org/articles/XLIII-B3-2020/975/2020/isprs-archives-XLIII-B3-2020-975-2020.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EVOqQa-3TJ0J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 4,
+        "2023": 3
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An automatic surveillance system for emerging animal disease detection.",
+        "pub_year": 2017,
+        "citation": "Bulletin de l'Acad\u00e9mie Nationale de M\u00e9decine 201 (7/9), 1197-1201, 2017",
+        "author": "Mathieu Roche",
+        "journal": "Bulletin de l'Acad\u00e9mie Nationale de M\u00e9decine",
+        "volume": "201",
+        "number": "7/9",
+        "pages": "1197-1201",
+        "publisher": "Acad\u00e9mie Nationale de M\u00e9decine",
+        "abstract": "This talk deals with a an automatic method for automatic extraction of animal disease information from the Web (PADI-web). PADI-web is a text mining tool for automatic detection, categorization, and extraction of disease outbreak information from Web news articles. Currently PADI-web monitors the Web for five exotic animal infectious diseases and eight syndromes related to five animal hosts."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:PaBasH6fAo0C",
+    "num_citations": 0,
+    "pub_url": "https://www.cabdirect.org/cabdirect/abstract/20183202649",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7Tj29JCtRLEJ:scholar.google.com/",
+    "cites_per_year": {}
+}

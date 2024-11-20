@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Strengthening health decision-making at the territorial level: operational support for spatial multi-criteria evaluation",
+        "pub_year": 2018,
+        "citation": "Perspective (English edition), 1-4, 2018",
+        "author": "Annelise Tran and Fran\u00e7ois Roger",
+        "journal": "Perspective (English edition)",
+        "pages": "1-4",
+        "abstract": "Animal diseases and zoonoses, infectious diseases that can be transmitted between animals and humans, are a global socio-economic and public health problem. Ensuring the surveillance and control of these diseases implies identifying high risk areas. Maps of these areas can be produced using spatial multi-criteria evaluation, a recent method that is rigorous and quick to implement. Animal health and veterinary public health policymakers are still relatively unfamiliar with this method, but it is suited to regions with little access to reliable epidemiological data, such as low-income countries in the South or disease-free areas. The maps are built with local experts in the regions concerned. They present risk indices combining geographical and environmental data, expert opinions and information from existing studies and surveys. These maps can then be used to better target disease surveillance and control."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:uLbwQdceFCQC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=14129710212741803522",
+    "cites_id": [
+        "14129710212741803522"
+    ],
+    "pub_url": "https://hal.science/cirad-01825825/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ai6veZPQFsQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 1
+    }
+}

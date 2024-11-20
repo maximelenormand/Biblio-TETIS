@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimating the NDVI from SAR by convolutional neural networks",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Antonio Mazza and Massimiliano Gargiulo and Giuseppe Scarpa and Raffaele Gaetano",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "1954-1957",
+        "publisher": "IEEE",
+        "abstract": "Since optical remote sensing images are useless in cloudy conditions, a possible alternative is to resort to synthetic aperture radar (SAR) images. However, many conventional techniques for Earth monitoring applications require specific spectral features which are defined only for multispectral data. For this reason, in this work we propose to estimate missing spectral features through data fusion and deep learning, exploiting both temporal and cross-sensor dependencies on Sentinel-1 and Sentinel-2 time-series. The proposed approach, validated focusing on the estimation of the normalized difference vegetation index (NDVI), shows very interesting results with a large performance gain over the linear regression approach according to several accuracy indicators."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:J_g5lzvAfSwC",
+    "num_citations": 28,
+    "citedby_url": "/scholar?hl=en&cites=8473196213406431726",
+    "cites_id": [
+        "8473196213406431726"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8519459/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7nlGLBDXlnUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 4,
+        "2021": 6,
+        "2022": 8,
+        "2023": 9
+    }
+}

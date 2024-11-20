@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How to define co-occurrence in a multidisciplinary context?",
+        "pub_year": 2020,
+        "citation": "Informatica 44 (3), 2020",
+        "author": "Mathieu Roche",
+        "journal": "Informatica",
+        "volume": "44",
+        "number": "3",
+        "abstract": "This position paper presents a comparative study of co-occurrences. Some similarities and differences in the definition exist depending on the research domain (eg linguistics, NLP, computer science). This paper discusses these points, and deals with the methodological aspects in order to identify co-occurrences in a multidisciplinary paradigm."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:v6i8RKmR8ToC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=10909224452691916777",
+    "cites_id": [
+        "10909224452691916777"
+    ],
+    "pub_url": "https://informatica.si/index.php/informatica/article/view/2996",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6fe0FddZZZcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Masking Strategies for Background Bias Removal in Computer Vision Models",
+        "pub_year": 2023,
+        "citation": "ICCV Workshop: Out of Distribution Generalization in Computer Vision, 2023",
+        "author": "Ananthu Aniraj and Cassio F Dantas and Dino Ienco and Diego Marcos",
+        "journal": "ICCV Workshop: Out of Distribution Generalization in Computer Vision",
+        "abstract": "Models for fine-grained image classification tasks, where the difference between some classes can be extremely subtle and the number of samples per class tends to be low, are particularly prone to picking up background-related biases and demand robust methods to handle potential examples with out-of-distribution (OOD) backgrounds. To gain deeper insights into this critical problem, our research investigates the impact of background-induced bias on fine-grained image classification, evaluating standard backbone models such as Convolutional Neural Network (CNN) and Vision Transformers (ViT). We explore two masking strategies to mitigate background-induced bias: Early masking, which removes background information at the (input) image level, and late masking, which selectively masks high-level spatial features corresponding to the background. Extensive experiments assess the behavior of CNN and ViT models under different masking strategies, with a focus on their generalization to OOD backgrounds. The obtained findings demonstrate that both proposed strategies enhance OOD performance compared to the baseline models, with early masking consistently exhibiting the best OOD performance. Notably, a ViT variant employing GAP-Pooled Patch token-based classification combined with early masking achieves the highest OOD robustness."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:Wp0gIr-vW9MC",
+    "num_citations": 0,
+    "pub_url": "https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Aniraj_Masking_Strategies_for_Background_Bias_Removal_in_Computer_Vision_Models_ICCVW_2023_paper.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3n88gCAONXUJ:scholar.google.com/",
+    "cites_per_year": {}
+}

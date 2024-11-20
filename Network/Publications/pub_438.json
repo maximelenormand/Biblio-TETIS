@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Tomosar platform supports for Sentinel-1 tops persistent scatterers interferometry",
+        "pub_year": 2017,
+        "citation": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2017",
+        "author": "Dinh Ho Tong Minh and Yen-Nhi Ngo",
+        "conference": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "1680-1683",
+        "publisher": "IEEE",
+        "abstract": "Developing and improving methods to monitor both natural and non-natural environments such as forest and urban in space and time is a timely challenge. To overcome this challenge, we created a software platform - TomoSAR. The kernel of this platform supports the entire processing from SAR, Interferometry, Polarimetry, to Tomography (so called TomoSAR). The objective of this paper is to introduce this platform about its capability in Persistent Scatterers Interferometry (PSI) technique to estimate subsidence using TOPS Sentinel-1 data."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:GnPB-g6toBAC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=11352334645870870106",
+    "cites_id": [
+        "11352334645870870106"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8127297/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Wj5-kjaYi50J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 0,
+        "2020": 1,
+        "2021": 2,
+        "2022": 4,
+        "2023": 2
+    }
+}

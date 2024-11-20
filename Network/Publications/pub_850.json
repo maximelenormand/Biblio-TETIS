@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Characterizing the Demand Side of Urban Greening to Inform Urban Planning\u2013A Discrete Choice Experiment in the Paris Metropolitan Region",
+        "pub_year": 2022,
+        "citation": "Revue d\u2019economie politique 32 (6), 907-949, 2022",
+        "author": "Mai-Thi Ta and L\u00e9a Tardieu and Harold Levrel",
+        "journal": "Revue d\u2019economie politique",
+        "volume": "32",
+        "number": "6",
+        "pages": "907-949",
+        "publisher": "Cairn/Cairn",
+        "abstract": "As the multiple benefits from exposure to urban green spaces (UGSs) are increasingly acknowledged, urban greening policies have become an important component of the urban political agenda. Most targeting strategies of future UGS development are based on the pursuit of an equal distribution of UGSs among residents. These strategies implicitly assume that the development of any type of UGS will have the same effect on citizens\u2019 well-being, provided that their access is guaranteed. This paper questions this assumption and addresses the demand side of urban greening policies by evaluating which UGS characteristics are sought by urban dwellers. We apply a travel time-based discrete choice experiment (DCE) to capture the trade-offs between the UGS characteristics (e.g., tree cover, size, presence of water, accessibility) and the travel time that citizens are willing to spend to reach a hypothetical UGS \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:GnPB-g6toBAC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=5009978660755918564",
+    "cites_id": [
+        "5009978660755918564"
+    ],
+    "pub_url": "https://www.cairn.info/revue-d-economie-politique-2022-6-page-907.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5M6kRgwFh0UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

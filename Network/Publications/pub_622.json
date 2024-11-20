@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Simulation of future groundwater recharge using a climate model ensemble and SAR-image based soil parameter distributions\u2014A case study in an intensively-used Mediterranean catchment",
+        "pub_year": 2016,
+        "citation": "Science of the total environment 543, 889-905, 2016",
+        "author": "Frank Herrmann and Nicolas Baghdadi and Michael Blaschek and Roberto Deidda and Rainer Duttmann and Isabelle La Jeunesse and Haykel Sellami and Harry Vereecken and Frank Wendland",
+        "journal": "Science of the total environment",
+        "volume": "543",
+        "pages": "889-905",
+        "publisher": "Elsevier",
+        "abstract": "We used observed climate data, an ensemble of four GCM\u2013RCM combinations (global and regional climate models) and the water balance model mGROWA to estimate present and future groundwater recharge for the intensively-used Thau lagoon catchment in southern France. In addition to a highly resolved soil map, soil moisture distributions obtained from SAR-images (Synthetic Aperture Radar) were used to derive the spatial distribution of soil parameters covering the full simulation domain. Doing so helped us to assess the impact of different soil parameter sources on the modelled groundwater recharge levels. Groundwater recharge was simulated in monthly time steps using the ensemble approach and analysed in its spatial and temporal variability. The soil parameters originating from both sources led to very similar groundwater recharge rates, proving that soil parameters derived from SAR images may \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:dshw04ExmUIC",
+    "num_citations": 28,
+    "citedby_url": "/scholar?hl=en&cites=9166487983948617302",
+    "cites_id": [
+        "9166487983948617302"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S004896971530379X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VtYkWUHoNX8J:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 1,
+        "2017": 6,
+        "2018": 6,
+        "2019": 5,
+        "2020": 4,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1
+    }
+}

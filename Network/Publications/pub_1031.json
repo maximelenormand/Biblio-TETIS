@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture and irrigation mapping in A semi-arid region, based on the synergetic use of Sentinel-1 and Sentinel-2 data",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (12), 1953, 2018",
+        "author": "Safa Bousbih and Mehrez Zribi and Mohammad El Hajj and Nicolas Baghdadi and Zohra Lili-Chabaane and Qi Gao and Pascal Fanise",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "12",
+        "pages": "1953",
+        "publisher": "MDPI",
+        "abstract": "This paper presents a technique for the mapping of soil moisture and irrigation, at the scale of agricultural fields, based on the synergistic interpretation of multi-temporal optical and Synthetic Aperture Radar (SAR) data (Sentinel-2 and Sentinel-1). The Kairouan plain, a semi-arid region in central Tunisia (North Africa), was selected as a test area for this study. Firstly, an algorithm for the direct inversion of the Water Cloud Model (WCM) was developed for the spatialization of the soil water content between 2015 and 2017. The soil moisture retrieved from these observations was first validated using ground measurements, recorded over 20 reference fields of cereal crops. A second method, based on the use of neural networks, was also used to confirm the initial validation. The results reported here show that the soil moisture products retrieved from remotely sensed data are accurate, with a Root Mean Square Error (RMSE) of less than 5% between the two moisture products. In addition, the analysis of soil moisture and Normalized Difference Vegetation Index (NDVI) products over cultivated fields, as a function of time, led to the classification of irrigated and rainfed areas on the Kairouan plain, and to the production of irrigation maps at the scale of individual fields. This classification is based on a decision tree approach, using a combination of various statistical indices of soil moisture and NDVI time series. The resulting irrigation maps were validated using reference fields within the study site. The best results were obtained with classifications based on soil moisture indices only, with an accuracy of 77%."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:1lhNe0rCu4AC",
+    "num_citations": 139,
+    "citedby_url": "/scholar?hl=en&cites=87379185942075953",
+    "cites_id": [
+        "87379185942075953"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/12/1953",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MRrXGuhuNgEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 11,
+        "2020": 25,
+        "2021": 29,
+        "2022": 39,
+        "2023": 28,
+        "2024": 5
+    }
+}

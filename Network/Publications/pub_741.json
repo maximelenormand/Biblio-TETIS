@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GLORI: A GNSS-R dual polarization airborne instrument for land surface monitoring",
+        "pub_year": 2016,
+        "citation": "sensors 16 (5), 732, 2016",
+        "author": "Erwan Motte and Mehrez Zribi and Pascal Fanise and Alejandro Egido and Jos\u00e9 Darrozes and Amen Al-Yaari and Nicolas Baghdadi and Fr\u00e9d\u00e9ric Baup and Sylvia Dayau and Remy Fieuzal and Pierre-Louis Frison and Dominique Guyon and Jean-Pierre Wigneron",
+        "journal": "sensors",
+        "volume": "16",
+        "number": "5",
+        "pages": "732",
+        "publisher": "MDPI",
+        "abstract": "Global Navigation Satellite System-Reflectometry (GNSS-R) has emerged as a remote sensing tool, which is complementary to traditional monostatic radars, for the retrieval of geophysical parameters related to surface properties. In the present paper, we describe a new polarimetric GNSS-R system, referred to as the GLObal navigation satellite system Reflectometry Instrument (GLORI), dedicated to the study of land surfaces (soil moisture, vegetation water content, forest biomass) and inland water bodies. This system was installed as a permanent payload on a French ATR42 research aircraft, from which simultaneous measurements can be carried out using other instruments, when required. Following initial laboratory qualifications, two airborne campaigns involving nine flights were performed in 2014 and 2015 in the Southwest of France, over various types of land cover, including agricultural fields and forests. Some of these flights were made concurrently with in situ ground truth campaigns. Various preliminary applications for the characterisation of agricultural and forest areas are presented. Initial analysis of the data shows that the performance of the GLORI instrument is well within specifications, with a cross-polarization isolation better than \u221215 dB at all elevations above 45\u00b0, a relative polarimetric calibration accuracy better than 0.5 dB, and an apparent reflectivity sensitivity better than \u221230 dB, thus demonstrating its strong potential for the retrieval of land surface characteristics."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:P5F9QuxV20EC",
+    "num_citations": 81,
+    "citedby_url": "/scholar?hl=en&cites=4909924407925791441",
+    "cites_id": [
+        "4909924407925791441"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/16/5/732",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0dpvMDyOI0QJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 6,
+        "2018": 20,
+        "2019": 7,
+        "2020": 12,
+        "2021": 6,
+        "2022": 15,
+        "2023": 11,
+        "2024": 2
+    }
+}

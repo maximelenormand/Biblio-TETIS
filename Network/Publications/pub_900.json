@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving transparency and reliability of tenure information for improved land governance in Senegal",
+        "pub_year": 2019,
+        "citation": "Land 8 (3), 42, 2019",
+        "author": "Jeremy Bourgoin and Elodie Valette and Simon Guillouet and Djibril Diop and Djiby Dia",
+        "journal": "Land",
+        "volume": "8",
+        "number": "3",
+        "pages": "42",
+        "publisher": "MDPI",
+        "abstract": "In current literature, certain scholars have stressed the role of the private sector in the process of revitalizing agriculture through agribusiness-led development. Others have underlined the global risks of poorly negotiated land acquisitions that disadvantage farmers and of nontransparent trade arrangements that create suspicion within local communities. Official and unofficial data whose relevance is frequently questioned, because they differ from actual conditions found on the ground, are often built upon these narratives. This acknowledgement points to the need for reliable data in order to support constructive debates on models of agricultural development. Senegal is experiencing similar controversies involving the dynamics of agribusiness development within the context of inadequate information on land acquisitions. In this paper, we first acknowledge the existence of past and current efforts to address investments in the agricultural sector. After critical analysis of these documents, we propose another way to monitor investments with survey tools that are embedded in participatory action-research processes and then provide information that can be used as a boundary object. We advocate the use of mapping tools to identify and monitor land processes, and the use of geospatial information to help identify an initial inventory of various sources of data on large-scale land transactions."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:70eg2SAEIzsC",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=8316664745592753425",
+    "cites_id": [
+        "8316664745592753425"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-445X/8/3/42",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EQ0SxYW6anMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 2,
+        "2021": 1,
+        "2022": 4,
+        "2023": 6,
+        "2024": 1
+    }
+}

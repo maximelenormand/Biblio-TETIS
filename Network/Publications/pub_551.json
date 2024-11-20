@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combinaison de mesures lexicales et s\u00e9mantiques pour l'extraction de donn\u00e9es exp\u00e9rimentales dans des articles scientifiques",
+        "pub_year": 2021,
+        "citation": "Extraction et gestion des connaissances-EGC 2021, 501-502, 2021",
+        "author": "Martin Lentschat and Patrice Buche and Juliette Dibie-Barth\u00e9lemy and Mathieu Roche",
+        "conference": "Extraction et gestion des connaissances-EGC 2021",
+        "pages": "501-502",
+        "abstract": "Cet article pr\u00e9sente une m\u00e9thode pour repr\u00e9senter et mesurer la pertinence de donn\u00e9es exp\u00e9rimentales extraites d\u2019articles scientifiques. Dans le domaine \u00e9tudi\u00e9, les emballages alimentaires, le nombre de documents est r\u00e9duit et ceux-ci contiennent un vocabulaire sp\u00e9cifique. Nous utilisons une Ressource Termino-ontologique (RTO) pour guider l\u2019extraction, les approches par apprentissage n\u2019\u00e9tant pas adapt\u00e9es \u00e0 la taille du corpus. La RTO d\u00e9finit les entit\u00e9s d\u2019int\u00e9r\u00eat et les d\u00e9crits \u00e0 travers un vocabulaire. Les informations recherch\u00e9es sont li\u00e9es aux relations de perm\u00e9abilit\u00e9 et sont de deux types: symboliques (ie une expression lexicale) et quantitatives (ie une valeur num\u00e9rique et son unit\u00e9 de mesure). Les documents contiennent un grand nombre de faux-positifs d\u00fb \u00e0 la pr\u00e9sence d\u2019informations n\u2019\u00e9tant pas li\u00e9es \u00e0 la perm\u00e9abilit\u00e9 des emballages (par exemple, un nom d\u2019emballage cit\u00e9 \u00e0 titre de comparaison ou une temp\u00e9rature autre que le param\u00e8tre de contr\u00f4le de la mesure de perm\u00e9abilit\u00e9). Dans ce contexte, nous proposons ici une m\u00e9thode compl\u00e8te et originale qui int\u00e8gre une repr\u00e9sentation multi-descripteurs des entit\u00e9s extraites permettant de calculer et combiner des scores de pertinence."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:CNPyR2KL9-0C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03313686/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fdeZkon95QUJ:scholar.google.com/",
+    "cites_per_year": {}
+}

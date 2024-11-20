@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "D\u00e9sambigu\u00efsation des entit\u00e9s spatiales par apprentissage actif",
+        "pub_year": 2018,
+        "citation": "Revue Internationale de G\u00e9omatique 28 (2), 163-189, 2018",
+        "author": "Amal Chihaoui and Asma Bouhafs and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Revue Internationale de G\u00e9omatique",
+        "volume": "28",
+        "number": "2",
+        "pages": "163-189",
+        "publisher": "Lavoisier",
+        "abstract": "L\u2019extraction de connaissances spatiales \u00e0 partir de documents textuels peut \u00eatre une t\u00e2che difficile du fait de l\u2019ambigu\u00eft\u00e9 propre au langage naturel. L\u2019indisponibilit\u00e9 de gros volumes de donn\u00e9es \u00e9tiquet\u00e9es rend difficile la mise-en-\u0153uvre d\u2019un processus de d\u00e9couverte automatique. Dans ce contexte, nous abordons le probl\u00e8me de la d\u00e9sambigu\u00efsation des entit\u00e9s spatiales, entre \u00ab localisation \u00bb et \u00ab organisation \u00bb, par apprentissage actif. D\u2019abord, nous introduisons une m\u00e9thode de r\u00e9solution des toponymes bas\u00e9e sur une analyse lexicale et contextuelle. Ensuite, nous proposons une am\u00e9lioration en int\u00e9grant un mod\u00e8le d\u2019apprentissage actif. Celui-ci permet de s\u00e9lectionner automatiquement les donn\u00e9es non \u00e9tiquet\u00e9es les plus informatives pour l\u2019annotation humaine. Les exp\u00e9rimentations sont r\u00e9alis\u00e9es sur un corpus de \u00ab SemEval-2007 \u00bb en anglais et soulignent l\u2019am\u00e9lioration du mod\u00e8le d\u2019apprentissage initial \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:P7Ujq4OLJYoC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=4834960411615989421",
+    "cites_id": [
+        "4834960411615989421"
+    ],
+    "pub_url": "https://rig.revuesonline.com/articles/lvrig/abs/2018/02/rig00053/rig00053.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rY5yreA6GUMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    }
+}

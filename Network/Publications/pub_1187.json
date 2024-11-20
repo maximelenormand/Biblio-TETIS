@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Coupling Sentinel-1 and Sentinel-2 images for operational soil moisture mapping",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi and Hassan Bazzi",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5537-5540",
+        "publisher": "IEEE",
+        "abstract": "The objective of the present paper is to develop an operational approach for soil moisture mapping in agricultural areas at a high spatial resolution over bare soils, as well as soils with vegetation cover. The developed approach is based on the synergic use of radar and optical data and uses the neural network technique to invert the radar signal. Three inversion SAR (Synthetic Aperture Radar) configurations were tested: (1) VV polarization, (2) VH polarization, and (3) both VV and VH polarization, all in addition to the NDVI information extracted from optical images. Neural networks were developed and validated using synthetic and real databases. The results showed that the soil moisture could be estimated in agricultural areas with an accuracy of approximately 5 vol.%."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:QD3KBmkZPeQC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=7504917469907302870",
+    "cites_id": [
+        "7504917469907302870"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8519152/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1rlyFq3SJmgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 0,
+        "2023": 1
+    }
+}

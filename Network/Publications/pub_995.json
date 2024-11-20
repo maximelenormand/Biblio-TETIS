@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Etalement urbain et g\u00e9oprospective: apports et limites des mod\u00e8les de spatialisation. Application aux mod\u00e8les SLEUTH, LCM et NEDUM-2D",
+        "pub_year": 2016,
+        "citation": "Cybergeo: European Journal of Geography, 2016",
+        "author": "Rahim Aguejdad and Omar Doukari and Thomas Houet and Paolo Avner and Vincent Vigui\u00e9",
+        "journal": "Cybergeo: European Journal of Geography",
+        "publisher": "CNRS-UMR G\u00e9ographie-cit\u00e9s 8504",
+        "abstract": "L\u2019objectif de cet article est d\u2019\u00e9valuer les apports et les limites d\u2019usage des mod\u00e8les SLEUTH, LCM et NEDUM-2D pour spatialiser des sc\u00e9narios prospectifs d\u2019am\u00e9nagement du territoire. Les deux mod\u00e8les de changements d\u2019occupation et d\u2019usage des sols spatialement explicites SLEUTH et LCM sont bas\u00e9s sur une approche inductive de simulation de patrons spatiaux tandis que NEDUM-2D est un mod\u00e8le \u00e9conomique d\u2019expansion urbaine \u00e0 base de processus. L\u2019application porte sur l\u2019aire urbaine de Toulouse dont les trajectoires d\u2019\u00e9volution des changements d\u2019occupation et d\u2019usage des sols entre 1990 et 2006 ont pr\u00e9alablement \u00e9t\u00e9 reconstruites. Le but est de suivre la dynamique spatio-temporelle de l\u2019expansion urbaine et de calibrer les deux mod\u00e8les SLEUTH et LCM. Apr\u00e8s une pr\u00e9sentation d\u00e9taill\u00e9e de la d\u00e9marche m\u00e9thodologique de construction de sc\u00e9narios contrast\u00e9s, coh\u00e9rents et plausibles de d\u00e9veloppement urbain, le fonctionnement et les hypoth\u00e8ses propres \u00e0 chacun des trois mod\u00e8les de spatialisation sont pr\u00e9sent\u00e9s. Ensuite, une analyse comparative des r\u00e9sultats des deux mod\u00e8les SLEUTH et LCM est men\u00e9e \u00e0 travers la spatialisation d\u2019un sc\u00e9nario tendanciel \u00e9labor\u00e9 \u00e0 l\u2019horizon 2025. Les r\u00e9sultats obtenus montrent d\u2019importantes diff\u00e9rences entre les simulations issues des deux mod\u00e8les. L\u2019influence de ces derniers concerne \u00e0 la fois la quantit\u00e9 de changement et son allocation spatiale. Les r\u00e9sultats indiquent aussi que les deux mod\u00e8les empiriques SLEUTH et LCM, calibr\u00e9s \u00e0 l\u2019aide des trajectoires pass\u00e9es, ne permettent pas de spatialiser des sc\u00e9narios de rupture avec les tendances pass\u00e9es. A l\u2019issue de cette analyse \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:M3ejUd6NZC8C",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=7790920777921210382",
+    "cites_id": [
+        "7790920777921210382"
+    ],
+    "pub_url": "https://journals.openedition.org/cybergeo/27668",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Dig0YSvpHmwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 0,
+        "2018": 1,
+        "2019": 0,
+        "2020": 3,
+        "2021": 3
+    }
+}

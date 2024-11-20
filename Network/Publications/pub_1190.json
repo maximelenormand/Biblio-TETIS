@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Better generic objects counting when asking questions to images: A multitask approach for remote sensing visual question answering",
+        "pub_year": 2020,
+        "citation": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information \u2026, 2020",
+        "author": "Sylvain Lobry and Diego Marcos and Benjamin Kellenberger and Devis Tuia",
+        "conference": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "pages": "1021-1027",
+        "abstract": "Visual Question Answering for Remote Sensing (RSVQA) aims at extracting information from remote sensing images through queries formulated in natural language. Since the answer to the query is also provided in natural language, the system is accessible to non-experts, and therefore dramatically increases the value of remote sensing images as a source of information, for example for journalism purposes or interactive land planning. Ideally, an RSVQA system should be able to provide an answer to questions that vary both in terms of topic (presence, localization, counting) and image content. However, aiming at such flexibility generates problems related to the variability of the possible answers. A striking example is counting, where the number of objects present in a remote sensing image can vary by multiple orders of magnitude, depending on both the scene and type of objects. This represents a challenge for traditional Visual Question Answering (VQA) methods, which either become intractable or result in an accuracy loss, as the number of possible answers has to be limited. To this end, we introduce a new model that jointly solves a classification problem (which is the most common approach in VQA) and a regression problem (to answer numerical questions more precisely). An evaluation of this method on the RSVQA dataset shows that this finer numerical output comes at the cost of a small loss of performance on non-numerical questions."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:g5m5HwL7SMYC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=7080277111215553691",
+    "cites_id": [
+        "7080277111215553691"
+    ],
+    "pub_url": "https://library.wur.nl/WebQuery/wurpubs/570587",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:m_xUDYUyQmIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 5,
+        "2023": 5
+    }
+}

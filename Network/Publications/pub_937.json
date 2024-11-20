@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil Moisture Estimation Over Cereal Fields Based on Sar ALOS-2 Data",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 6988 \u2026, 2021",
+        "author": "Emna Ayari and Zeineb Kassouk and Zohra Lili-Chabaane and Safa Bousbih and Nicolas Baghdadi and Mehrez Zribi",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "6988-6991",
+        "publisher": "IEEE",
+        "abstract": "In this paper, we discuss the potential of L-band Advanced Land Observing Satellite-2 (ALOS-2) images for retrieving soil moisture over cereal fields in a semi -arid area (Merguellil- Tunisia). SAR signal sensitivity was studied as function of in-situ measurements: roughness and soil moisture. Sensitivity to soil moisture was illustrated for three classes of Normalized Difference Vegetation Index (NDVI). Results reveal the impact of soil moisture on L-band data even in dense vegetation class (NDVI > 0.6). High correlations characterize linear relationships between radar signal and vegetation biophysical properties (Leaf Area Index, vegetation height and Vegetation Water Content). Signal modeling over bare soils was evaluated through empirical equation, modified Dubois model (Dubois-B) and modified Integral Equation Model (IEM-B). For covered fields, Water Cloud Model (WCM) was parametrized for HH and HV \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:AZju0d2GQJ0C",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9554962/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Je6-ciTs-doJ:scholar.google.com/",
+    "cites_per_year": {}
+}

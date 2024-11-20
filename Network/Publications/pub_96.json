@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Learning Tensor-structured Dictionaries with Application to Hyperspectral Image Denoising",
+        "pub_year": 2019,
+        "citation": "EUSIPCO 2019 - 27th European Signal Processing Conference, 2019",
+        "author": "Cassio F. Dantas and Jeremy E. Cohen and R\u00e9mi Gribonval",
+        "conference": "EUSIPCO 2019 - 27th European Signal Processing Conference",
+        "abstract": "Dictionary learning, paired with sparse coding, aims at providing sparse data representations, that can be used for multiple tasks such as denoising or inpainting, as well as dimensionality reduction. However, when working with large data sets, the dictionary obtained by applying unstructured dictionary learning methods may be of considerable size, which poses both memory and computational complexity issues. In this article, we show how a previously proposed structured dictionary learning model, HO-SuKro, can be used to obtain more compact and readily-applicable dictionaries when the targeted data is a collection of multiway arrays. We introduce an efficient alternating optimization learning algorithm, describe important implementation details that have a considerable impact on both algorithmic complexity and actual speed, and showcase the proposed algorithm on a hyperspectral image denoising task."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:roLk4NBRz8UC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=7645084735827436658",
+    "cites_id": [
+        "7645084735827436658"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8902593/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cmTB1A_MGGoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 2,
+        "2021": 5,
+        "2022": 3,
+        "2023": 1,
+        "2024": 1
+    }
+}

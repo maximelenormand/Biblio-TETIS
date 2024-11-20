@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analyse de la propagation de la grippe aviaire \u00e0 partir des informations extraites de d\u00e9p\u00eaches de presse et de donn\u00e9es environnementales",
+        "pub_year": 2022,
+        "citation": "French Regional Conference on Complex Systems (FRCCS 2022), 2022",
+        "author": "Nejat Arinik and Roberto Interdonato and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "French Regional Conference on Complex Systems (FRCCS 2022)",
+        "abstract": "La grippe aviaire est une maladie animale hautement contagieuse, qui infecte de nombreuses esp\u00e8ces d\u2019oiseaux sauvages et domestiques. La transmission entre les oiseaux peut \u00eatre directe en raison d\u2019un contact \u00e9troit entre eux, ou indirecte par l\u2019exposition aux mati\u00e8res contamin\u00e9es (eau, nourriture). En particulier, les oiseaux sauvages migrateurs jouent un r\u00f4le cl\u00e9 dans cette transmission et font que les virus se propagent sur de longues distances. Bien que la grippe aviaire soit une maladie bien \u00e9tudi\u00e9e dans la litt\u00e9rature et qu\u2019il existe plusieurs syst\u00e8mes de veille \u00e9pid\u00e9miologique pour suivre l\u2019\u00e9volution de la maladie, dans la pratique, nous connaissons difficilement les v\u00e9ritables voies de transmission des virus de grippe aviaire, c\u2019est-\u00e0-dire les informations de provenance lorsqu\u2019un nouveau cas est confirm\u00e9 dans un emplacement donn\u00e9. En cons\u00e9quence, l\u2019absence de ces informations de provenance rend la d\u00e9tection pr\u00e9coce des \u00e9pid\u00e9mies de grippe aviaire tr\u00e8s difficile. Dans ce travail, nous nous int\u00e9ressons au probl\u00e8me de la propagation de la grippe aviaire en l\u2019absence de v\u00e9ritables voies de transmission de la maladie. Contrairement \u00e0 l\u2019analyse des r\u00e9seaux de contact qui sont au niveau individuel dans les fermes, notre analyse se fait au niveau de la m\u00e9tapopulation, donc \u00e0 une \u00e9chelle plus large [4]. Nous reconstruisons les voies de transmission en nous fondant sur la mani\u00e8re dont les \u00e9pid\u00e9mies de grippe aviaire \u00e9voluent \u00e0 partir des informations extraites des d\u00e9p\u00eaches collect\u00e9es par les plateformes de surveillance, accompagn\u00e9es de donn\u00e9es environnementales li\u00e9es aux emplacements des foyers, par le biais d\u2019un r\u00e9seau \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:4OULZ7Gr8RgC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03936677/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JaNpRT5N4ZQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

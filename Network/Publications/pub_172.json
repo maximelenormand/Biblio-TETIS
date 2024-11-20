@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A hybrid methodology based on Neural Network and Change detection approaches and using Sentinel-1/Sentinel-2 for soil moisture estimation",
+        "pub_year": 2022,
+        "citation": "EGU General Assembly Conference Abstracts, EGU22-3698, 2022",
+        "author": "Mehrez Zribi and Simon Nativel and Nemesio Rodriguez Fernandez and Nicolas Baghdadi and Remi Madelon and Clement Albergel",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "EGU22-3698",
+        "abstract": "Soil moisture is an essential parameter for a better understanding of water processes in the soil-vegetation-atmosphere interface. In this context, passive and active microwave remote sensing have enabled the development of various increasingly operational approaches, in particular for low spatial resolution products. Synthetic aperture radar (SAR) is particularly suitable for monitoring water content at fine spatial resolutions of the order of 1 km spatial resolution. Since the launch of Sentinel-1 in 2014, numerous methodologies have been proposed for estimating fine spatial resolutions soil moisture, especially in agricultural areas. Two approaches are often considered in the inversion of SAR signals: approaches based on machine learning methodologies, such as neural networks trained on scattering models, or approaches based on change detection, essentially validated on low spatial resolution products using \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:oTdOBqtIf_kC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.3698Z/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:og17ZcQ2bWIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

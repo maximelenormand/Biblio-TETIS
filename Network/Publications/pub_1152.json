@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Urban sprawl prediction in Batna City, Eastern Algeria, Using the SLEUTH model",
+        "pub_year": 2023,
+        "citation": "Bit\u00e1cora Urbano Territorial 33 (3), 2023",
+        "author": "Khaled Hersous and Nouari Souiher and Mezali Farouk and Rahim Aguejdad",
+        "journal": "Bit\u00e1cora Urbano Territorial",
+        "volume": "33",
+        "number": "3",
+        "abstract": "As a developing country, Algeria has experienced urban extensions, often poorly managed, which have generated numerous social, urban, and economic problems. In this context, this work aims to present an integrated approach combining spatial modeling, geographic remote sensing, and geographic information system to plan sustainable urban growth and mitigate the aforementioned issues. This work introduces urban sprawl simulation using the SLEUTH model, based on the cellular automata method. SLEUTH, implemented with a open-source code, facilates the simulation and prediction of urban sprawl. Applied to the Batna metropolitan area, SLEUTH is calibrated using four chronological series of data extracted from satellite images spanning from 1986 to 2020, with approximately 2,000 hectares transformed into urban land, representing an increase of about 180%. Future scenarios simulations were conducted for a 50-year period up to 2072, revealing two growth stages of urbanized areas. Beyond 2048, population density experiences a constant increase, marking the point at which Batna city reaches its urbanization limits. These findings highlight the necessity for urban planners to prepare an appropriate urban policy within a suitable timeframe. The integration of the SLEUTH model into the decision-making process is recommended to enhance urban policy management."
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:zA6iFVUQeVQC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-04368415/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Yb14ddXPuOIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

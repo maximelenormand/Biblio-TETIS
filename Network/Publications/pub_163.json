@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ESA\u2606: A generic framework for semi-supervised inductive learning",
+        "pub_year": 2021,
+        "citation": "Neurocomputing 447, 102-117, 2021",
+        "author": "Shuyi Yang and Dino Ienco and Roberto Esposito and Ruggero G Pensa",
+        "journal": "Neurocomputing",
+        "volume": "447",
+        "pages": "102-117",
+        "publisher": "Elsevier",
+        "abstract": "Semi-supervised learning is crucial in many applications where accessing class labels is unaffordable or costly. The most promising approaches are graph-based but they are transductive and they do not provide a generalized model working on inductive scenarios. To address this problem, we propose a generic framework, ESA\u2606, for inductive semi-supervised learning based on three components: an ensemble of semi-supervised autoencoders providing a new data representation that leverages the knowledge supplied by the reduced amount of available labels; a graph-based step that helps augmenting the training set with pseudo-labeled instances and, finally, a classifier trained with labeled and pseudo-labeled instances. Additionally, we also introduce two variants of our framework adopting different graph-based pseudo-labeling strategies: the first, ESALP, is based on a confidence-aware label propagation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:cB__R-XWw9UC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=7130055302231816446",
+    "cites_id": [
+        "7130055302231816446"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0925231221004252",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_vhqToUL82IJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 5,
+        "2024": 1
+    }
+}

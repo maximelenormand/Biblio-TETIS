@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Traitement d\u2019images satellitaires multispectrales",
+        "pub_year": 2016,
+        "citation": "Observation des surfaces continentales par t\u00e9l\u00e9d\u00e9tection optique, ISTE Press \u2026, 2016",
+        "author": "K Ose and T Corpetti and Laurent Demagistri",
+        "journal": "Observation des surfaces continentales par t\u00e9l\u00e9d\u00e9tection optique, ISTE Press Ltd, London and Elsevier Ltd, Oxford",
+        "abstract": "Traitement d'images satellitaires multispectrales- fdi:010071107- Horizon Horizon - Listes \nde publications Par auteur Par unit\u00e9 Logo IRD Publications des scientifiques de l'IRD Ose K., \nCorpetti T., Demagistri Laurent. (2017). Traitement d'images satellitaires multispectrales. In : \nBaghdadi N. (ed.), Zribi M. (ed.). Observation des surfaces continentales par t\u00e9l\u00e9d\u00e9tection \noptique : techniques et m\u00e9thodes. Londres : ISTE, p. 73-135. (Syst\u00e8me Terre-Environnement \n: S\u00e9rie T\u00e9l\u00e9d\u00e9tection pour l'Observation des Surfaces Continentales ; 1). ISBN 978-1-78405-156-3. \nTitre du document Traitement d'images satellitaires multispectrales Ann\u00e9e de publication \n2017 Type de document Partie d'ouvrage Auteurs Ose K., Corpetti T., Demagistri Laurent In \nBaghdadi N. (ed.), Zribi M. (ed.), Observation des surfaces continentales par t\u00e9l\u00e9d\u00e9tection \noptique : techniques et m\u00e9thodes Source Londres : ISTE, 2017, p. 73-135 (Syst\u00e8me Terre-\u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:WF5omc3nYNoC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=10513220164252487346",
+    "cites_id": [
+        "10513220164252487346"
+    ],
+    "pub_url": "https://www.documentation.ird.fr/hor/fdi:010071107",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sk6-twl25pEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

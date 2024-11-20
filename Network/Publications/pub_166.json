@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "L-band UAVSAR tomographic imaging in dense forests: Gabon forests",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (5), 475, 2019",
+        "author": "Ibrahim El Moussawi and Dinh Ho Tong Minh and Nicolas Baghdadi and Chadi Abdallah and Jalal Jomaah and Olivier Strauss and Marco Lavalle",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "5",
+        "pages": "475",
+        "publisher": "MDPI",
+        "abstract": "Developing and enhancing strategies to characterize actual forests structure is a timely challenge, particularly for tropical forests. P-band synthetic aperture radar (SAR) tomography (TomoSAR) has previously been demonstrated as a powerful tool for characterizing the 3-D vertical structure of tropical forests, and its capability and potential to retrieve tropical forest structure has been discussed and assessed. On the other hand, the abilities of L-band TomoSAR are still in the early stages of development. Here, we aim to provide a better understanding of L-band TomoSAR capabilities for retrieving the 3-D structure of tropical forests and estimating the top height in dense forests. We carried out tomographic analysis using L-band UAVSAR data from the AfriSAR campaign conducted over Gabon Lop\u00e9 Park in February 2016. First, it was found that L-band TomoSAR was able to penetrate into and through the canopy down to the ground, and thus the canopy and ground layers were detected correctly. The resulting TomoSAR vertical profiles were validated with a digital terrain model and canopy height model extracted from small-footprint Lidar (SFL) data. Second, there was a strong correlation between the L-band Capon beam forming profile in HH and HV polarizations with Land Vegetation Ice Sensor (LVIS) Level 1B waveform Lidar over different kinds of forest in Gabon Lop\u00e9 National Park. Finally, forest top height from the L-band data was estimated and validated with SFL data, resulting in a root mean square error of 3 m and coefficient of determination of 0.92. The results demonstrate that L-band TomoSAR is capable of characterizing 3-D structure \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:FiytvqdAVhgC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=1637044329693769868",
+    "cites_id": [
+        "1637044329693769868"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/5/475",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jPD2-CTztxYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 1,
+        "2021": 7,
+        "2022": 3,
+        "2023": 4
+    }
+}

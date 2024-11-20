@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards combining satellite imagery and VGI for urban LULC classification",
+        "pub_year": 2019,
+        "citation": "2019 Joint Urban Remote Sensing Event (JURSE), 1-4, 2019",
+        "author": "Dino Ienco and Kenji Ose and Christiane Weber",
+        "conference": "2019 Joint Urban Remote Sensing Event (JURSE)",
+        "pages": "1-4",
+        "publisher": "IEEE",
+        "abstract": "In this work we introduce and evaluate a deep learning model, mbCNN, that combines together satellite imagery and Volunteer Geographical Information (VGI) data to deal with different types of built-up surfaces. Differently from most of the previous works that only consider Urban/Non-Urban settings involving only one urban LULC class, here, we investigate the possibility to go a step further and distinguish among several urban land use classes: residential, industrial, sport fields and non-urban. Experiments on a real-world dataset covering the City of Montpellier (South of France) site are reported. Such results demonstrate the quality of Deep Learning approaches to deal with several types of Urban LULC mapping as well as the positive influence to integrate VGI knowledge in the process."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:EBV337fEn3EC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=14513974715340040977",
+    "cites_id": [
+        "14513974715340040977"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8808966/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ESvY8hr_a8kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

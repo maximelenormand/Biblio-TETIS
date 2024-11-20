@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Growth parameters sensitivity analysis of the SLEUTH urban growth cellular automata-based model",
+        "pub_year": 2016,
+        "citation": "Proceedings of the International Symposium on Cellular Automata Modeling for \u2026, 2016",
+        "author": "Omar Doukari and Wissem Ghzel and Rahim Aguejdad and Hassan A\u00eft Haddou",
+        "journal": "Proceedings of the International Symposium on Cellular Automata Modeling for Urban and Spatial Systems",
+        "abstract": "The use of the SLEUTH urban growth cellular automata-based model for urban growth planning, environmental assessment and decision-making needs to understand its behavior and establish an appropriate level of confidence in its outputs accuracy and performance. The imprecision and uncertainty associated with any land use and cover changes model outputs are mainly due to input data errors, modelling uncertainty and model sensitivity to parameters. Therefore, a rigorous examination of the most influential parameters that may exert an influence on the model outputs is of great importance to SLEUTH\u2019s application. The aim of this paper is to explore the influence of each of the growth coefficients on the rendering of SLEUTH. For this purpose, Toulouse metropolitan area (France) is selected. The model calibration is performed based on past land use and cover data derived from remotely sensed imagery. A local sensitivity analysis is conducted using the one-at-atime method. This technique is conceptually carried out by implementing a computer script which consists in varying parameter values one-at-a-time while keeping other parameters constant. Three separate sensitivity tests are performed based on three increment values: coarse (20), medium (5) and fine (1). These tests are resulted in 65, 55 and 65 simulation runs needed to cover all combinations of the input parameters. Statistical analysis and spatial metrics are, respectively, used to assess the influence of growth parameters on the amount and spatial patterns of predicted developed areas. For the coarse analysis, the first findings permit to identify the parameters whose \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:aqlVkmm33-oC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=7489545789625364340",
+    "cites_id": [
+        "7489545789625364340"
+    ],
+    "pub_url": "https://www.researchgate.net/profile/Omar-Doukari/publication/308331499_Growth_parameters_sensitivity_analysis_of_the_SLEUTH_urban_growth_cellular_automata-based_model/links/57e1093a08ae52b3078c5835/Growth-parameters-sensitivity-analysis-of-the-SLEUTH-urban-growth-cellular-automata-based-model.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dG-k3zY28GcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 5
+    }
+}

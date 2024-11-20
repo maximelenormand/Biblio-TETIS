@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Contextual Semantic Interpretability",
+        "pub_year": 2020,
+        "citation": "ACCV 2020, 2020",
+        "author": "Diego Marcos and Ruth Fong and Sylvain Lobry and Remi Flamary and Nicolas Courty and Devis Tuia",
+        "conference": "ACCV 2020",
+        "abstract": "Convolutional neural networks (CNN) are known to learn an image representation that captures concepts relevant to the task, but do so in an implicit way that hampers model interpretability. However, one could argue that such a representation is hidden in the neurons and can be made explicit by teaching the model to recognize semantically interpretable attributes that are present in the scene. We call such an intermediate layer a semantic bottleneck. Once the attributes are learned, they can be re-combined to reach the final decision and provide both an accurate prediction and an explicit reasoning behind the CNN decision. In this paper, we look into semantic bottlenecks that capture context: we want attributes to be in groups of a few meaningful elements and participate jointly to the final decision. We use a two-layer semantic bottleneck that gathers attributes into interpretable, sparse groups, allowing them contribute differently to the final output depending on the context. We test our contextual semantic interpretable bottleneck (CSIB) on the task of landscape scenicness estimation and train the semantic interpretable bottleneck using an auxiliary database (SUN Attributes). Our model yields in predictions as accurate as a non-interpretable baseline when applied to a real-world test set of Flickr images, all while providing clear and interpretable explanations for each prediction."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:HoB7MX3m0LUC",
+    "num_citations": 26,
+    "citedby_url": "/scholar?hl=en&cites=11637859140636150805",
+    "cites_id": [
+        "11637859140636150805"
+    ],
+    "pub_url": "http://openaccess.thecvf.com/content/ACCV2020/html/Marcos_Contextual_Semantic_Interpretability_ACCV_2020_paper.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FYymdzr7gaEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 6,
+        "2022": 8,
+        "2023": 9,
+        "2024": 2
+    }
+}

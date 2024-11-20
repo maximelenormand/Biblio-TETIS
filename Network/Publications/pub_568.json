@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of irrigated and rainfed crops in temperate areas using Sentinel-1 and Sentinel-2 time series",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (18), 3044, 2020",
+        "author": "Yann Pageot and Fr\u00e9d\u00e9ric Baup and Jordi Inglada and Nicolas Baghdadi and Val\u00e9rie Demarez",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "18",
+        "pages": "3044",
+        "publisher": "MDPI",
+        "abstract": "The detection of irrigated areas by means of remote sensing is essential to improve agricultural water resource management. Currently, data from the Sentinel constellation offer new possibilities for mapping irrigated areas at the plot scale. Until now, few studies have used Sentinel-1 (S1) and Sentinel-2 (S2) data to provide approaches for mapping irrigated plots in temperate areas. This study proposes a method for detecting irrigated and rainfed plots in a temperate area (southwestern France) jointly using optical (Sentinel-2), radar (Sentinel-1) and meteorological (SAFRAN) time series, through a classification algorithm. Monthly cumulative indices calculated from these satellite data were used in a Random Forest classifier. Two data years have been used, with different meteorological characteristics, allowing the performance of the method to be analysed under different climatic conditions. The combined use of the whole cumulative data (radar, optical and weather) improves the irrigated crop classifications (Overall Accuary (OA) \u2248 0.7) compared to the classifications obtained using each data separately (OA < 0.5). The use of monthly cumulative rainfall allows a significant improvement of the Fscore of irrigated and rainfed classes. Our study also reveals that the use of cumulative monthly indices leads to performances similar to those of the use of 10-day images while considerably reducing computational resources."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:NMlhSUseqAsC",
+    "num_citations": 53,
+    "citedby_url": "/scholar?hl=en&cites=16301321721360890428",
+    "cites_id": [
+        "16301321721360890428"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/18/3044",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PDoTy7ztOeIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 11,
+        "2022": 29,
+        "2023": 9,
+        "2024": 3
+    }
+}

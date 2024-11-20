@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Impact of regional climate change on the mosquito vector Aedes albopictus in a tropical island environment: La R\u00e9union",
+        "pub_year": 2023,
+        "citation": "Science of the Total Environment 875, 162484, 2023",
+        "author": "K Lamy and Annelise Tran and T Portafaix and MD Leroux and Thierry Baldet",
+        "journal": "Science of the Total Environment",
+        "volume": "875",
+        "pages": "162484",
+        "publisher": "Elsevier",
+        "abstract": "The recent expansion of Aedes albopictus across continents in both tropical and temperate regions and the exponential growth of dengue cases over the past 50 years represent a significant risk to human health. Although climate change is not the only factor responsible for the increase and spread of dengue cases worldwide, it might increase the risk of disease transmission at global and regional scale. Here we show that regional and local variations in climate can induce differential impacts on the abundance of Ae. albopictus. We use the instructive example of R\u00e9union Island with its varied climatic and environmental conditions and benefiting from the availability of meteorological, climatic, entomological and epidemiological data. Temperature and precipitation data based on regional climate model simulations (3 km \u00d7 3 km) are used as inputs to a mosquito population model for three different climate emission \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:lvd772isFD0C",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=18137931974654017795",
+    "cites_id": [
+        "18137931974654017795"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0048969723011002",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:A8FzNQjhtvsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 3
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Texture des images satellite et caract\u00e9risation des milieux urbains favorables aux moustiques vecteurs",
+        "pub_year": 2022,
+        "citation": "et mod\u00e9lisation spatiale Applications \u00e0 la surveillance et au contr\u00f4le des \u2026, 2022",
+        "author": "Claire Teillet and Oph\u00e9lie Hoarau and Nausicaa Habchi-Hanriot and Benjamin Pillot and Thibault Catry and Annelise Tran",
+        "journal": "et mod\u00e9lisation spatiale Applications \u00e0 la surveillance et au contr\u00f4le des maladies li\u00e9es aux moustiques",
+        "pages": "73",
+        "abstract": "La texture est une notion importante du traitement d\u2019images, utilis\u00e9e lors des \u00e9tapes de classification, de segmentation ou de synth\u00e8se des images (Busch et al., 2004). L\u2019information texturale est souvent utilis\u00e9e en compl\u00e9mentarit\u00e9 avec les informations spectrales pour d\u00e9crire une image (Pacifici et al., 2009) en la d\u00e9composant en fr\u00e9quences et orientations. Haralick (1979) a montr\u00e9 qu\u2019une texture peut \u00eatre repr\u00e9sent\u00e9e selon deux dimensions: la premi\u00e8re correspond \u00e0 la description du motif en termes de fr\u00e9quence et d\u2019orientation, la seconde correspond \u00e0 l\u2019organisation spatiale de ces motifs (Haralick, 1979). La notion de texture, bien que tr\u00e8s d\u00e9pendante des cas d\u2019application et difficilement g\u00e9n\u00e9ralisable, renvoie d\u2019abord \u00e0 une recherche d\u2019homog\u00e9n\u00e9it\u00e9 au sein des variations de tons de gris via l\u2019identification de motifs dans l\u2019image (Caloz et Collet, 2001).Les principales notions li\u00e9es \u00e0 l\u2019analyse de texture sont illustr\u00e9es dans la figure 5.1. La r\u00e9p\u00e9tition r\u00e9guli\u00e8re d\u2019un motif dans une ou plusieurs directions correspond \u00e0 une texture anisotrope, tandis qu\u2019une r\u00e9partition al\u00e9atoire des pixels dans toutes les directions est consid\u00e9r\u00e9e comme une texture isotrope, pour laquelle on observe une certaine homog\u00e9n\u00e9it\u00e9 de la structure. Une texture anisotrope est donc caract\u00e9ris\u00e9e par des propri\u00e9t\u00e9s d\u00e9pendantes de la direction, alors que l\u2019isotropie est ind\u00e9pendante de la direction (figure 5.1 a). Une micro-texture et une macro-texture repr\u00e9sentent respectivement les d\u00e9tails tr\u00e8s fins et les d\u00e9tails les plus grossiers d\u2019une texture (figure 5.1 b). De plus, la texture varie avec l\u2019\u00e9chelle d\u2019observation, une fen\u00eatre d\u2019analyse d\u2019un objet doit \u00eatre suffisamment grande \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:P7Ujq4OLJYoC",
+    "num_citations": 0,
+    "pub_url": "https://library.oapen.org/bitstream/handle/20.500.12657/60578/9782759236282.pdf?sequence=1#page=75",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YVcz1GwHgc0J:scholar.google.com/",
+    "cites_per_year": {}
+}

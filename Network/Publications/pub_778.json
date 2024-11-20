@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Surface moisture and irrigation mapping at agricultural field scale using the synergy Sentinel-1/Sentinel-2 data",
+        "pub_year": 2019,
+        "citation": "The International Archives of the Photogrammetry, Remote Sensing and Spatial \u2026, 2019",
+        "author": "Mehrez Zribi and N Baghdadi and Safa Bousbih and M El-Hajj and Qi Gao",
+        "journal": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "volume": "42",
+        "pages": "357-361",
+        "publisher": "Copernicus GmbH",
+        "abstract": "Soil moisture plays a key role in various processes at the soil-vegetation-atmosphere interface, such as evapotranspiration, infiltration and runoff. In this study, we firstly propose a global analysis of Sentinel-1 (S1) & Sentinel-2 (S2) data potential to retrieve soil moisture. Two approaches are tested. The first one is based on neural network approach; it uses Integral Equation Model (IEM) coupled to Water Cloud Model for vegetation cover backscattering simulation (El Hajj et al., 2017). The second approach considers change detection methodology. It estimates change of soil moisture with the driest and highest moisture levels, and also change of moisture between successive radar acquisitions (Gao et al., 2017). The proposed approaches are validated over three agricultural regions, south of France, Urgell (Spain) and Merguellil (Tunisia). In these different sites, important ground campaigns have been realized over reference fields with different types of measurements (soil moisture and roughness, Leaf area Index of vegetation cover). The retrieved accuracy of estimated volumetric soil moisture is about 5 vol.%. Based on estimated moisture products, two methodologies are considered to map irrigated areas (Gao et al., 2018, Bousbih et al., 2018). An analysis of different metrics (mean, variance, correlation length, etc.) of radar signal time series and surface parameters (moisture and NDVI) are tested. The proposed classification of irrigated areas is based on a combination of Support Vector Machine (SVM) and decision tree methodologies. For Urgell and Merguellil sites, a mapping of irrigated fields is proposed. The accuracy of mapping is higher \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:-mN3Mh-tlDkC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=12663014619981033808",
+    "cites_id": [
+        "12663014619981033808"
+    ],
+    "pub_url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W6/357/2019/isprs-archives-XLII-3-W6-357-2019.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UDGMkbQQvK8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 3
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Aboveground biomass mapping in French Guiana by combining remote sensing, forest inventories and environmental data",
+        "pub_year": 2016,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 52 \u2026, 2016",
+        "author": "Ibrahim Fayad and Nicolas Baghdadi and St\u00e9phane Guitet and Jean-St\u00e9phane Bailly and Bruno H\u00e9rault and Val\u00e9ry Gond and Mahmoud El Hajj and Dinh Ho Tong Minh",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "52",
+        "pages": "502-514",
+        "publisher": "Elsevier",
+        "abstract": "Mapping forest aboveground biomass (AGB) has become an important task, particularly for the reporting of carbon stocks and changes. AGB can be mapped using synthetic aperture radar data (SAR) or passive optical data. However, these data are insensitive to high AGB levels (>150 Mg/ha, and >300 Mg/ha for P-band), which are commonly found in tropical forests. Studies have mapped the rough variations in AGB by combining optical and environmental data at regional and global scales. Nevertheless, these maps cannot represent local variations in AGB in tropical forests. In this paper, we hypothesize that the problem of misrepresenting local variations in AGB and AGB estimation with good precision occurs because of both methodological limits (signal saturation or dilution bias) and a lack of adequate calibration data in this range of AGB values. We test this hypothesis by developing a calibrated regression \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:HE397vMXCloC",
+    "num_citations": 76,
+    "citedby_url": "/scholar?hl=en&cites=7699680582127699716",
+    "cites_id": [
+        "7699680582127699716"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0303243416301222",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BMex3bHC2moJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 12,
+        "2018": 14,
+        "2019": 11,
+        "2020": 11,
+        "2021": 14,
+        "2022": 3,
+        "2023": 9,
+        "2024": 1
+    }
+}

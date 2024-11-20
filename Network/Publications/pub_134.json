@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Reconstruction of airborne laser scanner trajectory from data",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Florian de Boissieu and Marc Lang and Jean-Baptiste F\u00e9ret and Jean-Matthieu Monnet and Sylvie Durrieu",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "8964-8967",
+        "publisher": "IEEE",
+        "abstract": "Multi-echo airborne laser scanner (ALS) has shown increasing utility for forestry applications in the two past decades. Among the numerous algorithms developed to process ALS data on forest environments some require to know actual sensor trajectory and deduced angles of incidence. However, sensor trajectory is not part of the ALS standard LAS file format and is often not delivered with point clouds. Scan angle is usually specified with a one byte precision or not given at all.This paper presents a method for the reconstruction of the sensor trajectory from a multi-echo ALS point cloud. It is based on the intersection of multi-echo pulses and was tested on three data sets acquired over a deciduous, a tropical and a mountainous forest, respectively. It allows sensor location estimate and scan angle estimate with less than 25 cm and 2-10-2\u00b0 error."
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:M05iB0D1s5AC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8900350/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Qfk61mmBItoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "S2 BOA reflectance in the context of tropical rainforest: preliminary illustration of the challenges for the extraction of vegetation properties",
+        "pub_year": 2018,
+        "citation": "Workshop for Sentinel-2 L2A MAJA products, 2018",
+        "author": "Jean-Baptiste Feret and Nicolas Barbier",
+        "journal": "Workshop for Sentinel-2 L2A MAJA products",
+        "abstract": "S2 BOA reflectance in the context of tropical rainforest: preliminary illustration of the challenges \nfor the extraction of veget Page 1 S2 BOA reflectance in the context of tropical rainforest: \npreliminary illustration of the challenges for the extraction of vegetation properties Jean-Baptiste \nF\u00e9ret & Nicolas Barbier Page 2 S2 BOA reflectance in the context of tropical rainforest \u2022 \nIntroduction & contexte \u2022 Image dataset \u2022 Methods \u2022 Results \u2022 Conclusions Page 3 \u2022 Introduction \n& contexte \u2022 Image dataset \u2022 Methods \u2022 Results \u2022 Conclusions S2 BOA reflectance in the \ncontext of tropical rainforest Page 4 S2 BOA reflectance in the context of tropical rainforest \u2022 \nEnjeux pour la zone foresti\u00e8re d\u2019Afrique centrale (bassin du Congo) \u2022 Zone g\u00e9ostrat\u00e9gique : \nr\u00f4le fondamental pour avenir Biosph\u00e8re et Humanit\u00e9 \u2022 6% des surfaces foresti\u00e8res mondiales \n; 2,5 millions de km2 sur 6 pays \u2022 R\u00e9gion essentielle pour le devenir du climat global et de la \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:olpn-zPbct0C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16572458624551865480",
+    "cites_id": [
+        "16572458624551865480"
+    ],
+    "pub_url": "http://3dformod.free.fr/publis/Feret_Barbier_Theia-2018.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iMxFe1Az_eUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2
+    }
+}

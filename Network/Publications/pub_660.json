@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Quantitative airborne inventories in dense tropical forest using imaging spectroscopy",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (10), 1577, 2020",
+        "author": "Anthony Laybros and M\u00e9laine Aubry-Kientz and Jean-Baptiste F\u00e9ret and Caroline Bedeau and Olivier Brunaux and G\u00e9raldine Derroire and Gr\u00e9goire Vincent",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "10",
+        "pages": "1577",
+        "publisher": "MDPI",
+        "abstract": "Tropical forests have exceptional floristic diversity, but their characterization remains incomplete, in part due to the resource intensity of in-situ assessments. Remote sensing technologies can provide valuable, cost-effective, large-scale insights. This study investigates the combined use of airborne LiDAR and imaging spectroscopy to map tree species at landscape scale in French Guiana. Binary classifiers were developed for each of 20 species using linear discriminant analysis (LDA), regularized discriminant analysis (RDA) and logistic regression (LR). Complementing visible and near infrared (VNIR) spectral bands with short wave infrared (SWIR) bands improved the mean average classification accuracy of the target species from 56.1% to 79.6%. Increasing the number of non-focal species decreased the success rate of target species identification. Classification performance was not significantly affected by impurity rates (confusion between assigned classes) in the non-focal class (up to 5% of bias), provided that an adequate criterion was used for adjusting threshold probability assignment. A limited number of crowns (30 crowns) in each species class was sufficient to retrieve correct labels effectively. Overall canopy area of target species was strongly correlated to their basal area over 118 ha at 1.5 ha resolution, indicating that operational application of the method is a realistic prospect (R2 = 0.75 for six major commercial tree species)."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:bFI3QPDXJZMC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=11879309667874756925",
+    "cites_id": [
+        "11879309667874756925"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/10/1577",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PdmJIjTJ26QJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 3,
+        "2023": 1
+    }
+}

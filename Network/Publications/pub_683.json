@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "prospect: an R package to link leaf optical properties with their chemical and structural properties with the leaf model PROSPECT",
+        "pub_year": 2024,
+        "citation": "Journal of Open Source Software 9 (94), 6027, 2024",
+        "author": "Jean-Baptiste F\u00e9ret and Florian de Boissieu",
+        "journal": "Journal of Open Source Software",
+        "volume": "9",
+        "number": "94",
+        "pages": "6027",
+        "abstract": "PROSPECT simulates optical properties for a leaf, based on its content in absorbing constituents, and a structure parameter accounting for light scattering. We present prospect, an R package aiming at providing the most recent versions of the model, along with inversion routines to assess leaf chemistry from optical properties."
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:ZuybSZzF8UAC",
+    "num_citations": 0,
+    "pub_url": "https://joss.theoj.org/papers/10.21105/joss.06027.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aamXWqDpw6gJ:scholar.google.com/",
+    "cites_per_year": {}
+}

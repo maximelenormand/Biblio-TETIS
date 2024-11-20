@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Unsupervised change detection analysis in satellite image time series using deep learning combined with graph-based approaches",
+        "pub_year": 2020,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2020",
+        "author": "Ekaterina Kalinicheva and Dino Ienco and J\u00e9r\u00e9mie Sublime and Maria Trocan",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "13",
+        "pages": "1450-1466",
+        "publisher": "IEEE",
+        "abstract": "Nowadays, huge volume of satellite images, via the different Earth Observation missions, are constantly acquired and they constitute a valuable source of information for the analysis of spatiotemporal phenomena. However, it can be challenging to obtain reference data associated to such images to deal with land use or land cover changes as often the nature of the phenomena under study is not known a priori. With the aim to deal with satellite image analysis, considering a real-world scenario, where reference data cannot be available, in this article, we present a novel end-to-end unsupervised approach for change detection and clustering for satellite image time series (SITS). In the proposed framework, we first create bitemporal change masks for every couple of consecutive images using neural network autoencoders (AEs). Then, we associate the extracted changes to different spatial objects. The objects sharing \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:X5YyAB84Iw4C",
+    "num_citations": 48,
+    "citedby_url": "/scholar?hl=en&cites=3422064143102916248",
+    "cites_id": [
+        "3422064143102916248"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9050903/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mDZAEDWdfS8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 11,
+        "2022": 15,
+        "2023": 16,
+        "2024": 4
+    }
+}

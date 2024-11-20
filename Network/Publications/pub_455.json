@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An automatic method based on daily in situ images and deep learning to date wheat heading stage",
+        "pub_year": 2020,
+        "citation": "Field Crops Research 252, 107793, 2020",
+        "author": "Kaaviya Velumani and Simon Madec and Benoit De Solan and Raul Lopez-Lozano and Jocelyn Gillet and Jeremy Labrosse and Stephane Jezequel and Alexis Comar and Fr\u00e9d\u00e9ric Baret",
+        "journal": "Field Crops Research",
+        "volume": "252",
+        "pages": "107793",
+        "publisher": "Elsevier",
+        "abstract": "Accurate and timely observations of wheat phenology and, particularly, of heading date are instrumental for many scientific and technical domains such as wheat ecophysiology, crop breeding, crop management or precision agriculture. Visual annotation of the heading date in situ is a labour-intensive task that may become prohibitive in scientific and technical activities where high-throughput is needed. This study presents an automatic method to estimate wheat heading date from a series of daily images acquired by a fixed RGB camera in the field. A convolutional neural network (CNN) is trained to identify the presence of spikes in small patches. The heading date is then estimated from the dynamics of the spike presence in the patches over time. The method is applied and validated over a large set of 47 experimental sites located in different regions in France, covering three years with nine wheat cultivars. Results \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:UebtZRa9Y70C",
+    "num_citations": 33,
+    "citedby_url": "/scholar?hl=en&cites=12897766397094099018",
+    "cites_id": [
+        "12897766397094099018"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0378429019321604",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SnjD7jMS_rIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 5,
+        "2022": 14,
+        "2023": 9,
+        "2024": 3
+    }
+}

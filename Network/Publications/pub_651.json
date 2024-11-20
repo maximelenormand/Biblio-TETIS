@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Results of IndexMed GRAIL Days 2016: How to use standards to build GRAphs and mIne data for environmentaL research? IndexMeed consortium for data mining in ecology",
+        "pub_year": 2017,
+        "citation": "RDA Ninth Plenary Meeting\" Data Infrastructures for Open Science\", 2017",
+        "author": "Romain David and Jean-Pierre F\u00e9ral and Anne-Sophie Archambeau and Fanny Arnaud and David Auber and Nicolas Bailly and Loup Bernard and Cyrille Blanpain and Vincent Breton and Denis Couvet and Anna Cohen-Nabeiro and Aur\u00e9lie Delavaud and Alrick Dias and Sophie Gachet and Robin Goffaux and Karina Gibert and Manuel Herrera and Dino Ienco and Romain Julliard and Julien Lecubin and Yannick Legre and Michelle Leydet and Gr\u00e9goire Lois and V\u00edctor M\u00e9ndez Mu\u00f1oz and Jean-Charles Meunier and Isabelle Mougenot and Sophie Pamerlon and Jean-Claude Raynal and Genevieve Romier and Dad Roux-Michollet and Alison Specht and Christian Surace and Thierry Tatoni",
+        "conference": "RDA Ninth Plenary Meeting\" Data Infrastructures for Open Science\"",
+        "abstract": "Data produced by biodiversity research projects that evaluate and monitor Good Environmental Status have a high potential for use by stakeholders involved in [marine] environmental management. The lack of specific scientific objectives, poor organizational logic, and a characteristically disorganized collection of information leads to a decentralized data distribution, hampering environmental research. In such a heterogeneous system across different organizations and data formats, it is difficult to efficiently harmonize the outputs. There are few tools available to assist. The task of the newly created consortium of IndexMeed is to index biodiversity data (and to provide an index of qualified existing open datasets) and make it possible to build graphs to assist in the analysis and development of new ways to mine data. Standards (including TDWG recommendations) and specific protocols can be applied to interconnect databases. Such semantic approaches greatly increase data interoperability. The aim of this poster is to present the 2016 IndexMed workshop results (https://indexmed2016.sciencesconf.org) and recent actions of the consortium (renamed IndexMeed - Indexing for Mining Ecological and Environmental Data): new approaches to investigate complex research questions and support the emergence of new scientific hypotheses. With one day of plenary sessions and two days of practical workshops, this event was dedicated to the sharing of experience and expertise, the acquisition of practical methods to construct graphs and value data through metadata and \u201ddata papers\u201d. Recent developments in data mining based on graphs, the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:DQNrXyjhriIC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02295974/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rilsZraKuLwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

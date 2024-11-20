@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Regression analyses to study the benefit of Sentinel and LIDAR data fusion for forest structure",
+        "pub_year": 2020,
+        "citation": "2020 Mediterranean and Middle-East Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Rim Douss and Imed Riadh Ferah and Sylvie Durrieu and Florion De Boissieu",
+        "conference": "2020 Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)",
+        "pages": "359-362",
+        "publisher": "IEEE",
+        "abstract": "Airborne laser scanning (ALS) data with regression models measure height, diameter and crown tree at an individual tree level to estimate inventory data, including volume, biomass, basal area, and diameter at breast height. The optical images provide high spatial resolution and multispectral reflectance, which improves the accuracy of tree identification. Fusion of multispectral and light detection and ranging data decrease segmentation errors. Many researches demonstrate that fusion reduced RMSE (root mean squared error) by 7% to 8%. In this paper, we study the feasibility of fusing of LIDAR and Multispectral data sets for forest structure parameter assessment. This fusion provides many features such as identifying individual trees, species, measuring tree height and crown diameter. To assess the benefit of fusing ALS and Sentinel images, 4 regression algorithms (Linear Model, Partial least Squares \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:BrmTIyaxlBUC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6335088844873363772",
+    "cites_id": [
+        "6335088844873363772"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9105240/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PHE3W73B6lcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

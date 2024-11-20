@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Climate change and vector-borne diseases",
+        "pub_year": 2016,
+        "citation": "Climate change and agriculture worldwide, 97-108, 2016",
+        "author": "V\u00e9ronique Chevalier and Fabrice Courtin and H\u00e9l\u00e8ne Guis and Annelise Tran and Laurence Vial",
+        "journal": "Climate change and agriculture worldwide",
+        "pages": "97-108",
+        "publisher": "Springer Netherlands",
+        "abstract": "Diseases transmitted by insect vectors have a major impact on human and animal health, as well as on the economy of societies. Because of their modes of transmission, these vector-borne diseases\u2014zoonotic or not\u2014are particularly sensitive to climate change. The climate and its variations determine, sometimes substantially, the presence of vectors at a given place, as well as their density and capacity to transmit diseases. The climate also has an influence on the presence and density of animals and humans, in addition to the survival capacities of pathogens in a given environment. All of the components, conditions and processes necessary for the transmission of these diseases form a complex dynamic system whose behaviour, under the influence of the climate and other environmental variables, will determine whether or not transmission will occur. Experimental and epidemiological studies are carried \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:RHpTSmoSYBkC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=6468423409686421306",
+    "cites_id": [
+        "6468423409686421306"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-94-017-7462-8_8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Oh8u59F0xFkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 2,
+        "2018": 0,
+        "2019": 1,
+        "2020": 2,
+        "2021": 1,
+        "2022": 1
+    }
+}

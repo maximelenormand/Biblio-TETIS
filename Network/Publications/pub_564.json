@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integrating a landscape connectivity approach into mitigation hierarchy planning by anticipating urban dynamics",
+        "pub_year": 2020,
+        "citation": "Landscape and Urban Planning 202, 103871, 2020",
+        "author": "Simon Tarabon and Coralie Calvet and Vincent Delbar and Thierry Dutoit and Francis Isselin-Nondedeu",
+        "journal": "Landscape and Urban Planning",
+        "volume": "202",
+        "pages": "103871",
+        "publisher": "Elsevier",
+        "abstract": "Urbanization leads to land-use changes and landscape fragmentation, impacting natural habitats and their connectivity. In principle, many local decision-makers are obliged to adopt a mitigation hierarchy whereby development projects must be designed to avoid impacts on biodiversity, reduce, and ultimately compensate for the remaining impacts to reach the goal of no net loss (NNL) of biodiversity. In practice, however, both developers and regulators lack relevant practical tools to support their strategies to better anticipate and plan this mitigation hierarchy. More importantly, the available tools generally ignore connectivity issues and ecological constraints. Here, we propose an original methodology that anticipates future urban needs under different development scenarios and selects the most relevant strategies for biodiversity offsets (BO). We used a spatialized digital simulator (called SimUrba) to model fine \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:4TOpqqG69KYC",
+    "num_citations": 56,
+    "citedby_url": "/scholar?hl=en&cites=2647871129060650075",
+    "cites_id": [
+        "2647871129060650075"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0169204619317013",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WyysSsMgvyQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 11,
+        "2022": 18,
+        "2023": 22,
+        "2024": 4
+    }
+}

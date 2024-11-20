@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "La r-confiance pour l'identification de trajectoires de patients",
+        "pub_year": 2016,
+        "citation": "EGC: Extraction et Gestion des Connaissances, 535-536, 2016",
+        "author": "Yves Mercadier and Jessica Pinaire and J\u00e9r\u00f4me Az\u00e9 and Sandra Bringay and Maguelonne Teisseire",
+        "conference": "EGC: Extraction et Gestion des Connaissances",
+        "pages": "535-536",
+        "abstract": "Objectifs La phase d'extraction des motifs en fouille de donn\u00e9es exploratoire conduit souvent \u00e0 g\u00e9n\u00e9rer un trop gros volume de motifs \u00e0 valider. L'expert est alors submerg\u00e9 et d\u00e9muni devant les nouvelles donn\u00e9es ainsi produites. Notre proposition d'une nouvelle mesure de filtrage s'inscrit dans ce contexte et a \u00e9t\u00e9 impl\u00e9ment\u00e9e dans une interface interactive avec pour objectif de faciliter l'analyse des r\u00e9sultats de la fouille de donn\u00e9es s\u00e9quentielles."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:q3CdL3IzO_QC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=15179917560470117904",
+    "cites_id": [
+        "15179917560470117904"
+    ],
+    "pub_url": "http://hal.cirad.fr/lirmm-01288454/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EB6JN5jmqdIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1
+    }
+}

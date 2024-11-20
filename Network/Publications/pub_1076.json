@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Tropical forest vertical structure characterization: From GEDI to P-band SAR tomography",
+        "pub_year": 2022,
+        "citation": "IEEE Geoscience and Remote Sensing Letters 19, 1-5, 2022",
+        "author": "Yen-Nhi Ngo and Yue Huang and Dinh Ho Tong Minh and Laurent Ferro-Famil and Ibrahim Fayad and Nicolas Baghdadi",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "volume": "19",
+        "pages": "1-5",
+        "publisher": "IEEE",
+        "abstract": "Estimating tropical forests\u2019 vertical structure using remote sensing is a challenge. Active sensors such as low-frequency synthetic aperture radar (SAR) operating at the P-band, with a wavelength of ~69 cm, and light detection and ranging (LiDAR) are able to penetrate thick vegetation layers. While NASA\u2019s Global Ecosystem Dynamics Investigation (GEDI) is collecting spaceborne LiDAR data, the ESA\u2019s next Earth Explorer BIOMASS mission will acquire multiple acquisitions over the same areas to form 3-D images through the SAR tomography (TomoSAR) technique. Our study shows the potential value of GEDI and TomoSAR acquisitions in producing accurate estimates of forests\u2019 vertical structure. By analyzing the airborne P-band TomoSAR, airborne LiDAR, and spaceborne GEDI LiDAR at a tropical forest site in Paracou, French Guiana, South America, we show that both GEDI and P-band TomoSAR can directly \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:xGWFX6Gbr9MC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=11618544970475114556",
+    "cites_id": [
+        "11618544970475114556"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9900356/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PBASzBddPaEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 11,
+        "2024": 1
+    }
+}

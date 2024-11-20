@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hydrological response characteristics and classification of Lebanese catchments",
+        "pub_year": 2020,
+        "citation": "EGU General Assembly Conference Abstracts, 636, 2020",
+        "author": "Mohammad Merheb and Chadi Abdallah and Roger Moussa and Nicolas Baghdadi",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "636",
+        "abstract": "The Mediterranean region is very vulnerable to both water shortage and flooding. Hence, the study of the hydrological response characteristics of Mediterranean catchments is of a great importance especially that the region is one of the most densely populated on the planet. Numerous Mediterranean catchment hydrological studies exist in the literature, however, mostly concentrated in the European part of the Mediterranean, especially the north-western part of the basin. The eastern Mediterranean have fewer studies and this is indeed the case of Lebanon, a small mountainous country on the eastern shore of the Mediterranean. The objective of this work is to present a state of the art assessment of the hydrology of Lebanon in the largest Mediterranean context and to present a first classification attempt for the Lebanese catchments. Twenty-eight Lebanese basins where data are available are studied. Spatial data \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:D_tqNUsBuKoC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2020EGUGA..22..636M/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xqIS8PMhOc4J:scholar.google.com/",
+    "cites_per_year": {}
+}

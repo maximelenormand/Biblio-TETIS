@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Imagerie Hyperspectrale Et Zones Urbaines: R\u00e9sultats Du Projet HYEP",
+        "pub_year": 2022,
+        "citation": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection 224 (1), 75-92, 2022",
+        "author": "Christiane Weber and Xavier Briottet and Thomas Houet and S\u00e9bastien Gadal and Rahim Aguejdad and Yannick Deville and Mauro DALLA-MURA and Cl\u00e9ment Mallet and LE Arnaud and Moussa KAROUI and Fatima BENHALOUCHE and Khelifa Djerriri and Sophie Fabre and AVAL Jocelyn",
+        "journal": "Revue Fran\u00e7aise de Photogramm\u00e9trie et de T\u00e9l\u00e9d\u00e9tection",
+        "volume": "224",
+        "number": "1",
+        "pages": "75-92",
+        "abstract": "Le projet HYEP (ANR HYEP 14-CE22-0016-01 HYperspectral imagery for Environmental urban Planning-Programme Mobilit\u00e9 et syst\u00e8mes urbains-2014) a permis de confirmer l\u2019int\u00e9r\u00eat d\u2019une approche globale du milieu urbain par t\u00e9l\u00e9d\u00e9tection et notamment en utilisant l\u2019imagerie hyperspectrale (IH). L\u2019int\u00e9r\u00eat des images hyperspectrales r\u00e9side dans la gamme d\u2019informations fournies sur des longueurs d\u2019onde de 0, 4 \u00e0 4 \u03bcm; elles fournissent ainsi un acc\u00e8s aux grandeurs spectrales d'int\u00e9r\u00eat et aux param\u00e8tres chimiques ou biophysiques de la surface. HYEP avait pour objectif de pr\u00e9ciser ceci et de proposer un panel de m\u00e9thodes et de traitements en tenant compte des caract\u00e9ristiques des autres capteurs existants afin d\u2019en comparer les performances. Les d\u00e9veloppements r\u00e9alis\u00e9s ont \u00e9t\u00e9 appliqu\u00e9s et \u00e9valu\u00e9s sur des images a\u00e9roport\u00e9es hyperspectrales acquises sur Toulouse (France) et Kaunas (Lituania), utilis\u00e9es \u00e9galement pour synth\u00e9tiser des syst\u00e8mes spatiaux: Sentinel-2, Hypxim/Biodiversity et Pleiades. Parmi les verrous identifi\u00e9s, ceux li\u00e9s \u00e0 l'am\u00e9lioration des capacit\u00e9s spatiales des capteurs et aux changements d\u2019\u00e9chelle spatiale ont \u00e9t\u00e9 en partie lev\u00e9s par des approches de fusion, qui se sont av\u00e9r\u00e9es concluantes. Des m\u00e9thodes d\u2019extraction, de fusion ou de classification ont \u00e9t\u00e9 appliqu\u00e9es \u00e0 diff\u00e9rentes r\u00e9solutions spatiales afin de qualifier les gains et la compl\u00e9mentarit\u00e9 de l\u2019IH par rapport \u00e0 d\u2019autres capteurs. Ces \u00e9valuations ont ainsi port\u00e9 sur des \u00abobjets\u00bb d\u2019int\u00e9r\u00eat pour les gestionnaires et am\u00e9nageurs du milieu urbain: les surfaces imperm\u00e9ables, la v\u00e9g\u00e9tation ou encore la d\u00e9tection de panneaux solaires."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:jU7OWUQzBzMC",
+    "num_citations": 0,
+    "pub_url": "https://rfpt.sfpt.fr/index.php/RFPT/article/view/589",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4jOOEHoeo_4J:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "De Facebook au d\u00e9veloppement des plantes: quand les r\u00e9seaux s' en m\u00ealent",
+        "pub_year": 2018,
+        "citation": "The Conversation 7, en ligne [5 p.], 2018",
+        "author": "J Lavarenne and Mika\u00ebl Lucas and P Gantet",
+        "journal": "The Conversation",
+        "volume": "7",
+        "pages": "en ligne [5 p.]",
+        "abstract": "R\u00e9seau t\u00e9l\u00e9phonique, r\u00e9seau social, r\u00e9seau routier, r\u00e9seau professionnel\u2026 Le terme \u00abr\u00e9seau\u00bb est aujourd\u2019hui pass\u00e9 dans le langage courant. Un r\u00e9seau informatique constitu\u00e9 d\u2019ordinateurs reli\u00e9s entre eux, ou bien un r\u00e9seau de m\u00e9tro dont les stations sont connect\u00e9es par des lignes en sont deux repr\u00e9sentations intuitives. La th\u00e9orie des graphes, transpos\u00e9e dans le monde r\u00e9el au travers de la th\u00e9orie des r\u00e9seaux, nous enseigne que ces derniers poss\u00e8dent des propri\u00e9t\u00e9s math\u00e9matiques intrins\u00e8ques. Elles rendent leur \u00e9tude formelle possible, et ainsi de mieux comprendre, voire anticiper le fonctionnement des syst\u00e8mes que les r\u00e9seaux d\u00e9crivent."
+    },
+    "filled": true,
+    "author_pub_id": "A17UErUAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 0,
+    "pub_url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2024-01/010079178.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Qqgc5wRSK1gJ:scholar.google.com/",
+    "cites_per_year": {}
+}

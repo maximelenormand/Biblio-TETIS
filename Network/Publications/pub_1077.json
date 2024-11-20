@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multilayer graph edge bundling",
+        "pub_year": 2016,
+        "citation": "2016 IEEE Pacific Visualization Symposium (PacificVis), 184-188, 2016",
+        "author": "Romain Bourqui and Dino Ienco and Arnaud Sallaberry and Pascal Poncelet",
+        "conference": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "pages": "184-188",
+        "publisher": "IEEE",
+        "abstract": "Many real world information can be represented by a graph with a set of nodes interconnected with each other by multiple type of relations called edge layers (e.g., social network, biological data). Edge bundling techniques have been proposed to solve cluttering issue for standard graphs while few efforts were done to deal with the similar issue for multilayer graphs. In multilayer graphs scenario, not only the clutter induced by large amount of edges is a problem but also the fact that different type of edges can overlap each other making useless the final visualization. In this paper we introduce a new multilayer graph edge bundling technique that firstly produces a preliminary edge bundling independently of the different edge layers and then deals with the specificity of multilayer graphs where more than one type of edges can be routed on the same bundle. The proposed visualization is tested on a real world case \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:wyM6WWKXmoIC",
+    "num_citations": 21,
+    "citedby_url": "/scholar?hl=en&cites=7174559311087814497",
+    "cites_id": [
+        "7174559311087814497"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7465267/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YUdcVa4nkWMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 5,
+        "2018": 2,
+        "2019": 6,
+        "2020": 2,
+        "2021": 2,
+        "2022": 3
+    }
+}

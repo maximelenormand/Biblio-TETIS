@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-1 and Sentinel-2 data for soil moisture and irrigation mapping over semi-arid region",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Safa Bousbih and Mehrez Zribi and Mohammad El Hajj and Nicolas Baghdadi and Zohra Lili Chabaane and Pascal Fanise and Gilles Boulet",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "7022-7025",
+        "publisher": "IEEE",
+        "abstract": "Identifying the irrigated areas is essential for waters managers who are in charge of distributing this resource over a large scale. The monitoring of water soil content and irrigation is a powerful tool for water resource management. The potential of Sentinel-1 (S1) and Sentinel-2 (S2) data for estimating the soil moisture and irrigation is studied over covered surfaces. An inversion algorithm of the Water Cloud Model (WCM) was developed after calibrating and validating the model over the Kairouan plain, a semi-arid region in Tunisia. The aim is to restitute soil moisture over the whole region. The developed algorithm used a synergy between S1, radar data in VV polarization, and NDVI derived from S2 optical data at high spatial resolution. The results showed good accuracy between retrieved and measured soil moisture with a Root Mean Square Error (RMSE) lower than 6 vol.%. Then, the resulting soil moisture maps \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:SjuI4pbJlxcC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=15089941451510376215",
+    "cites_id": [
+        "15089941451510376215"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8897883/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F-e32sw9atEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 5,
+        "2022": 0,
+        "2023": 1
+    }
+}

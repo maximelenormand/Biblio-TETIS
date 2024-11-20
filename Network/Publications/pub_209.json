@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring online media reports for early detection of unknown diseases: Insight from a retrospective study of COVID\u201019 emergence",
+        "pub_year": 2021,
+        "citation": "Transboundary and emerging diseases 68 (3), 981-986, 2021",
+        "author": "Sarah Valentin and Aliz\u00e9 Mercier and Renaud Lancelot and Mathieu Roche and Elena Arsevska",
+        "journal": "Transboundary and emerging diseases",
+        "volume": "68",
+        "number": "3",
+        "pages": "981-986",
+        "abstract": "Event\u2010based surveillance (EBS) systems monitor a broad range of information sources to detect early signals of disease emergence, including new and unknown diseases. In December 2019, a newly identified coronavirus emerged in Wuhan (China), causing a global coronavirus disease (COVID\u201019) pandemic. A retrospective study was conducted to evaluate the capacity of three event\u2010based surveillance (EBS) systems (ProMED, HealthMap and PADI\u2010web) to detect early COVID\u201019 emergence signals. We focused on changes in online news vocabulary over the period before/after the identification of COVID\u201019, while also assessing its contagiousness and pandemic potential. ProMED was the timeliest EBS, detecting signals one day before the official notification. At this early stage, the specific vocabulary used was related to \u2018pneumonia symptoms\u2019 and \u2018mystery illness\u2019. Once COVID\u201019 was identified, the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:YsMSGLbcyi4C",
+    "num_citations": 27,
+    "citedby_url": "/scholar?hl=en&cites=15514034077589255614",
+    "cites_id": [
+        "15514034077589255614"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/tbed.13738",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vjUD9MvrTNcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 10,
+        "2022": 6,
+        "2023": 6,
+        "2024": 1
+    }
+}

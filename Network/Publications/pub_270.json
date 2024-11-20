@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "D\u00e9couverte de nouvelles entit\u00e9s et relations spatiales \u00e0 partir d\u2019un corpus de SMS (Discovering of new Spatial Entities and Relations from SMS Within the context of the currently available data masses, many works related to the analysis of spatial information are based on the exploitation of textual data)",
+        "pub_year": 2016,
+        "citation": "Actes de la conf\u00e9rence conjointe JEP-TALN-RECITAL 2016. volume 2: TALN \u2026, 2016",
+        "author": "Sarah Zenasni and Maguelonne Teisseire and Mathieu Roche and Eric Kergosien",
+        "conference": "Actes de la conf\u00e9rence conjointe JEP-TALN-RECITAL 2016. volume 2: TALN (Posters)",
+        "pages": "403-410",
+        "abstract": "Dans le contexte des masses de donn\u00e9es aujourd\u2019hui disponibles, de nombreux travaux li\u00e9s \u00e0 l\u2019analyse de l\u2019information spatiale s\u2019 appuient sur l\u2019exploitation des donn\u00e9es textuelles. La communication m\u00e9di\u00e9e (SMS, tweets, etc.) v\u00e9hiculant des informations spatiales prend une place pr\u00e9pond\u00e9rante. L\u2019objectif du travail pr\u00e9sent\u00e9 dans cet article consiste \u00e0 extraire ces informations spatiales \u00e0 partir d\u2019un corpus authentique de SMS en fran\u00e7ais. Nous proposons un processus dans lequel, dans un premier temps, nous extrayons de nouvelles entit\u00e9s spatiales (par exemple, motpellier, montpeul \u00e0 associer au toponyme Montpellier). Dans un second temps, nous identifions de nouvelles relations spatiales qui pr\u00e9c\u00e8dent les entit\u00e9s spatiales (par exemple, sur, par, pres, etc.). La t\u00e2che est difficile et complexe en raison de la sp\u00e9cificit\u00e9 du langage SMS qui repose sur une \u00e9criture peu standardis\u00e9e (apparition de nombreux lexiques, utilisation massive d\u2019abr\u00e9viations, variation par rapport \u00e0 l\u2019\u00e9crit classique, etc.). Les exp\u00e9rimentations qui ont \u00e9t\u00e9 r\u00e9alis\u00e9es \u00e0 partir du corpus 88milSMS mettent en relief la robustesse de notre syst\u00e8me pour identifier de nouvelles entit\u00e9s et relations spatiales."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:WHdLCjDvYFkC",
+    "num_citations": 0,
+    "pub_url": "https://aclanthology.org/2016.jeptalnrecital-poster.12/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:V6uMXyM_We4J:scholar.google.com/",
+    "cites_per_year": {}
+}

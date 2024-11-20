@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Reports of the workshops held at the 2019 international AAAI conference on web and social media",
+        "pub_year": 2019,
+        "citation": "AI Magazine 40 (4), 78-82, 2019",
+        "author": "Diego Alburez-Gutierrez and Eshwar Chandrasekharan and Rumi Chunara and Sofia Gil-Clavel and Aniko Hannak and Roberto Interdonato and Kenneth Joseph and Kyriaki Kalimeri and Momin Malik and Katja Mayer and Yelena Mejova and Daniela Paolotti and Emilio Zagheni",
+        "journal": "AI Magazine",
+        "volume": "40",
+        "number": "4",
+        "pages": "78-82",
+        "abstract": "The workshop program of the Association for the Advancement of Artificial Intelligence\u2019s 13th International Conference on Web and Social Media was held at the Bavarian School of Public Policy in Munich, Germany on June 11, 2019. There were five full-day workshops, one half-day workshop, and the annual evening Science Slam in the program. The proceedings of the workshops were published in Research Topic of the Frontiers in Big Data. This report contains summaries of those workshops."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:4JMBOYKVnBMC",
+    "num_citations": 0,
+    "pub_url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/5287",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yiNolRJD8MYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

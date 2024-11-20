@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Reconstruction of Rift Valley fever transmission dynamics in Madagascar: estimation of force of infection from seroprevalence surveys using Bayesian modelling",
+        "pub_year": 2017,
+        "citation": "Scientific reports 7 (1), 39870, 2017",
+        "author": "Marie-Marie Olive and Vladimir Grosbois and Annelise Tran and Lalaina Arivony Nomenjanahary and Mihaja Rakotoarinoro and Soa-Fy Andriamandimby and Christophe Rogier and Jean-Michel Heraud and Veronique Chevalier",
+        "journal": "Scientific reports",
+        "volume": "7",
+        "number": "1",
+        "pages": "39870",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "The force of infection (FOI) is one of the key parameters describing the dynamics of transmission of vector-borne diseases. Following the occurrence of two major outbreaks of Rift Valley fever (RVF) in Madagascar in 1990\u201391 and 2008\u201309, recent studies suggest that the pattern of RVF virus (RVFV) transmission differed among the four main eco-regions (East, Highlands, North-West and South-West). Using Bayesian hierarchical models fitted to serological data from cattle of known age collected during two surveys (2008 and 2014), we estimated RVF FOI and described its variations over time and space in Madagascar. We show that the patterns of RVFV transmission strongly differed among the eco-regions. In the North-West and Highlands regions, these patterns were synchronous with a high intensity in mid-2007/mid-2008. In the East and South-West, the peaks of transmission were later, between mid-2008 and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:2P1L_qKh6hAC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=5983624632013783050",
+    "cites_id": [
+        "5983624632013783050"
+    ],
+    "pub_url": "https://www.nature.com/articles/srep39870",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CoB1dOYaClMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 4,
+        "2020": 2,
+        "2021": 3,
+        "2022": 8,
+        "2023": 2
+    }
+}

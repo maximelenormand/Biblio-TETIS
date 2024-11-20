@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Application of the symbolic machine learning to copernicus VHR imagery: the European settlement map",
+        "pub_year": 2019,
+        "citation": "IEEE Geoscience and Remote Sensing Letters 17 (7), 1153-1157, 2019",
+        "author": "Christina Corbane and Filip Sabo and Vassilis Syrris and Thomas Kemper and Panagiotis Politis and Martino Pesaresi and Pierre Soille and Kenji Ose",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "volume": "17",
+        "number": "7",
+        "pages": "1153-1157",
+        "publisher": "IEEE",
+        "abstract": "This letter introduces the new European Settlement Map (ESM) production workflow, presents some indicatory results, and discusses the validation process. Unlike the previous ESM versions, the built-up (BU) extraction is realized through supervised learning (not only by means of image filtering and processing techniques) based on textural and morphological features. Input data are the Copernicus very-high-resolution image collection for the reference year 2015 coming from a variety of sensors. The workflow is fully automated, and it does not include any postprocessing. For the first time, a new layer containing nonresidential buildings was derived by using only remote sensing imagery and training data. The produced BU map is delivered at 2-m-pixel resolution (level-1 layer), while the residential/nonresidential layer (level 2) is delivered at 10-m spatial resolution. More than 46 000 scenes were processed, and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:9ZlFYXVOiuMC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=16915895224504298928",
+    "cites_id": [
+        "16915895224504298928"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8941071/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sC1OGhVVweoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 6,
+        "2022": 2,
+        "2023": 1
+    }
+}

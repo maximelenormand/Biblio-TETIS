@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Public policies to support agroecology in Latin America and the Caribbean",
+        "pub_year": 2018,
+        "citation": "Perspective, 1-4, 2018",
+        "author": "Eric Sabourin and Jean-Fran\u00e7ois Le Coq and Sandrine Fr\u00e9guin-Gresh and Jacques Marzin and Muriel Bonin and Maria Mercedes Patrouilleau and Luis L V\u00e1zquez and Paulo Niederle",
+        "journal": "Perspective",
+        "number": "45",
+        "pages": "1-4",
+        "abstract": "Agroecology shares two principles with organic agriculture: producing while protecting ecosystems and rejecting inputs that are not derived from biological processes. But Latin American agroecology also advocates greater autonomy for producers in upstream and downstream markets and stresses the importance of recycling within agricultural systems. It alters the agri-food system and the relationships between producers and consumers by proposing short value chains and connecting food security and sovereignty at the territorial level. Over and above the technical dimension of agricultural production, agroecology thus provides a holistic approach combining social, environmental, economic and cultural aspects: it thereby defines a new sustainable rural development model."
+    },
+    "filled": true,
+    "author_pub_id": "ARl-VIoAAAAJ:q3oQSFYPqjQC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=782945913864872317",
+    "cites_id": [
+        "782945913864872317"
+    ],
+    "pub_url": "https://revues.cirad.fr/index.php/perspective/article/view/31606",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fWFCEimV3QoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 3,
+        "2021": 5,
+        "2022": 3,
+        "2023": 4
+    }
+}

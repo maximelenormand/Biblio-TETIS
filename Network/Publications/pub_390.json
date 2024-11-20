@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Applying deep learning for agricultural classification using multitemporal SAR Sentinel-1 for Camargue, France",
+        "pub_year": 2018,
+        "citation": "Image and Signal Processing for Remote Sensing XXIV 10789, 353-364, 2018",
+        "author": "Emile Ndikumana and Dinh Ho Tong Minh and Nicolas Baghdadi and Dominique Courault and Laure Hossard",
+        "conference": "Image and Signal Processing for Remote Sensing XXIV",
+        "volume": "10789",
+        "pages": "353-364",
+        "publisher": "SPIE",
+        "abstract": "The aim of this paper is to provide a better understanding of potentialities of the new Sentinel-1 radar images for mapping the different crops in the Camargue region in the South France. The originality relies on deep learning techniques. The analysis is carried out on multitemporal Sentinel-1 data over an area in Camargue,France.50 Sentinel-1 images processed in order to produce an intensity radar data stack from May 2017 to September 2017. We revealed that even with classical machine learning approaches (K nearest neighbors, random forest, and support vector machine), good performance classification could be achieved with F-measure/Accuracy greater than 86 % and Kappa coefficient better than 0.82. We found that the results of the two deep recurrent neural network (RNN)-based classifiers clearly outperformed the classical approaches. Finally, our analyses of Camargue area results show that the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:0CzhzZyukY4C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=6522357256174362825",
+    "cites_id": [
+        "6522357256174362825"
+    ],
+    "pub_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10789/0000/Applying-deep-learning-for-agricultural-classification-using-multitemporal-SAR-Sentinel/10.1117/12.2325160.short",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yeB2GF4RhFoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1
+    }
+}

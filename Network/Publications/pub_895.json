@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Manipulation interactive d'ensemble de motifs: application aux parcours hospitaliers",
+        "pub_year": 2016,
+        "citation": "EGC: Extraction et Gestion des Connaissances, 457-462, 2016",
+        "author": "Yves Mercadier and Jessica Pinaire and J\u00e9r\u00f4me Az\u00e9 and Sandra Bringay and Maguelonne Teisseire",
+        "conference": "EGC: Extraction et Gestion des Connaissances",
+        "pages": "457-462",
+        "abstract": "Dans cette d\u00e9monstration, nous proposons une application de visuali-sation des r\u00e9sultats de la fouille de donn\u00e9es s\u00e9quentielles. Pour illustrer le fonc-tionnement de cette application, nous avons utilis\u00e9 des donn\u00e9es PMSI hospita-li\u00e8res, plus pr\u00e9cis\u00e9ment dans le cas de l'infarctus du myocarde (IM). Les r\u00e9sul-tats obtenus ont \u00e9t\u00e9 soumis \u00e0 un sp\u00e9cialiste pour discussion et validation."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:uWQEDVKXjbEC",
+    "num_citations": 0,
+    "pub_url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01288468/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5B-a-xadLSUJ:scholar.google.com/",
+    "cites_per_year": {}
+}

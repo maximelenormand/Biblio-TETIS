@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of the Modified Water Cloud Model to Estimate Soil Moisture in Drip-Irrigated Pepper Fields Using ALOS-2 and Sentinel-1 Data",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "Emna Ayari and Zeineb Kassouk and Zohra Lili-Chabaane and Nicolas Baghdadi and Mehrez Zribi",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5700-5703",
+        "publisher": "IEEE",
+        "abstract": "In this paper, we investigate the potential of the modified water cloud model to estimate soil moisture in pepper crop fields with drip irrigation in a semiarid area in Tunisia using cross-polarized L-band data (ALOS-2) and C-band data (Sentinel-1) data in Horizontal-Horizontal (L-HH) and Vertical-Vertical (C- VV) polarization, respectively. Within the context of spatially heterogeneous soil moisture, the total backscattering is the sum of pepper row scattering weighted by the vegetation fraction cover (Fe) and the inter-row soil scattering weighted by (1-Fc). The vegetation row contribution is calculated as the sum of volume scattering contribution of pepper and underlying soil components attenuated by the vegetation cover. Due to the presence of drip irrigation, the underlying soil zone is divided into two parts: irrigated and non-irrigated parts. To assess the calibrated model performance, various simulations are performed \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:rLGzs9wiiwIC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9884140/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Q9oQ-Eu5r_IJ:scholar.google.com/",
+    "cites_per_year": {}
+}

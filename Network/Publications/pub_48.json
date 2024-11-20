@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Concluding Remarks and Challenges",
+        "pub_year": 2018,
+        "citation": "Mining Lurkers in Online Social Networks: Principles, Models, and \u2026, 2018",
+        "author": "Andrea Tagarelli and Roberto Interdonato and Andrea Tagarelli and Roberto Interdonato",
+        "journal": "Mining Lurkers in Online Social Networks: Principles, Models, and Computational Methods",
+        "pages": "87-93",
+        "publisher": "Springer International Publishing",
+        "abstract": "This chapter ends the brief offering a summary of the main topics discussed and providing suggestions for future research."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:M3ejUd6NZC8C",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-00229-9_9",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zvzurMXY9dcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

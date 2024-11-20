@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modelling the control of Aedes albopictus mosquitoes based on sterile males release techniques in a tropical environment",
+        "pub_year": 2020,
+        "citation": "Ecological Modelling 424, 109002, 2020",
+        "author": "Marion Haramboure and Pierrick Labbe and Thierry Baldet and David Damiens and Louis Cl\u00e9ment Gouagna and J\u00e9r\u00e9my Bouyer and Annelise Tran",
+        "journal": "Ecological Modelling",
+        "volume": "424",
+        "pages": "109002",
+        "publisher": "Elsevier",
+        "abstract": "The Sterile Insect Technique (SIT), used to control insect populations, consists of releasing males sterilized by ionizing radiations. Wild females that mate with these males can no longer produce viable offspring, which may drives the population decline. Although this method has proved its efficiency, its effect may be more limited for fast-reproducing large-population species, such Aedes albopictus. A novel approach, named \u201dboosted SIT\u201d has been designed to strengthen the SIT technique: It consists of coating sterile males with a biocide that will be transferred to the mated females, which will then contaminate the oviposition sites. This study is aimed at exploring demographic effects of both techniques (SIT and boosted SIT) through their inclusion in a weather-driven abundance model of the Aedes albopictus population dynamics in the geographical context of La Reunion Island. Sensitivity analysis showed that the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:WZBGuue-350C",
+    "num_citations": 26,
+    "citedby_url": "/scholar?hl=en&cites=5684112207893731758",
+    "cites_id": [
+        "5684112207893731758"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0304380020300740",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rpn39u8F4k4J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 8,
+        "2022": 13,
+        "2023": 2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of P-Band repeat-pass SAR tomography under changing weather conditions",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Yu Bai and Stefano Tebaldini and Dinh Ho Tong Minh and Wen Yang",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "9022-9025",
+        "publisher": "IEEE",
+        "abstract": "In this paper, the impact of changing weather conditions on repeat pass SAR tomography is addressed to support the upcoming spaceborne mission BIOMASS. In recent years it has been demonstrated that forest biomass retrieval can be improved by using P-band SAR tomography in tropical forest. Yet, these results were obtained by using campaign data acquired in a single day, while the revisit time of BIOMASS mission will be 3-4 days. To fill this gap, we simulate BIO-MASS repeat pass tomography using ground-based TropiS-CAT data with revisit time of 3 days and rainy days included. It is observed that the backscattered power within canopy layer, which is significantly correlated to the forest biomass, stays stable under changing weather conditions. The backscattered power variation of canopy layer are within 1.5 dB. For this forest site, this error is translated into an AGB error of about 50-80 t/ha, which is 20 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:pqnbT2bcN3wC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8518200/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:u0iqoV2A1VYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

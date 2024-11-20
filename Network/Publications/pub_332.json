@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SENECA: Change detection in optical imagery using Siamese networks with Active-Transfer Learning",
+        "pub_year": 2023,
+        "citation": "Expert Systems with Applications 214, 119123, 2023",
+        "author": "Giuseppina Andresini and Annalisa Appice and Dino Ienco and Donato Malerba",
+        "journal": "Expert Systems with Applications",
+        "volume": "214",
+        "pages": "119123",
+        "publisher": "Pergamon",
+        "abstract": "Change Detection (CD) aims to distinguish surface changes based on bi-temporal remote sensing images. In recent years, deep neural models have made a breakthrough in CD processes. However, training a deep neural model requires a large volume of labelled training samples that are time-consuming and labour-intensive to acquire. With the aim of learning an accurate CD model with limited labelled data, we propose SENECA: a method based on a CD Siamese network, which takes advantage of both Transfer Learning (TL) and Active Learning (AL) to handle the constraint of limited supervision. More precisely, we jointly use AL and TL to adapt a CD model trained on a labelled source domain to a (related) target domain featured by restricted access to labelled data. We report results from an experimental evaluation involving five pairs of images acquired via Sentinel-2 satellites between 2015 and 2018 in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:MGPUR4WVBMEC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=4289380497876798876",
+    "cites_id": [
+        "4289380497876798876"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0957417422021418",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nE1vMtbwhjsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 1
+    }
+}

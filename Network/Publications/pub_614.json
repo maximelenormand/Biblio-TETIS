@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluation of SMOS, SMAP, ASCAT and Sentinel-1 soil moisture products at sites in Southwestern France",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (4), 569, 2018",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Mehrez Zribi and Nemesio Rodr\u00edguez-Fern\u00e1ndez and Jean Pierre Wigneron and Amen Al-Yaari and Ahmad Al Bitar and Cl\u00e9ment Albergel and Jean-Christophe Calvet",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "4",
+        "pages": "569",
+        "publisher": "MDPI",
+        "abstract": "This study evaluates the accuracy of several recent remote sensing Surface Soil Moisture (SSM) products at sites in southwestern France. The products used are Soil Moisture Active Passive \u201cSMAP\u201d (level 3: 36 km \u00d7 36 km, level 3 enhanced: 9 km \u00d7 9 km, and Level 2 SMAP/Sentinel-1: 1 km \u00d7 1km), Advanced Scatterometer \u201cASCAT\u201d (level 2 with three spatial resolution 25 km \u00d7 25 km, 12.5 km \u00d7 12.5 km, and 1 km \u00d7 1 km), Soil Moisture and Ocean Salinity \u201cSMOS\u201d (SMOS INRA-CESBIO \u201cSMOS-IC\u201d, SMOS Near-Real-Time \u201cSMOS-NRT\u201d, SMOS Centre Aval de Traitement des Donn\u00e9es SMOS level 3 \u201cSMOS-CATDS\u201d, 25 km \u00d7 25 km) and Sentinel-1(S1) (25 km \u00d7 25 km, 9 km \u00d7 9 km, and 1 km \u00d7 1 km). The accuracy of SSM products was computed using in situ measurements of SSM observed at a depth of 5 cm. In situ measurements were obtained from the SMOSMANIA ThetaProbe (Time Domaine reflectometry) network (7 stations between 1 January 2016 and 30 June 2017) and additional field campaigns (near Montpellier city in France, between 1 January 2017 and 31 May 2017) in southwestern France. For our study sites, results showed that (i) the accuracy of the Level 2 SMAP/Sentinel-1 was lower than that of SMAP-36 km and SMAP-9 km; (ii) the SMAP-36 km and SMAP-9 km products provide more precise SSM estimates than SMOS products (SMOS-IC, SMOS-NRT, and SMOS-CATDS), mainly due to higher sensitivity of SMOS to RFI (Radio Frequency Interference) noise; and (iii) the accuracy of SMAP-36 km and SMAP-9 km products was similar to that of ASCAT (ASCAT-25 km, ASCAT-12.5 km and ASCAT-1 km) and S1 (S1-25 km, S1-9 km \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:yFnVuubrUp4C",
+    "num_citations": 98,
+    "citedby_url": "/scholar?hl=en&cites=9132894044101218470",
+    "cites_id": [
+        "9132894044101218470"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/4/569",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:phDvtb6Ovn4J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 4,
+        "2019": 20,
+        "2020": 15,
+        "2021": 23,
+        "2022": 16,
+        "2023": 17,
+        "2024": 3
+    }
+}

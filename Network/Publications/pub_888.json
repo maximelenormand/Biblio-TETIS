@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TDLM: An R package for a systematic comparison of trip distribution laws and models",
+        "pub_year": 2023,
+        "citation": "Journal of Open Source Software 8, 5434, 2023",
+        "author": "Maxime Lenormand",
+        "journal": "Journal of Open Source Software",
+        "volume": "8",
+        "pages": "5434",
+        "abstract": "Spatial interaction models are widely used to estimate and explain spatial interactions between geographical areas or locations. These models are usually based on the characteristics of the locations and the way they are spatially distributed. Several forms of interaction can occur between locations, one of which is population movements. This particular type of interaction is widely examined in the fields of geography, transportation research, and urban planning. The flows of individuals between locations is usually represented by a trip table better known as an Origin-Destination (OD) matrix (Barbosa et al., 2018; Lenormand et al., 2016). The estimation of OD matrices is part of the four-step travel model in transportation research. It corresponds to the second step, called trip distribution, the aim of which is to match the trip origins with the trip destinations using a spatial interaction model commonly referred to as trip distribution model in the four-step travel framework.In order to facilitate the use and comparison of trip distribution models, and more generally spatial distribution models, we present TDML, an R package providing a set of easy-to-use functions to rigorously and fairly compare trip distribution laws and models as described in Lenormand et al.(2016)."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:XiSMed-E-HIC",
+    "num_citations": 0,
+    "pub_url": "https://joss.theoj.org/papers/10.21105/joss.05434.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:D-PRf76IJwcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

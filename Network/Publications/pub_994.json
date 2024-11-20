@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Retrieval of aboveground crop nitrogen content with a hybrid machine learning method",
+        "pub_year": 2020,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 92, 102174, 2020",
+        "author": "Katja Berger and Jochem Verrelst and Jean-Baptiste F\u00e9ret and Tobias Hank and Matthias Wocher and Wolfram Mauser and Gustau Camps-Valls",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "92",
+        "pages": "102174",
+        "publisher": "Elsevier",
+        "abstract": "Hyperspectral acquisitions have proven to be the most informative Earth observation data source for the estimation of nitrogen (N) content, which is the main limiting nutrient for plant growth and thus agricultural production. In the past, empirical algorithms have been widely employed to retrieve information on this biochemical plant component from canopy reflectance. However, these approaches do not seek for a cause-effect relationship based on physical laws. Moreover, most studies solely relied on the correlation of chlorophyll content with nitrogen, and thus neglected the fact that most N is bound in proteins. Our study presents a hybrid retrieval method using a physically-based approach combined with machine learning regression to estimate crop N content. Within the workflow, the leaf optical properties model PROSPECT-PRO including the newly calibrated specific absorption coefficients (SAC) of proteins \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:xtRiw3GOFMkC",
+    "num_citations": 131,
+    "citedby_url": "/scholar?hl=en&cites=4648558380626833689",
+    "cites_id": [
+        "4648558380626833689"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0303243420303500",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GXHt0jf_gkAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 5,
+        "2021": 38,
+        "2022": 40,
+        "2023": 44,
+        "2024": 3
+    }
+}

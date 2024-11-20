@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Grafted oleaster-olive agrosylvopastoral systems in Northern Morocco",
+        "pub_year": 2016,
+        "citation": "The Mediterranean Region Under Climate Change. A Scientific Update. IRD \u2026, 2016",
+        "author": "Y Aumeerudddy-Thomas and Alicia Bailly and Samuel Alleaume and Younes Hmimsa",
+        "journal": "The Mediterranean Region Under Climate Change. A Scientific Update. IRD Editions, Marseille (France)",
+        "pages": "523-532",
+        "abstract": "ObjectiveIn this paper we compare two distinct olive-based agroecosystems, their socialecological characteristics and importance for food security. These are: 1) Historical grafted oleaster-olive agroecosystems found throughout the Maghreb, based on a case study conducted in northern Morocco in a sampled area in Ouezzane Province, 2) Modern olive plantations using microcuttings raised in nurseries and a range of techniques favored by new agrarian policies in the same zone. We analyze practices involved in their development, their distribution and spatial organization, diversity of food products; environmental factors including the topographic wetness index (TWI) based on a field numeric model (SRTM 2014) and the topographic position index (TPI).The Rif borders the Mediterranean Sea to the north and is a region crossed by a mountain range that stretches from the Tangerine peninsula (west) to the frontier of Algeria (east). It is inhabited by three socio-linguistic groups, the Jbala (arabophone), the Ghomara and Berber Rifians (berberophone)."
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:BqipwSGYUEgC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=1850969620930427656",
+    "cites_id": [
+        "1850969620930427656"
+    ],
+    "pub_url": "https://www.researchgate.net/profile/Mohamed-Hafidi-2/publication/309891653_Rethinking_the_management_of_mycorrhizal_soil_infectivity_to_restore_Mediterranean_and_tropical_forest_ecosystems/links/5837347308ae3a74b49af8d8/Rethinking-the-management-of-mycorrhizal-soil-infectivity-to-restore-Mediterranean-and-tropical-forest-ecosystems.pdf#page=524",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CPuYORD3rxkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 1
+    }
+}

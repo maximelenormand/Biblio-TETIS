@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Stable Safe Screening and Structured Dictionaries for Faster  Regularization",
+        "pub_year": 2019,
+        "citation": "IEEE Transactions on Signal Processing 67 (14), 3756-3769, 2019",
+        "author": "Cassio Fraga Dantas and R\u00e9mi Gribonval",
+        "journal": "IEEE Transactions on Signal Processing",
+        "volume": "67",
+        "number": "14",
+        "pages": "3756-3769",
+        "publisher": "IEEE",
+        "abstract": "In this paper, we propose a way to combine two acceleration techniques for the \u2113 1 -regularized least squares problem: safe screening tests, which allow to eliminate useless dictionary atoms; and the use of fast structured approximations of the dictionary matrix. To do so, we introduce a new family of screening tests, termed stable screening, which can cope with approximation errors on the dictionary atoms while keeping the safety of the test (i.e., zero risk of rejecting atoms belonging to the solution support). Some of the main existing screening tests are extended to this new framework. The proposed algorithm consists in using a coarser (but faster) approximation of the dictionary at the initial iterations and then switching to better approximations until eventually adopting the original dictionary. A systematic switching criterion based on the duality gap saturation and the screening ratio is derived. Simulation results \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=7731633388138976154,10059444340213380203",
+    "cites_id": [
+        "7731633388138976154",
+        "10059444340213380203"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8723527/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mtOSQZpHTGsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 1,
+        "2022": 1,
+        "2023": 2
+    }
+}

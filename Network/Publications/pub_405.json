@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Cartographie de l'habitat de reproduction du t\\'etras-lyre (Lyrurus tetrix) dans les Alpes fran\\c {c} aises",
+        "pub_year": 2024,
+        "citation": "arXiv preprint arXiv:2402.18597, 2024",
+        "author": "Alexandre Defossez and Samuel Alleaume and Marc Montadert and Dino Ienco and Sandra Luque",
+        "journal": "arXiv preprint arXiv:2402.18597",
+        "abstract": "Le t\u00e9tras-lyre (Lyrurus tetrix) est un oiseau galliforme embl\u00e9matique des Alpes. La protection de son habitat constitue un enjeu de conservation important dans le contexte des changements globaux, et notamment en raison du changement climatique, dont l\u2019impact se manifeste plus intens\u00e9ment dans les milieux montagnards (Knight, 2022). Sur le territoire national, le t\u00e9tras-lyre fait l\u2019objet de programmes de conservation. Il est essentiellement menac\u00e9 par la fermeture et la d\u00e9gradation des milieux ainsi que par les infrastructures et activit\u00e9s humaines li\u00e9es \u00e0 l\u2019exploitation du milieu alpin, dont la pratique des sports de montagne.Le caract\u00e8re favorable d\u2019un habitat pour le t\u00e9tras-lyre est d\u2019abord li\u00e9 \u00e0 la disponibilit\u00e9 de ses ressources alimentaires. Le type de nourriture consomm\u00e9 varie selon la saison: le t\u00e9tras-lyre se nourrit en hiver essentiellement de bourgeons et d\u2019\u00e9pines de pin, tandis qu\u2019en \u00e9t\u00e9 son alimentation se concentre sur les baies, fleurs et jeunes pousses associ\u00e9es aux landes \u00e0 \u00e9ricac\u00e9es. Nichant en p\u00e9riode estivale, les landes \u00e0 \u00e9ricac\u00e9es constituent un habitat-cl\u00e9 pour sa reproduction."
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:WbkHhVStYXYC",
+    "num_citations": 0,
+    "pub_url": "https://arxiv.org/abs/2402.18597",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9QCPm4WU6S0J:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Attentive spatial temporal graph CNN for land cover mapping from multi temporal remote sensing data",
+        "pub_year": 2021,
+        "citation": "IEEE Access 9, 23070-23082, 2021",
+        "author": "Alessandro Michele Censi and Dino Ienco and Yawogan Jean Eudes Gbodjo and Ruggero Gaetano Pensa and Roberto Interdonato and Raffaele Gaetano",
+        "journal": "IEEE Access",
+        "volume": "9",
+        "pages": "23070-23082",
+        "publisher": "IEEE",
+        "abstract": "Satellite image time series (SITS) collected by modern Earth Observation (EO) systems represent a valuable source of information that supports several tasks related to the monitoring of the Earth surface dynamics over large areas. A main challenge is then to design methods able to leverage the complementarity between the temporal dynamics and the spatial patterns that characterize these data structures. Focusing on land cover classification (or mapping) tasks, the majority of approaches dealing with SITS data only considers the temporal dimension, while the integration of the spatial context is frequently neglected. In this work, we propose an attentive spatial temporal graph convolutional neural network that exploits both spatial and temporal dimensions in SITS. Despite the fact that this neural network model is well suited to deal with spatio-temporal information, this is the first work that considers it for the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:blknAaTinKkC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=6445886032533350691",
+    "cites_id": [
+        "6445886032533350691"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9340250/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:I2nN3zFjdFkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 1,
+        "2023": 12
+    }
+}

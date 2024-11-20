@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Bare soil surface moisture retrieval from sentinel-1 SAR data based on the calibrated IEM and dubois models using neural networks",
+        "pub_year": 2019,
+        "citation": "Sensors 19 (14), 3209, 2019",
+        "author": "Hamid Reza Mirsoleimani and Mahmod Reza Sahebi and Nicolas Baghdadi and Mohammad El Hajj",
+        "journal": "Sensors",
+        "volume": "19",
+        "number": "14",
+        "pages": "3209",
+        "publisher": "MDPI",
+        "abstract": "The main purpose of this study is to investigate the performance of two radar backscattering models; the calibrated integral equation model (CIEM) and the modified Dubois model (MDB) over an agricultural area in Karaj, Iran. In the first part, the performance of the models is evaluated based on the field measurement and the mentioned backscattering models, CIEM and MDB performed with root mean square error (RMSE) of 0.78 dB and 1.45 dB, respectively. In the second step, based on the neural networks (NNS), soil surface moisture is estimated using the two backscattering models, based on neural networks (NNs), from single polarization Sentinel-1 images over bare soils. The inversion results show the efficiency of the single polarized data for retrieving soil surface moisture, especially for VV polarization."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:L1USKYWJimsC",
+    "num_citations": 71,
+    "citedby_url": "/scholar?hl=en&cites=18326549536654318416",
+    "cites_id": [
+        "18326549536654318416"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/19/14/3209",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UFvhkrT7VP4J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 14,
+        "2021": 24,
+        "2022": 11,
+        "2023": 19
+    }
+}

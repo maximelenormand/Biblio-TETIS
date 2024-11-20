@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial modelling of agro-ecosystem dynamics across scales: A case in the cotton region of West-Burkina Faso",
+        "pub_year": 2017,
+        "citation": "Agricultural Systems 157, 303-315, 2017",
+        "author": "Camille Jahel and Christian Baron and Eric Vall and Medina Karambiri and Mathieu Castets and Kalifa Coulibaly and Agn\u00e8s B\u00e9gu\u00e9 and Danny Lo Seen",
+        "journal": "Agricultural Systems",
+        "volume": "157",
+        "pages": "303-315",
+        "publisher": "Elsevier",
+        "abstract": "Models are increasingly being used to investigate agro-ecosystems dynamics, although processes interacting at different scales remain difficult to consider. When upscaled or downscaled based on aggregation or disaggregation methods, information is generally distorted. This study explores agro-ecosystem modelling using an interaction graph-based modelling approach that explicitly link elements at different scales without up or downscaling. The study area/time frame is the cotton region of West Burkina Faso over the last fifteen years. Field, plot, farm and climate entities are linked in graphs that evolve according to functions computed along different time steps. Three main processes and their interrelations are simulated, occurring at different spatial and temporal scales: crop area expansion, crop rotation and crop production. Three simulation examples are presented to illustrate the analytical possibilities \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nIJPPHMAAAAJ:u5HHmVD_uO8C",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=13425314095018705999",
+    "cites_id": [
+        "13425314095018705999"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0308521X1630186X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:T4Si_wlMULoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 4,
+        "2019": 5,
+        "2020": 3,
+        "2021": 3,
+        "2022": 3,
+        "2023": 3
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of combined Sentinel 1/Sentinel 2 images for mapping topsoil organic carbon content over cropland taking into account soil roughness",
+        "pub_year": 2018,
+        "citation": "EGU 2018, European Geophysical Union General Assembly 2018, np, 2018",
+        "author": "Dav Ebengo Mwampongo and Emmanuelle Vaudour and Jean-Marc Gilliot and Dalila Hadjar and Nicolas Baghdadi",
+        "conference": "EGU 2018, European Geophysical Union General Assembly 2018",
+        "pages": "np",
+        "abstract": "Potential of combined Sentinel 1/ Sentinel 2 images for mapping topsoil organic carbon content over cropland taking into account soil roughness. EGU 2018, European Geophysical Union General Assembly 2018"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:ALROH1vI_8AC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01765432/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MoJ4olcZy4AJ:scholar.google.com/",
+    "cites_per_year": {}
+}

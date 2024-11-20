@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Tensor-structured Dictionaries for Hyperspectral Imaging",
+        "pub_year": 2019,
+        "citation": "SPARS 2019 - Signal Processing with Adaptive Sparse Structured \u2026, 2019",
+        "author": "Cassio F. Dantas and J\u00e9r\u00e9my E. Cohen and R\u00e9mi Gribonval",
+        "journal": "SPARS 2019 - Signal Processing with Adaptive Sparse Structured Representations workshop",
+        "abstract": "Dictionary learning, paired with sparse coding, aims at providing sparse data representations. When dealing with large datasets, the dictionary obtained by applying unstructured dictionary learning methods may be of considerable size, posing both memory and computational complexity issues. We show how a previously proposed structured dictionary learning model, HO-SuKro, can be used to obtain more compact and readily-applicable dictionaries when the targeted data is a collection of multiway arrays. We introduce an alternating optimization learning algorithm and apply it to a hyperspectral image denoising task."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:0EnyYjriUFMC",
+    "num_citations": 0,
+    "pub_url": "https://inria.hal.science/hal-02169405/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Jl8pW_D-gtAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

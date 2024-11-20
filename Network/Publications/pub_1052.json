@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "VU Research Portal",
+        "pub_year": 2019,
+        "citation": "Environmental Science and Policy 99, 58-71, 2019",
+        "author": "Christine Ornetsm\u00fcller and PH Verburg and Andreas Heinimann",
+        "journal": "Environmental Science and Policy",
+        "volume": "99",
+        "pages": "58-71",
+        "abstract": "Crop booms are phenomena of global environmental change that keep on occurring around the globe and frequently exploit or degrade the local socio-ecological resources (resulting in eg loss of biodiversity, soil erosion, indebtedness). While causal mechanisms were identified and summarized in several frameworks, the causal effects of the identified factors remained largely unknown. In this study, we set up a new application of a spatial land system model to examine the causes for the clustered spatial pattern of the maize boom between 2000 and 2016 in Sayaboury Province, Laos. The factors tested included market access (travel time to trader companies), land productivity and total net revenue (proxy for profitability), spatial differences in farm gate price of maize, slope, and soil types. While crop booms are commonly associated with high commodity prices and improved market accessibility, our simulation results suggested that the combination of the geographic and economic factors we tested partially contribute to explain the location and spatial extent of the maize boom, but a full explanation has not been found. Interestingly though, temporal dynamics, such as increases in land productivity and profitability had the largest effect on model performance regarding the size of the maize boom area (experiment 2). Productivity and profitability increased thanks to political economic support for the introduction of a series of techniques (ie hybrid maize cultivars, herbicides, mechanical tillage and sowing) that made maize mono-cropping disproportionally competitive over other land management. We outline implications of our findings for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:B3FOqHPlNUQC",
+    "num_citations": 0,
+    "pub_url": "https://research.vu.nl/files/121316399/Modelling_the_location_and_spatial_pattern_of_a_crop_boom_A_case_study_from_Laos.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AigCc38SSNYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

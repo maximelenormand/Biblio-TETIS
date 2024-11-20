@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Linking heterogeneous data for food security prediction",
+        "pub_year": 2020,
+        "citation": "ECML PKDD 2020 Workshops: Workshops of the European Conference on Machine \u2026, 2020",
+        "author": "Hugo Del\u00e9glise and Agn\u00e8s B\u00e9gu\u00e9 and Roberto Interdonato and Elodie Ma\u00eetre d\u2019H\u00f4tel and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "ECML PKDD 2020 Workshops: Workshops of the European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD 2020): SoGood 2020, PDFL 2020, MLCS 2020, NFMCP 2020, DINA 2020, EDML 2020, XKDD 2020 and INRA 2020, Ghent, Belgium, September 14\u201318, 2020, Proceedings",
+        "pages": "335-344",
+        "publisher": "Springer International Publishing",
+        "abstract": "Identifying food insecurity situations timely and accurately is a complex challenge. To prevent food crisis and design appropriate interventions, several food security warning and monitoring systems are very active in food-insecure countries. However, the limited types of data selected and the limitations of data processing methods used make it difficult to apprehend food security in all its complexity.In this work, we propose models that aim to predict two key indicators of food security: the food consumption score and the household dietary diversity score. These indicators are time consuming and costly to obtain. We propose using heterogeneous data as explanatory variables that are more convenient to collect. These indicators are calculated using data from the permanent agricultural survey conducted by the Burkinabe government and available since 2009. The proposed models use deep and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:r0BpntZqJG4C",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=5419746685927640539",
+    "cites_id": [
+        "5419746685927640539"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-65965-3_22",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:201RU-XONksJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Using remote sensing to assess the effect of trees on millet yield in complex parklands of Central Senegal",
+        "pub_year": 2020,
+        "citation": "Agricultural Systems 184, 102918, 2020",
+        "author": "Louise Leroux and Gatien N Falconnier and Abdoul Aziz Diouf and Babacar Ndao and Jean Eudes Gbodjo and Laure Tall and AA Balde and C Clermont-Dauphin and A B\u00e9gu\u00e9 and F Affholder and Olivier Roupsard",
+        "journal": "Agricultural Systems",
+        "volume": "184",
+        "pages": "102918",
+        "publisher": "Elsevier",
+        "abstract": "Agroforestry is pointed out by the Intergovernmental Panel on Climate Change report as a key option to respond to climate change and land degradation while simultaneously improving global food security (IPCC, 2019). Faidherbia albida parklands are widespread in Sub-Saharan Africa and provide several ecosystem services to populations, notably an increase in crop productivity. While remote sensing has been proven useful for crop yield assessment in smallholder farming system, it has so far ignored the woody component. We propose an original approach combining remote sensing, landscape ecology and statistical modelling to i) improve the accuracy of millet yield prediction in parklands and ii) identify the main drivers of millet yield spatial variation. The parkland of Central Senegal was chosen as a case study. Firstly, we calibrated a remote sensing-based linear model that accounted for vegetation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:u-coK7KVo8oC",
+    "num_citations": 27,
+    "citedby_url": "/scholar?hl=en&cites=4727246958581963508",
+    "cites_id": [
+        "4727246958581963508"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0308521X20307794",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9NrSExCOmkEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 7,
+        "2022": 6,
+        "2023": 12,
+        "2024": 2
+    }
+}

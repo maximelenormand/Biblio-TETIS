@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Self-supervised pre-training enhances change detection in Sentinel-2 imagery",
+        "pub_year": 2021,
+        "citation": "Pattern Recognition. ICPR International Workshops and Challenges: Virtual \u2026, 2021",
+        "author": "Marrit Leenstra and Diego Marcos and Francesca Bovolo and Devis Tuia",
+        "conference": "Pattern Recognition. ICPR International Workshops and Challenges: Virtual Event, January 10-15, 2021, Proceedings, Part VII",
+        "pages": "578-590",
+        "publisher": "Springer International Publishing",
+        "abstract": "While annotated images for change detection using satellite imagery are scarce and costly to obtain, there is a wealth of unlabeled images being generated every day. In order to leverage these data to learn an image representation more adequate for change detection, we explore methods that exploit the temporal consistency of Sentinel-2 times series to obtain a usable self-supervised learning signal. For this, we build and make publicly available (                   https://zenodo.org/record/4280482                                    ) the Sentinel-2 Multitemporal Cities Pairs (S2MTCP) dataset, containing multitemporal image pairs from 1520 urban areas worldwide. We test the results of multiple self-supervised learning methods for pre-training models for change detection and apply it on a public change detection dataset made of Sentinel-2 image pairs (OSCD)."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:dfsIfKJdRG4C",
+    "num_citations": 51,
+    "citedby_url": "/scholar?hl=en&cites=14236501313500443424",
+    "cites_id": [
+        "14236501313500443424"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-68787-8_42",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IHOTM4Q2ksUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 6,
+        "2022": 14,
+        "2023": 24,
+        "2024": 7
+    }
+}

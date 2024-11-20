@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluation of building renovation strategies across three demonstration sites: a principal component analysis based multivariate sensitivity analysis",
+        "pub_year": 2023,
+        "citation": "EC3 Conference 2023 4, 0-0, 2023",
+        "author": "Omar Doukari and David Greenwood and Rahim Aguejdad and Mohamad Kassem",
+        "conference": "EC3 Conference 2023",
+        "volume": "4",
+        "pages": "0-0",
+        "publisher": "European Council on Computing in Construction",
+        "abstract": "Inefficient buildings negatively impact both humans and the environment. To meet the European energy-saving and decarbonisation goals by 2030 and 2050 as well as enhance the living comfort and indoor climate, building renovation must be performed on a massive scale. To overcome renovation challenges and better manage interaction with occupants, this paper describes the development of an automated process for the assessment and simulation of renovation scenarios using BIM. This process was then demonstrated, and its behaviour analysed through a sensitivity analysis using 3 European case studies located in Greece, France and Denmark, and 6 different renovation strategies."
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:rO6llkc54NcC",
+    "num_citations": 0,
+    "pub_url": "https://ec-3.org/publications/conference/paper/?id=EC32023_314",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zddcM3cfsUoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

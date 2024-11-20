@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "L\u2019utilisation de la t\u00e9l\u00e9d\u00e9tection pour la classification des zones de p\u00e2turage de Tsiroanomandidy (Madagascar) via l'algorithme \u00abRandom Forest\u00bb",
+        "pub_year": 2017,
+        "citation": "Forum de la recherche sur l'agrobiodiversit\u00e9 \u00e0 Madagascar, 2017",
+        "author": "Donnah Tsirinirina Razafinarivo and Baholy Volatsara Rahetlah and Jean de Neupomusc\u00e8ne Rakotozandriny and Paulo Salgado and Valentine Lebourgeois",
+        "conference": "Forum de la recherche sur l'agrobiodiversit\u00e9 \u00e0 Madagascar",
+        "abstract": "Demand in animal products rises over the world, because of the growth of population, urban planning, and the rise of income. Nevertheless, this situation causes major changes on land uses, tending to reduce the surface of pasture areas. Such event decreases the availability of forage resources and the movement of cattle herds which are basic factors for animal production in some countries of the world. Madagascar, as a developing country, follows this tendency, particularly for cattle sector which is the first source of animal protein of the population. The design of a system for monitoring forage resource availability at a regional level seem to be an interesting way whether forage reserves need to meet the cattle feed. Implementing this system requires a less complex, but more reliable and easily reproducible approach, that might be applied to large field surfaces. Thus, a grading of the various pasture areas of the region of Tsiroanomandidy was conducted using a combination of remote sensing technique and modelling. The former uses the reflecting property of objects from earth surface to convert them into exploitable data and recorded into images by a multispectre satellite. The use of \u00abRandom Forest\u00bb algorithm on data received from SPOT 5 satellite has led to results which were close to the reality. The grading of the five most common forage spieces on nature pasture lands of Madagascar has reached an overall accuracy of 77.6%. These figures were reported to the map to determine land uses of the region and served to calculate the capacity load of the region which was of 29 752 TLU/year. This map could be used as a decision tool to \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ALn6sQgAAAAJ:g5m5HwL7SMYC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03341977/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Slr2cnBtkOkJ:scholar.google.com/",
+    "cites_per_year": {}
+}

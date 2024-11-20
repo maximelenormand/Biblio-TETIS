@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Gravitational birefringence and an exotic formula for redshifts",
+        "pub_year": 2018,
+        "citation": "Physical Review D 97 (12), 123508, 2018",
+        "author": "Christian Duval and Johanna Pasquet and Thomas Sch\u00fccker and Andre Tilquin",
+        "journal": "Physical Review D",
+        "volume": "97",
+        "number": "12",
+        "pages": "123508",
+        "publisher": "American Physical Society",
+        "abstract": "We compute the birefringence of light in curved Robertson-Walker spacetimes and propose an exotic formula for redshift based on the internal structure of the spinning photon. We then use the Hubble diagram of supernovae to test this formula."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:kNdYIx-mwKoC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=12767185762769304278",
+    "cites_id": [
+        "12767185762769304278"
+    ],
+    "pub_url": "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.123508",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1vpJy84nLrEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 1,
+        "2020": 0,
+        "2021": 4,
+        "2022": 2
+    }
+}

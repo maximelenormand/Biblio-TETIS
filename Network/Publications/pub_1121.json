@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Les avocats du Mouvement d'Action Judiciaire dans les ann\u00e9es 1970, entre remise en cause du mod\u00e8le professionnel et pratiques du droit originales",
+        "pub_year": 2016,
+        "citation": "Criminocorpus. Revue d'Histoire de la justice, des crimes et des peines, 2016",
+        "author": "Jean-Philippe Tonneau",
+        "journal": "Criminocorpus. Revue d'Histoire de la justice, des crimes et des peines",
+        "publisher": "Criminocorpus",
+        "abstract": "L'article s'int\u00e9resse au Mouvement d'Action Judiciaire (MAJ). Cr\u00e9\u00e9 en 1968, l'organisation souhaite regrouper des \u00ab travailleurs du droit \u00bb : des avocats, des magistrats mais \u00e9galement des inspecteurs du travail, des \u00e9ducateurs, etc., et se donne trois objectifs : \u00ab Faire p\u00e9n\u00e9trer le droit dans les lieux o\u00f9 il est exclu ; les luttes sociales (l\u00e9gales ou ill\u00e9gales) ; et les luttes \u00e0 l'int\u00e9rieur de l'appareil judiciaire \u00bb. Apr\u00e8s avoir retrac\u00e9 l'histoire du MAJ, l'article resserre ensuite la focale sur les avocats qui en sont membres (qui sont-ils et quelles sont leurs pratiques professionnelles ?), puis s'int\u00e9resse \u00e0 leur devenir, une fois l'organisation disparue en 1978."
+    },
+    "filled": true,
+    "author_pub_id": "FcRgvV4AAAAJ:Y0pCki6q_DkC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=9908770304088074268",
+    "cites_id": [
+        "9908770304088074268"
+    ],
+    "pub_url": "https://journals.openedition.org/criminocorpus/3303",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HOgbuBcGg4kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    }
+}

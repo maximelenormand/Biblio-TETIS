@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Renforcer les d\u00e9cisions en sant\u00e9 sur un territoire: l\u2019appui op\u00e9rationnel de l\u2019\u00e9valuation multicrit\u00e8re spatialis\u00e9e",
+        "pub_year": 2018,
+        "citation": "Perspective, 1-4, 2018",
+        "author": "Annelise Tran and Fran\u00e7ois Roger",
+        "journal": "Perspective",
+        "number": "46",
+        "pages": "1-4",
+        "abstract": "C\u2019est pourquoi il est indispensable de d\u00e9velopper des m\u00e9thodes qui n\u2019ont pas besoin d\u2019importants jeux de donn\u00e9es sanitaires et qui permettent de tenir compte de tous les facteurs pour le risque \u00e9tudi\u00e9. C\u2019est le cas de la m\u00e9thode d\u2019\u00e9valuation multicrit\u00e8re spatialis\u00e9e (Spatial MultiCriteria Evaluation, Spatial MCE) qui se fonde sur les connaissances, et qui est encore tr\u00e8s peu utilis\u00e9e par les d\u00e9cideurs en sant\u00e9 animale et publique v\u00e9t\u00e9rinaire (voir encadr\u00e9 p. 2)."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:_Ybze24A_UAC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=14390173565361055812",
+    "cites_id": [
+        "14390173565361055812"
+    ],
+    "pub_url": "https://revues.cirad.fr/index.php/perspective/article/view/31607",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ROiPg50qtMcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 2,
+        "2021": 0,
+        "2022": 1
+    }
+}

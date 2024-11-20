@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Enhanced measurements of leaf area density with T-LiDAR: Evaluating and calibrating the effects of vegetation heterogeneity and scanner properties",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (10), 1580, 2018",
+        "author": "Maxime Soma and Fran\u00e7ois Pimont and Sylvie Durrieu and Jean-Luc Dupuy",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "10",
+        "pages": "1580",
+        "publisher": "MDPI",
+        "abstract": "Reliable measurements of the 3D distribution of Leaf Area Density (LAD) in forest canopy are crucial for describing and modelling microclimatic and eco-physiological processes involved in forest ecosystems functioning. To overcome the obvious limitations of direct measurements, several indirect methods have been developed, including methods based on Terrestrial LiDAR scanning (TLS). This work focused on various LAD estimators used in voxel-based approaches. LAD estimates were compared to reference measurements at branch scale in laboratory, which offered the opportunity to investigate in controlled conditions the sensitivity of estimations to various factors such as voxel size, distance to scanner, leaf morphology (species), type of scanner and type of estimator. We found that all approaches to retrieve LAD estimates were highly sensitive to voxel size whatever the species or scanner and to distance to the FARO scanner. We provided evidence that these biases were caused by vegetation heterogeneity and variations in the effective footprint of the scanner. We were able to identify calibration functions that could be readily applied when vegetation and scanner are similar to those of the present study. For different vegetation and scanner, we recommend replicating our method, which can be applied at reasonable cost. While acknowledging that the test conditions in the laboratory were very different from those of the measurements taken in the forest (especially in terms of occlusion), this study revealed existence of strong biases, including spatial biases. Because the distance between scanner and vegetation varies in field scanning \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:RYcK_YlVTxYC",
+    "num_citations": 33,
+    "citedby_url": "/scholar?hl=en&cites=14131422371772505321",
+    "cites_id": [
+        "14131422371772505321"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/10/1580",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6RyCkMblHMQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 3,
+        "2021": 12,
+        "2022": 6,
+        "2023": 7,
+        "2024": 1
+    }
+}

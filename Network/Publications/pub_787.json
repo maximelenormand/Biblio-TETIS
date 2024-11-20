@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-2 and Sentinel-1 Bare Soil Temporal Mosaics of 6-year Periods for Soil Organic Carbon Content Mapping in Central France",
+        "pub_year": 2023,
+        "citation": "Remote Sensing 15 (9), 2410, 2023",
+        "author": "Diego Urbina-Salazar and Emmanuelle Vaudour and Anne C Richer-de-Forges and Songchao Chen and Guillaume Martelet and Nicolas Baghdadi and Dominique Arrouays",
+        "journal": "Remote Sensing",
+        "volume": "15",
+        "number": "9",
+        "pages": "2410",
+        "publisher": "MDPI",
+        "abstract": "Satellite-based soil organic carbon content (SOC) mapping over wide regions is generally hampered by the low soil sampling density and the diversity of soil sampling periods. Some unfavorable topsoil conditions, such as high moisture, rugosity, the presence of crop residues, the limited amplitude of SOC values and the limited area of bare soil when a single image is used, are also among the influencing factors. To generate a reliable SOC map, this study addresses the use of Sentinel-2 (S2) temporal mosaics of bare soil (S2Bsoil) over 6 years jointly with soil moisture products (SMPs) derived from Sentinel 1 and 2 images, SOC measurement data and other environmental covariates derived from digital elevation models, lithology maps and airborne gamma-ray data. In this study, we explore (i) the dates and periods that are preferable to construct temporal mosaics of bare soils while accounting for soil moisture and soil management; (ii) which set of covariates is more relevant to explain the SOC variability. From four sets of covariates, the best contributing set was selected, and the median SOC content along with uncertainty at 90% prediction intervals were mapped at a 25-m resolution from quantile regression forest models. The accuracy of predictions was assessed by 10-fold cross-validation, repeated five times. The models using all the covariates had the best model performance. Airborne gamma-ray thorium, slope and S2 bands (e.g., bands 6, 7, 8, 8a) and indices (e.g., calcareous sedimentary rocks, \u201ccalcl\u201d) from the \u201clate winter\u2013spring\u201d time series were the most important covariates in this model. Our results also indicated the important role \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:PuOEWVtPfzwC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=14045970062752771476",
+    "cites_id": [
+        "14045970062752771476"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/15/9/2410",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lG0mdFpP7cIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 2
+    }
+}

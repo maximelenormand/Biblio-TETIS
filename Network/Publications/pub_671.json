@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Non-standard texts: from theoretical positions to Natural Language Processing normalisation",
+        "pub_year": 2016,
+        "citation": "PLIN-Day. Poster, 2016",
+        "author": "C\u00e9dric Lopez and Mathieu Roche and Rachel Panckhurst",
+        "journal": "PLIN-Day. Poster",
+        "abstract": "2. 3577, Cc< PRE_1>!! I\u00e8r soir g pa insist\u00e9 com ta pu le voir, voul\u00e9 pa ke< SUR_7> s\u00e9nerv a koz 2 moi!!! 1\u00e9 cour 2 robin d boi ce soir \u00e0 20 h, tjs Dcid\u00e9 a yal\u00e9, si le f\u00e9 pa ce soir le fer\u00e9 jam\u00e9. Pr l\u20ac patatoes 2 vend., c tjs pa si on pt chant\u00e9 \u00aborevoir Pr\u00e9siden \u00e9 J-< SUR_4>\u00bb!! K\u00e8l suspens!!! Ds le doute, pr\u00e9f\u00e9rable kon continu \u00e0 boC. Repriz 2min (12 h) \u00e9 jeudi matin pui stop pr 7 sem. T sur le piton ou tu te bala2? Bon courage"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:yFnVuubrUp4C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=12797124611489953902",
+    "cites_id": [
+        "12797124611489953902"
+    ],
+    "pub_url": "https://agritrop.cirad.fr/580888/8/lopez-roche-panckhurst-PLIN-exemplier-v4-f.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bnhENgiFmLEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2
+    }
+}

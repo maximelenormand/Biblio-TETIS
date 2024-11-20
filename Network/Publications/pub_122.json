@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Food and electricity self-sufficiency trade-offs in Reunion Island: Modelling land-use change scenarios with stakeholders",
+        "pub_year": 2023,
+        "citation": "Land Use Policy 132, 106784, 2023",
+        "author": "Valentin Russeil and Danny Lo Seen and Fran\u00e7ois Broust and Muriel Bonin and Jean-Philippe Praene",
+        "journal": "Land Use Policy",
+        "volume": "132",
+        "pages": "106784",
+        "publisher": "Pergamon",
+        "abstract": "Reunion Island, a French overseas region in the Indian Ocean, has endorsed policies targeting food and electricity self-sufficiency. This objective implies balancing different land-uses (food, feed, bioelectricity, urbanisation, etc.) which we explore in a set of scenarios towards 2035. Through participatory structural analysis, we modelled drivers of change as processes using Ocelet, a spatially explicit and dynamic modelling platform. We built a detailed land-use map for our initial state and calibrated relevant processes through four scenarios ranging from \u201cbusiness-as-usual\u201d to \u201cimplementation of ambitious territory planning policies\u201d. To improve local self-sufficiency, our results support the need for large-scale land planning policies, suggesting partial sugarcane conversion into food crops, urbanisation control, farmlands expansion onto fallows and photovoltaic increase. Our context-specific approach addresses food \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ARl-VIoAAAAJ:L7CI7m0gUJcC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=7918748326410832889",
+    "cites_id": [
+        "7918748326410832889"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0264837723002508",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-ctvxaUL5W0J:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

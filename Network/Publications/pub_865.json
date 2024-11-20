@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u00c9valuation des impacts d'une infrastructure de donn\u00e9es satellitaires-Application \u00e0 la gestion des coupes rases foresti\u00e8res en France",
+        "pub_year": 2021,
+        "citation": "Revue d'\u00e9conomie r\u00e9gionale et urbaine 3 (3), 473-494, 2021",
+        "author": "H\u00e9l\u00e8ne Rey-Valette and Pierre Maurel and Kenji Os\u00e9 and Chady Jabbour and Jean-Michel Salles",
+        "journal": "Revue d'\u00e9conomie r\u00e9gionale et urbaine",
+        "volume": "3",
+        "number": "3",
+        "pages": "473-494",
+        "publisher": "Armand Collin",
+        "abstract": "Cet article propose un cadre exploratoire d\u2019\u00e9valuation des impacts \u00e9conomiques des Infrastructures de Donn\u00e9es G\u00e9ographiques et Spatiales (IDGS) \u00e0 partir de l\u2019exemple de GEOSUD et des cartes de coupes rases relatives \u00e0 la gestion des for\u00eats. L\u2019\u00e9valuation est r\u00e9alis\u00e9e \u00e0 partir d\u2019une enqu\u00eate en ligne aupr\u00e8s des services du minist\u00e8re de l\u2019Agriculture charg\u00e9s du contr\u00f4le des coupes rases r\u00e9alis\u00e9s par les exploitants forestiers. L\u2019approche d\u00e9velopp\u00e9e croise deux points de vue compl\u00e9mentaires. Elle s\u2019 inscrit, d\u2019une part, dans une logique \u00e9conomique pour estimer certains effets \u00e0 l\u2019\u00e9chelle de la cha\u00eene de valeur concern\u00e9e par la fabrique et l\u2019usage de l\u2019information satellitaire, des produits et services th\u00e9matiques d\u00e9riv\u00e9s. Les effets mesur\u00e9s portent sur les \u00e9conomies de co\u00fbts et de productivit\u00e9, la valeur ajout\u00e9e cr\u00e9\u00e9e \u00e0 l\u2019\u00e9chelle de la cha\u00eene de valeur li\u00e9e \u00e0 ces cartes de coupes rases. Au total, il appara\u00eet que pour \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:RHpTSmoSYBkC",
+    "num_citations": 0,
+    "pub_url": "https://www.revues.armand-colin.com/eco-sc-politique/revue-deconomie-regionale-urbaine/revue-deconomie-regionale-urbaine-32021/evaluation-impacts-dune-infrastructure-donnees",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HZ5tvzkU3MwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

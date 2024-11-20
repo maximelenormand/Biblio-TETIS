@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combine Histogram Matching and Domain Adaptation to Cope with Temporal Transfer Learning for the Semantic Segmentation of VHR Images",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "D Ienco and K Ose",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "409-412",
+        "publisher": "IEEE",
+        "abstract": "Very High spatial Resolution (VHR) imagery is a standard in-put to derive fine grain land cover maps (LCM) to support pol-icy makers in many application domains like urban planning and biodiversity. The generation of LCM mainly relies on available ground truth (GT) data to calibrate machine learning methods. Unfortunately, this data is not always accessi-ble. In this scenario, the possibility to transfer a model learnt on a certain period (source domain), where GT data is avail-able, to another period (target domain) without the necessity to collect new GT data would be a cost-effective strategy. To cope with this issue, in this paper, we present a re-search study on temporal transfer learning for the semantic segmentation of VHR imagery. To this end, we propose a case study in which a lightweight procedure such as histogram matching and a recent domain adaptation technique are com-bined together to cope with \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:Nnq8S6OXqDYC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9883611/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FNV2_vBMNkQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

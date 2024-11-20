@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Object-oriented satellite image time series analysis using a graph-based representation",
+        "pub_year": 2018,
+        "citation": "Ecological informatics 43, 52-64, 2018",
+        "author": "Lynda Khiali and Dino Ienco and Maguelonne Teisseire",
+        "journal": "Ecological informatics",
+        "volume": "43",
+        "pages": "52-64",
+        "publisher": "Elsevier",
+        "abstract": "Nowadays, remote sensing technologies produce huge amounts of satellite images that can be helpful to monitor geographical areas over time. A satellite image time series (SITS) usually contains spatio-temporal phenomena that are complex and difficult to understand. Conceiving new data mining tools for SITS analysis is challenging since we need to simultaneously manage the spatial and the temporal dimensions at the same time. In this work, we propose a new clustering framework specifically designed for SITS data. Our method firstly detects spatio-temporal entities, then it characterizes their evolutions by mean of a graph-based representation, and finally it produces clusters of spatio-temporal entities sharing similar temporal behaviors. Unlike previous approaches, which mainly work at pixel-level, our framework exploits a purely object-based representation to perform the clustering task. Object-based \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:PuOEWVtPfzwC",
+    "num_citations": 29,
+    "citedby_url": "/scholar?hl=en&cites=14356671650836775356",
+    "cites_id": [
+        "14356671650836775356"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1574954117301851",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vAEMMc0kPccJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 5,
+        "2020": 11,
+        "2021": 2,
+        "2022": 5,
+        "2023": 5
+    }
+}

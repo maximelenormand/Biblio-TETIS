@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integration of lexical and semantic knowledge for sentiment analysis in sms",
+        "pub_year": 2016,
+        "citation": "Proceedings of the Tenth International Conference on Language Resources and \u2026, 2016",
+        "author": "Wejdene Khiari and Mathieu Roche and Asma Bouhafs Hafsia",
+        "conference": "Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16)",
+        "pages": "1185-1189",
+        "abstract": "With the explosive growth of online social media (forums, blogs, and social networks), exploitation of these new information sources has become essential. Our work is based on the sud4science project. The goal of this project is to perform multidisciplinary work on a corpus of authentic SMS, in French, collected in 2011 and anonymised (88milSMS corpus: http://88milsms. huma-num. fr). This paper highlights a new method to integrate opinion detection knowledge from an SMS corpus by combining lexical and semantic information. More precisely, our approach gives more weight to words with a sentiment (ie presence of words in a dedicated dictionary) for a classification task based on three classes: positive, negative, and neutral. The experiments were conducted on two corpora: an elongated SMS corpus (ie repetitions of characters in messages) and a non-elongated SMS corpus. We noted that non-elongated SMS were much better classified than elongated SMS. Overall, this study highlighted that the integration of semantic knowledge always improves classification."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:8d8msizDQcsC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=8680204741414489164",
+    "cites_id": [
+        "8680204741414489164"
+    ],
+    "pub_url": "https://aclanthology.org/L16-1188/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TAys_ThIdngJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1,
+        "2023": 1
+    }
+}

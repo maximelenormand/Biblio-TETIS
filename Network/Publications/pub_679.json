@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards a (Semi-) Automatic Urban Planning Rule Identification in the French Language",
+        "pub_year": 2023,
+        "citation": "2023 IEEE 10th International Conference on Data Science and Advanced \u2026, 2023",
+        "author": "Maksim Koptelov and Margaux Holveck and Bruno Cremilleux and Justine Reynaud and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)",
+        "pages": "1-10",
+        "publisher": "IEEE",
+        "abstract": "One of the objectives of the H\u00e9relles project is to find new mechanisms to facilitate the labeling (or semantization) of clusters from time series of satellite images. To achieve this, a proposed solution is to associate textual elements of interest with satellite data. The first step in this process consists of an automatic extraction of the information in the form of rules from urban planning documents composed in the French language. To address this challenge, we propose a method which is based on the multi-label classification of textual segments. It includes a special format for representing segments, in which each segment has a title and a subtitle. In addition, we propose a cascade approach aiming to deal with hierarchy of class labels. Finally, we develop several text augmentation techniques for the texts in French, which are able to improve the prediction results. We demonstrate experimentally that the resulting \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:SGW5VrABaM0C",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10302561/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2DNfvXvKCEAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

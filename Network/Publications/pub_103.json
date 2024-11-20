@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Artificial Intelligence Algorithms for Rapeseed Fields Mapping Using Sentinel-1 Time Series: Temporal Transfer Scenario and Ground Sampling Constraints",
+        "pub_year": 2023,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023",
+        "author": "Saeideh Maleki and Nicolas Baghdadi and Cassio Fraga Dantas and Sami Najem and Hassan Bazzi and N\u00faria Pantaleoni Reluy and Dino Ienco and Mehrez Zribi",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "publisher": "IEEE",
+        "abstract": "This study aims to enhance rapeseed field detection accuracy using Sentinel-1 (S1) time series data and addressing challenges in collecting ground samples. The proposed solutions include model transfer between years without retraining and secondly, developing models with limited training samples. The research evaluates the performance of Random Forest (RF) and three deep learning (DL) algorithms: Long Short-Term Memory Fully Convolutional Network (LSTM-FCN), InceptionTime, and Multi-layer Perceptron (MLP). All four algorithms are evaluated initially with abundant ground samples and later with smaller sample sizes (100, 300, 500 and 1000 samples). Model transferability is tested across years. The impact of S1 image count on transfer accuracy is examined. Additionally, the effect of the phenological shift in the rapeseed growth cycle of 15 and 30 days between the training and test years was also \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:mVmsd5A6BfQC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=16658468526900553775",
+    "cites_id": [
+        "16658468526900553775"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10254255/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:L6juZ93ELucJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

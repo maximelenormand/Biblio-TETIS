@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of C-Band Sentinel-1 Data for Estimating Soil Moisture and Surface Roughness in a Watershed in Western France",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "H Zayani and M Zribi and N Baghdadi and E Ayari and Z Kassouk and Z Lili-Chabaane and D Michot and C Walter and Y Fouad",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "6104-6107",
+        "publisher": "IEEE",
+        "abstract": "Radar remote sensing has shown a high potential for soil surface parameters estimation in different pedo-climatic context. In the present study, we investigated Sentinel-l radar signal in order to analyze its behavior as function of soil moisture and soil roughness. In addition, we evaluated the approach combining the modified Integral Equation Model (IEM-B) and the Water Cloud Model (WCM) for estimating soil moisture in western France. Soil surface parameters were acquired over 4 campaigns during which composite soil samples were collected simultaneously to Sentinel-l acquisition dates. The dates of those campaigns were defined according to the evolution of the soil surface condition, during the agricultural season. The sensitivity of radar signal    to soil moisture was studied over the 22 reference fields and over the Thiessen polygons created around the measurement points. Linear relationships are observed \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:ndLnGcHYRF0C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4232910209454112500",
+    "cites_id": [
+        "4232910209454112500"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9883957/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9P6imGhRvjoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Amphora detection based on a gradient weighted error in a convolution neuronal network",
+        "pub_year": 2017,
+        "citation": "IMEKO International Conference on Metrology for Archaeology and Cultural \u2026, 2017",
+        "author": "J\u00e9r\u00f4me Pasquet and Stella Demesticha and Dimitrios Skarlatos and Djamal Merad and Pierre Drap",
+        "conference": "IMEKO International Conference on Metrology for Archaeology and Cultural Heritage, MetroArchaeo 2017",
+        "abstract": "In this paper, we propose a method based on pixel prediction to detect objects into a large image. We propose to integrate the Weighted Error Layer (WEL) in a Convolution Neuronal Network (CNN) architecture in order to weight the error during the backpropagation and to reduce the impact of the borders. We estimate the orientation of the objects when the detection step is achieved. Our proposed layer is evaluated on real data in order to detect amphorae on the Mazatos underwater archaeological site."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=2841229819390673307",
+    "cites_id": [
+        "2841229819390673307"
+    ],
+    "pub_url": "https://amu.hal.science/hal-03605616/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:m0EHnncTbicJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 2,
+        "2020": 0,
+        "2021": 1
+    }
+}

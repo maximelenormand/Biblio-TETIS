@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comprehensive decision-strategy space exploration for efficient territorial planning strategies",
+        "pub_year": 2020,
+        "citation": "Computers, Environment and Urban Systems 83, 101516, 2020",
+        "author": "Olivier Billaud and Maxence Soubeyrand and Sandra Luque and Maxime Lenormand",
+        "journal": "Computers, Environment and Urban Systems",
+        "volume": "83",
+        "pages": "101516",
+        "abstract": "GIS-based Multi-Criteria Decision Analysis is a well-known decision support tool that can be used in a wide variety of contexts. It is particularly useful for territorial planning in situations where several actors with different, and sometimes contradictory, point of views have to take a decision regarding land use development. While the impact of the weights used to represent the relative importance of criteria has been widely studied in the recent literature, the impact of the order weights used to combine the criteria have rarely been investigated. This paper presents a spatial sensitivity analysis to assess the impact of order weights determination in GIS-based Multi-Criteria Analysis by Ordered Weighted Averaging. We propose a methodology based on an efficient exploration of the decision-strategy space defined by the level of risk and trade-off in the decision process. We illustrate our approach with a land use planning \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:M3NEmzRMIkIC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=1961181694628256093",
+    "cites_id": [
+        "1961181694628256093"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0198971520302490",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XdlQSFyENxsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 5,
+        "2022": 2,
+        "2023": 11
+    }
+}

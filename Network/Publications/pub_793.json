@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Innovative Education for Sustainable Development in Peripheral Rural Areas",
+        "pub_year": 2022,
+        "citation": "Proceedings of HAICTA, 2022",
+        "author": "Dimitra Gaki and Serafim Felekis and George Vlahos and Irina Herzon and Maite Puig de Morales Fust\u00e9 and Tristan Berchoux and Ruth BennettCoady and Ionel Mugurel Jitea and Yanka Kazakova and Myriam Kessari and Olgica Klepac and Valentin Mihai and James Moran and Snje\u017eana Tolic and Marija Roglic",
+        "conference": "Proceedings of HAICTA",
+        "abstract": "This paper aims to present the results of the Erasmus + RUR'UP project that developed educational tools for scientists, public managers, practitioners, and agricultural advisors living and working in peripheral rural areas. Based on the assessment of the educational needs and gaps for the sustainable development of the EU peripheral rural areas of Greece."
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:dhFuZR0502QC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=15429837767205913689,4615278866985051715",
+    "cites_id": [
+        "15429837767205913689",
+        "4615278866985051715"
+    ],
+    "pub_url": "https://hal-ciheam.iamm.fr/hal-03889103",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WQQ30LLLIdYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

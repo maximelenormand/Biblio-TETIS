@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "M\u00e9thodologie pour identifier les terrains d\u2019\u00e9tude dans des corpus scientifiques",
+        "pub_year": 2017,
+        "citation": "Document numerique 20 (2), 11-30, 2017",
+        "author": "Eric Kergosien and Marie-No\u00eblle Bessagnet and Maguelonne Teisseire and Joachim Sch\u00f6pfel and Amin Farvardin and St\u00e9phane Chaudiron and Bernard Jacquemin and Annig Le Parc Lacayrelle and Mathieu Roche and Christian Sallaberry and Jean Philippe Tonneau",
+        "journal": "Document numerique",
+        "volume": "20",
+        "number": "2",
+        "pages": "11-30",
+        "publisher": "Lavoisier",
+        "abstract": "Le projet interdisciplinaire TERRE-ISTEX a pour objectif d\u2019identifier l\u2019\u00e9volution des fronts de recherche en relation avec les territoires d\u2019\u00e9tudes, les croisements disciplinaires ainsi que les modalit\u00e9s concr\u00e8tes de recherche \u00e0 partir des contenus num\u00e9riques h\u00e9t\u00e9rog\u00e8nes disponibles dans les corpus scientifiques. Le projet se d\u00e9compose en trois actions principales : (1) identifier les p\u00e9riodes et les lieux qui ont fait l\u2019objet d\u2019\u00e9tudes empiriques et dont rendent compte les publications issues des corpus analys\u00e9s, (2) identifier les th\u00e9matiques trait\u00e9es dans le cadre de ces \u00e9tudes et enfin (3) d\u00e9velopper un d\u00e9monstrateur web de recherche d\u2019information g\u00e9ographique (RIG). Les deux premi\u00e8res actions font intervenir des approches combinant des patrons du traitement automatique du langage naturel \u00e0 des m\u00e9thodes de fouille de textes. En croisant les trois dimensions (spatial, th\u00e9matique et temporel) dans un moteur de \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:Ehil0879vHcC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12614472920254145726",
+    "cites_id": [
+        "12614472920254145726"
+    ],
+    "pub_url": "https://www.cairn.info/revue-document-numerique-2017-2-page-11.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vmSIYEmcD68J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

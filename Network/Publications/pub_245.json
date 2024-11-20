@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Potential of combined Sentinel 1/Sentinel 2 images for mapping topsoil organic carbon content over cropland taking into account soil roughness",
+        "pub_year": 2018,
+        "citation": "EGU General Assembly Conference Abstracts, 14368, 2018",
+        "author": "Dav M Ebengo and Emmanuelle Vaudour and Jean-Marc Gilliot and Dalila Hadjar and Nicolas Baghdadi",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "14368",
+        "abstract": "Soil fertility management and climate change mitigation require the monitoring of soil organic carbon content. This study aimed at assessing the potential of combining Sentinel-1/Sentinel-2 images for topsoil organic carbon content (SOC) prediction over croplands, taking into account the soil surface roughness shaped by cultural operations. It focused on the Versailles plain, a peri-urban region of 221 Km\u00b2 located in the Ile-de-France region. Non-agricultural areas were masked using a vector layer derived from the graphical plot reference frame (RPG). Multispectral optical data were acquired from the European Space Agency (ESA) Sentinel-2 mission at four different dates in March-April 2017. For predicting SOC values, 129 plots sampled between 2010 and 2017, which were bare at the time of acquisitions, were used to construct Partial least squares regression (PLSR) models from the reflectance spectra of each \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:_OXeSy2IsFwC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=2944773385252095925",
+    "cites_id": [
+        "2944773385252095925"
+    ],
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2018EGUGA..2014368E/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tcf5s8rv3SgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1
+    }
+}

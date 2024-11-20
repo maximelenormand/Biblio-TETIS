@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-2 satellite image time-series land cover classification with bernstein copula approach",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (13), 3080, 2022",
+        "author": "Cristiano Tamborrino and Roberto Interdonato and Maguelonne Teisseire",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "13",
+        "pages": "3080",
+        "publisher": "MDPI",
+        "abstract": "A variety of remote sensing applications call for automatic optical classification of satellite images. Recently, satellite missions, such as Sentinel-2, allow us to capture images in real-time of the Earth\u2019s scenario. The classification of this large amount of data requires increasingly precise and fast methods, which must take into account not only the spectral features dependence of each individual image but also that of the temporal ones. Copulas are an excellent statistical tool, able to model joint distributions between even random variables. In this paper, we propose a new approach for Satellite Image Time-Series (SITS) land cover classification, which combines the matrix factorization to reduce the dimensionality of the data and the use of copulas distribution to model the dependencies. We will show how the use of particular copulas can improve the accuracy of classification compared to the latest methodologies used for the classification task, such as those using Neural Networks. Experiments were conducted at a study site located on Reunion Island, using Sentinel-2 SITS data. Results are compared to those achieved by several approaches commonly used to address SITS-based land cover mapping and show that the use of copulas, in combination with the matrix factorization, achieved the highest classification yield compared to competing approaches."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:pqnbT2bcN3wC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=17288176242416278742",
+    "cites_id": [
+        "17288176242416278742"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/13/3080",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1tyRH7Lw6-8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 3
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A Deep Learning Approach for Forest Height Estimation using TanDEM-X",
+        "pub_year": 2023,
+        "citation": "Journal of Selected Topics in Applied Earth Observations and Remote Sensing \u2026, 2023",
+        "author": "Daniel Carcereri and Paola Rizzoli and Dino Ienco and Lorenzo Bruzzone",
+        "journal": "Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "16",
+        "pages": "8334-8352",
+        "abstract": "A Deep Learning Approach for Forest Height Estimation using TanDEM-X Page 1 Daniel \nCarcereri1,2, Paola Rizzoli1, Dino Ienco3, Lorenzo Bruzzone2 1. Microwaves and Radar \nInstitute, German Aerospace Center 2. RSLab, University of Trento 3. INRAE A Deep Learning \nApproach for Forest Height Estimation using TanDEM-X Page 2 Methodology \u25aa Deep neural \nnetwork: \u25aa CNN architecture \u25aa Hyperparameter tuning \u25aa Supervised learning: \u25aa Training on \n15x15 pixel patches \u25aa Multiple acquisitions for each area \u25aa \ud835\udc3f\ud835\udc5c\ud835\udc60\ud835\udc60 = 1 \ud835\udc5b \u03c3 \ud835\udc56=1 \ud835\udc5b (\u0ddc\ud835\udc66\ud835\udc56 \u2212 \u0ddc\ud835\udc66) \n2 + \ud835\udf06\u03c3 \ud835\udc57=1 \ud835\udc5a \ud835\udc64 \ud835\udc57 2 TerraSAR-X / TanDEM-X Science Team Meeting 2023 2 D. Carcereri, P. \nRizzoli, D. Ienco and L. Bruzzone \"A Deep Learning Framework for the Estimation of Forest \nHeight From Bistatic TanDEM-X Data\" in IEEE Journal of Selected Topics in Applied Earth \nObservations and Remote Sensing, vol. 16, pp. 8334-8352, 2023, doi: 10.1109/JSTARS.\u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:J4E9jCG1tHUC",
+    "num_citations": 0,
+    "pub_url": "https://tandemx-science.dlr.de/TerraSAR-X_TanDEM_X_Science_Team_Meeting_2023/PDF-Documents/Oral/Session_10-2-2_Carcereri.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AVR3KIR7W3QJ:scholar.google.com/",
+    "cites_per_year": {}
+}

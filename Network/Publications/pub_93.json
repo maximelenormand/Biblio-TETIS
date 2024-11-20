@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Local community detection in multilayer networks",
+        "pub_year": 2017,
+        "citation": "Data Mining and Knowledge Discovery 31, 1444-1479, 2017",
+        "author": "Roberto Interdonato and Andrea Tagarelli and Dino Ienco and Arnaud Sallaberry and Pascal Poncelet",
+        "journal": "Data Mining and Knowledge Discovery",
+        "volume": "31",
+        "pages": "1444-1479",
+        "publisher": "Springer US",
+        "abstract": "The problem of local community detection in graphs refers to the identification of a community that is specific to a query node and relies on limited information about the network structure. Existing approaches for this problem are defined to work in dynamic network scenarios, however they are not designed to deal with complex real-world networks, in which multiple types of connectivity might be considered. In this work, we fill this gap in the literature by introducing the first framework for local community detection in multilayer networks (ML-LCD). We formalize the ML-LCD optimization problem and provide three definitions of the associated objective function, which correspond to different ways to incorporate within-layer and across-layer topological features. We also exploit our framework to generate multilayer global community structures. We conduct an extensive experimentation using seven real-world \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:WF5omc3nYNoC",
+    "num_citations": 63,
+    "citedby_url": "/scholar?hl=en&cites=5214457031219192876",
+    "cites_id": [
+        "5214457031219192876"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s10618-017-0525-y",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LKRb4gp5XUgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 5,
+        "2019": 6,
+        "2020": 12,
+        "2021": 18,
+        "2022": 10,
+        "2023": 8,
+        "2024": 2
+    }
+}

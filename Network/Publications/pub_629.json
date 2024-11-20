@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GEDI meets BIOMASS tomography: data selection and perspectives",
+        "pub_year": 2023,
+        "citation": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2023",
+        "author": "D Ho Tong Minh and YN Ngo and N Baghdadi and L Ferro-Famil and Y Huang and I Fayad and T Le Toan",
+        "conference": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "7926-7928",
+        "publisher": "IEEE",
+        "abstract": "Quantification of forest\u2019s vertical structure in the tropics using remote sensing is a challenge. NASA\u2019s Global Ecosystem Dynamics Investigation (GEDI) is collecting spaceborne LiDAR data, whereas the ESA\u2019s next Earth Explorer BIOMASS mission will acquire multiple acquisitions over the same areas to form three-dimensional images through SAR tomography (TomoSAR) technique. We show that GEDI and P-band TomoSAR can directly measure vegetation heights and vertical profiles with high resolution and precision. The GEDI vegetation height error is 5 m at the tropical sites, similar to the expected performance of the future spaceborne BIOMASS mission. These results suggest GEDI measurements, i.e., RH98 from full power shots with sensitivity greater than 98%, will provide a good reference of forest structure to calibrate the BIOMASS mission algorithms."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:BJtnxTr0fRcC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10282132/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7X4lwWS-g7UJ:scholar.google.com/",
+    "cites_per_year": {}
+}

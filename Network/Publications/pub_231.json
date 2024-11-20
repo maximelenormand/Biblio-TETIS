@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Uncovering the socioeconomic structure of spatial and social interactions in cities",
+        "pub_year": 2023,
+        "citation": "Urban Science 7, 15, 2023",
+        "author": "Maxime Lenormand and Horacio Samaniego",
+        "journal": "Urban Science",
+        "volume": "7",
+        "pages": "15",
+        "publisher": "MDPI",
+        "abstract": "The relationship between urban mobility, social networks, and socioeconomic status is complex and difficult to apprehend, notably due to the lack of data. Here we use mobile phone data to analyze the socioeconomic structure of spatial and social interaction in the Chilean urban system. Based on the concept of spatial and social events, we develop a methodology to assess the level of spatial and social interactions between locations according to their socioeconomic status. We demonstrate that people with the same socioeconomic status preferentially interact with locations and people with a similar socioeconomic status. We also show that this proximity varies similarly for both spatial and social interactions during the course of the week. Finally, we highlight that these preferential interactions appear to hold when considering city\u2013city interactions."
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:cFHS6HbyZ2cC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=6474070625470250679",
+    "cites_id": [
+        "6474070625470250679"
+    ],
+    "pub_url": "https://www.mdpi.com/2413-8851/7/1/15",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:t_7xye6E2FkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

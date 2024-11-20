@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Influence of sampling design parameters on biomass predictions derived from airborne lidar data",
+        "pub_year": 2019,
+        "citation": "Canadian Journal of Remote Sensing 45 (5), 650-672, 2019",
+        "author": "Marc Bouvier and Sylvie Durrieu and Richard A Fournier and Nathalie Saint-Geours and Dominique Guyon and Eloi Grau and Florian De Boissieu",
+        "journal": "Canadian Journal of Remote Sensing",
+        "volume": "45",
+        "number": "5",
+        "pages": "650-672",
+        "publisher": "Taylor & Francis",
+        "abstract": "This study investigated the influence of sampling design parameters on biomass prediction accuracy obtained from airborne lidar data. A one-factor-at-a-time and a global sensitivity analyses were applied to identify the parameters most impacting model accuracy. We focused on several lidar and field survey parameters that can be easily controlled by users. In this pine plantations study site, a decrease in pulse density (4 to 0.5 pulse/m2) led to a small decrease in prediction accuracy (\u22123%). However, variability in the number of field plots, positioning accuracy, and plot size, significantly impacted model performance. To obtain a robust model, a minimum of 40 field plots, along with field plot position accuracy of 5\u2009m or lower, and field plot radius exceeding 13\u2009m are recommended. The minimum diameter at breast height (DBH) threshold and the choice of the allometric biomass equation were found to have lesser \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:iH-uZ7U-co4C",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=7351733037835948594",
+    "cites_id": [
+        "7351733037835948594"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/07038992.2019.1669013",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MhK3Kz-aBmYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 2,
+        "2021": 4,
+        "2022": 5,
+        "2023": 1,
+        "2024": 1
+    }
+}

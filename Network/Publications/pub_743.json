@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Ecological distribution and population dynamics of Rift Valley fever virus mosquito vectors (Diptera, Culicidae) in Senegal",
+        "pub_year": 2018,
+        "citation": "Parasites & vectors 11 (1), 1-10, 2018",
+        "author": "Biram Biteye and Assane G Fall and Mamadou Ciss and Momar T Seck and Andrea Apolloni and Moussa Fall and Annelise Tran and Geoffrey Gimonneau",
+        "journal": "Parasites & vectors",
+        "volume": "11",
+        "number": "1",
+        "pages": "1-10",
+        "publisher": "BioMed Central",
+        "abstract": "Many zoonotic infectious diseases have emerged and re-emerged over the last two decades. There has been a significant increase in vector-borne diseases due to climate variations that lead to environmental changes favoring the development and adaptation of vectors. This study was carried out to improve knowledge of the ecology of mosquito vectors involved in the transmission of Rift Valley fever virus (RVFV) in Senegal. An entomological survey was conducted in three Senegalese agro-systems, Senegal River Delta (SRD), Senegal River Valley (SRV) and Ferlo, during the rainy season (July to November) of 2014 and 2015. Mosquitoes were trapped using CDC light traps set at ten sites for two consecutive nights during each month of the rainy season, for a total of 200 night-traps. Ecological indices were calculated to characterize the different populations of RVFV mosquito vectors. Generalized linear models with mixed effects were used to assess the influence of climatic conditions on the abundance of RVFV mosquito vectors. A total of 355,408 mosquitoes belonging to 7 genera and 35 species were captured in 200 night-traps. RVFV vectors represented 89.02% of the total, broken down as follows: Ae. vexans arabiensis (31.29%), Cx. poicilipes (0.6%), Cx. tritaeniorhynchus (33.09%) and Ma. uniformis (24.04%). Comparison of meteorological indices (rainfall, temperature, relative humidity), abundances and species diversity indicated that there were no significant differences between SRD and SRV (P\u2009=\u20090.36) while Ferlo showed significant differences with both (P\u2009<\u20090.001). Mosquito collection increased significantly with temperature for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:WqliGbK-hY8C",
+    "num_citations": 34,
+    "citedby_url": "/scholar?hl=en&cites=15007175487919457677",
+    "cites_id": [
+        "15007175487919457677"
+    ],
+    "pub_url": "https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2591-9",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jYVjR5gyRNAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 4,
+        "2019": 8,
+        "2020": 6,
+        "2021": 5,
+        "2022": 5,
+        "2023": 6
+    }
+}

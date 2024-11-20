@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TETIS@ Challenge TextMine 2024:\" Reconnaissance d'entit\u00e9s g\u00e9ographiques dans un corpus des Instructions nautiques\"",
+        "pub_year": 2024,
+        "citation": "Extraction et Gestion des Connaissances (EGC)-D\u00e9fi textMine, 2024",
+        "author": "R\u00e9my Decoupes and Roberto Interdonato and Rodrique Kafando and Mathieu Roche and Mehtab Alam Syed and Maguelonne Teisseire and Sarah Valentin",
+        "conference": "Extraction et Gestion des Connaissances (EGC)-D\u00e9fi textMine",
+        "abstract": "Notre \u00e9quipe, issue de l\u2019unit\u00e9 TETIS (Territoires, environnement, t\u00e9l\u00e9d\u00e9tection et information spatiale), s\u2019 int\u00e9resse \u00e0 diff\u00e9rents t\u00e2ches du domaine du Traitement Automatique du Langage Naturel (TALN) en se concentrant sur les probl\u00e9matiques associ\u00e9es \u00e0 l\u2019information spatiale. La reconnaissance des entit\u00e9s spatiales dans les donn\u00e9es textuelles repr\u00e9sente une \u00e9tape importante dans la majorit\u00e9 des cha\u00eenes de traitements. Aussi, les donn\u00e9es relatives \u00e0 l\u2019information spatiale n\u00e9cessitent une attention particuli\u00e8re. Par exemple, nos travaux proposent (i) des m\u00e9thodes d\u2019extraction d\u2019information spatiale \u00e0 partir de donn\u00e9es non standards (Zenasni et al., 2018),(ii) des m\u00e9thodes et outils de geocoding et d\u00e9sambigu\u00efsation d\u2019entit\u00e9s spatiales (Syed et al., 2023; Kafando et al., 2023),(iii) des algorithmes d\u2019augmentation de donn\u00e9es fond\u00e9s sur l\u2019information g\u00e9ographique pour l\u2019entra\u00eenement de mod\u00e8les de type Transformers (Decoupes et al., 2023)."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:dshw04ExmUIC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=16607212047071697279",
+    "cites_id": [
+        "16607212047071697279"
+    ],
+    "pub_url": "https://hal.science/hal-04423449/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:f9lLN16reOYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Quand jouer la carte des sites naturels de compensation dans un territoire?",
+        "pub_year": 2022,
+        "citation": "Sciences Eaux & Territoires 1 (38), 74-79, 2022",
+        "author": "Brian Padilla and Anne-Charlotte Vaissi\u00e8re and Jane Lecomte and Pierre Bieuzen and Coralie Calvet and Gilles J Martin and Benoit Pr\u00e9vost",
+        "journal": "Sciences Eaux & Territoires",
+        "volume": "1",
+        "number": "38",
+        "pages": "74-79",
+        "publisher": "Cairn/Cairn",
+        "abstract": "Les sites naturels de compensation ouvrent une modalit\u00e9 de compensation \u00e9cologique nouvelle dans les pratiques fran\u00e7aises. En permettant d\u2019anticiper la r\u00e9alisation des mesures, en visant des gains \u00e9cologiques cumul\u00e9s importants sur un site divis\u00e9 en unit\u00e9s de compensation et agr\u00e9\u00e9 par l\u2019\u00c9tat et sur un temps sup\u00e9rieur \u00e0 trente ans, c\u2019est une nouvelle politique de l\u2019offre qui vient compl\u00e9ter la compensation \u00e0 la demande habituellement mise en \u0153uvre. \u00c9labor\u00e9 \u00e0 partir des \u00e9changes tenus lors de la table ronde organis\u00e9e \u00e0 l\u2019occasion du s\u00e9minaire \u00ab Sites naturels de compensation : quels freins et perspectives ? \u00bb cet article met en relation les analyses d\u2019experts en \u00e9cologie, \u00e9conomie, droit et am\u00e9nagement des territoires pour discuter de la place que pourrait occuper cette modalit\u00e9 par rapport aux autres modalit\u00e9s de compensation, dans les politiques de pr\u00e9servation de la biodiversit\u00e9 et parmi les visions \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:_Qo2XoVZTnwC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1147364268238180883",
+    "cites_id": [
+        "1147364268238180883"
+    ],
+    "pub_url": "https://www.cairn.info/revue-sciences-eaux-et-territoires-2021-4-page-74.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ExJQFLlB7A8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

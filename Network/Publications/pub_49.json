@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Pervasiveness of the Notion of Lurking in OSNs",
+        "pub_year": 2018,
+        "citation": "Mining Lurkers in Online Social Networks: Principles, Models, and \u2026, 2018",
+        "author": "Andrea Tagarelli and Roberto Interdonato and Andrea Tagarelli and Roberto Interdonato",
+        "journal": "Mining Lurkers in Online Social Networks: Principles, Models, and Computational Methods",
+        "pages": "39-46",
+        "publisher": "Springer International Publishing",
+        "abstract": "Identifying and mining lurkers finds application in a variety of OSNs other than social media platforms. In this chapter, we put evidence on the pervasiveness of the notion of lurking, utilizing collaboration networks and trust networks as two cases in point. As regards collaboration networks, we focus on a parallel between lurkers and vicarious learners, i.e., users who take \u201cnon-expert\u201d roles such as apprentices or advisees. We illustrate how to model a vicarious-learning-oriented collaboration network and we describe a method to identify and rank vicarious learners on it, namely VLRank. The second part of the chapter is devoted to the study of relations between lurkers and trustworthy/untrustworthy users. Through an analysis on who-trusts-whom networks and social media networks, we clarify to what extent the general perception of lurkers as untrustworthy users is appropriate or not."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-00229-9_5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pnwga6mImm4J:scholar.google.com/",
+    "cites_per_year": {}
+}

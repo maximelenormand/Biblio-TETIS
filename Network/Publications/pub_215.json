@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Galaxy image translation with semi-supervised noise-reconstructed generative adversarial networks",
+        "pub_year": 2021,
+        "citation": "2020 25th International Conference on Pattern Recognition (ICPR), 5634-5641, 2021",
+        "author": "Qiufan Lin and Dominique Fouchez and J\u00e9r\u00f4me Pasquet",
+        "conference": "2020 25th International Conference on Pattern Recognition (ICPR)",
+        "pages": "5634-5641",
+        "publisher": "IEEE",
+        "abstract": "Image-to-image translation with Deep Learning neural networks, particularly with Generative Adversarial Networks (GANs), is one of the most powerful methods for simulating astronomical images. However, current work is limited to utilizing paired images with supervised translation, and there has been rare discussion on reconstructing noise background that encodes instrumental and observational effects. These limitations might be harmful for subsequent scientific applications in astrophysics. Therefore, we aim to develop methods for using unpaired images and preserving noise characteristics in image translation. In this work, we propose a two-way image translation model using GANs that exploits both paired and unpaired images in a semi-supervised manner, and introduce a noise emulating module that is able to learn and reconstruct noise characterized by high-frequency features. By experimenting on multi \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:M3ejUd6NZC8C",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=18317561689387972278",
+    "cites_id": [
+        "18317561689387972278"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9412143/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tjZGT04NNf4J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 4,
+        "2024": 1
+    }
+}

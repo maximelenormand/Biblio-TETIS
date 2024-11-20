@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The Tucker tensor decomposition for data analysis: capabilities and advantages",
+        "pub_year": 2022,
+        "citation": "38\u00e8me Conf\u00e9rence sur la Gestion de Donn\u00e9es (BDA), 2022",
+        "author": "Annabelle Gillet and Eric Leclercq and Lucile Sautot",
+        "conference": "38\u00e8me Conf\u00e9rence sur la Gestion de Donn\u00e9es (BDA)",
+        "abstract": "Tensors are powerful multi-dimensional mathematical objects, that easily embed various data models such as relational, graph, time series, etc. Furthermore, tensor decomposition operators are of great utility to reveal hidden patterns and complex relationships in data. In this article, we propose to study the analytical capabilities of the Tucker decomposition, as well as the differences brought by its major algorithms. We demonstrate these differences through practical examples on several datasets having a ground truth. It is a preliminary work to add the Tucker decomposition to the Tensor Data Model, a model aiming to make tensors data-centric, and to optimize operators in order to enable the manipulation of large tensors."
+    },
+    "filled": true,
+    "author_pub_id": "NAGlML4AAAAJ:kNdYIx-mwKoC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=15571044325905516860",
+    "cites_id": [
+        "15571044325905516860"
+    ],
+    "pub_url": "https://u-bourgogne.hal.science/hal-03892165/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PMl1w1B2F9gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

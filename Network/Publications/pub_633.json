@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Temperature estimation at the beginning of the last millennium in western Greenland: preliminary results from the application of a degree\u2011day glaciological model on the Lyngmarksbr\u00e6en glacier",
+        "pub_year": 2018,
+        "citation": "G\u00e9omorphologie: relief, processus, environnement 24 (1), 31-41, 2018",
+        "author": "Melody Biette and Vincent Jomelli and Vincent Favier and Marie Chenet and C\u00e9cile Agosta and Xavier Fettweis and Dinh Ho Tong Minh and Kenji Ose",
+        "journal": "G\u00e9omorphologie: relief, processus, environnement",
+        "volume": "24",
+        "number": "1",
+        "pages": "31-41",
+        "abstract": "The last millennium is deined as a 'stable' climatic period with anomalies such as the Little Ice Age (LIA: ~1450 AD to 1850 AD), a period marked by low temperatures and associated with a glacier advance. Also the Medieval Climate Anomaly (MCA: ~950 AD to 1250 AD), considered as a period at least as warm as nowadays and associated with glacier retreat in the northern hemisphere. However, several studies have shown that glacial advances have occurred during the MCA period in the Bain Land and western Greenland, in contradiction with hemispheric'scale temperature reconstructions. In this study we propose temperature conditions for the last millennium determined from a recent study on the glacial luctuations of the Lyngmarksbr\u00e6en glacier and the application of an empirical positive degree'day model (PDD) constrained by the outputs of the regional climate MAR atmospheric model. his simulation was conducted on the Lyngmarksbr\u00e6en glacier, which shows an original succession of nested moraines dated from the last millennium. he results show that the most likely scenarios are based on air temperatures in the range of '1.3\u00b0C to '1.6\u00b0C lower during the MCA than at the end of the 20th century if we consider a variation of about \u00b1 10% in precipitation. Sensitivity tests are then made on diferent parameters of the glaciological model to better constrain the uncertainty of the temperature estimations."
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:zYLM7Y9cAGgC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02349964/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sH9HwJE3f4EJ:scholar.google.com/",
+    "cites_per_year": {}
+}

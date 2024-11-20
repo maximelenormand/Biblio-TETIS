@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Apport de l\u2019information g\u00e9ospatiale dans les d\u00e9cisions d\u2019am\u00e9nagement du territoire. Une exp\u00e9rimentation \u00e0 partir de cartes d\u2019occupation du sol \u00e0 tr\u00e8s haute r\u00e9solution spatiale, et de cartes de services \u00e9cosyst\u00e9miques",
+        "pub_year": 2020,
+        "citation": "D\u00e9veloppement durable et territoires. \u00c9conomie, g\u00e9ographie, politique, droit \u2026, 2020",
+        "author": "H\u00e9l\u00e8ne Rey-Valette and Pierre Maurel and Chady Jabbour and Camille Cousin and Sandra Luque and Olivier Billaud and Jean Michel Salles",
+        "journal": "D\u00e9veloppement durable et territoires. \u00c9conomie, g\u00e9ographie, politique, droit, sociologie",
+        "volume": "11",
+        "number": "3",
+        "publisher": "R\u00e9seau \u00abD\u00e9veloppement durable et territoires fragiles\u00bb",
+        "abstract": "Cet article \u00e9tudie dans quelle mesure des cartes d\u2019occupation des sols \u00e0 haute r\u00e9solution \u00e0 partir d\u2019images satellitaires et des cartes spatialisant certains services \u00e9cosyst\u00e9miques peuvent am\u00e9liorer les d\u00e9cisions d\u2019am\u00e9nagement en mati\u00e8re d\u2019urbanisation. Il s\u2019agit de renforcer la prise en compte des enjeux environnementaux par l\u2019ing\u00e9nierie territoriale. L\u2019analyse est fond\u00e9e sur un atelier exp\u00e9rimental simulant un processus de d\u00e9cision de choix d\u2019am\u00e9nagement \u00e0 partir de ces deux types de cartes. Les r\u00e9sultats t\u00e9moignent de l\u2019int\u00e9r\u00eat des cartes de services \u00e9cosyst\u00e9miques en termes de d\u00e9couverte, de mise en coh\u00e9rence, d\u2019efficacit\u00e9 et d\u2019acceptabilit\u00e9 de pratiques de gestion multifonctionnelles de l\u2019espace."
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:yeKNu01O_4gC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=13196126094096634360",
+    "cites_id": [
+        "13196126094096634360"
+    ],
+    "pub_url": "https://journals.openedition.org/developpementdurable/17778",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-JHkOcQOIrcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 3
+    }
+}

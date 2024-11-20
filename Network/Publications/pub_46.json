@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\" Are you an influencer, or a lurker? why not both! understanding alternate, opposite behaviors in complex social network systems\" by Diego Perna, Roberto Interdonato, and Andrea Tagarelli with Martin Vesely as coordinator",
+        "pub_year": 2019,
+        "citation": "ACM SIGWEB Newsletter 2019 (Spring), 1-8, 2019",
+        "author": "Diego Perna and Roberto Interdonato and Andrea Tagarelli",
+        "journal": "ACM SIGWEB Newsletter",
+        "volume": "2019",
+        "number": "Spring",
+        "pages": "1-8",
+        "publisher": "ACM",
+        "abstract": "Nowadays, the massive and horizontal diffusion of online social networks (OSNs) allows users to uncover different aspects about themselves through the use of multiple online platforms. In this respect, linking the accounts related to the same individual enables a more complete and thorough analysis of online behaviors. Indeed, the complexity of scenarios concerning the analysis of linked accounts across multiple platforms raises an emergence for developing effective models and methods to understand the characteristics and dynamics of multiple, interconnected types of user relations. In this context, we leverage the importance of studying the dichotomy between information-producers (contributors) and information-consumers (lurkers), and their interplay over a multilayer network, in order to effectively analyze the different roles a user may take on different OSNs. In particular, here we discuss a solution to the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:9ZlFYXVOiuMC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=13380364131774357426",
+    "cites_id": [
+        "13380364131774357426"
+    ],
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3320496.3320499",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:st_JH0masLkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

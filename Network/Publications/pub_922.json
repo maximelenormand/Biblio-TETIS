@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PolInSAR tomography for vertical profile retrieval of forest vegetation using spaceborne SAR data",
+        "pub_year": 2016,
+        "citation": "Land Surface and Cryosphere Remote Sensing III 9877, 41-50, 2016",
+        "author": "Sushil Kumar Joshi and Shashi Kumar and Shefali Agrawal and Ho Tong Minh Dinh",
+        "conference": "Land Surface and Cryosphere Remote Sensing III",
+        "volume": "9877",
+        "pages": "41-50",
+        "publisher": "SPIE",
+        "abstract": "Forest height plays a crucial role to investigate the bio-physical parameters of forest and the terrestrial carbon. PolInSAR based inversion modeling has been successfully implemented on airborne and space-borne SAR data. SAR tomography, which is an extension of cross-track interferometric processing is a recent approach to separate scatterers in cross range direction, thus generates its vertical profile. This study highlighted the potential of tomographic processing of fully polarimetric Radarsat-2 SAR system to retrieve backscatter power at different height levels. Teak forest in Haldwani forest division of Uttarakhand state of India was chosen as the test site. Since SAR tomography is a spectral estimation problem, Fourier transform and beamforming based spectral estimations were applied on the dataset to obtain their vertical profiles. Fourier severely suffered from high side lobes which was drastically reduced by \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:4JMBOYKVnBMC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=14637855408929662387",
+    "cites_id": [
+        "14637855408929662387"
+    ],
+    "pub_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9877/987709/PolInSAR-tomography-for-vertical-profile-retrieval-of-forest-vegetation-using/10.1117/12.2228068.short",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:s2XIkvAbJMsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

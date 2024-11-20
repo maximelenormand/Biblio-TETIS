@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Use of very high spatial resolution imagery for mapping wood energy potential from tropical managed forest stands, Reunion island",
+        "pub_year": 2021,
+        "citation": "The International Archives of the Photogrammetry, Remote Sensing and Spatial \u2026, 2021",
+        "author": "H\u00e9l\u00e8ne Bley-Dalouman and Fran\u00e7ois Broust and J Prevost and A Tran",
+        "journal": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "volume": "43",
+        "pages": "189-194",
+        "publisher": "Copernicus GmbH",
+        "abstract": " The development of a sustainable wood energy chain is an essential part of ecological and energy transition in Reunion Island (Indian Ocean), where Acacia mearnsii is the main potential wood energy resource identified to date. In order to assess future wood biomass supply chain strategies, a major first issue is to gain knowledge of the spatial distribution of this species forest stands.In this study, we assessed the potential of very high spatial resolution multispectral imagery for mapping the main forest stands in a study area located the Western Highlands region, where Acacia mearnsii expands alongside Acacia heterophylla, an endemic forest species and Cryptomeria japonica, an exotic forest stand. A reference database including 150 samples of seven classes (Acacia mearnsii (mature and non-mature), Acacia heterophylla (mature and non-mature), Cryptomeria japonica, \u2018herbaceous areas\u2019, and \u2018bare soils\u2019) was used to classify a Pleiades image acquired in May 2020. Spectral and textural indices were used in an incremental classification procedure using a random classifier.The best results (Kappa = 0.84, global accuracy = 84%) were obtained for the classification using all spectral and textural bands. The resulting map enables analyzing the spatial distribution of the different forest stands."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:Ri6SYOTghG4C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=8122693108382601135",
+    "cites_id": [
+        "8122693108382601135"
+    ],
+    "pub_url": "https://isprs-archives.copernicus.org/articles/XLIII-B3-2021/189/2021/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:r4-ooFiauXAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

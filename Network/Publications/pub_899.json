@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Individual, social, and environmental correlates of active transportation patterns in French women",
+        "pub_year": 2017,
+        "citation": "BioMed research international 2017, 2017",
+        "author": "Camille Perchoux and Christophe Enaux and Jean-Michel Oppert and Mehdi Menai and H\u00e9l\u00e8ne Charreire and Paul Salze and Christiane Weber and Serge Hercberg and Thierry Feuillet and Franck Hess and C\u00e9lina Roda and Chantal Simon and Julie-Anne Nazare",
+        "journal": "BioMed research international",
+        "volume": "2017",
+        "publisher": "Hindawi",
+        "abstract": "The objectives were (1) to define physical activity (PA) and sedentary behaviors (SB) patterns in daily life contexts (work, leisure, and transportation) in French working women from NutriNet-Sant\u00e9 web-cohort and (2) to identify pattern(s) of active transportation and their individual, social, and environmental correlates. 23,432 participants completed two questionnaires to evaluate PA and SB in daily life contexts and individual representations of residential neighborhood and transportation modes. Hierarchical cluster analysis was performed which identified 6 distinct movement behavior patterns: (i) active occupation, high sedentary leisure, (ii) sedentary occupation, low leisure, (iii) sedentary transportation, (iv) sedentary occupation and leisure, (v) active transportation, and (vi) active leisure. Multinomial logistic regressions were performed to identify correlates of the \u201cactive transportation\u201d cluster. The perceived environmental characteristics positively associated with \u201cactive transportation\u201d included \u201chigh availability of destinations around home,\u201d \u201cpresence of bicycle paths,\u201d and \u201clow traffic.\u201d A \u201cpositive image of walking/cycling,\u201d the \u201cindividual feeling of being physically active,\u201d and a \u201chigh use of active transport modes by relatives/friends\u201d were positively related to \u201cactive transportation,\u201d identified as a unique pattern regarding individual and environmental correlates. Identification of PA and SB context-specific patterns will help to understand movement behaviors\u2019 complexity and to design interventions to promote active transportation in specific subgroups."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:LI9QrySNdTsC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=6490199383279268333",
+    "cites_id": [
+        "6490199383279268333"
+    ],
+    "pub_url": "https://www.hindawi.com/journals/bmri/2017/9069730/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7fHR2fPREVoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 4,
+        "2022": 2,
+        "2023": 4
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Results from the GLORIE GNSS-R airborne campaign: Agricultural areas",
+        "pub_year": 2017,
+        "citation": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS \u2026, 2017",
+        "author": "Erwan Motte and Mehrez Zribi and Pascal Fanise and Nicolas Baghdadi and Fr\u00e9d\u00e9ric Baup and Sahar Ben Hmida and Sylvia Dayau and Remy Fieuzal and Dominique Guyon and Jean Pierre Wigneron",
+        "conference": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "pages": "4106-4109",
+        "publisher": "IEEE",
+        "abstract": "The GLORIE Campaign was performed in June-July 2015 in order to investigate the sensitivity of airborne GNSS-R measurements to land parameters. In this paper we present the first results focusing on agricultural areas. For this purpose ground truth measurements of soil moisture, roughness, plant water content, leaf area index and plant height were measured over 20 agricultural plots of various crops (cereals, vegetables, bare soil). The correlation with GNSS reflectivity in LHCP polarization confirms noticeable sensitivity to soil moisture, and plant-related parameters especially vegetation cover height."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:HIFyuExEbWQC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=911444550317819591",
+    "cites_id": [
+        "911444550317819591"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8127903/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:x8YoTv0ZpgwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

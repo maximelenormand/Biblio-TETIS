@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-1/Sentinel-2-Derived Soil Moisture Product At Plot Scale (S2 MP)",
+        "pub_year": 2020,
+        "citation": "2020 Mediterranean and Middle-East Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "Lo\u00efc Lozac\u2019h and Hassan Bazzi and Nicolas Baghdadi and Mohammad El Hajj and Mehrez Zribi and R\u00e9mi Cresson",
+        "conference": "2020 Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)",
+        "pages": "168-171",
+        "publisher": "IEEE",
+        "abstract": "The objective of this paper is to present an operational approach for mapping soil moisture at high spatial resolution over agricultural areas with vegetation cover. The developed approach uses the neural network (NN) technique based on coupling Sentinel-1 radar data and Sentinel-2 optical data. The neural networks were developed and validated using synthetic and real databases. To operationally map the soil moisture, the developed NN uses the C-band SAR signal in VV polarization, SAR incidence angle, and the Normalized Differential Vegetation Index \u201cNDVI\u201d as the inputs. To optimize the automatic production of soil moisture maps a pipeline using the Orfeo Toolbox is implemented."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:kJDgFkosVoMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1911340705433206112",
+    "cites_id": [
+        "1911340705433206112"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9105210/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YD0XsD5yhhoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

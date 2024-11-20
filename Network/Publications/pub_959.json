@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring restored tropical forest diversity and structure through UAV-borne hyperspectral and lidar fusion",
+        "pub_year": 2021,
+        "citation": "Remote Sensing of Environment 264, 112582, 2021",
+        "author": "Danilo Roberti Alves De Almeida and Eben North Broadbent and Matheus Pinheiro Ferreira and Paula Meli and Angelica Maria Almeyda Zambrano and Eric Bastos Gorgens and Angelica Faria Resende and Catherine Torres de Almeida and Cibele Hummel Do Amaral and Ana Paula Dalla Corte and Carlos Alberto Silva and Jo\u00e3o P Romanelli and Gabriel Atticciati Prata and Daniel de Almeida Papa and Scott C Stark and Ruben Valbuena and Bruce Walker Nelson and Joannes Guillemot and Jean-Baptiste F\u00e9ret and Robin Chazdon and Pedro HS Brancalion",
+        "journal": "Remote Sensing of Environment",
+        "volume": "264",
+        "pages": "112582",
+        "publisher": "Elsevier",
+        "abstract": "Remote sensors, onboard orbital platforms, aircraft, or unmanned aerial vehicles (UAVs) have emerged as a promising technology to enhance our understanding of changes in ecosystem composition, structure, and function of forests, offering multi-scale monitoring of forest restoration. UAV systems can generate high-resolution images that provide accurate information on forest ecosystems to aid decision-making in restoration projects. However, UAV technological advances have outpaced practical application; thus, we explored combining UAV-borne lidar and hyperspectral data to evaluate the diversity and structure of restoration plantings. We developed novel analytical approaches to assess twelve 13-year-old restoration plots experimentally established with 20, 60 or 120 native tree species in the Brazilian Atlantic Forest. We assessed (1) the congruence and complementarity of lidar and hyperspectral-derived \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:K3LRdlH-MEoC",
+    "num_citations": 74,
+    "citedby_url": "/scholar?hl=en&cites=12680645618672354559",
+    "cites_id": [
+        "12680645618672354559"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425721003023",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_0SUVwG0-q8J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 18,
+        "2023": 43,
+        "2024": 10
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "M\u00e9gadonn\u00e9es, donn\u00e9es li\u00e9es et fouille de donn\u00e9es pour les r\u00e9seaux d'assainissement",
+        "pub_year": 2018,
+        "citation": "SAGEO 2018, 2018",
+        "author": "Thierry Bonnabaud La Bruy\u00e8re and Nan\u00e9e Chahinian and Carole Delenne and Laurent Deruelle and Mustapha Derras and Francesca Frontini and Rachel Panckhurst and Mathieu Roche and Lucile Sautot and Maguelonne Teisseire",
+        "conference": "SAGEO 2018",
+        "abstract": "Le projet \"M\u00e9gadonn\u00e9es, donn\u00e9es li\u00e9es et fouille de donn\u00e9es pour les r\u00e9seaux d'assainissement\" (MeDo) a pour objectif de tirer profit des m\u00e9gadonn\u00e9es disponibles sur le web pour renseigner la g\u00e9om\u00e9trie et l'historique d'un r\u00e9seau d'assainissement, en combinant diff\u00e9rentes techniques de fouille de donn\u00e9es et en multipliant les sources analys\u00e9es. Par l'am\u00e9lioration des connaissances sur le r\u00e9seau d'assainissement, ce projet contribue \u00e0 une meilleure gestion du patrimoine hydraulique existant et de la ressource en eau et permettra d'analyser les interactions entre les politiques de d\u00e9ve-loppement urbain et les enjeux li\u00e9s \u00e0 la gestion de l'eau. ABSTRACT. The \"Megadata, Linked Data and Data Mining for WasteWater Net-works\" (MeDo) project aims to use Web big data for learning about geometry and history of wastewater networks, by combining different data mining techniques and multiplying analysed sources. The improved knowledge will lead to enhanced management of hydraulic heritage and water resources and allow analysis of interactions between urban development policies and water management related challenges."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:u-coK7KVo8oC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12666446011498594531",
+    "cites_id": [
+        "12666446011498594531"
+    ],
+    "pub_url": "https://hal.science/hal-01925811/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:44AJqolByK8J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1
+    }
+}

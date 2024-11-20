@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modeling the influence of leaf demography on remotely sensed data using DART and PROSPECT-D",
+        "pub_year": 2016,
+        "citation": "AGU Fall Meeting Abstracts 2016, B53I-0620, 2016",
+        "author": "Jean-Baptiste Feret and Eloi Grau and Nicolas Barbier and Daniel Berveiller and J\u00e9rome Chave and Sylvie Durrieu and Jean-Philippe Gastellu-Etchegorry and Gabriel Hmimina and Marie-Jose Lef\u00e8vre-Fonollosa and Christophe Proisy and Kamel Soudani and Gr\u00e9goire Vincent",
+        "journal": "AGU Fall Meeting Abstracts",
+        "volume": "2016",
+        "pages": "B53I-0620",
+        "abstract": "The seasonality of Amazon forest productivity and photosynthetic activity has recently been investigated under a new perspective by a series of publications. The debate about possible factors explaining this seasonality is vivid, and the possibility of several hypotheses has been tested, including canopy phenology and leaf demography, and changes in illumination geometry combined with the complex 3D structure of the canopy. A manifold of measurements and techniques have been used to test these hypotheses, including field observations of leaf demography from ground measured litterfall and phenocam, airborne and satellite remote sensing and 3 dimensional radiative transfer modeling. Our study explores the relative influence of leaf demography and illumination geometry on remotely sensed data. To achieve this, we take advantage of the latest advances in the domain of physical modeling at both leaf and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:hC7cP41nSMkC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016AGUFM.B53I0620F/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-3LQYnDQtSQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

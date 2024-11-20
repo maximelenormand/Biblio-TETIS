@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Adequacy of Mediterranean forest simulations from DART radiative transfer model and UAV laser scanning data to hyperspectral images",
+        "pub_year": 2023,
+        "citation": "Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV 12727, 224-229, 2023",
+        "author": "Marianne Debue and Gr\u00e9goire Vincent and Samuel Alleaume and Florian de Boissieu and Xavier Briottet and Jean-Baptiste F\u00e9ret and Jean-Philippe Gastellu-Etchegorry and Jean-Marc Limousin and Damien Longepierre and Karine Adeline",
+        "conference": "Remote Sensing for Agriculture, Ecosystems, and Hydrology XXV",
+        "volume": "12727",
+        "pages": "224-229",
+        "publisher": "SPIE",
+        "abstract": "Mediterranean-type ecosystems are among the most affected by global climate change due to an increase in droughts and fires. Sentinel-2 satellites are currently among the best alternative for operational vegetation properties monitoring because of their temporal revisit and global coverage. The increasing availability of spaceborne imaging spectrometer (e.g. DESIS, PRISMA, EnMAP) and the preparation of missions ensuring global accessibility (e.g. CHIME, BIODIVERSITY) will enable the estimation of vegetation traits with better accuracies. The SENTHYMED project aims to study the complementarity between multi- and hyperspectral images to evaluate Mediterranean forest functional traits. The objective is to estimate canopy pigment, leaf water and dry matter contents from physical model inversion using DART radiative transfer model. A preliminary step is to study the influence of DART optical properties \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:xtRiw3GOFMkC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=8173029626075044955",
+    "cites_id": [
+        "8173029626075044955"
+    ],
+    "pub_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12727/127270U/Adequacy-of-Mediterranean-forest-simulations-from-DART-radiative-transfer-model/10.1117/12.2678531.short",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W1zycCRvbHEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

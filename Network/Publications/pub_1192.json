@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "From prototype to inference: A pipeline to apply deep learning in sorghum panicle detection",
+        "pub_year": 2023,
+        "citation": "Plant Phenomics 5, 0017, 2023",
+        "author": "Chrisbin James and Yanyang Gu and Andries Potgieter and Etienne David and Simon Madec and Wei Guo and Fr\u00e9d\u00e9ric Baret and Anders Eriksson and Scott Chapman",
+        "journal": "Plant Phenomics",
+        "volume": "5",
+        "pages": "0017",
+        "publisher": "AAAS",
+        "abstract": "Head (panicle) density is a major component in understanding crop yield, especially in crops that produce variable numbers of tillers such as sorghum and wheat. Use of panicle density both in plant breeding and in the agronomy scouting of commercial crops typically relies on manual counts observation, which is an inefficient and tedious process. Because of the easy availability of red\u2013green\u2013blue images, machine learning approaches have been applied to replacing manual counting. However, much of this research focuses on detection per se in limited testing conditions and does not provide a general protocol to utilize deep-learning-based counting. In this paper, we provide a comprehensive pipeline from data collection to model deployment in deep-learning-assisted panicle yield estimation for sorghum. This pipeline provides a basis from data collection and model training, to model validation and model \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:IWHjjKOFINEC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=9047849817686982146",
+    "cites_id": [
+        "9047849817686982146"
+    ],
+    "pub_url": "https://spj.science.org/doi/abs/10.34133/plantphenomics.0017",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ar5QvHhrkH0J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

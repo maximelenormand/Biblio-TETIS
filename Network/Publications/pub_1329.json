@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Le bricolage des donn\u00e9es ou la question du\" big data manuel\"",
+        "pub_year": 2017,
+        "citation": "9\u00e8me colloque Communication, organisation, soci\u00e9t\u00e9 du savoir et information \u2026, 2017",
+        "author": "A Martin Scholtz and A May\u00e8re and P Maurel",
+        "conference": "9\u00e8me colloque Communication, organisation, soci\u00e9t\u00e9 du savoir et information-congr\u00e8s de l'ACFAS",
+        "pages": "4",
+        "abstract": "En choisissant d'observer le big data non pas comme un amoncellement de donn\u00e9es mais plut\u00f4t comme un mouvement associant \u00e0 la fois l'accumulation de donn\u00e9es suppos\u00e9es disponibles, de technologies cens\u00e9es leur donn\u00e9es du sens et les mettre en forme, et de discours, nous proposons ici de questionner ce travail sur la s\u00e9lection des donn\u00e9es et leur combinaison, ce qui conduit \u00e0 r\u00e9interroger leur \u00ab \u00e9paisseur \u00bb. Pour ce faire, nous proposons explorer le cas d'un espace-temps de n\u00e9gociation dans lequel des agents issus de plusieurs services d\u00e9concentr\u00e9s de l'\u00c9tat en Languedoc-Roussillon (France), relevant de diff\u00e9rents Minist\u00e8res, ainsi que des agents d'un organisme de recherche, s'organisent pour concevoir de mani\u00e8re \u00ab distribu\u00e9e \u00bb un module de formation et son corrig\u00e9, destin\u00e9s \u00e0 promouvoir la mobilisation de donn\u00e9es, de m\u00e9thodes et de \u00ab fa\u00e7ons de voir \u00bb aupr\u00e8s des techniciens, dans une d\u00e9marche qui d'un certain point de vue s'inscrit dans la perspective d'un \u00ab evidence based-planning \u00bb. Le suivi de l'\u00e9laboration de ce module de formation et des d\u00e9bats qui l'accompagne selon une m\u00e9thode s'apparentant \u00e0 la self-ethnography, nous a amen\u00e9 \u00e0 repenser cet assemblage de donn\u00e9es, de m\u00e9thodes et de discours en termes de \u00ab big data manuel \u00bb. Au travers de cette communication, nous souhaitons montrer que la s\u00e9lection des donn\u00e9es n'est pas tant de choisir celle qui serait la \u00ab meilleure \u00bb dans l'absolu, mais du choix de d\u00e9finitions particuli\u00e8res de ce qui compte dans l'am\u00e9nagement."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:eMMeJKvmdy0C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02609349/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rVPWmbluqaoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

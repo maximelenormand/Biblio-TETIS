@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation of soil moisture within drip irrigation context in pepper fields using ALOS-2 and Sentinel-1 data.",
+        "pub_year": 2022,
+        "citation": "EGU General Assembly Conference Abstracts, EGU22-3937, 2022",
+        "author": "Emna Ayari and Zeineb Kassouk and Zohra Lili-Chabaane and Nicolas Baghdadi and Mehrez Zribi",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "EGU22-3937",
+        "abstract": "To ensure food security, the irrigation water demand is increasing with the growth of the population. Therefore, the optimization of irrigation scheduling is compulsory to improve water resources management where soil moisture estimation is an essential component. Over the last decades, remote sensing demonstrated its potential to retrieve soil water content. In this work, we investigate the potential of the Synthetic Aperture Radar (SAR) data in L-band acquired by Advanced Land Observing Satellite-2 (ALOS-2) and C-band data acquired by Sentinel-1 sensor, to estimate soil moisture in heterogenous row crop fields locally irrigated with drips in a semi-arid area in the center of Tunisia. During SAR data acquisitions, ground data gathering campaigns were carried out over irrigated pepper fields. The in-situ measurements included soil surface parameters such as soil roughness and soil moisture, and pepper \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:6VlyvFCUEfcC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.3937A/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XGjLt4L_q8sJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Land cover classification via multitemporal spatial data by deep recurrent neural networks",
+        "pub_year": 2017,
+        "citation": "IEEE Geoscience and Remote Sensing Letters 14 (10), 1685-1689, 2017",
+        "author": "Dino Ienco and Raffaele Gaetano and Claire Dupaquier and Pierre Maurel",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "volume": "14",
+        "number": "10",
+        "pages": "1685-1689",
+        "publisher": "IEEE",
+        "abstract": "Nowadays, modern earth observation programs produce huge volumes of satellite images time series that can be useful to monitor geographical areas through time. How to efficiently analyze such a kind of information is still an open question in the remote sensing field. Recently, deep learning methods proved suitable to deal with remote sensing data mainly for scene classification(i.e., convolutional neural networks on single images) while only very few studies exist involving temporal deep learning approaches [i.e., recurrent neural networks (RNNs)] to deal with remote sensing time series. In this letter, we evaluate the ability of RNNs, in particular, the long short-term memory (LSTM) model, to perform land cover classification considering multitemporal spatial data derived from a time series of satellite images. We carried out experiments on two different data sets considering both pixel-based and object-based \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:NaGl4SEjCO4C",
+    "num_citations": 272,
+    "citedby_url": "/scholar?hl=en&cites=8050045106574551813",
+    "cites_id": [
+        "8050045106574551813"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8006221/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BWs_m1-Bt28J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 13,
+        "2019": 41,
+        "2020": 53,
+        "2021": 56,
+        "2022": 56,
+        "2023": 43,
+        "2024": 7
+    }
+}

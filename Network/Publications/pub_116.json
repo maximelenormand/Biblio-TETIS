@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Challenges for implementing water quality monitoring and analysis on a small Costa Rican catchment",
+        "pub_year": 2016,
+        "citation": "EGU General Assembly Conference Abstracts, EPSC2016-1036, 2016",
+        "author": "Christian Golcher and Flavie Cernesson and Marie-George Tournoud and Muriel Bonin and Andrea Suarez",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "EPSC2016-1036",
+        "abstract": "The Costa Rican water regulatory framework (WRF)(2007), expresses the national concern about the degradation of surface water quality observed in the country since several years. Given the urgency of preserving and restoring the surface water bodies, and facing the need of defining a monitoring tool to classify surface water pollution, the Costa-Rican WRF relies on two water quality indexes: the so-called\" Dutch Index\"(DI) and the Biological Monitoring Working Party adapted to Costa Rica (BMWP'CR), allowing an\" easy\" physicochemical and biological appraisal of the water quality and the ecological integrity of water bodies. Herein, we intend to evaluate whether the compound of water quality indexes imposed by Costa Rican legislation, is suitable to assess rivers local and global anthropogenic pressure and environmental conditions. We monitor water quality for 7 points of Liberia River (northern pacific \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ARl-VIoAAAAJ:_xSYboBqXhAC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016EGUGA..18.1036G/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:918ufKgNsbMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

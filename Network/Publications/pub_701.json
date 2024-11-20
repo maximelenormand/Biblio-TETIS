@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dissemination of information in event-based surveillance, a case study of Avian Influenza",
+        "pub_year": 2023,
+        "citation": "Plos one 18 (9), e0285341, 2023",
+        "author": "Sarah Valentin and Bahdja Boudoua and Kara Sewalk and Nejat Ar\u0131n\u0131k and Mathieu Roche and Renaud Lancelot and Elena Arsevska",
+        "journal": "Plos one",
+        "volume": "18",
+        "number": "9",
+        "pages": "e0285341",
+        "publisher": "Public Library of Science",
+        "abstract": "Event-Based Surveillance (EBS) tools, such as HealthMap and PADI-web, monitor online news reports and other unofficial sources, with the primary aim to provide timely information to users from health agencies on disease outbreaks occurring worldwide. In this work, we describe how outbreak-related information disseminates from a primary source, via a secondary source, to a definitive aggregator, an EBS tool, during the 2018/19 avian influenza season. We analysed 337 news items from the PADI-web and 115 news articles from HealthMap EBS tools reporting avian influenza outbreaks in birds worldwide between July 2018 and June 2019. We used the sources cited in the news to trace the path of each outbreak. We built a directed network with nodes representing the sources (characterised by type, specialisation, and geographical focus) and edges representing the flow of information. We calculated the degree as a centrality measure to determine the importance of the nodes in information dissemination. We analysed the role of the sources in early detection (detection of an event before its official notification) to the World Organisation for Animal Health (WOAH) and late detection. A total of 23% and 43% of the avian influenza outbreaks detected by the PADI-web and HealthMap, respectively, were shared on time before their notification. For both tools, national and local veterinary authorities were the primary sources of early detection. The early detection component mainly relied on the dissemination of nationally acknowledged events by online news and press agencies, bypassing international reporting to the WAOH. WOAH was the major \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:_kc_bZDykSQC",
+    "num_citations": 0,
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285341",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rEizfFPQPtcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

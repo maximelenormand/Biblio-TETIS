@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integrating Textual Data into Heterogeneous Data Ingestion Processing",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Conference on Big Data (Big Data), 6008-6010, 2021",
+        "author": "Mathieu Roche and Maguelonne Teisseire",
+        "conference": "2021 IEEE International Conference on Big Data (Big Data)",
+        "pages": "6008-6010",
+        "publisher": "IEEE",
+        "abstract": "In this abstract, two methods for integrating textual data and textual features into ingestion processing are summarized. The first method involves integrating all features, including textual features, into dedicated frameworks, such as by using machine learning techniques. In the second method, text and textual features, such as keywords, are used to explain results returned by heterogeneous data mining. In this context, it is necessary to link data (e.g., databases, images, etc.) and/or obtained results with textual data (e.g., documents and keywords)."
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:KaMxkj08jr0C",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9671759/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:r5JKqDidxb4J:scholar.google.com/",
+    "cites_per_year": {}
+}

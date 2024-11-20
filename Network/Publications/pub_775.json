@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Urban objects classification by spectral library: Feasibility and applications",
+        "pub_year": 2017,
+        "citation": "2017 Joint Urban Remote Sensing Event (JURSE), 1-4, 2017",
+        "author": "Walid Ouerghemmi and S\u00e9bastien Gadal and Gintautas Mozgeris and Donatas Jonikavi\u010dius and Christiane Weber",
+        "conference": "2017 Joint Urban Remote Sensing Event (JURSE)",
+        "pages": "1-4",
+        "publisher": "IEEE",
+        "abstract": "Objects recognition in urban environment using multiband imagery is a difficult process, implying the use of elaborated and complex image processing methods, which are used to enhance the detection efficiency. The urban mosaics are characterized by multiple materials (e.g. manmade, urban vegetation, bare soil, transport infrastructure, etc.), which are combined together to form a complex patchwork. This study aims to take advantage of the multiband imagery, to assess the feasibility degree of the urban objects detection, and to explore some of the applications related to the multiband hyperspectral imagery classification."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:ILKRHgRFtOwC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=10945868675786274177",
+    "cites_id": [
+        "10945868675786274177"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7924629/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gfVQIpGJ55cJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 6,
+        "2019": 1,
+        "2020": 2,
+        "2021": 2
+    }
+}

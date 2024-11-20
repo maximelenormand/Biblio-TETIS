@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation mapping using statistics of Sentinel-1 time series",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Qi Gao and Mehrez Zribi and Maria Jose Escorihuela and Nicolas Baghdadi and Pere Quintana-Segui",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "112-115",
+        "publisher": "IEEE",
+        "abstract": "This paper presents the methodology for irrigation mapping using the Sentinel-1 SAR data. The study is performed using VV polarization over an agricultural site in Urgell, Catalunya (Spain). From the time series for each field, the indices including the mean value and variance of the signal, the correlation length, the fractal dimension which are derived from the backscatter time series are analyzed. The classification of irrigated and nonirrigated fields is done with the indices vector formed by the parameters analyzed. The result is compared with the supervised classification from Sentinel-2 multi-band data. The accuracy is 77%. The methodology uses only SAR data, which makes it usable for all areas even with cloud cover most times of the year."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Aul-kAQHnToC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16876833382344634281",
+    "cites_id": [
+        "16876833382344634281"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8518609/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qS8bQIuONuoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1
+    }
+}

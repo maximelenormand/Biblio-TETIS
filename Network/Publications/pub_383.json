@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Recreation demand analysis of sensitive natural areas from an on-site survey",
+        "pub_year": 2016,
+        "citation": "Revue d\u2019\u00c9conomie R\u00e9gionale & Urbaine, 355-384, 2016",
+        "author": "S\u00e9bastien Roussel and Jean-Michel Salles and L\u00e9a Tardieu",
+        "journal": "Revue d\u2019\u00c9conomie R\u00e9gionale & Urbaine",
+        "number": "2",
+        "pages": "355-384",
+        "publisher": "Armand Colin",
+        "abstract": "Natural areas contribute to human well-being in many ways. These areas provide ecosystem services and are increasingly valuable. The main objective of our study is to valuate the recreation demand of sensitive natural areas (Snas) in the H\u00e9rault Department (France). These areas are acquired for protection from urban sprawl and free access. The value of these areas also justifies the conservation policy for Snas. We apply the travel cost method (Tcm) to assess this topic. We estimate the visitor surplus mean value to be \u20ac59 (US$78) per trip. This value is greater than those previously found in recreation demand analysis in France. This high value could partly justify the cost entailed by the Sna policy (land acquisition and management) compared to other natural sites. Social recreation values would be worth \u20ac12.5 (US$16.5 Million) and \u20ac25 Million per year (US$33 Million) for a low and high hypotheses of Sna \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=5976118167110527047",
+    "cites_id": [
+        "5976118167110527047"
+    ],
+    "pub_url": "https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2016-2-page-355.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:R6hhZs9v71IJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 1,
+        "2020": 0,
+        "2021": 2,
+        "2022": 4
+    }
+}

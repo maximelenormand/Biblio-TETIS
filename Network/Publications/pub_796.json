@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new data mining approach to understand the river ecological status: first large application of closed partially ordered patterns on French aquatic data",
+        "pub_year": 2017,
+        "citation": "10\u00b0 Symposium for European Freshwater, Olomouc, R\u00e9publique Th\u00e8que, 2017",
+        "author": "Corinne Grac and Xavier Dolques and Florence Le Ber and Agnes Braud and Flavie Cernesson and Mich\u00e8le Tr\u00e9moli\u00e8res and Jean-Nicolas Beisel",
+        "conference": "10\u00b0 Symposium for European Freshwater, Olomouc, R\u00e9publique Th\u00e8que",
+        "abstract": "The French National water quality monitoring network has been renovated to assess the ecological status of rivers according to the European Water Framework Directive (2000). Chemical parameters and biological indices are regularly collected from 1800 locations in Metropolitan France since 2007. In the Fresqueau project context (nov. 2011- apr.2015, supported by the French National Research Agency, http://engees-fresqueau.unistra.fr/presentation.php?lang=en), we implemented a specific data mining process to explore the relationship between biological responses and potential chemical pressures from these data. The process generates closed partially ordered patterns (CPO-patterns) (Fabregue M., 2014). A pattern is a succession of chemical events that precede a biological status assessment for a given station. We studied patterns and their occurrence. We reported here the main interests of this tool: (i) it is rapid and efficient, (ii) CPO-patterns always gave coherent results between chemical and biological states, (iii) innovative results were revealed. For example, chemical statuses were often better than biological statuses suggesting synergism between toxicants and/or an additive impact of other pressures related to hydromorphology or hydrology. Another novel result is that depending on the biological index chosen, chemical parameters in the CPO-pattern varied. This suggested a differential sensitivity of the biological compartments to different chemical pressures. These results open promising perspectives to improve our understanding of the status of rivers, by using CPO-patterns on water data. . This work was funded by ONEMA \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nbR473IAAAAJ:WqliGbK-hY8C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-03108094/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fZwaFOAMPwAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

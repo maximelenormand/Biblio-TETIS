@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TomoSAR platform: a new Irstea service as demand for SAR, Interferometry, Polarimetry and Tomography",
+        "pub_year": 2016,
+        "citation": "Proc. ESA Living Planet Symp, 1-8, 2016",
+        "author": "D Ho Tong Minh and Yen-Nhi Ngo and Nicolas Baghdadi and Pierre Maurel",
+        "journal": "Proc. ESA Living Planet Symp",
+        "pages": "1-8",
+        "abstract": "Developing and improving methods to monitor both natural and non-natural environments such as forest and urban in space and time is a timely challenge. To overcome this challenge, we created a software platform-TomoSAR. The kernel of this platform supports the entire processing from SAR, Interferometry, Polarimetry, to Tomography (so called TomoSAR). The objective of this paper is to introduce this platform about its design architecture and its capacity. We showed four examples to highlight the TomoSAR platform capacities. First, the useful of the interferometric coherence of TOPS Sentinel-1 for land cover classification was highlighted. Second, a TOPS Sentinel-1 differential interferogram in a complex scenario volcano was successfully produced. Third, a TOPS Persistent Scatterers Interferometry analysis for estimating subsidence in Ho Chi Minh City area was demonstrated. Finally, the capability of processing and modelling of 3D P-band tomography in volume forest scattering were reported."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:AvfA0Oy_GE0C",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=26190247856885610",
+    "cites_id": [
+        "26190247856885610"
+    ],
+    "pub_url": "https://www.researchgate.net/profile/Dinh-Ho-Tong-Minh/publication/307569276_TOMOSAR_PLATFORM_A_NEW_IRSTEA_SERVICE_AS_DEMAND_FOR_SAR_INTERFEROMETRY_POLARIMETRY_AND_TOMOGRAPHY/links/581ca4e508aea429b291ed08/TOMOSAR-PLATFORM-A-NEW-IRSTEA-SERVICE-AS-DEMAND-FOR-SAR-INTERFEROMETRY-POLARIMETRY-AND-TOMOGRAPHY.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:as8WROQLXQAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 1,
+        "2019": 1,
+        "2020": 2,
+        "2021": 1
+    }
+}

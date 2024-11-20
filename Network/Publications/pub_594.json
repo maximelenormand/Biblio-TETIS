@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spectroscopic retrieval of above-ground crop nitrogen content with a hybrid machine learning regression method",
+        "pub_year": 2020,
+        "citation": "EGU General Assembly Conference Abstracts, 401, 2020",
+        "author": "Katja Berger and Gustau Camps-Valls and Jochem Verrelst and Jean-Baptiste F\u00e9ret and Matthias Wocher and Tobias Hank",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "401",
+        "abstract": "Proteins are the major nitrogen-containing biochemical constituents of plants. Since nitrogen (N) cannot be measured directly using remote sensing data, leaf protein content constitutes a valid proxy for this main limiting plant nutrient. In the past, mainly linear parametric algorithms, such as vegetation indices, have been employed to retrieve this non-state variable from optical reflectance data. Moreover, most studies solely relied on the relationship of chlorophyll content with nitrogen. In contrast, our study presents a hybrid model inversion scheme of a physically-based approach via protein retrieval combined with advanced machine learning regression. The leaf optical properties PROSPECT-PRO model, including the newly calibrated specific absorption coefficients (SAC) of proteins, was coupled with the canopy reflectance model 4SAIL to PROSAIL-PRO. A generic synthetic database of model input parameters \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:1sJd4Hv_s6UC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2020EGUGA..22..401B/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yS6TgDlXy4YJ:scholar.google.com/",
+    "cites_per_year": {}
+}

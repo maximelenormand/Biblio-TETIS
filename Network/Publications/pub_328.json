@@ -1,0 +1,24 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The GeoLifeCLEF 2023 Dataset to evaluate plant species distribution models at high spatial resolution across Europe",
+        "pub_year": 2023,
+        "citation": "arXiv preprint arXiv:2308.05121, 2023",
+        "author": "Christophe Botella and Benjamin Deneu and Diego Marcos and Maximilien Servajean and Joaquim Estopinan and Th\u00e9o Larcher and C\u00e9sar Leblanc and Pierre Bonnet and Alexis Joly",
+        "journal": "arXiv preprint arXiv:2308.05121",
+        "abstract": "The difficulty to measure or predict species community composition at fine spatio-temporal resolution and over large spatial scales severely hampers our ability to understand species assemblages and take appropriate conservation measures. Despite the progress in species distribution modeling (SDM) over the past decades, SDM have just begun to integrate high resolution remote sensing data and their predictions are still entailed by many biases due to heterogeneity of the available biodiversity observations, most often opportunistic presence only data. We designed a European scale dataset covering around ten thousand plant species to calibrate and evaluate SDM predictions of species composition in space and time at high spatial resolution (~ten meters), and their spatial transferability. For model training, we extracted and harmonized five million heterogeneous presence-only records from selected GBIF datasets and 6 thousand exhaustive presence-absence surveys both sampled during 2017-2021. We associated species observations to diverse environmental rasters classically used in SDMs, as well as to 10 m resolution RGB and Near-Infra-Red satellite images and 20 years-time series of climatic variables and satellite point values. The evaluation dataset is based on 22 thousand standardized presence-absence surveys separated from the training set with a spatial block hold out procedure. The GeoLifeCLEF 2023 dataset is open access and the first benchmark for researchers aiming to improve the prediction of plant species composition at a very fine spatial grain and at continental scale. It is a space to explore new ways of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:mvPsJ3kp5DgC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=11403592071076175516",
+    "cites_id": [
+        "11403592071076175516"
+    ],
+    "pub_url": "https://arxiv.org/abs/2308.05121",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nN7035GyQZ4J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

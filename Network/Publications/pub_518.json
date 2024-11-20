@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A simplified 3D radiative transfer approach for the retrieval of chemical and structural properties of individual tree crowns from hyperspectral data",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Matheus Pinheiro Ferreira and Jean-Baptiste F\u00e9ret and Eloi Grau and Fabien Hubert Wagner and Yosio Edemir Shimabukuro and Carlos Roberto de Souza Filho",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "3955-3958",
+        "publisher": "IEEE",
+        "abstract": "In this work, we used hyperspectral remote sensing and a simplified three-dimensional radiative transfer approach to retrieve structural and chemical properties of individual tree crowns (ITCs) from a tropical forest area. First, a Look-Up-Table of simulated ITC reflectance was built by randomly varying parameters of the DART and PROSPECT models. Then, simulated and experimental reflectance of ITCs were compared in terms of spectral similarity. Finally, model parameters that yielded simulations spectrally similar to experimental data were related to sub-pixel fractions and narrow-band vegetation indices computed from the hyperspectral images. DART canopy structural parameters were related to the proportion of non-photosynthetic vegetation (NPV) (R 2 =0.65), green photosynthetic vegetation (GV) (R 2 =0.72) and shade (R 2 =0.34) estimated within ITCs. PROSPECT parameters describing foliar chemical \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:J_g5lzvAfSwC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8519278/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:c9zXutesmUoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

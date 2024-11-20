@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Zoom in, zoom out: Injecting scale invariance into landuse classification CNNs",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Jesse Murray and Diego Marcos and Devis Tuia",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5240-5243",
+        "publisher": "IEEE",
+        "abstract": "We propose a Convolutional Neural Network (CNN), which encodes local scale invariance and equivariance in a multiresolution, multi-sensor image classification task. We show that the locally scale invariant model achieves results that are in line with state-of-the-art. The scale invariant and equivariant models also prove to be more robust to reductions in training data and number of filters used in each convolutional layer. These results demonstrate the benefit of disentangling scale within the learned features of CNNs, in particular when processing multi-resolution imagery. This is beneficial in the two studied cases: when training data is limited, or when the number of model parameters must be kept to a minimum."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:GnPB-g6toBAC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=17483105458086063979",
+    "cites_id": [
+        "17483105458086063979"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8900563/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:a6_p38h3oPIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 2,
+        "2022": 1
+    }
+}

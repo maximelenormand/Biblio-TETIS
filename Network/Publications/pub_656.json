@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison stripmap Cosmos Skymed X-band and TOPS Sentinel-1 C-band in estimating ground subsidence using Irstea TomoSAR platform: Ho Chi Minh city case study",
+        "pub_year": 2016,
+        "citation": "ESA Living Planet Symposium 2016; Proceedings of, 1-8, 2016",
+        "author": "D Ho",
+        "conference": "ESA Living Planet Symposium 2016; Proceedings of",
+        "pages": "1-8"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:P5F9QuxV20EC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=11231741845663023454",
+    "cites_id": [
+        "11231741845663023454"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=11231741845663023454&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XoGiR7Mp35sJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 0,
+        "2019": 0,
+        "2020": 1,
+        "2021": 2,
+        "2022": 0,
+        "2023": 1
+    }
+}

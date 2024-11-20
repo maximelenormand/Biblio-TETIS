@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improved characterization of a tropical forest using polarimetric tomographic sar data acquired at p band",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Laurent Ferro-Famil and B El Hajj Chehade and Ray Abdo and D Ho Tong Minh and Stefano Tebaldini and Thuy Le Toan",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "8590-8593",
+        "publisher": "IEEE",
+        "abstract": "This paper concerns processing techniques for the the characterization of a tropical forest using PolTomSAR data at P band. In particular, existing forest biomass estimation methods, relating biomass to sampled tomographic intensity values, are revisited using simple methodological step-sand an adaptive tomographic intensity sampling approach. The canopy reflectivity sampling location is determined as a function of the effective forest height and of the tomographic resolution, in order to compensate geometrical mismatches. Moreover, an adaptive polarimetric decomposition technique is used to further decouple the sampled intensity from ground and topographic tomographic scattering effects. The performance of the proposed techniques is assessed using TROPISAR P-band data acquired by the ONERA's SETHI sensor over the Paracou data site in French Guiana in 2009. Results indicate over this site a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:ldfaerwXgEUC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=15812007219170159707",
+    "cites_id": [
+        "15812007219170159707"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8519280/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W6yMTMqIb9sJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

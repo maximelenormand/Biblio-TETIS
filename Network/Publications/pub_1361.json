@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Biodiversity offsets and payments for environmental services: Clarifying the family ties",
+        "pub_year": 2020,
+        "citation": "Ecological Economics 169, 106428, 2020",
+        "author": "Anne-Charlotte Vaissiere and Fabien Quetier and Coralie Calvet and Harold Levrel and Sven Wunder",
+        "journal": "Ecological Economics",
+        "volume": "169",
+        "pages": "106428",
+        "publisher": "Elsevier",
+        "abstract": "Biodiversity Offsets (BO) and Payments for Environmental Services (PES) are sometimes used interchangeably to characterize innovative economic tools to conserve or restore biodiversity, ecosystems, or their services. We assume that a confusion between PES and BO can have negative implications for biodiversity conservation. In this paper, we argue that these two tools follow different targets and have different founding principles, and thus, their basic mode of functioning would only coincide under special circumstances and institutional contexts. Here, we propose a new definition of BO, delimiting them more clearly from PES, and use practical examples to underscore conceptual differences. Both tools require specific policy framework conditions, in terms of rights, responsibilities, and enforcement. If unmet, however, the implications for biodiversity conservation outcomes are stronger for BO than for PES since \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:MXK_kJrjxJIC",
+    "num_citations": 29,
+    "citedby_url": "/scholar?hl=en&cites=8618388933743488664",
+    "cites_id": [
+        "8618388933743488664"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S092180091831111X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mC7wsxKrmncJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 5,
+        "2021": 10,
+        "2022": 7,
+        "2023": 6
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysing intensification, autonomy and efficiencies of livestock production through nitrogen flows: A case study of an emblematic Amazonian territory",
+        "pub_year": 2021,
+        "citation": "Agricultural systems 190, 103072, 2021",
+        "author": "Thierry Bonaudo and Marc Piraux and Augusto Hauber Gameiro",
+        "journal": "Agricultural systems",
+        "volume": "190",
+        "pages": "103072",
+        "publisher": "Elsevier",
+        "abstract": "CONTEXT: Livestock farming is a major factor in the balance or disruption of bio-geochemical cycles, climate and biodiversity. The Brazilian Amazon is emblematic of these tensions between livestock production and environment. Extensive cattle production has spearheaded the territorial conquest of this region for more than 50 years, and is the main cause of deforestation. The intensification of animal production is presented as a success factor for long-term maintenance of low deforestation and a good level of production. Yet in reality there is no guarantee of this outcome, and very few studies focus on quantifying the effective intensification of the Amazonian livestock sector, and its impact on deforestation.OBJECTIVE: The objective of our article is to characterize and discuss the evolution of livestock farming in Paragominas (Brazil). This municipality is presented as an example of sustainable agrarian transition in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:NXb4pA-qfm4C",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=11226833063396567325",
+    "cites_id": [
+        "11226833063396567325"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0308521X21000251",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HelcWDC5zZsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 4
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Compressed imaging by sparse random convolution",
+        "pub_year": 2016,
+        "citation": "Optics Express 24 (2), 1269-1290, 2016",
+        "author": "Diego Marcos and Theo Lasser and Antonio L\u00f3pez and Aur\u00e9lien Bourquard",
+        "journal": "Optics Express",
+        "volume": "24",
+        "number": "2",
+        "pages": "1269-1290",
+        "publisher": "Optica Publishing Group",
+        "abstract": "The theory of compressed sensing (CS) shows that signals can be acquired at sub-Nyquist rates if they are sufficiently sparse or compressible. Since many images bear this property, several acquisition models have been proposed for optical CS. An interesting approach is random convolution (RC). In contrast with single-pixel CS approaches, RC allows for the parallel capture of visual information on a sensor array as in conventional imaging approaches. Unfortunately, the RC strategy is difficult to implement as is in practical settings due to important contrast-to-noise-ratio (CNR) limitations. In this paper, we introduce a modified RC model circumventing such difficulties by considering measurement matrices involving sparse non-negative entries. We then implement this model based on a slightly modified microscopy setup using incoherent light. Our experiments demonstrate the suitability of this approach for \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:2osOgNQ5qMEC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=14975205308571578169",
+    "cites_id": [
+        "14975205308571578169"
+    ],
+    "pub_url": "https://opg.optica.org/abstract.cfm?uri=oe-24-2-1269",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Oe_z1-Kd0s8J:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 1,
+        "2018": 2,
+        "2019": 2,
+        "2020": 1,
+        "2021": 3,
+        "2022": 2,
+        "2023": 1
+    }
+}

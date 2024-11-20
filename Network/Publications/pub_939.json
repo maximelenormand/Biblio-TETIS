@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping snow depth from stereo satellite imagery",
+        "pub_year": 2016,
+        "citation": "AGU Fall Meeting Abstracts 2016, C13F-01, 2016",
+        "author": "Simon Gascoin and Renaud Marti and Etienne Berthier and Thomas Houet and Matthieu de Pinel and Dominique Laffly",
+        "journal": "AGU Fall Meeting Abstracts",
+        "volume": "2016",
+        "pages": "C13F-01",
+        "abstract": "To date, there is no definitive approach to map snow depth in mountainous areas from spaceborne sensors. Here, we examine the potential of very-high-resolution (VHR) optical stereo satellites to this purpose. Two triplets of 0.70 m resolution images were acquired by the Pl\u00e9iades satellite over an open alpine catchment (14.5 km\u00b2) under snow-free and snow-covered conditions. The open-source software Ame's Stereo Pipeline (ASP) was used to match the stereo pairs without ground control points to generate raw photogrammetric clouds and to convert them into high-resolution digital elevation models (DEMs) at 1, 2, and 4 m resolutions. The DEM differences (dDEMs) were computed after 3-D coregistration, including a correction of a-0.48 m vertical bias. The bias-corrected dDEM maps were compared to 451 snow-probe measurements. The results show a decimetric accuracy and precision in the Pl\u00e9iades \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "9Hy7dPoAAAAJ:W7OEmFMy1HYC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016AGUFM.C13F..01G/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:K2oUDU49TXsJ:scholar.google.com/",
+    "cites_per_year": {}
+}

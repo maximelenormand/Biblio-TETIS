@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Crop monitoring using vegetation and thermal indices for yield estimates: case study of a rainfed cereal in semi-arid West Africa",
+        "pub_year": 2015,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2015",
+        "author": "Louise Leroux and Christian Baron and Bernardin Zoungrana and Seydou B Traor\u00e9 and Danny Lo Seen and Agnes B\u00e9gu\u00e9",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "9",
+        "number": "1",
+        "pages": "347-362",
+        "publisher": "IEEE",
+        "abstract": "For the semiarid Sahelian region, climate variability is one of the most important risks of food insecurity. Field experimentations as well as crop modeling are helpful tools for the monitoring and the understanding of yields at local scale. However, extrapolation of these methods at a regional scale remains a demanding task. Remote sensing observations appear as a good alternative or addition to existing crop monitoring systems. In this study, a new approach based on the combination of vegetation and thermal indices for rainfed cereal yield assessment in the Sahelian region was investigated. Empirical statistical models were developed between MODIS NDVI and LST variables and the crop model SARRA-H simulated aboveground biomass and harvest index in order to assess each component of the yield equation. The resulting model was successfully applied at the Niamey Square Degree (NSD) site scale with yield \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:-_dYPAW6P2MC",
+    "num_citations": 65,
+    "citedby_url": "/scholar?hl=en&cites=1876789035657233522",
+    "cites_id": [
+        "1876789035657233522"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7358091/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:coSyLK-xCxoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 13,
+        "2019": 9,
+        "2020": 14,
+        "2021": 13,
+        "2022": 6,
+        "2023": 6
+    }
+}

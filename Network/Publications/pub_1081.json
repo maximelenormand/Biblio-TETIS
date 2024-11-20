@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combined use of Sentinel-2 images and Sentinel-1-derived moisture maps for soil organic carbon content mapping in croplands, South-western France",
+        "pub_year": 2021,
+        "citation": "EGU General Assembly Conference Abstracts, EGU21-8836, 2021",
+        "author": "Diego Urbina Salazar and Emmanuelle Vaudour and Nicolas Baghdadi and Eric Ceschia and Dominique Arrouays",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "EGU21-8836",
+        "abstract": "In terms of agronomy, soil organic carbon (SOC) content is important for crop growth and development. From the environmental viewpoint, SOC sequestration is essential to mitigate the emission of greenhouse gases into the atmosphere. The use of sensors for carbon monitoring over croplands is a key issue in recent works. Sentinel-1/2 (S1, S2) satellites acquire data with regular frequency (weekly) and high spatial resolution (10 and 20 meters). Previous studies have demonstrated their potential for quantification of soil attributes including topsoil organic carbon content on single dates. Soil surface roughness and soil moisture influence the performance of spectral models according to acquisition date, particularly surface soil moisture (SM), as shown by multidate models of predicted SOC content (Vaudour et al., 2021). Still, the sensitivity of Sentinel-1/2 to SM must be better understood and exploited for a given \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:z8nqeaKD1nsC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2021EGUGA..23.8836U/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2gNeR2eTbuoJ:scholar.google.com/",
+    "cites_per_year": {}
+}

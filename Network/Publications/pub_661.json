@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Syst\u00e8me de veille automatique pour la d\u00e9tection de maladies animales \u00e9mergentes",
+        "pub_year": 2017,
+        "citation": "Bulletin de l'Acad\u00e9mie Nationale de M\u00e9decine 201 (7-9), 1197-1201, 2017",
+        "author": "Mathieu Roche",
+        "journal": "Bulletin de l'Acad\u00e9mie Nationale de M\u00e9decine",
+        "volume": "201",
+        "number": "7-9",
+        "pages": "1197-1201",
+        "publisher": "Elsevier Masson",
+        "abstract": "Cet expos\u00e9 pr\u00e9sente une m\u00e9thode automatique d\u2019extraction d\u2019informations sur les maladies animales \u00e0 partir du Web (PADI-web). PADI-web est un outil de fouille de textes pour la d\u00e9tection automatique, la cat\u00e9gorisation et l\u2019extraction d\u2019informations li\u00e9es aux \u00e9pid\u00e9mies \u00e0 partir d\u2019articles de presse issus du Web. PADI-web se concentre actuellement sur cinq maladies animales exotiques et infectieuses et huit syndromes chez cinq animaux h\u00f4tes."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:nRpfm8aw39MC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0001407919303966",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kUpSOfIwL80J:scholar.google.com/",
+    "cites_per_year": {}
+}

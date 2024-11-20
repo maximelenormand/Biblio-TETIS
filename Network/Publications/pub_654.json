@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Study Flood Regime Using High Temporal Resolution Sentinel-1 Images",
+        "pub_year": 2020,
+        "citation": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2020",
+        "author": "D Ho Tong Minh and Ibrahim El Moussawi and Y-N NGO and N Baghdadi and R Blatrix and D McKey",
+        "conference": "IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "5085-5088",
+        "publisher": "IEEE",
+        "abstract": "The objective of this paper is to evaluate the potential of radar images to study wetland areas on the mapping flood regime and generating digital elevation model. The analysis is carried out on Sentinel-1 data acquired over the Congo Basin."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:hGdtkIFZdKAC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9323607/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:V-PDR7DrOrAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil Moisture retrieval using multistatic L-Band SAR and effective roughness modeling",
+        "pub_year": 2022,
+        "citation": "Remote Sensing 14 (7), 1650, 2022",
+        "author": "Emma Tronquo and Hans Lievens and Jean Bouchat and Pierre Defourny and Nicolas Baghdadi and Niko EC Verhoest",
+        "journal": "Remote Sensing",
+        "volume": "14",
+        "number": "7",
+        "pages": "1650",
+        "publisher": "MDPI",
+        "abstract": "The interest in bistatic SAR systems for soil moisture monitoring has grown over recent years, since theoretical studies suggest that the impact of surface roughness on the retrieval of soil moisture decreases when multistatic, i.e., simultaneous mono- and bistatic, radar measurements are used. This paper presents a semi-empirical method to retrieve soil moisture over bare agricultural fields, based on effective roughness modeling, and applies it to a series of L-band fully-polarized SAR backscatter and bistatic scattering observations. The main advantage of using effective roughness parameters is that surface roughness no longer needs to be measured in the field, what is known to be the main source of error in soil moisture retrieval applications. By means of cross-validation, it is shown that the proposed method results in accurate soil moisture retrieval with an RMSE well below 0.05 m3/m3, with the best performance observed for the cross-polarized backscatter signal. In addition, different experimental SAR monostatic and bistatic configurations are evaluated in this study using the proposed retrieval technique. Results illustrate that the soil moisture retrieval performance increases by using backscatter data in multiple polarizations simultaneously, compared to the case where backscatter observations in only one polarization mode are used. Furthermore, the retrieval performance of a multistatic system has been evaluated and compared to that of a traditional monostatic system. The recent BELSAR campaign (in 2018) provides time-series of experimental airborne SAR measurements in two bistatic geometries, i.e., the across-track (XTI) and along \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Vr2j17o0sqMC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=13474194884281779476",
+    "cites_id": [
+        "13474194884281779476"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/14/7/1650",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FEUAoNv0_boJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 4
+    }
+}

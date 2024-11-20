@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluation of the Oh, Dubois and IEM backscatter models using a large dataset of SAR data and experimental soil measurements",
+        "pub_year": 2017,
+        "citation": "Water 9 (1), 38, 2017",
+        "author": "Mohammad Choker and Nicolas Baghdadi and Mehrez Zribi and Mohammad El Hajj and Simonetta Paloscia and Niko EC Verhoest and Hans Lievens and Francesco Mattia",
+        "journal": "Water",
+        "volume": "9",
+        "number": "1",
+        "pages": "38",
+        "publisher": "MDPI",
+        "abstract": "The aim of this paper is to evaluate the most used radar backscattering models (Integral Equation Model \u201cIEM\u201d, Oh, Dubois, and Advanced Integral Equation Model \u201cAIEM\u201d) using a wide dataset of SAR (Synthetic Aperture Radar) data and experimental soil measurements. These forward models reproduce the radar backscattering coefficients (                                                        \u03c3                 0                                                ) from soil surface characteristics (dielectric constant, roughness) and SAR sensor parameters (radar wavelength, incidence angle, polarization). The analysis dataset is composed of AIRSAR, SIR-C, JERS-1, PALSAR-1, ESAR, ERS, RADARSAT, ASAR and TerraSAR-X data and in situ measurements (soil moisture and surface roughness). Results show that Oh model version developed in 1992 gives the best fitting of the backscattering coefficients in HH and VV polarizations with RMSE values of 2.6 dB and 2.4 dB, respectively. Simulations performed with the Dubois model show a poor correlation between real data and model simulations in HH polarization (RMSE = 4.0 dB) and better correlation with real data in VV polarization (RMSE = 2.9 dB). The IEM and the AIEM simulate the backscattering coefficient with high RMSE when using a Gaussian correlation function. However, better simulations are performed with IEM and AIEM by using an exponential correlation function (slightly better fitting with AIEM than IEM). Good agreement was found between the radar data and the simulations using the calibrated version of the IEM modified by Baghdadi (IEM_B) with bias less than 1.0 dB and RMSE less than 2.0 dB. These results confirm that, up \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:KUbvn5osdkgC",
+    "num_citations": 98,
+    "citedby_url": "/scholar?hl=en&cites=16616924004382065112",
+    "cites_id": [
+        "16616924004382065112"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-4441/9/1/38",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2MHafFcsm-YJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 9,
+        "2019": 13,
+        "2020": 14,
+        "2021": 26,
+        "2022": 13,
+        "2023": 18
+    }
+}

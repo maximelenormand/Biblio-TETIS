@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparative Analysis between Two Operational Irrigation Mapping Models over Study Sites in Mediterranean and Semi-Oceanic Regions",
+        "pub_year": 2022,
+        "citation": "Water 14 (9), 1341, 2022",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Mehrez Zribi",
+        "journal": "Water",
+        "volume": "14",
+        "number": "9",
+        "pages": "1341",
+        "publisher": "MDPI",
+        "abstract": "Accurate information about the irrigated surface is essential to help assess the impact of irrigation on water consumption, the hydrological cycle and regional climate. In this study, we compare recently developed operational and spatially transferrable classification models proposed for irrigation mapping. The first model suggests the use of spatio-temporal soil moisture indices derived from the Sentinel-1/2 soil moisture product (S2MP) at plot scale to map irrigated areas using the unsupervised K-means clustering algorithm (Dari model). The second model called the Sentinel-1/2 Irrigation mapping (S2IM) is a classification model based on the use the Sentinel-1 (S1) and Sentinel-2 (S2) time series data. Five study cases were examined including four studied years in a semi-oceanic area in north-central France (between 2017 and 2020) and one year (2020) in a Mediterranean context in south France. Main results showed that the soil-moisture based model using K-means clustering (Dari model) performs well for irrigation mapping but remains less accurate than the S2IM model. The overall accuracy of the Dari model ranged between 72.1% and 78.4% across the five study cases. The Dari model was found to be limited over humid conditions as it fails to correctly distinguish rain-fed plots from irrigated plots with an accuracy of the rain-fed class reaching 24.2% only. The S2IM showed the best accuracy in the five study cases with an overall accuracy ranging between 72.8% and 93.0%. However, for humid climatic conditions, the S2IM had an accuracy of the rain-fed class reaching 62.0%. The S2IM is thus superior in terms of accuracy but with higher \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:QsKbpXNoaWkC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=11529144696533944585",
+    "cites_id": [
+        "11529144696533944585"
+    ],
+    "pub_url": "https://www.mdpi.com/2073-4441/14/9/1341",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CQn8eATA_58J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 1
+    }
+}

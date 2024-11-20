@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Global wheat head detection 2021: An improved dataset for benchmarking wheat head detection methods",
+        "pub_year": 2021,
+        "citation": "Plant Phenomics, 2021",
+        "author": "Etienne David and Mario Serouart and Daniel Smith and Simon Madec and Kaaviya Velumani and Shouyang Liu and Xu Wang and Francisco Pinto and Shahameh Shafiee and Izzat SA Tahir and Hisashi Tsujimoto and Shuhei Nasuda and Bangyou Zheng and Norbert Kirchgessner and Helge Aasen and Andreas Hund and Pouria Sadhegi-Tehran and Koichi Nagasawa and Goro Ishikawa and S\u00e9bastien Dandrifosse and Alexis Carlier and Benjamin Dumont and Benoit Mercatoris and Byron Evers and Ken Kuroki and Haozhou Wang and Masanori Ishii and Minhajul A Badhon and Curtis Pozniak and David Shaner LeBauer and Morten Lillemo and Jesse Poland and Scott Chapman and Benoit de Solan and Fr\u00e9d\u00e9ric Baret and Ian Stavness and Wei Guo",
+        "journal": "Plant Phenomics",
+        "publisher": "AAAS",
+        "abstract": "The Global Wheat Head Detection (GWHD) dataset was created in 2020 and has assembled 193,634 labelled wheat heads from 4700 RGB images acquired from various acquisition platforms and 7 countries/institutions. With an associated competition hosted in Kaggle, GWHD_2020 has successfully attracted attention from both the computer vision and agricultural science communities. From this first experience, a few avenues for improvements have been identified regarding data size, head diversity, and label reliability. To address these issues, the 2020 dataset has been reexamined, relabeled, and complemented by adding 1722 images from 5 additional countries, allowing for 81,553 additional wheat heads. We now release in 2021 a new version of the Global Wheat Head Detection dataset, which is bigger, more diverse, and less noisy than the GWHD_2020 version."
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:4DMP91E08xMC",
+    "num_citations": 66,
+    "citedby_url": "/scholar?hl=en&cites=1751297388377231685",
+    "cites_id": [
+        "1751297388377231685"
+    ],
+    "pub_url": "https://spj.science.org/doi/full/10.34133/2021/9846158",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RVFLKrLbTRgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 24,
+        "2023": 31,
+        "2024": 7
+    }
+}

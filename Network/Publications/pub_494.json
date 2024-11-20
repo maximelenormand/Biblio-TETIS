@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Retrieving Soil Moisture from Sentinel-1: Limitations over Certain Crops and Sensitivity to the First Soil Thin Layer",
+        "pub_year": 2024,
+        "citation": "Water 16 (1), 40, 2024",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Pasquale Nino and Rosario Napoli and Sami Najem and Mehrez Zribi and Emmanuelle Vaudour",
+        "journal": "Water",
+        "volume": "16",
+        "number": "1",
+        "pages": "40",
+        "publisher": "Multidisciplinary Digital Publishing Institute",
+        "abstract": "This paper presents a comparison between the Sentinel-1 (S1)/Sentinel-2 (S2)-derived soil moisture products at plot scale (S 2 MP) and in situ soil moisture measurements at a 10 cm depth for several winter and summer crops. Specifically, the paper discusses the consistency between the in situ soil moisture measurements, usually performed at a 10 cm soil depth, and the variable S1 C-band penetration depth in soil due to soil humidity conditions, vegetation development and S1 acquisition configuration. The aim is to provide end users with the strength and limitations of S1-derived soil moisture, mainly the S 2 MP soil moisture product, for their further applications. Both the estimated and measured soil moisture (SM) were evaluated over three testing fields in a Mediterranean climatic context, with crop cycles including wheat, tomato, cover crops and soybeans. The main results showed that the comparison between the S 2 MP-estimated SM based on S1 backscattering (at~ 5 cm depth) with a 10 cm in situ SM is not always relevant during the crop cycle. In dry conditions, the S1 SM significantly underestimated the 10 cm SM measurements with an underestimation that could reach around 20 vol.% in some extremely dry conditions. This high underestimation was mainly due to the difference between the topsoil SM captured by the S1 sensor and the 10 cm in depth SM. Moderately wet conditions due to rainfall or irrigation showed less of a difference between the S1-estimated SM and the 10 cm in situ SM and varying between\u2212 10 and\u2212 5 vol.% due to the homogeneity of the SM at different soil depths. For extremely wet conditions, the S1 SM started \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:d4tt_xEv1X8C",
+    "num_citations": 0,
+    "pub_url": "https://www.mdpi.com/2073-4441/16/1/40?utm_campaign=releaseissue_waterutm_medium=emailutm_source=releaseissueutm_term=doilink153",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oVlQa6DZu84J:scholar.google.com/",
+    "cites_per_year": {}
+}

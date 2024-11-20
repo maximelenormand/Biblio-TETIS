@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Exploring the agricultural landscape diversity-food security nexus: an analysis in two contrasted parklands of Central Senegal",
+        "pub_year": 2022,
+        "citation": "Agricultural Systems 196, 103312, 2022",
+        "author": "Louise Leroux and Ndeye Fatou Faye and Camille Jahel and Gatien N Falconnier and Abdoul Aziz Diouf and Babacar Ndao and I Tiaw and Yolande Senghor and Ghislain Kanfany and A Balde and M Dieye and N Sirdey and S Alobo Loison and M Corbeels and F Baudron and Emmanuelle Bouquet",
+        "journal": "Agricultural Systems",
+        "volume": "196",
+        "pages": "103312",
+        "publisher": "Elsevier",
+        "abstract": "Fostering diversity within agricultural systems can substantially contribute to improved food security among smallholder farmers. Agroforestry parklands are diverse agricultural landscapes where trees can provide an array of ecosystem services. Previous studies analyzing the agricultural landscape diversity-food security nexus in agroforestry parklands have only considered tree cover.We propose an original empirical approach that combines the analysis of spatial data on agricultural landscape diversity with agricultural field monitoring and household surveys. These three sources of data were used to scrutinize the direct and indirect contributions of agricultural landscape diversity to food availability and food access.Millet yield was used as a proxy for food availability, and household food access was approximated using the Household Food Insecurity Access Scale (HFIAS \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nIJPPHMAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=13172090050110404325",
+    "cites_id": [
+        "13172090050110404325"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0308521X21002651",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5bZJohyqzLYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 4,
+        "2023": 8,
+        "2024": 3
+    }
+}

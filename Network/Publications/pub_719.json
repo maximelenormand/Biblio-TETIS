@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ANALYSIS OF THE POTENTIAL OF GNSS-R MEASUREMENTS FOR THE MONITORING OF CONTINENTAL SURFACE CONDITIONS",
+        "pub_year": 2018,
+        "citation": "Fifth recent advances in quantitative remote sensing, 265, 2018",
+        "author": "Mehrez Zribi and Erwan Motte and Dominique Guyon and Jean Pierre Wigneron and Nicolas Baghdadi and Fr\u00e9d\u00e9ric Baup and Sylvia Dayau and Remy Fieuzal",
+        "journal": "Fifth recent advances in quantitative remote sensing",
+        "pages": "265",
+        "publisher": "Universitat de Val\u00e8ncia",
+        "abstract": "The objective of this study is to analyze the sensitivity of airborne GNSS-R signals to the characteristics of the soil surface and vegetation over agricultural areas. Airborne polarimetric GNSS-R data were acquired in the context of the GLORI'2015 campaign along five flights performed over the June-July 2015 period. Ground measurements of soil surface parameters (moisture content and surface roughness) and vegetation characteristics (Leaf Area Index (LAI), Vegetation Water Content (VWC) and vegetation height) for different cover types (wheat, corn, sunflower\u2026) were collected simultaneously to the airborne measurements. The GNSS-R observables (Signal to Noise Ratio (SNR), Reflectivity) illustrate a moderate to good correlation with the vegetation characteristics (more specifically vegetation height) or the surface soil moisture."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:43bX7VzcjpAC",
+    "num_citations": 0,
+    "pub_url": "https://books.google.com/books?hl=en&lr=&id=qwV_DwAAQBAJ&oi=fnd&pg=PA265&dq=info:0SjofSGzsDYJ:scholar.google.com&ots=61mPxaC0xp&sig=qzlKUZ4bbXsIRxiuqu28Tu8Y0X4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0SjofSGzsDYJ:scholar.google.com/",
+    "cites_per_year": {}
+}

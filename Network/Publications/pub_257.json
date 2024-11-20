@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SLEUTH\u2217: An urban growth model for a scenario-driven approach",
+        "pub_year": 2016,
+        "citation": "Revue internationale de g\u00e9omatique 26 (1), 7-32, 2016",
+        "author": "O Doukari and R Aguejdad and T Houet",
+        "journal": "Revue internationale de g\u00e9omatique",
+        "volume": "26",
+        "number": "1",
+        "pages": "7-32"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:9ZlFYXVOiuMC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=18441350789578456009",
+    "cites_id": [
+        "18441350789578456009"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=18441350789578456009&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yXsxL9bW7P8J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "L-band UAVSAR tomographic imaging in dense forest: AfriSAR results",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Ibrahim El Moussawi and Dinh Ho Tong Minh and Nicolas Baghdadi and Chadi Abdallah and Jalal Jomaah and Olivier Strauss",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "6723-6726",
+        "publisher": "IEEE",
+        "abstract": "This paper presents tomographic analysis using L-band NASA/JPL UAVSAR from AfriSAR data conducted over the Gabon Lope Park on February 2016. Prior to tomographic imaging, a phase residual correction methodology based on Sum Kronecker Product have been implemented. The estimated vertical structure of the forest extracted from the correct tomographic data is validated with small footprint light detection collected during the AfriSAR campaign on July 2015. The result demonstrates that L-band tomographic imaging can now be carried out even in the dense tropical forest."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:CaZNVDsoPx4C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=17991032043874920552",
+    "cites_id": [
+        "17991032043874920552"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8519192/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aKjVxVL8rPkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    }
+}

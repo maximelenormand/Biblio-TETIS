@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Optical satellite image time series analysis for environment applications: From classical methods to deep learning and beyond",
+        "pub_year": 2021,
+        "citation": "Change Detection and Image Time Series Analysis 2: Supervised Methods, 109-154, 2021",
+        "author": "Matthieu Molinier and Jukka Miettinen and Dino Ienco and Shi Qiu and Zhe Zhu",
+        "journal": "Change Detection and Image Time Series Analysis 2: Supervised Methods",
+        "pages": "109-154",
+        "publisher": "John Wiley & Sons, Inc.",
+        "abstract": "This chapter presents an overview of the main time series analysis methods for environment monitoring with earth observation, from classical methods to the deep learning (DL) methods. It summarizes main differences between bi\u2010temporal change detection, annual time series and dense time series analyses, and also presents the three main types of annual time series methods for environment monitoring. The chapter focuses on dense time series methods using all available data, first presenting the main data preprocessing requirements, and provides an overview of the four main types of change detection methods based on dense time series analysis. These include: map classification, trajectory classification, statistical boundary and ensemble approaches. The chapter discusses three kinds of network architectures suited for the analysis of satellite image time series (SITS \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:C-Rn0OCouf8C",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=10972845905008799530",
+    "cites_id": [
+        "10972845905008799530"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119882299.ch4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ki8mxzZhR5gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 4,
+        "2024": 1
+    }
+}

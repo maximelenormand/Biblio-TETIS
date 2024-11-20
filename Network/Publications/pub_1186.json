@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Land cover mapping at very high resolution with rotation equivariant CNNs: Towards small yet accurate models",
+        "pub_year": 2018,
+        "citation": "ISPRS journal of photogrammetry and remote sensing 145, 96-107, 2018",
+        "author": "Diego Marcos and Michele Volpi and Benjamin Kellenberger and Devis Tuia",
+        "journal": "ISPRS journal of photogrammetry and remote sensing",
+        "volume": "145",
+        "pages": "96-107",
+        "publisher": "Elsevier",
+        "abstract": "In remote sensing images, the absolute orientation of objects is arbitrary. Depending on an object\u2019s orientation and on a sensor\u2019s flight path, objects of the same semantic class can be observed in different orientations in the same image. Equivariance to rotation, in this context understood as responding with a rotated semantic label map when subject to a rotation of the input image, is therefore a very desirable feature, in particular for high capacity models, such as Convolutional Neural Networks (CNNs). If rotation equivariance is encoded in the network, the model is confronted with a simpler task and does not need to learn specific (and redundant) weights to address rotated versions of the same object class. In this work we propose a CNN architecture called Rotation Equivariant Vector Field Network (RotEqNet) to encode rotation equivariance in the network itself. By using rotating convolutions as building blocks \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:WF5omc3nYNoC",
+    "num_citations": 232,
+    "citedby_url": "/scholar?hl=en&cites=8927447383122757613",
+    "cites_id": [
+        "8927447383122757613"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271618300261",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7ccFZhiq5HsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 13,
+        "2019": 34,
+        "2020": 34,
+        "2021": 51,
+        "2022": 51,
+        "2023": 37,
+        "2024": 11
+    }
+}

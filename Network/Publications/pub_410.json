@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "EpidNews: un explorateur de donn\u00e9es \u00e9pid\u00e9miologiques pour la surveillance des maladies animales",
+        "pub_year": 2019,
+        "citation": "IC 2019-30es Journ\u00e9es francophones d'Ing\u00e9nierie des Connaissances, 215-216, 2019",
+        "author": "Alexis Delaforge and Rohan Goel and Samiha Fadloun and Sarah Valentin and Arnaud Sallaberry and Mathieu Roche and Pascal Poncelet",
+        "conference": "IC 2019-30es Journ\u00e9es francophones d'Ing\u00e9nierie des Connaissances",
+        "pages": "215-216",
+        "abstract": "La d\u00e9tection et le suivi de foyers de maladies animales reposent sur l\u2019analyse quotidienne de donn\u00e9es \u00e9pid\u00e9miologiques, g\u00e9n\u00e9ralement issues d\u2019organismes officiels. Les m\u00e9dias digitaux, sources de donn\u00e9es dites \u00abnon-officielles\u00bb, sont utilis\u00e9s de mani\u00e8re compl\u00e9mentaire par les syst\u00e8mes de veille sanitaire en raison de leur r\u00e9activit\u00e9 et de la facilit\u00e9 d\u2019acc\u00e8s \u00e0 leur contenu. Cependant, l\u2019extraction manuelle d\u2019informations pertinentes \u00e0 partir de ces donn\u00e9es non-structur\u00e9es est tr\u00e8s couteuse en temps. Afin de simplifier cette t\u00e2che, nous proposons EpidNews (Goel et al.(2018)), un nouvel outil d\u2019analyse visuelle qui permet d\u2019explorer les donn\u00e9es \u00e9pid\u00e9miologiques multi-sources (officielles et non-officielles). EpidNews permet de visualiser la distribution et l\u2019\u00e9volution spatio-temporelle des donn\u00e9es gr\u00e2ce \u00e0 une carte et un outil de s\u00e9lection temporelle. Les donn\u00e9es, qui repr\u00e9sentent des foyers de maladie, peuvent \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:qjMakFHDy7sC",
+    "num_citations": 0,
+    "pub_url": "https://scholar.archive.org/work/irqwfnvqyzbrbj2v25uqlpoh4y/access/wayback/https://hal.archives-ouvertes.fr/hal-02329586/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4ezFhDB5joAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Half a percent of labels is enough: Efficient animal detection in UAV imagery using deep CNNs and active learning",
+        "pub_year": 2019,
+        "citation": "IEEE Transactions on Geoscience and Remote Sensing 57 (12), 9524-9533, 2019",
+        "author": "Benjamin Kellenberger and Diego Marcos and Sylvain Lobry and Devis Tuia",
+        "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+        "volume": "57",
+        "number": "12",
+        "pages": "9524-9533",
+        "publisher": "IEEE",
+        "abstract": "We present an Active Learning (AL) strategy for reusing a deep Convolutional Neural Network (CNN)-based object detector on a new data set. This is of particular interest for wildlife conservation: given a set of images acquired with an Unmanned Aerial Vehicle (UAV) and manually labeled ground truth, our goal is to train an animal detector that can be reused for repeated acquisitions, e.g., in follow-up years. Domain shifts between data sets typically prevent such a direct model application. We thus propose to bridge this gap using AL and introduce a new criterion called Transfer Sampling (TS). TS uses Optimal Transport (OT) to find corresponding regions between the source and the target data sets in the space of CNN activations. The CNN scores in the source data set are used to rank the samples according to their likelihood of being animals, and this ranking is transferred to the target data set. Unlike \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:ns9cj8rnVeAC",
+    "num_citations": 118,
+    "citedby_url": "/scholar?hl=en&cites=9946706673649253475",
+    "cites_id": [
+        "9946706673649253475"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8807383/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Y_zeDwXNCYoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 10,
+        "2021": 38,
+        "2022": 30,
+        "2023": 31,
+        "2024": 5
+    }
+}

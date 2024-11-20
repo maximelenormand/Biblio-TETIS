@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Glacier fluctuations during the Late Glacial and Holocene on the Ari\u00e8ge valley, northern slope of the Pyrenees and reconstructed climatic conditions",
+        "pub_year": 2020,
+        "citation": "Mediterranean Geoscience Reviews 2, 37-51, 2020",
+        "author": "Vincent Jomelli and Emmanuel Chapron and Vincent Favier and Vincent Rinterknecht and R\u00e9gis Braucher and Nicolas Tournier and Simon Gascoin and Renaud Marti and Didier Galop and St\u00e9phane Binet and Cesar Deschamps-Berger and Helene Tissoux and Georges Aumaitre and Didier L Bourl\u00e8s and Karim Keddadouche",
+        "journal": "Mediterranean Geoscience Reviews",
+        "volume": "2",
+        "pages": "37-51",
+        "publisher": "Springer International Publishing",
+        "abstract": "The glacier evolution from two valleys located near Vicdessos, French Pyrenees, is deciphered from 17 in situ cosmic ray exposure (CRE) dating. In the Picot valley, Late Glacial glacier advances were documented during Heinrich Stadial 1 (HS1), while a rock glacier developed or was reactivated during the mid-Holocene. In the upper M\u00e9d\u00e9courbe valley, the largest visible ice extent occurred during the Younger Dryas (YD) or earlier. At least two moraines formed during the early Holocene were dated, while an undated moraine located close to the head of the catchment may have been formed either during the Late Holocene or the Little Ice Age. A mass balance model suggests that a temperature about 5.1 \u00b0C cooler than today, without precipitation change, would be necessary to form a moraine at the base of the Picot catchment during HS1 at 2000 m a.s.l. A temperature about 3.9 \u00b0C cooler than today is necessary \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "9Hy7dPoAAAAJ:KlAtU1dfN6UC",
+    "num_citations": 19,
+    "citedby_url": "/scholar?hl=en&cites=3120501403677602345",
+    "cites_id": [
+        "3120501403677602345"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s42990-020-00018-5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KbJPV34_TisJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 9,
+        "2022": 3,
+        "2023": 2,
+        "2024": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Social media and deep learning reveal specific cultural preferences for biodiversity",
+        "pub_year": 2023,
+        "citation": "People and Nature 5 (3), 981-998, 2023",
+        "author": "Ilan Havinga and Diego Marcos and Patrick Bogaart and Dario Massimino and Lars Hein and Devis Tuia",
+        "journal": "People and Nature",
+        "volume": "5",
+        "number": "3",
+        "pages": "981-998",
+        "abstract": "  Social media has created new opportunities to map cultural ecosystem services (CES) related to biodiversity at large scales. However, using these novel data to understand people's preferences in relation to these CES remains a challenge. To address this, we trained a deep learning model to capture people's interactions with selected flora and fauna on Flickr as a cultural service related to biodiversity and compared this with citizen science data on iNaturalist, with photos of individual species considered as human\u2013species interactions. After mapping the distribution of people's interactions in Great Britain on Flickr and iNaturalist, we find significant spatial differences in people's preferences on the two platforms. Using a second, pretrained deep learning model, we were also able to identify different preferences for species groups such as birds on social media versus citizen science. To better understand people \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:8AbLer7MMksC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=11151603930623089338",
+    "cites_id": [
+        "11151603930623089338"
+    ],
+    "pub_url": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1002/pan3.10466",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:upqj8LB0wpoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    }
+}

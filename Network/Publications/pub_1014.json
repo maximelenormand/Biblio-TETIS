@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ALOS-2 and Sentinel-1 use for retrieving soil moisture over cereal fields in semi-arid area: the Kairouan plain\u2013central Tunisia",
+        "pub_year": 2021,
+        "citation": "Remote Sensing for Agriculture, Ecosystems, and Hydrology XXIII 11856, 233-242, 2021",
+        "author": "Emna Ayari and Zeineb Kassouk and Zohra Lili-Chabaane and Nicolas Baghdadi and Safa Bousbih and Mehrez Zribi",
+        "conference": "Remote Sensing for Agriculture, Ecosystems, and Hydrology XXIII",
+        "volume": "11856",
+        "pages": "233-242",
+        "publisher": "SPIE",
+        "abstract": "In the present study, we evaluate the potential of multi-incidence L-band and C-band data to retrieve soil moisture. In -situ measurements were acquired during satellite acquisitions over cereal fields in the Kairouan plain in central Tunisia (semi-arid area). Analysing radar data, L-band Advanced Land Observing Satellite-2 multi-incidence data (28\u00b0, 32.5\u00b0 and 36\u00b0) in HH (L-HH) and HV (L-HV) polarizations and C-band like-polarization Sentinel-1data, with an incidence angle of approximately 39\u00b0, (C-VV) are strongly impacted by soil roughness. In addition, results highlight the sensitivity of L-band data to soil moisture in dense cover class where Normalized Vegetation Difference Index (NDVI) values are higher than 0.6. Two options of Water Cloud Model (WCM) were used (with and without the integration of soil-vegetation interaction component) to simulate radar signal over cereal fields. Each option of WCM was \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:naSTrk-c4S8C",
+    "num_citations": 0,
+    "pub_url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11856/1185612/ALOS-2-and-Sentinel-1-use-for-retrieving-soil-moisture/10.1117/12.2599730.short",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gjHenk9iE6AJ:scholar.google.com/",
+    "cites_per_year": {}
+}

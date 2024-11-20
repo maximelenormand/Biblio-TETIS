@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Attribute Prediction as Multiple Instance Learning",
+        "pub_year": 2022,
+        "citation": "Transactions in Machine Learning Research, 2022",
+        "author": "Diego Marcos and Aike Potze and Wenjia Xu and Devis Tuia and Zeynep Akata",
+        "journal": "Transactions in Machine Learning Research",
+        "abstract": "Attribute-based representations help machine learning models perform tasks based on human understandable concepts, allowing a closer human-machine collaboration. However, learning attributes that accurately reflect the content of an image is not always straightforward, as per-image ground truth attributes are often not available.  We propose applying the Multiple Instance Learning (MIL) paradigm to attribute learning (AMIL) while only using class-level labels.  We allow the model to under-predict the positive attributes, which may be missing in a particular image due to occlusions or unfavorable pose, but not to over-predict the negative ones, which are almost certainly not present. We evaluate it in the zero-shot learning (ZSL) setting, where training and test classes are disjoint,  and show that this also allows to profit from knowledge about the semantic relatedness of attributes.  In addition, we apply the MIL assumption to ZSL classification and propose MIL-DAP, an attribute-based zero-shot classification method, based on Direct Attribute Prediction (DAP), to evaluate attribute prediction methods when no image-level data is available for evaluation. Experiments on CUB-200-2011, SUN Attributes and AwA2 show improvements on attribute detection, attribute-based zero-shot classification and weakly supervised part localization."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:tOudhMTPpwUC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=9169094372719875127",
+    "cites_id": [
+        "9169094372719875127"
+    ],
+    "pub_url": "https://openreview.net/forum?id=nmFczdJtc2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:N1QAhsAqP38J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    }
+}

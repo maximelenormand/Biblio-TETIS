@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Semantic segmentation of remote sensing images with sparse annotations",
+        "pub_year": 2021,
+        "citation": "IEEE Geoscience and Remote Sensing Letters 19, 1-5, 2021",
+        "author": "Yuansheng Hua and Diego Marcos and Lichao Mou and Xiao Xiang Zhu and Devis Tuia",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "volume": "19",
+        "pages": "1-5",
+        "publisher": "IEEE",
+        "abstract": "Training convolutional neural networks (CNNs) for very high-resolution images requires a large quantity of high-quality pixel-level annotations, which is extremely labor-intensive and time-consuming to produce. Moreover, professional photograph interpreters might have to be involved in guaranteeing the correctness of annotations. To alleviate such a burden, we propose a framework for semantic segmentation of aerial images based on incomplete annotations, where annotators are asked to label a few pixels with easy-to-draw scribbles. To exploit these sparse scribbled annotations, we propose the FEature and Spatial relaTional regulArization (FESTA) method to complement the supervised task with an unsupervised learning signal that accounts for neighborhood structures both in spatial and feature terms. For the evaluation of our framework, we perform experiments on two remote sensing image segmentation \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:fPk4N6BV_jEC",
+    "num_citations": 84,
+    "citedby_url": "/scholar?hl=en&cites=4560825351062229878",
+    "cites_id": [
+        "4560825351062229878"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9335495/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dhOpFH5OSz8J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 14,
+        "2022": 36,
+        "2023": 26,
+        "2024": 8
+    }
+}

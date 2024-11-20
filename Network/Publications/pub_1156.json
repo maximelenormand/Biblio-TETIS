@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PhotoWeb redshift: boosting photometric redshift accuracy with large spectroscopic surveys",
+        "pub_year": 2020,
+        "citation": "Astronomy & Astrophysics 636, A90, 2020",
+        "author": "Marko Shuntov and J Pasquet and S Arnouts and O Ilbert and M Treyer and E Bertin and S de La Torre and Y Dubois and D Fouchez and K Kraljic and C Laigle and C Pichon and D Vibert",
+        "journal": "Astronomy & Astrophysics",
+        "volume": "636",
+        "pages": "A90",
+        "publisher": "EDP Sciences",
+        "abstract": "Improving distance measurements in large imaging surveys is a major challenge to better reveal the distribution of galaxies on a large scale and to link galaxy properties with their environments. As recently shown, photometric redshifts can be efficiently combined with the cosmic web extracted from overlapping spectroscopic surveys to improve their accuracy. In this paper we apply a similar method using a new generation of photometric redshifts based on a convolution neural network (CNN). The CNN is trained on the SDSS images with the main galaxy sample (SDSS-MGS, r\u2004\u2264\u200417.8) and the GAMA spectroscopic redshifts up to r\u2004\u223c\u200419.8. The mapping of the cosmic web is obtained with 680 000 spectroscopic redshifts from the MGS and BOSS surveys. The redshift probability distribution functions (PDF), which are well calibrated (unbiased and narrow, \u2264120 Mpc), intercept a few cosmic web structures along \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:ULOm3_A8WrAC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=3274596878395917898",
+    "cites_id": [
+        "3274596878395917898"
+    ],
+    "pub_url": "https://www.aanda.org/articles/aa/abs/2020/04/aa37382-19/aa37382-19.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SkZk54K0cS0J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 3,
+        "2023": 4,
+        "2024": 1
+    }
+}

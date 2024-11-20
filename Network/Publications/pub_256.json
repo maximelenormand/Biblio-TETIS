@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Driving forces of recent vegetation changes in the Sahel: Lessons learned from regional and local level analyses",
+        "pub_year": 2017,
+        "citation": "Remote Sensing of Environment 191, 38-54, 2017",
+        "author": "Louise Leroux and Agn\u00e8s B\u00e9gu\u00e9 and Danny Lo Seen and Audrey Jolivot and Francois Kayitakire",
+        "journal": "Remote Sensing of Environment",
+        "volume": "191",
+        "pages": "38-54",
+        "publisher": "Elsevier",
+        "abstract": "A wide range of environmental and societal issues such as food security policy implementation requires accurate information on biomass productivity and its underlying drivers at both regional and local scales. While many studies in West Africa are conducted with coarse resolution earth observation data, few have tried to relate vegetation trends to explanatory factors, as is generally done in land use and land cover change (LULCC) studies at finer scales. In this study we proposed to make a bridge between vegetation trend analysis and LULCC studies to improve the understanding of the various factors that influence the biomass production changes observed in satellite time series (using integrated Normalized Difference Vegetation Index [NDVI] as a proxy). The study was conducted in two steps. In the first step we analyzed MODIS NDVI linear trends together with TRMM growing season rainfall over the Sahel \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:Ug5p-4gJ2f0C",
+    "num_citations": 158,
+    "citedby_url": "/scholar?hl=en&cites=17251801517071131844",
+    "cites_id": [
+        "17251801517071131844"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425717300135",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xOSRaBO2au8J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 9,
+        "2019": 25,
+        "2020": 22,
+        "2021": 29,
+        "2022": 27,
+        "2023": 28,
+        "2024": 14
+    }
+}

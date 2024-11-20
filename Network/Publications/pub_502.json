@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u2019Alessandro, M.; Paillou, P.; Papathanassiou, K.; et al",
+        "pub_year": 2019,
+        "citation": "The European Space Agency BIOMASS mission: Measuring forest above-ground \u2026, 2019",
+        "author": "S Quegan and T Le Toan and J Chave and J Dall and JF Exbrayat and D Ho Tong Minh and M Lomas and D Mariotti",
+        "journal": "The European Space Agency BIOMASS mission: Measuring forest above-ground biomass from space. Remote Sens. Environ",
+        "volume": "227",
+        "pages": "44-60"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:t6usbXjVLHcC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=13882262290136409430",
+    "cites_id": [
+        "13882262290136409430"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=13882262290136409430&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VqVhYgC0p8AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 0,
+        "2022": 2,
+        "2023": 2
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\u00c9valuation des impacts d\u2019une infrastructure de donn\u00e9es satellitaires: Application \u00e0 la gestion des coupes rases foresti\u00e8res en France",
+        "pub_year": 2021,
+        "citation": "Revue d\u2019\u00c9conomie R\u00e9gionale & Urbaine, 473-494, 2021",
+        "author": "Amadou Niang and Helene Rey-Valette and Pierre Maurel and Kenji Ose and Chady Jabbour and Jean-Michel Salles",
+        "journal": "Revue d\u2019\u00c9conomie R\u00e9gionale & Urbaine",
+        "number": "3",
+        "pages": "473-494",
+        "publisher": "Cairn/Publilog",
+        "abstract": "Cet article propose un cadre exploratoire d\u2019\u00e9valuation des impacts \u00e9conomiques des Infrastructures de Donn\u00e9es G\u00e9ographiques et Spatiales (IDGS) \u00e0 partir de l\u2019exemple de GEOSUD et des cartes de coupes rases relatives \u00e0 la gestion des for\u00eats. L\u2019\u00e9valuation est r\u00e9alis\u00e9e \u00e0 partir d\u2019une enqu\u00eate en ligne aupr\u00e8s des services du minist\u00e8re de l\u2019Agriculture charg\u00e9s du contr\u00f4le des coupes rases r\u00e9alis\u00e9s par les exploitants forestiers. L\u2019approche d\u00e9velopp\u00e9e croise deux points de vue compl\u00e9mentaires. Elle s\u2019inscrit, d\u2019une part, dans une logique \u00e9conomique pour estimer certains effets \u00e0 l\u2019\u00e9chelle de la cha\u00eene de valeur concern\u00e9e par la fabrique et l\u2019usage de l\u2019information satellitaire, des produits et services th\u00e9matiques d\u00e9riv\u00e9s. Les effets mesur\u00e9s portent sur les \u00e9conomies de co\u00fbts et de productivit\u00e9, la valeur ajout\u00e9e cr\u00e9\u00e9e \u00e0 l\u2019\u00e9chelle de la cha\u00eene de valeur li\u00e9e \u00e0 ces cartes de coupes rases. Au total, il appara\u00eet que pour \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xXmXpa0AAAAJ:qUcmZB5y_30C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=2262796651260376197",
+    "cites_id": [
+        "2262796651260376197"
+    ],
+    "pub_url": "https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2021-3-page-473.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hXRRxZARZx8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1
+    }
+}

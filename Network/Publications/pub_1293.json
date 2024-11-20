@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "What can deliberative approaches bring to the monetary valuation of ecosystem services? A literature review",
+        "pub_year": 2015,
+        "citation": "Ecosystem Services 14, 88\u201397, 2015",
+        "author": "Lukas Bunse and OliviaRendon and SandraLuque",
+        "journal": "Ecosystem Services",
+        "volume": "14",
+        "pages": "88\u201397",
+        "publisher": "Leon Braat, Elsevier B.V.",
+        "abstract": "In response to extensive criticism of the monetary valuation of ecosystem services deliberative monetary valuation (DMV) has been proposed as an improved approach that combines the benefits of deliberative decision-making with the advantages of monetary values. In this study the body of literature that has developed in the field of deliberative monetary valuation is reviewed to assess the potential advantages and challenges that this approach can bring to the valuation of ecosystem services. The studies reviewed present a range of approaches to DMV based on different paradigms and methods. While studies that implemented DMV were primarily concerned with improving monetary values within the neoclassical economic paradigm, proposals for DMV in theoretical papers are challenging this paradigm and stress the potential for DMV to produce more democratic and equitable values. It was found that DMV \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:eIKNFFVQvJAC",
+    "num_citations": 102,
+    "citedby_url": "/scholar?hl=en&cites=6266025690810762023",
+    "cites_id": [
+        "6266025690810762023"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2212041615300048",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:J0M_vipl9VYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 9,
+        "2017": 17,
+        "2018": 14,
+        "2019": 9,
+        "2020": 16,
+        "2021": 14,
+        "2022": 11,
+        "2023": 9,
+        "2024": 2
+    }
+}

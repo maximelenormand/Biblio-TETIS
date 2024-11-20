@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Little progress in practice. Assessing transparency, inclusiveness and sustainability in large-scale land acquisitions in Africa",
+        "pub_year": 2022,
+        "citation": "University of Pretoria, Pretoria, 2022",
+        "author": "W Anseeuw and J Bourgoin and A Harding",
+        "journal": "University of Pretoria, Pretoria",
+        "abstract": "Despite the progress made in terms of global and national land policy frameworks, effective changes in practice remain limited. This is particularly the case with regard to large-scale land acquisitions (LSLAs), as highlighted through this assessment of the implementation of the VGGTs in the context of land deals in Africa."
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:p2g8aNsByqUC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=17681271201448674792",
+    "cites_id": [
+        "17681271201448674792"
+    ],
+    "pub_url": "https://landmatrix.org/documents/142/LMI_Africa_Report_on_investor_practices_2022.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6EWxc3p-YPUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 5,
+        "2023": 4
+    }
+}

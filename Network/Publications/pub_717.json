@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil-water adaptive management process: the case of On-site Wastewater Treatment Systems in peri-urban areas in France",
+        "pub_year": 2022,
+        "citation": "Environmental Challenges 7, 100506, 2022",
+        "author": "Kevin Daudin and Christiane Weber and Olivier Fouch\u00e9 and Laure Maton",
+        "journal": "Environmental Challenges",
+        "volume": "7",
+        "pages": "100506",
+        "publisher": "Elsevier",
+        "abstract": "This paper proposes a contribution to tackle urban sanitation issues giving some hindsight on a place-based science-practice collaborative project. Insights from a French public service in charge of On-site Wastewater Treatment Systems (OWTS) highlighted the need to deepen the understanding of soil infiltration assessments and to clarify their relation to some misunderstandings between actors. The initial aim was to explore how a knowledge based approach can offer an original perspective to historical \u201cseptic tanks\u201d and overcome technical and organizational difficulties. In this work we consider OWTS as hybrid infrastructures necessary to collect, transport, treat and dispose of domestic wastewater on the plot where it is generated. We suppose that OWTS adaptive management (sludge not included) offer many opportunities regarding water circulation (ecological function), infrastructure diversity (redundancy \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:4X0JR2_MtJMC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=10801965570347816838",
+    "cites_id": [
+        "10801965570347816838"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S266701002200066X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hteUeHRK6JUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 1
+    }
+}

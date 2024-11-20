@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Partial n-Ary relation instances on food packaging composition and permeability extracted from scientific publication tables",
+        "pub_year": 2022,
+        "citation": "Data in Brief 41, 108000, 2022",
+        "author": "Martin Lentschat and Patrice Buche and Luc Menut and Romane Guari and Mathieu Roche",
+        "journal": "Data in Brief",
+        "volume": "41",
+        "pages": "108000",
+        "publisher": "Elsevier",
+        "abstract": "This dataset is dedicated to text mining and is composed of partial n-Ary relation instances concerning food packaging composition and gas permeability. It was created from 31 tables derived from 10 English-language scientific articles in html format from several international journals hosted on the ScienceDirect website. This dataset includes two sets of data: manual table annotation results and automatic data extraction results. The tables were first annotated by one annotator and cross-curated by three different annotators. The annotation task aimed to identify all table data dealing with packaging permeability measurements and compositions. An Ontological and Terminological Resource (OTR) was used for the annotation process. The annotation guidelines were drawn up through a collective iterative approach involving the annotators, and they may be accessed alongside the data. This dataset of n-Ary relations \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:X0DADzN9RKwC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=14444406281604349540",
+    "cites_id": [
+        "14444406281604349540"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352340922002116",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZL5yvvvWdMgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 2
+    }
+}

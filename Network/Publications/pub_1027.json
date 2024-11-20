@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Application of deep learning of multi-temporal Sentinel-1 images for the classification of coastal vegetation zone of the danube delta",
+        "pub_year": 2018,
+        "citation": "The International Archives of the Photogrammetry, Remote Sensing and Spatial \u2026, 2018",
+        "author": "Simona Niculescu and Dino Ienco and Jenica Hanganu",
+        "journal": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "volume": "42",
+        "pages": "1311-1318",
+        "publisher": "Copernicus Publications",
+        "abstract": "Land cover is a fundamental variable for regional planning, as well as for the study and understanding of the environment. This work propose a multi-temporal approach relying on a fusion of radar multi-sensor data and information collected by the latest sensor (Sentinel-1) with a view to obtaining better results than traditional image processing techniques. The Danube Delta is the site for this work. The spatial approach relies on new spatial analysis technologies and methodologies: Deep Learning of multi-temporal Sentinel-1. We propose a deep learning network for image classification which exploits the multi-temporal characteristic of Sentinel-1 data. The model we employ is a Gated Recurrent Unit (GRU) Network, a recurrent neural network that explicitly takes into account the time dimension via a gated mechanism to perform the final prediction. The main quality of the GRU network is its ability to consider only the important part of the information coming from the temporal data discarding the irrelevant information via a forgetting mechanism. We propose to use such network structure to classify a series of images Sentinel-1 (20 Sentinel-1 images acquired between 9.10.2014 and 01.04.2016). The results are compared with results of the classification of Random Forest."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:XAp-VaTZjjwC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=2409409581219062817",
+    "cites_id": [
+        "2409409581219062817"
+    ],
+    "pub_url": "https://isprs-archives.copernicus.org/articles/XLII-3/1311/2018/isprs-archives-XLII-3-1311-2018.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IST8nj_xbyEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 4,
+        "2021": 2,
+        "2022": 4,
+        "2023": 2
+    }
+}

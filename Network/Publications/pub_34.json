@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analyzing urban agriculture\u2019s contribution to a southern city\u2019s resilience through land cover mapping: The case of Antananarivo, capital of Madagascar",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (12), 1962, 2020",
+        "author": "St\u00e9phane Dupuy and Laurence Defrise and Valentine Lebourgeois and Raffaele Gaetano and Perrine Burnod and Jean-Philippe Tonneau",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "12",
+        "pages": "1962",
+        "publisher": "MDPI",
+        "abstract": "High urbanization rates in cities lead to rapid changes in land uses, particularly in southern cities where population growth is fast. Urban and peri-urban agricultural land is often seen as available space for the city to expand, but at the same time, agricultural land provides many benefits to cities pertaining to food, employment, and eco-services. In this context, there is an urgent need to provide spatial information to support planning in complex urban systems. The challenge is to integrate analysis of agriculture and urban land-cover classes, and of their spatial and functional patterns. This paper takes up this challenge in Antananarivo (Madagascar), where agricultural plots and homes are interlocked and very small. It innovates by using a methodology already tested in rural settings, but never applied to urban environments. The key step of the analysis is to produce landscape zoning based on multisource satellite data to identify agri-urban functional areas within the city, and to explore their relationships. Our results demonstrate that the proposed classification method is well suited for mapping agriculture and urban land cover (overall accuracy = 76.56% for the 20 classes of level 3) in such a complex setting. The systemic analysis of urban agriculture patterns and functions can help policymakers and urban planners to design and build resilient cities."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:L8Ckcad2t8MC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=872764615232296719",
+    "cites_id": [
+        "872764615232296719"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/12/1962",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:D5dzH8uuHAwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 0,
+        "2022": 5,
+        "2023": 2,
+        "2024": 4
+    }
+}

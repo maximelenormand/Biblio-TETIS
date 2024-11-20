@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The European Space Agency BIOMASS mission: Measuring forest above-ground biomass from space",
+        "pub_year": 2019,
+        "citation": "Remote Sensing of Environment 227, 44-60, 2019",
+        "author": "Shaun Quegan and Thuy Le Toan and Jerome Chave and Jorgen Dall and Jean-Francois Exbrayat and Dinh Ho Tong Minh and Mark Lomas and Mauro Mariotti D'alessandro and Philippe Paillou and Kostas Papathanassiou and Fabio Rocca and Sassan Saatchi and Klaus Scipal and Hank Shugart and T Luke Smallman and Maciej J Soja and Stefano Tebaldini and Lars Ulander and Ludovic Villard and Mathew Williams",
+        "journal": "Remote Sensing of Environment",
+        "volume": "227",
+        "pages": "44-60",
+        "publisher": "Elsevier",
+        "abstract": "The primary objective of the European Space Agency's 7th Earth Explorer mission, BIOMASS, is to determine the worldwide distribution of forest above-ground biomass (AGB) in order to reduce the major uncertainties in calculations of carbon stocks and fluxes associated with the terrestrial biosphere, including carbon fluxes associated with Land Use Change, forest degradation and forest regrowth. To meet this objective it will carry, for the first time in space, a fully polarimetric P-band synthetic aperture radar (SAR). Three main products will be provided: global maps of both AGB and forest height, with a spatial resolution of 200\u202fm, and maps of severe forest disturbance at 50\u202fm resolution (where \u201cglobal\u201d is to be understood as subject to Space Object tracking radar restrictions). After launch in 2022, there will be a 3-month commissioning phase, followed by a 14-month phase during which there will be global \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:3s1wT3WcHBgC",
+    "num_citations": 207,
+    "citedby_url": "/scholar?hl=en&cites=1319145710310255735",
+    "cites_id": [
+        "1319145710310255735"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425719301233",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d-wFzgiMThIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 9,
+        "2020": 30,
+        "2021": 61,
+        "2022": 45,
+        "2023": 56,
+        "2024": 6
+    }
+}

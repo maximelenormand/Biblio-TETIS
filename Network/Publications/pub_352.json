@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Airborne and satellite SAR tomography: a tool to investigate forests and glaciers structures",
+        "pub_year": 2016,
+        "citation": "Annals of GIS 22 (2), 103-112, 2016",
+        "author": "Fabio Rocca and Stefano Tebaldini and Dinh Ho Tong Minh",
+        "journal": "Annals of GIS",
+        "volume": "22",
+        "number": "2",
+        "pages": "103-112",
+        "publisher": "Taylor & Francis",
+        "abstract": "Microwave radiations below say 1250 MHz penetrate forests, dry ice and rocks. The use of airborne or satellite borne microwave sensors to image the subsurface with significant penetration is thus of high interest to analyse wide areas or even to make global surveys. Due to the large distance from the targets, the antenna has to be synthesized using a progressive scan and illuminating the targets from different positions. The radar returns are then properly combined using a computer. The position of the sensor has to be known to a fraction of a wavelength. This is rather easy to obtain if the sensor flies along a well-characterized track (synthetic aperture radar (Bamler and Hartl, 1998)). The creation of the across track aperture is much more difficult. It can be done by using many flights or orbits, which positions, however, need to be extremely well known. We show that this can be obtained by exploiting the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:IWHjjKOFINEC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=1287579614321511241",
+    "cites_id": [
+        "1287579614321511241"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/19475683.2016.1157518",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SQurW9Zm3hEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

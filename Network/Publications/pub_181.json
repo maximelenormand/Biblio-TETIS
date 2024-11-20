@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Performances of GNSS-R GLORI data over Lande forest",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Mehrez Zribi and Erwan Matte and Pascal Fanise and Dominique Guyon and Jean Pierre Wigneron and Nicolas Baghdadi and Nazzareno Pierdicca",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "2039-2042",
+        "publisher": "IEEE",
+        "abstract": "The GLORI Campaign performed in June-July 2015 to investigate the sensitivity of airborne GNSS-R measurements to land parameters is presented. In this paper data obtained on forest areas are analyzed. Ground truth measurements of tree height, density and diameter at breast height, AGB etc were measured over 100 maritime pine forest plots of various ages. The correlation between forest parameters and GNSS reflectivity in LHCP polarization (\u0393 LR ) or polarization ratio (PR) yields to high sensitivity for high elevation angles (70\u00b0-90\u00b0). Results show that PR illustrates highest potential than the reflectivity in LHCP."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:buQ7SEKw-1sC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=14782505489314452323",
+    "cites_id": [
+        "14782505489314452323"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8517953/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Y5PZ5GsCJs0J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

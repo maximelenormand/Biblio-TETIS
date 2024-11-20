@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Use of remote sensing derived parameters in a crop model for biomass prediction of hay crop",
+        "pub_year": 2016,
+        "citation": "EGU General Assembly Conference Abstracts, EPSC2016-4846, 2016",
+        "author": "Mohammad El Hajj and Nicolas Baghdadi and Bruno Cheviron and Gilles Belaud and Mehrez Zribi",
+        "journal": "EGU General Assembly Conference Abstracts",
+        "pages": "EPSC2016-4846",
+        "abstract": "Pre-harvest yield forecasting is a critical challenge for producers, especially for large agricultural areas. During previous decades, numerous crop models were developed to predict crop growth and yield at daily time, most often for wheat or maize, and also for grasslands. Crop models require several input parameters that describe soil properties (eg field capacity), plant characteristics (eg maximal rooting depth) and management options (eg sowing dates, irrigation and harvest dates), which are referred to as the soil, plant and management families of parameters. Remote sensing technology has been extensively applied to identify spatially distributed values of some of the accessible parameters in the soil, plant and management families. The aim of this study was to address the feasibility, merits and limitations of forcing remote-sensing-derived parameters (LAI values, harvest and irrigation dates) in the PILOTE \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:uc_IGeMz5qoC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016EGUGA..18.4846E/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2XYI9a3tYtcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

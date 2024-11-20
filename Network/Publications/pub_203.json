@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fuzzy extensions of the DBScan clustering algorithm",
+        "pub_year": 2018,
+        "citation": "Soft Computing 22 (5), 1719-1730, 2018",
+        "author": "Dino Ienco and Gloria Bordogna",
+        "journal": "Soft Computing",
+        "volume": "22",
+        "number": "5",
+        "pages": "1719-1730",
+        "publisher": "Springer Berlin Heidelberg",
+        "abstract": "The DBSCAN algorithm is a well-known density-based clustering approach particularly useful in spatial data mining for its ability to find objects\u2019 groups with heterogeneous shapes and homogeneous local density distributions in the feature space. Furthermore, it can be suitable as scaling down approach to deal with big data for its ability to remove noise. Nevertheless, it suffers for some limitations, mainly the inability to identify clusters with variable density distributions and partially overlapping borders, which is often a characteristics of both scientific data and real-world data. To this end, in this work, we propose three fuzzy extensions of the $$\\textit{DBSCAN}$$                                            DBSCAN                                         algorithm to generate clusters with distinct fuzzy density characteristics. The original version of $$\\textit{DBSCAN}$$                                            DBSCAN                                         requires two \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:9shLKfS_uJEC",
+    "num_citations": 88,
+    "citedby_url": "/scholar?hl=en&cites=14033504681759226760",
+    "cites_id": [
+        "14033504681759226760"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s00500-016-2435-0",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iDsKxicGwcIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 4,
+        "2019": 15,
+        "2020": 20,
+        "2021": 13,
+        "2022": 22,
+        "2023": 10,
+        "2024": 1
+    }
+}

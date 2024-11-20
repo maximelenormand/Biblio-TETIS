@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Identifying users with alternate behaviors of lurking and active participation in multilayer social networks",
+        "pub_year": 2017,
+        "citation": "IEEE Transactions on Computational Social Systems 5 (1), 46-63, 2017",
+        "author": "Diego Perna and Roberto Interdonato and Andrea Tagarelli",
+        "journal": "IEEE Transactions on Computational Social Systems",
+        "volume": "5",
+        "number": "1",
+        "pages": "46-63",
+        "publisher": "IEEE",
+        "abstract": "With the growing complexity of scenarios relating to online social networks (OSNs), there is an emergence of effective models and methods for understanding the characteristics and dynamics of multiple interconnected types of user relations. Profiles on different OSNs belonging to the same user can be linked using the multilayer structure, opening to unprecedented opportunities for user behavior analysis in a complex system. In this paper, we leverage the importance of studying the dichotomy between information-producers (contributors) and information-consumers (lurkers), and their interplay over a multilayer network, in order to effectively analyze such different roles a user may take on different OSNs. In this respect, we address the novel problem of identification and characterization of opposite behaviors that users may alternately exhibit over multiple layers of a complex network. We propose the first ranking \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:UebtZRa9Y70C",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=14259598433762533185",
+    "cites_id": [
+        "14259598433762533185"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8101313/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Qd8hlDlF5MUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 7,
+        "2020": 5,
+        "2021": 5,
+        "2022": 3
+    }
+}

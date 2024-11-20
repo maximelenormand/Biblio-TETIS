@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Physiognomic map of natural vegetation",
+        "pub_year": 2018,
+        "citation": "QGIS and Applications in Agriculture and Forest 2, 247-282, 2018",
+        "author": "Samuel Alleaume and Sylvio Laventure",
+        "journal": "QGIS and Applications in Agriculture and Forest",
+        "volume": "2",
+        "pages": "247-282",
+        "publisher": "John Wiley & Sons, Inc.",
+        "abstract": "This chapter describes the method that is based on works developed in the framework of a national project financed by the Ministry of the Environment, Energy and the Sea. The physiognomic map of natural vegetation provides a clear and homogeneous spatial framework to the field operators, even before deploying field teams. Natural vegetation is much more spectrally stable over time than crop vegetation. A time series throughout the vegetative period is used to discriminate between natural vegetation. The classification of vegetation densities, that is to say the level of opening of the media (herbaceous, open woody, dense woody), is based on texture data from the very high spatial resolution (VHSR) image. The treatments in the vegetation mapping method use the basic functionalities of the quantum geographic information system (QGIS) software as well as the integrated image processing library Orfeo \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:hC7cP41nSMkC",
+    "num_citations": 0,
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119457107.ch8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YcNv5fatRY4J:scholar.google.com/",
+    "cites_per_year": {}
+}

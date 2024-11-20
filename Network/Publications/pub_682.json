@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Apprentissage profond multi-sources pour la cartographie des moraines glaciaires-Multi-source Deep Learning for Glacial Moraine Mapping",
+        "pub_year": 2023,
+        "citation": "ORASIS 2023, 2023",
+        "author": "Isabelle Rocamora and Dino Ienco and Matthieu Ferry",
+        "conference": "ORASIS 2023",
+        "abstract": "Apprentissage profond multi-sources pour la cartographie des moraines glaciaires - Multi-source Deep Learning for Glacial Moraine Mapping"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:xii_ZKWM4-0C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-04219305/document",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dG63OBVvhhAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

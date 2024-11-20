@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "P-band SAR Tomography for Forest Type Classification",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 4822 \u2026, 2021",
+        "author": "Dinh Ho Tong Minh and Yen-Nhi Ngo and Thu Trang Le",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "4822-4825",
+        "publisher": "IEEE",
+        "abstract": "SAR tomography, a technique employing multiple acquisitions over the same areas to form a three-dimensional image, has been demonstrated to improve SAR's capability in many applications. Our study shows the potential value of SAR tomography acquisitions to improve forest classification. By using P-band tomographic SAR data from the German Aerospace Center F -SAR sensor during the AfriSAR campaign in February 2016, the vertical profiles of five different forest types at a tropical forest site in Mondah, Gabon (South Africa) were analyzed and exploited for the classification task. We demonstrated that the high sensitivity of SAR tomography to forest vertical structure enables the improvement of classification performance by up to 33 %. Interestingly, by using the standard Random Forest technique, we found that the ground (i.e., at 5\u201310 m) and volume layers (i.e., 20\u201340 m) play an important role in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:tS2w5q8j5-wC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9555069/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kZa37npM5SIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Harmonized in situ datasets for agricultural land use mapping and monitoring in tropical countries",
+        "pub_year": 2021,
+        "citation": "Earth System Science Data 13 (12), 5951-5967, 2021",
+        "author": "Audrey Jolivot and Valentine Lebourgeois and Louise Leroux and Mael Ameline and Val\u00e9rie Andriamanga and Beatriz Bell\u00f3n and Mathieu Castets and Arthur Crespin-Boucaud and Pierre Defourny and Santiana Diaz and Mohamadou Dieye and St\u00e9phane Dupuy and Rodrigo Ferraz and Raffaele Gaetano and Marie Gely and Camille Jahel and Bertin Kabore and Camille Lelong and Danny Lo Seen and Martha Muthoni and Babacar Ndao and Terry Newby and Cec\u00edlia Lira Melo de Oliveira Santos and Eloise Rasoamalala and Margareth Simoes and Ibrahima Thiaw and Alice Timmermans and Annelise Tran and Agn\u00e8s B\u00e9gu\u00e9",
+        "journal": "Earth System Science Data",
+        "volume": "13",
+        "number": "12",
+        "pages": "5951-5967",
+        "publisher": "Copernicus GmbH",
+        "abstract": " The availability of crop type reference datasets for satellite image classification is very limited for complex agricultural systems as observed in developing and emerging countries. Indeed, agricultural land use is very dynamic, agricultural censuses are often poorly georeferenced and crop types are difficult to interpret directly from satellite imagery. In this paper, we present a database made of 24 datasets collected in a standardized manner over nine sites within the framework of the international JECAM (Joint Experiment for Crop Assessment and Monitoring) initiative; the sites were spread over seven countries of the tropical belt, and the number of data collection years depended on the site (from 1 to 7 years between 2013 and 2020). These quality-controlled datasets are distinguished by in situ data collected at the field scale by local experts, with precise geographic coordinates, and following a common protocol. Altogether, the datasets completed 27\u2009074 polygons (20\u2009257 crops and 6817 noncrops, ranging from 748 plots in 2013 (one site visited) to 5515 in 2015 (six sites visited)) documented by detailed keywords. These datasets can be used to produce and validate agricultural land use maps in the tropics. They can also be used to assess the performances and robustness of classification methods of cropland and crop types/practices in a large range of tropical farming systems. The dataset is available at https://doi.org/10.18167/DVN1/P7OLAP (Jolivot et al., 2021)."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:HoB7MX3m0LUC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=11567326460607246335",
+    "cites_id": [
+        "11567326460607246335"
+    ],
+    "pub_url": "https://essd.copernicus.org/articles/13/5951/2021/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_694LSFmh6AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 4,
+        "2023": 9,
+        "2024": 2
+    }
+}

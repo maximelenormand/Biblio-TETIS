@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping irrigated areas using Sentinel-1 time series in Catalonia, Spain",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (15), 1836, 2019",
+        "author": "Hassan Bazzi and Nicolas Baghdadi and Dino Ienco and Mohammad El Hajj and Mehrez Zribi and Hatem Belhouchette and Maria Jose Escorihuela and Val\u00e9rie Demarez",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "15",
+        "pages": "1836",
+        "publisher": "MDPI",
+        "abstract": "Mapping irrigated plots is essential for better water resource management. Today, the free and open access Sentinel-1 (S1) and Sentinel-2 (S2) data with high revisit time offers a powerful tool for irrigation mapping at plot scale. Up to date, few studies have used S1 and S2 data to provide approaches for mapping irrigated plots. This study proposes a method to map irrigated plots using S1 SAR (synthetic aperture radar) time series. First, a dense temporal series of S1 backscattering coefficients were obtained at plot scale in VV (Vertical-Vertical) and VH (Vertical-Horizontal) polarizations over a study site located in Catalonia, Spain. In order to remove the ambiguity between rainfall and irrigation events, the S1 signal obtained at plot scale was used conjointly to S1 signal obtained at a grid scale (10 km \u00d7 10 km). Later, two mathematical transformations, including the principal component analysis (PCA) and the wavelet transformation (WT), were applied to the several SAR temporal series obtained in both VV and VH polarization. Irrigated areas were then classified using the principal component (PC) dimensions and the WT coefficients in two different random forest (RF) classifiers. Another classification approach using one dimensional convolutional neural network (CNN) was also performed on the obtained S1 temporal series. The results derived from the RF classifiers with S1 data show high overall accuracy using the PC values (90.7%) and the WT coefficients (89.1%). By applying the CNN approach on SAR data, a significant overall accuracy of 94.1% was obtained. The potential of optical images to map irrigated areas by the mean of a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:XUvXOeBm_78C",
+    "num_citations": 77,
+    "citedby_url": "/scholar?hl=en&cites=11212358040996722995",
+    "cites_id": [
+        "11212358040996722995"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/15/1836",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:M7kakDtMmpsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 21,
+        "2021": 16,
+        "2022": 31,
+        "2023": 9
+    }
+}

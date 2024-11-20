@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Synergetic use of Sentinel-1 and Sentinel-2 data for soil moisture mapping at 100 m resolution",
+        "pub_year": 2017,
+        "citation": "Sensors 17 (9), 1966, 2017",
+        "author": "Qi Gao and Mehrez Zribi and Maria Jose Escorihuela and Nicolas Baghdadi",
+        "journal": "Sensors",
+        "volume": "17",
+        "number": "9",
+        "pages": "1966",
+        "publisher": "MDPI",
+        "abstract": "The recent deployment of ESA\u2019s Sentinel operational satellites has established a new paradigm for remote sensing applications. In this context, Sentinel-1 radar images have made it possible to retrieve surface soil moisture with a high spatial and temporal resolution. This paper presents two methodologies for the retrieval of soil moisture from remotely-sensed SAR images, with a spatial resolution of 100 m. These algorithms are based on the interpretation of Sentinel-1 data recorded in the VV polarization, which is combined with Sentinel-2 optical data for the analysis of vegetation effects over a site in Urgell (Catalunya, Spain). The first algorithm has already been applied to observations in West Africa by Zribi et al., 2008, using low spatial resolution ERS scatterometer data, and is based on change detection approach. In the present study, this approach is applied to Sentinel-1 data and optimizes the inversion process by taking advantage of the high repeat frequency of the Sentinel observations. The second algorithm relies on a new method, based on the difference between backscattered Sentinel-1 radar signals observed on two consecutive days, expressed as a function of NDVI optical index. Both methods are applied to almost 1.5 years of satellite data (July 2015\u2013November 2016), and are validated using field data acquired at a study site. This leads to an RMS error in volumetric moisture of approximately 0.087 m3/m3 and 0.059 m3/m3 for the first and second methods, respectively. No site calibrations are needed with these techniques, and they can be applied to any vegetation-covered area for which time series of SAR data have been \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:XoXfffV-tXoC",
+    "num_citations": 289,
+    "citedby_url": "/scholar?hl=en&cites=8169768587796561956",
+    "cites_id": [
+        "8169768587796561956"
+    ],
+    "pub_url": "https://www.mdpi.com/1424-8220/17/9/1966",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JEDCzD7ZYHEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 25,
+        "2019": 55,
+        "2020": 45,
+        "2021": 56,
+        "2022": 54,
+        "2023": 40,
+        "2024": 10
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep learning-based localization of EEG electrodes within MRI acquisitions",
+        "pub_year": 2021,
+        "citation": "Frontiers in Neurology 12, 1095, 2021",
+        "author": "Pierre Maurel and Caroline Pinte and Mathis Fleury",
+        "journal": "Frontiers in Neurology",
+        "volume": "12",
+        "pages": "1095",
+        "publisher": "Frontiers",
+        "abstract": "The simultaneous acquisition of electroencephalographic (EEG) signals and functional magnetic resonance images (fMRI) aims to measure brain activity with good spatial and temporal resolution. This bimodal neuroimaging can bring complementary and very relevant information in many cases and in particular for epilepsy. Indeed, it has been shown that it can facilitate the localization of epileptic networks. Regarding the EEG, source localization requires the resolution of a complex inverse problem that depends on several parameters, one of the most important of which is the position of the EEG electrodes on the scalp. These positions are often roughly estimated using fiducial points. In simultaneous EEG-fMRI acquisitions, specific MRI sequences can provide valuable spatial information. In this work, we propose a new fully automatic method based on neural networks to segment an ultra-short echo-time MR volume in order to retrieve the coordinates and labels of the EEG electrodes. It consists of two steps: a segmentation of the images by a neural network, followed by the registration of an EEG template on the obtained detections. We trained the neural network using 37 MR volumes and then we tested our method on 23 new volumes. The results show an average detection accuracy of 99.7% with an average position error of 2.24 mm, as well as 100% accuracy in the labeling."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:M3ejUd6NZC8C",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=18083385807928925176",
+    "cites_id": [
+        "18083385807928925176"
+    ],
+    "pub_url": "https://www.frontiersin.org/articles/10.3389/fneur.2021.644278/full",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-JvxGZUX9foJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 1
+    }
+}

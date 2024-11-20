@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Ear density estimation from high resolution RGB imagery using deep learning technique",
+        "pub_year": 2019,
+        "citation": "Agricultural and Forest Meteorology 264, 225-234, 2019",
+        "author": "Simon Madec and Xiuliang Jin and Hao Lu and Benoit De Solan and Shouyang Liu and Florent Duyme and Emmanuelle Heritier and Fr\u00e9d\u00e9ric Baret",
+        "journal": "Agricultural and Forest Meteorology",
+        "volume": "264",
+        "pages": "225-234",
+        "publisher": "Elsevier",
+        "abstract": "Wheat ear density estimation is an appealing trait for plant breeders. Current manual counting is tedious and inefficient. In this study we investigated the potential of convolutional neural networks (CNNs) to provide accurate ear density using nadir high spatial resolution RGB images. Two different approaches were investigated, either using the Faster-RCNN state-of-the-art object detector or with the TasselNet local count regression network. Both approaches performed very well (rRMSE\u22486%) when applied over the same conditions as those prevailing for the calibration of the models. However, Faster-RCNN was more robust when applied to a dataset acquired at a later stage with ears and background showing a different aspect because of the higher maturity of the plants. Optimal spatial resolution for Faster-RCNN was around 0.3\u2009mm allowing to acquire RGB images from a UAV platform for high-throughput \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:Tyk-4Ss8FVUC",
+    "num_citations": 238,
+    "citedby_url": "/scholar?hl=en&cites=11241932844818123814",
+    "cites_id": [
+        "11241932844818123814"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S016819231830337X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JkwuLFxeA5wJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 20,
+        "2020": 42,
+        "2021": 47,
+        "2022": 62,
+        "2023": 58,
+        "2024": 8
+    }
+}

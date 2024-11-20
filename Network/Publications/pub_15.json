@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison of convolutional neural networks for cloudy optical images reconstruction from single or multitemporal joint SAR and optical images",
+        "pub_year": 2022,
+        "citation": "arXiv preprint arXiv:2204.00424, 2022",
+        "author": "R\u00e9mi Cresson and Nicolas Nar\u00e7on and Raffaele Gaetano and Aurore Dupuis and Yannick Tanguy and St\u00e9phane May and Benjamin Commandr\u00e9",
+        "journal": "arXiv preprint arXiv:2204.00424",
+        "abstract": "With the increasing availability of optical and synthetic aperture radar (SAR) images thanks to the Sentinel constellation, and the explosion of deep learning, new methods have emerged in recent years to tackle the reconstruction of optical images that are impacted by clouds. In this paper, we focus on the evaluation of convolutional neural networks that use jointly SAR and optical images to retrieve the missing contents in one single polluted optical image. We propose a simple framework that ease the creation of datasets for the training of deep nets targeting optical image reconstruction, and for the validation of machine learning based or deterministic approaches. These methods are quite different in terms of input images constraints, and comparing them is a problematic task not addressed in the literature. We show how space partitioning data structures help to query samples in terms of cloud coverage, relative acquisition date, pixel validity and relative proximity between SAR and optical images. We generate several datasets to compare the reconstructed images from networks that use a single pair of SAR and optical image, versus networks that use multiple pairs, and a traditional deterministic approach performing interpolation in temporal domain."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:R3hNpaxXUhUC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=2295618504149019070",
+    "cites_id": [
+        "2295618504149019070"
+    ],
+    "pub_url": "https://arxiv.org/abs/2204.00424",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vqmd592s2x8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 5
+    }
+}

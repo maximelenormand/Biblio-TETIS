@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Temporal mosaicking approaches of Sentinel-2 images for extending topsoil organic carbon content mapping in croplands",
+        "pub_year": 2021,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 96, 102277, 2021",
+        "author": "Emmanuelle Vaudour and C\u00e9cile Gomez and Philippe Lagacherie and Thomas Loiseau and Nicolas Baghdadi and Diego Urbina-Salazar and Benjamin Loubet and Dominique Arrouays",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "96",
+        "pages": "102277",
+        "publisher": "Elsevier",
+        "abstract": "The spatial assessment of soil organic carbon (SOC) is a major environmental challenge, notably for evaluating soil carbon stocks. Recent works have shown the capability of Sentinel-2 to predict SOC content over temperate agroecosystems characterized with annual crops. However, because spectral models are only applicable on bare soils, the mapping of SOC is often obtained on limited areas. A possible improvement for increasing the number of pixels on which SOC can be retrieved by inverting bare soil reflectance spectra, consists of using optical images acquired at several dates. This study compares different approaches of Sentinel\u20132 images temporal mosaicking to produce a composite multi-date bare soil image for predicting SOC content over agricultural topsoils. A first approach for temporal mosaicking was based on a per-pixel selection and was driven by soil surface characteristics: bare soil or dry \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:KWzIFqRkAKkC",
+    "num_citations": 58,
+    "citedby_url": "/scholar?hl=en&cites=6393293177546732425",
+    "cites_id": [
+        "6393293177546732425"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S030324342030920X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ifOZmEWKuVgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 13,
+        "2022": 18,
+        "2023": 23,
+        "2024": 4
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Use of airborne lidar data to improve plant species richness and diversity monitoring in lowland and mountain forests",
+        "pub_year": 2017,
+        "citation": "PLoS One 12 (9), e0184524, 2017",
+        "author": "Marc Bouvier and Sylvie Durrieu and Frederic Gosselin and Basile Herpigny",
+        "journal": "PLoS One",
+        "volume": "12",
+        "number": "9",
+        "pages": "e0184524",
+        "publisher": "Public Library of Science",
+        "abstract": "We explored the potential of airborne laser scanner (ALS) data to improve Bayesian models linking biodiversity indicators of the understory vegetation to environmental factors. Biodiversity was studied at plot level and models were built to investigate species abundance for the most abundant plants found on each study site, and for ecological group richness based on light preference. The usual abiotic explanatory factors related to climate, topography and soil properties were used in the models. ALS data, available for two contrasting study sites, were used to provide biotic factors related to forest structure, which was assumed to be a key driver of understory biodiversity. Several ALS variables were found to have significant effects on biodiversity indicators. However, the responses of biodiversity indicators to forest structure variables, as revealed by the Bayesian model outputs, were shown to be dependent on the abiotic environmental conditions characterizing the study areas. Lower responses were observed on the lowland site than on the mountainous site. In the latter, shade-tolerant and heliophilous species richness was impacted by vegetation structure indicators linked to light penetration through the canopy. However, to reveal the full effects of forest structure on biodiversity indicators, forest structure would need to be measured over much wider areas than the plot we assessed. It seems obvious that the forest structure surrounding the field plots can impact biodiversity indicators measured at plot level. Various scales were found to be relevant depending on: the biodiversity indicators that were modelled, and the ALS variable. Finally, our \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=13916286329796123101",
+    "cites_id": [
+        "13916286329796123101"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184524",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3VkfcK-UIMEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 1,
+        "2020": 3,
+        "2021": 1,
+        "2022": 3,
+        "2023": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Radar interferometry: 20 years of development in time series techniques and future perspectives",
+        "pub_year": 2020,
+        "citation": "Remote Sensing 12 (9), 1364, 2020",
+        "author": "Dinh HO TONG MINH and Ramon Hanssen and Fabio Rocca",
+        "journal": "Remote Sensing",
+        "volume": "12",
+        "number": "9",
+        "pages": "1364",
+        "publisher": "MDPI",
+        "abstract": "The research and improvement of methods to be used for deformation measurements from space is a challenge. From the previous 20 years, time series Synthetic Aperture Radar (SAR) interferometry techniques have proved for their ability to provide millimeter-scale deformation measurements over time. This paper aims to provide a review of such techniques developed in the last twenty years. We first recall the background of interferometric SAR (InSAR). We then provide an overview of the InSAR time series methods developed in the literature, describing their principles and advancements. Finally, we highlight challenges and future perspectives of the InSAR in the Big Data era."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:CHSYGLWDkRkC",
+    "num_citations": 86,
+    "citedby_url": "/scholar?hl=en&cites=11017257716952232939",
+    "cites_id": [
+        "11017257716952232939"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/12/9/1364",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:63PeiYUp5ZgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 5,
+        "2021": 28,
+        "2022": 25,
+        "2023": 25,
+        "2024": 2
+    }
+}

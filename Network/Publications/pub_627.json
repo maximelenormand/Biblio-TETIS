@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Automatic detection of inland water bodies along altimetry tracks for estimating surface water storage variations in the Congo Basin",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (19), 3804, 2021",
+        "author": "Fr\u00e9d\u00e9ric Frappart and Pierre Zeiger and Julie Betbeder and Val\u00e9ry Gond and R\u00e9gis Bellot and Nicolas Baghdadi and Fabien Blarel and Jos\u00e9 Darrozes and Luc Bourrel and Fr\u00e9d\u00e9rique Seyler",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "19",
+        "pages": "3804",
+        "publisher": "MDPI",
+        "abstract": "Surface water storage in floodplains and wetlands is poorly known from regional to global scales, in spite of its importance in the hydrological and the carbon balances, as the wet areas are an important water compartment which delays water transfer, modifies the sediment transport through sedimentation and erosion processes, and are a source for greenhouse gases. Remote sensing is a powerful tool for monitoring temporal variations in both the extent, level, and volume, of water using the synergy between satellite images and radar altimetry. Estimating water levels over flooded area using radar altimetry observation is difficult. In this study, an unsupervised classification approach is applied on the radar altimetry backscattering coefficients to discriminate between flooded and non-flooded areas in the Cuvette Centrale of Congo. Good detection of water (open water, permanent and seasonal inundation) is above 0.9 using radar altimetry backscattering from ENVISAT and Jason-2. Based on these results, the time series of water levels were automatically produced. They exhibit temporal variations in good agreement with the hydrological regime of the Cuvette Centrale. Comparisons against a manually generated time series of water levels from the same missions at the same locations show a very good agreement between the two processes (i.e., RMSE \u2264 0.25 m in more than 80%/90% of the cases and R \u2265 0.95 in more than 95%/75% of the cases for ENVISAT and Jason-2, respectively). The use of the time series of water levels over rivers and wetlands improves the spatial pattern of the annual amplitude of water storage in the Cuvette \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:BOlwja0KXvYC",
+    "num_citations": 20,
+    "citedby_url": "/scholar?hl=en&cites=5848039130055127912",
+    "cites_id": [
+        "5848039130055127912"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/19/3804",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:aDOFw5poKFEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 9,
+        "2023": 8,
+        "2024": 1
+    }
+}

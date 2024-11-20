@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Usages et effets \u00e9conomiques des infrastructures de donn\u00e9es g\u00e9o-spatiales (IDGS): quelques pistes de r\u00e9flexion \u00e0 partir de l'exp\u00e9rience de GEOSUD et de Theia",
+        "pub_year": 2018,
+        "citation": "Colloque\" Repenser les cartes \u00e0 l'\u00e8re du Web: approches critiques et enjeux \u2026, 2018",
+        "author": "H\u00e9l\u00e8ne Rey-Valette and P Maurel",
+        "conference": "Colloque\" Repenser les cartes \u00e0 l'\u00e8re du Web: approches critiques et enjeux politiques, sociaux et \u00e9conomiques des donn\u00e9es territoriales\"",
+        "pages": "24",
+        "abstract": "Pr\u00e9sentation des recherches m\u00e9thodologiques en cours men\u00e9es par le CEE-M et l'UMR TETIS pour mesurer les impacts socio-\u00e9conomiques d'Infrastructures de Donn\u00e9es G\u00e9ographiques et Spatiales (IDG, IDS, IDGS)."
+    },
+    "filled": true,
+    "author_pub_id": "VA_p56EAAAAJ:b0M2c_1WBrUC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02609613/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pmuhbtB5c2wJ:scholar.google.com/",
+    "cites_per_year": {}
+}

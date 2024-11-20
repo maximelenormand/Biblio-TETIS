@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fusion of time-series optical and SAR images using 3D convolutional neural networks for crop classification",
+        "pub_year": 2022,
+        "citation": "Geocarto International 37 (27), 15143-15160, 2022",
+        "author": "Maryam Teimouri and Mehdi Mokhtarzade and Nicolas Baghdadi and Christian Heipke",
+        "journal": "Geocarto International",
+        "volume": "37",
+        "number": "27",
+        "pages": "15143-15160",
+        "publisher": "Taylor & Francis",
+        "abstract": "Remote sensing is a most promising technique for providing crop maps, thanks to the development of satellite images at various temporal and spatial resolutions. Three-dimensional (3D) convolutional neural networks (CNNs) have the potential to provide rich features that represent the spatial and temporal patterns of crops when applied to time series. This study presents a novel 3D-CNN framework for classifying crops that is based on the fusion of radar and optical time series and also fully exploits 3D spatial-temporal information. To extract deep convolutional maps, the proposed technique uses one separate sequence for each time series dataset. To determine the label of each pixel, the extracted feature maps are passed to the concatenating layer and subsequent transmitted to the sequential fully connected layers. The proposed approach not only takes advantage of CNNs, i.e. automatic feature extraction, but \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:W2uZP3ddy8sC",
+    "num_citations": 9,
+    "citedby_url": "/scholar?hl=en&cites=4637833454535697462",
+    "cites_id": [
+        "4637833454535697462"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/10106049.2022.2095446",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NuQFYfTkXEAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 7
+    }
+}

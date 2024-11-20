@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Satellite Image Time Series to detect and monitor agricultural large-scale land acquisitions (LSLAs): Senegal case study",
+        "pub_year": 2022,
+        "citation": "Landscape 2021, 2022",
+        "author": "Yasmine Ngadi Scarpetta and Valentine Lebourgeois and Mohamadou Dieye and Jeremy Bourgoin and Agn\u00e8s B\u00e9gu\u00e9 and Anne-Elisabeth Laques",
+        "conference": "Landscape 2021",
+        "abstract": "Large scale land acquisitions (LSLAs), often referred as \"land grabbing\", refer to the control of larger than locally-typical amounts of land by any physical/moral person for agricultural purposes, logging, tourism, conservation, mining, urban expansion or large infrastructural works. LSLAs are highly dynamic and complex land use systems, that are rapidly transforming ecosystems and societies in many lowincome countries of the world, bringing on one hand sustainability challenges and, on the other hand, undermining the right of peoples to self-determination over natural resources. Consequently, monitoring of those large-scale agricultural expansions has appeared to be of paramount importance. International initiatives such as the Land Matrix relying on publicly available sources, have emerged in response to that need. However, because information on those acquisitions is opaque and scarce, systems allowing near real-time LSLAs detection, characterization and monitoring are needed (1). With the increasing availability of global satellite data products, technological development in cloud computing, image and data mining analysis, remote sensing has appeared to be an interesting tool for the detection and characterization of such land use systems. Their repetitive coverage at short intervals and consistent image quality, combined with the free-of-cost availability of dense temporal series of satellite images, have explained their wide use in land use and land cover change detection. While LSLAs are not directly observable from remote sensing images (no one-to-one relation between land cover and functionality), they may be inferred from \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "2VcdqlUAAAAJ:wbdj-CoPYUoC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-04445968/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_B50urSJ6BsJ:scholar.google.com/",
+    "cites_per_year": {}
+}

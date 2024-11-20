@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "New approach to discover meaningful terms to specify cause of death from narratives verbal autopsy using TF-IDF and the LDA topic model",
+        "pub_year": 2023,
+        "citation": "IEEE EUROCON 2023-20th International Conference on Smart Technologies, 502-507, 2023",
+        "author": "Mansour DIOUF and Mouhamadou THIAM and Mathieu ROCHE",
+        "conference": "IEEE EUROCON 2023-20th International Conference on Smart Technologies",
+        "pages": "502-507",
+        "publisher": "IEEE",
+        "abstract": "Due to a lack of coroners in some remote areas of the world, epidemiological researchers have created a database for collecting causes of death, called a verbal autopsy. The unstructured verbal autopsy (VA) narratives that are collected in this database are full of hidden knowledge about mortality. However, they are under-exploited due to inadequate processing mechanisms, or some of the computational techniques used are inappropriate for the data format. In this paper, we propose an unsupervised approach that is essentially based on a new algorithm for preprocessing such data. This is not only to address the challenge of topic extraction with the Latent Dirichlet Allocation (LDA) topic model in the context of data scarcity, but also to improve the exploitation of topics (causes of death). Experiments with the Population Health Metrics Research Consortium (PHMRC) data have demonstrated the validity of the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:QaSi33NTfwYC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10198945/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GA3IiZwIzVIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

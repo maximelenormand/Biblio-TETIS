@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How well do EO-based food security warning systems for food security agree? Comparison of NDVI-based vegetation anomaly maps in West Africa",
+        "pub_year": 2023,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2023",
+        "author": "Agn\u00e8s B\u00e9gu\u00e9 and Simon Madec and Louise Lemettais and Louise Leroux and Roberto Interdonato and Inbal Becker-Reshef and Brian Barker and Christina Justice and Herv\u00e9 Kerdil\u00e9s and Michele Meroni",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "16",
+        "pages": "1641-1653",
+        "publisher": "IEEE",
+        "abstract": "The GEOGLAM crop monitor for early warning is based on the integration of the crop conditions assessments produced by regional systems. Discrepancies between these assessments can occur and are generally attributed to the interpretation of the vegetation and climate data. The premise of this article is that other sources of discrepancy related to the data themselves must also be considered. We conducted a comparative experiment of the growth vegetation anomalies routinely produced by four operational crop monitoring systems in West Africa [FEWSNET, GIEWS, ASAP, VAM] for the 2010\u20132020 period. We collected a set of normalized differences vegetation index-based indicators (% mean, % median, and  Z -score) and proposed original methods to analyze and compare the spatio-temporal variations of these indices using Hovm\u00f6ller representation, statistics, and spatial analysis. To facilitate systems \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:dfsIfKJdRG4C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=9798872653559443826",
+    "cites_id": [
+        "9798872653559443826"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10014686/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cjGzAsOW_IcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

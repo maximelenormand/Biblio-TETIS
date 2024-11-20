@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Extracting new spatial entities and relations from short messages",
+        "pub_year": 2016,
+        "citation": "Proceedings of the 8th International Conference on Management of Digital \u2026, 2016",
+        "author": "Sarah Zenasni and Eric Kergosien and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "Proceedings of the 8th International Conference on Management of Digital EcoSystems",
+        "pages": "189-196",
+        "publisher": "ACM",
+        "abstract": "In the past few years, texts have become an important spatial data resource, in addition to maps, satellite images and GPS. Electronic written texts used in mediated interactions, especially short messages (SMS, tweets, etc.), have triggered the emergence of new ways of writing. Extracting information from such short messages, which represent a rich source of information and opinion, is highly important due to the new and challenging text style. Short messages are, however, difficult to analyze because of their brief, unstructured and informal nature. The work presented in this paper is aimed at extracting spatial information from two authentic corpora of SMS and tweets in French in order to take advantage of the vast amount of geographical knowledge expressed in diverse natural language texts. We propose a process in which, firstly, we extract new spatial entities (e.g. Monpelier, Montpel are associated with the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:isC4tDSrTZIC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=3736466476586833658",
+    "cites_id": [
+        "3736466476586833658"
+    ],
+    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3012071.3012079",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-hYdvHaY2jMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 2,
+        "2019": 1,
+        "2020": 0,
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    }
+}

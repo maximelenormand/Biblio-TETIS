@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Visual Querying and Exploring of Large Multilayer Graphs",
+        "pub_year": 2018,
+        "citation": "Poster session of the IEEE Information Visualization Conference (InfoVis \u2026, 2018",
+        "author": "Erick Cuenca and Arnaud Sallaberry and Dino Ienco and Pascal Poncelet",
+        "journal": "Poster session of the IEEE Information Visualization Conference (InfoVis). IEEE,(to present)",
+        "pages": "3-57",
+        "abstract": "Many real world data can be modeled by a graph with a set of nodes interconnected to each other by multiple relationships. Such a rich graph is called multilayer graph. We introduce a novel visual platform to query, explore and support the analysis of large multilayer graphs.Contributions:"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:NtCmTCuxid4C",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=14988148638957537350",
+    "cites_id": [
+        "14988148638957537350"
+    ],
+    "pub_url": "https://erickedu85.github.io/publications/infovis/cuenca_et_al_2018p.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RojRycaZANAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1
+    }
+}

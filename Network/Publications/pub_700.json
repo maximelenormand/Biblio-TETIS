@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessment of Urban Land-Cover Classification: Comparison Between Pixel and Object Scales",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 5716 \u2026, 2021",
+        "author": "Alexia Cornic and Kenji Ose and Dino Ienco and Eric Barbe and R\u00e9mi Cresson",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "5716-5719",
+        "publisher": "IEEE",
+        "abstract": "The need for reliable and exhaustive data on land use is a major issue in planning policies and monitoring of land take. In this work, we evaluate urban building classification resulting from deep learning based approaches using as input SPOT 6/7 satellite images (at a spatial resolution of 1.5m) and national databases. In addition to assessing the classifier behaviour on urban land cover, the objective here is to compare the deep learning results at both pixel-based and object-based scale to qualify the overall results. Standard evaluation metrics (such as F-score) have shown better scores at the object-based assessment level (median F-score = 0.78) than the pixel ones (median F-score = 0.68). Identifying the impact of object characteristics using the object-based level of analysis has also revealed that beyond a surface area of 100 m 2 , objects are much better detected (median F-score > 0.91). It is the same with a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:gmHTDCtJMcoC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4785541077441134401",
+    "cites_id": [
+        "4785541077441134401"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9554617/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QT_rSkGoaUIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

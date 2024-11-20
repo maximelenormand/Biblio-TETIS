@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "From land productivity trends to land degradation assessment in Mozambique: Effects of climate, human activities and stakeholder definitions",
+        "pub_year": 2021,
+        "citation": "Land Degradation & Development 32 (1), 49-65, 2021",
+        "author": "Frederique Montfort and Agnes Begue and Louise Leroux and Lilian Blanc and Valery Gond and Armindo H Cambule and Ivan AD Remane and Clovis Grinand",
+        "journal": "Land Degradation & Development",
+        "volume": "32",
+        "number": "1",
+        "pages": "49-65",
+        "publisher": "John Wiley & Sons, Ltd.",
+        "abstract": "Remote sensing observations such as normalized difference vegetation index (NDVI) trends can provide important insights into past and present land condition. However, they do not directly provide comprehensive information about our representation of land degradation and the processes at work. This study aimed to analyze vegetation productivity underlying factors in order to assess land degradation and to highlight the impact of definitions on its quantitative assessment, using Mozambique as case\u2010study. Land productivity change were first analyzed using NDVI time\u2010series (2000\u20132016), and a two\u2010step framework was then used to understand the main factors of these productivity changes. The impact of land degradation's definition was assessed based on four types of stakeholder, with different priorities in terms of ecosystem services. The results show that 25% of the country display a significant land \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:gKiMpY-AVTkC",
+    "num_citations": 24,
+    "citedby_url": "/scholar?hl=en&cites=11547034885507329862",
+    "cites_id": [
+        "11547034885507329862"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ldr.3704",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ri-1rwxPP6AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 10,
+        "2023": 9,
+        "2024": 2
+    }
+}

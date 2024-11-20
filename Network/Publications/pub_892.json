@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Stability in time and consistency between atmospheric corrections: Assessing the reliability of Sentinel-2 products for biodiversity monitoring in tropical forests",
+        "pub_year": 2022,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 112 \u2026, 2022",
+        "author": "Eric Chraibi and Florian De Boissieu and Nicolas Barbier and Sandra Luque and Jean-Baptiste F\u00e9ret",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "112",
+        "pages": "102884",
+        "publisher": "Elsevier",
+        "abstract": "Earth observation satellite imagery is increasingly accessible, and has become a key component for vegetation mapping and monitoring. Sentinel-2 satellites acquire optical images with five days\u2019 revisit frequency, which is an important feature to increase the probability of acquisition with reasonable cloud cover in tropical regions. Regular and reliable satellite observations open perspectives for the monitoring of vegetation properties and biodiversity. Atmospheric correction methods (ACMs) producing bottom-of-atmosphere (BOA) reflectance are critical to ensure temporal consistency of higher-level products and optimal sensitivity to changes in vegetation properties. Still their application in tropical regions remains challenging due to complex atmospheric issues. This study aims at performing ACM inter-comparison in the context of tropical forest monitoring. We produced BOA reflectance for a set of Sentinel-2 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:VOx2b1Wkg3QC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=14387911321400309659",
+    "cites_id": [
+        "14387911321400309659"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1569843222000863",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:m_fiyx0hrMcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 3
+    }
+}

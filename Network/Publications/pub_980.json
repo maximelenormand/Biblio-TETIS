@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PROSPECT-D: Towards modeling leaf optical properties through a complete lifecycle",
+        "pub_year": 2017,
+        "citation": "Remote Sensing of Environment 193, 204-215, 2017",
+        "author": "J-B F\u00e9ret and AA Gitelson and SD Noble and S Jacquemoud",
+        "journal": "Remote Sensing of Environment",
+        "volume": "193",
+        "pages": "204-215",
+        "publisher": "Elsevier",
+        "abstract": "Leaf pigments provide valuable information about plant physiology. High resolution monitoring of their dynamics will give access to better understanding of processes occurring at different scales, and will be particularly important for ecologists, farmers, and decision makers to assess the influence of climate change on plant functions, and the adaptation of forest, crop, and other plant canopies. In this article, we present a new version of the widely-used PROSPECT model, hereafter named PROSPECT-D for dynamic, which adds anthocyanins to chlorophylls and carotenoids, the two plant pigments in the current version. We describe the evolution and improvements of PROSPECT-D compared to the previous versions, and perform a validation on various experimental datasets. Our results show that PROSPECT-D outperforms all the previous versions. Model prediction uncertainty is decreased and photosynthetic \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:R3hNpaxXUhUC",
+    "num_citations": 497,
+    "citedby_url": "/scholar?hl=en&cites=2568903173116400747",
+    "cites_id": [
+        "2568903173116400747"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425717300962",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:axT6R9OTpiMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 11,
+        "2018": 48,
+        "2019": 66,
+        "2020": 68,
+        "2021": 102,
+        "2022": 77,
+        "2023": 97,
+        "2024": 23
+    }
+}

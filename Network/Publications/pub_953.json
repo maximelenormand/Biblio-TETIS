@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial associations between household and community livelihood capitals in rural territories: an example from the Mahanadi Delta, India",
+        "pub_year": 2019,
+        "citation": "Applied Geography 103, 98-111, 2019",
+        "author": "Tristan Berchoux and Craig Hutton",
+        "journal": "Applied Geography",
+        "volume": "103",
+        "pages": "98-111",
+        "publisher": "Elsevier",
+        "abstract": "Despite the increasing interest of the Sustainable Livelihood Framework in the field of international development and in academia and the recent call for the use of mixed-methods approach, there has been little analysis that brings together qualitative and quantitative methods over a large geographical extent. Based on findings from participatory rural appraisals during which participants identified the key assets needed to achieve their livelihoods, this paper argues that common-pool resources (community capitals) should be differentiated from private goods (household capitals) as they operate under different dynamics of decision-making and management. We then create quantitative indicators that can be mapped across a large geographical extent by using data derived from national census and satellite sensors. Spatial patterns and differentials in access to livelihood capitals across the case study are examined \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 39,
+    "citedby_url": "/scholar?hl=en&cites=10437667810030188777",
+    "cites_id": [
+        "10437667810030188777"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0143622818306507",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6fhgdJIL2pAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 4,
+        "2021": 12,
+        "2022": 4,
+        "2023": 12,
+        "2024": 2
+    }
+}

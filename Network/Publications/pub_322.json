@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The challenges of territorial governance: the example of rural Brazil",
+        "pub_year": 2017,
+        "citation": "Living territories to transform, 181, 2017",
+        "author": "Marc Piraux and Jean-Philippe Tonneau and \u00c9ric Sabourin and Eduardo Chia and M\u00e1rcio Caniello and \u00c9tienne Polge and Gilles Massardier",
+        "journal": "Living territories to transform",
+        "pages": "181",
+        "abstract": "Brazil\u2019s territorial development policies are now a worldwide benchmark. This is especially true of its National Programme for Territorial Development (Pronat) created in 2004 by the federal government. This programme was intended to encourage investment in family farming in the most marginalized territories through the setting up of collective facilities. In this approach, territorial development is considered primarily to be a process for creating and managing a territory that comprises of several municipalities and is endowed with specific identities. Local actors are accorded a key role in Pronat so that they can control their own futures. Territorial development favours local solidarity (between actors, including the most marginalized ones) and national cohesion (by combating spatial disparities). It also promotes a principle of integration and coherence between sectors, scales, dimensions of sustainable development, public policies and endogenous projects. Projects, proposed by very diverse actors with varied and often diverging interests, do not naturally converge at the territorial level. Territories are as much the expression of tensions, competitions and conflicts as of solidarity and cooperation (Sabourin, 2015). The need for coordination and arbitration is therefore paramount.Territorial governance is the product of this coordination between actors with diverse objectives, resources and approaches, but who share a common project: the creation or consolidation of a territory (Rey-Valette et al., 2014). This governance corresponds to a lower level of centralized territorial management, based on a partnership between public authorities, civil society \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:FPJr55Dyh1AC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=18437359320010570573",
+    "cites_id": [
+        "18437359320010570573"
+    ],
+    "pub_url": "https://library.oapen.org/bitstream/handle/20.500.12657/23963/1006172.pdf?sequence=1#page=183",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Tbt3wZ2o3v8J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1
+    }
+}

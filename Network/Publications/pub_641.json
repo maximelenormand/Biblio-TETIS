@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Matching Heterogeneous Textual Data Using Spatial Features",
+        "pub_year": 2018,
+        "citation": "2018 IEEE International Conference on Data Mining Workshops (ICDMW), 1389-1396, 2018",
+        "author": "Jacques Fize and Mathieu Roche and Maguelonne Teisseire",
+        "conference": "2018 IEEE International Conference on Data Mining Workshops (ICDMW)",
+        "pages": "1389-1396",
+        "publisher": "IEEE",
+        "abstract": "An increasing amount of textual data is made available through different medium (e.g., social networks, company, data catalog, etc.). These new resources are highly heterogeneous, thus new methods are needed to extract information. Here, we propose a text matching process based on spatial features and compatible with heterogeneous textual data. Besides being compatible with heterogeneous data, we introduce two contributions. First, to be compared, spatial information is extracted then stored in a dedicated representation: STR, or Spatial Textual Representation. Second, to improve the approximation of the spatial similarity, we propose two transformations to apply on STR. To support our contributions, we evaluate the different aspects of the process using two corpora, including one corpus that is highly heterogeneous. Results obtained on both corpora demonstrate that relevant spatial matches can be \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:lvd772isFD0C",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=8051832463252035664",
+    "cites_id": [
+        "8051832463252035664"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8637443/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UJgYA_favW8J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 3,
+        "2020": 1,
+        "2021": 1,
+        "2022": 1
+    }
+}

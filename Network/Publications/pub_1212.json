@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Cartographie des zones agricoles et des pratiques associ\u00e9es pour caract\u00e9riser la pollution par les pesticides sur le long terme",
+        "pub_year": 2023,
+        "citation": "Environnement, Risques & Sant\u00e9 22 (1), 64-72, 2023",
+        "author": "Victor Dufleit and Annelise Tran and Vincent Bonnal and Lucie Lecat and Pascal Degenne and Philippe Cattan",
+        "journal": "Environnement, Risques & Sant\u00e9",
+        "volume": "22",
+        "number": "1",
+        "pages": "64-72",
+        "abstract": "To study the impact of pesticide uses in agriculture on human health, data on the types and quantities of pesticide active substances introduced into the environment over a long period of time are needed. However, when there is no systematic or available written records of pesticide applications, the characterization of environmental contamination remains challenging. In this technical note, we propose a method to organize heterogeneous information to represent the spatial dynamics of pesticide uses, with the case of Guadeloupe, French West Indies. Based on various data sources (paper maps, digital geographic data, articles and technical reports, pesticide products information, interviews), different databases were built: i) a land use database (1969-2019), with maps of the main three groups of crops in Guadeloupe: banana, sugar cane and market gardening; ii) a database of agricultural practices regarding the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "v2Zo6cQAAAAJ:TFP_iSt0sucC",
+    "num_citations": 0,
+    "pub_url": "https://www.jle.com/en/revues/ers/e-docs/mapping_cropping_systems_and_associated_practices_to_characterize_pesticide_pollution_over_time_333316/article.phtml",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:glkfMagLvm4J:scholar.google.com/",
+    "cites_per_year": {}
+}

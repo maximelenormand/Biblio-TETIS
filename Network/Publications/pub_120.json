@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Gouvernance, efficacit\u00e9 et justice des instruments de politiques agricoles visant \u00e0 favoriser la provision de services environnementaux: une analyse compar\u00e9e entre Costa Rica et France (Guadeloupe)",
+        "pub_year": 2017,
+        "citation": "VertigO-la revue \u00e9lectronique en sciences de l'environnement 17 (2), 2017",
+        "author": "Muriel Bonin and Jean-Francois Le Coq and Oliver Aznar and Fernando Saenz",
+        "journal": "VertigO-la revue \u00e9lectronique en sciences de l'environnement",
+        "volume": "17",
+        "number": "2",
+        "publisher": "Les \u00e9ditions en environnements VertigO",
+        "abstract": "Le programme de Reconnaissance des b\u00e9n\u00e9fices environnementaux (\u00ab Reconocimiento de Beneficios Ambientales \u00bb, RBA) au Costa Rica et les Mesures Agri-Environnementales (MAE) en France font partie des instruments incitatifs de politiques agricoles visant \u00e0 prot\u00e9ger l\u2019environnement. \u00c0 partir d\u2019une analyse compar\u00e9e multicrit\u00e8re de l\u2019application de ces deux instruments dans le Guanacaste au Costa Rica et en Guadeloupe en France, nous caract\u00e9risons les potentiels et les limites des politiques agricoles visant \u00e0 favoriser la provision de services environnementaux en termes d\u2019efficacit\u00e9 et de justice. Des enqu\u00eates sont conduites aupr\u00e8s des gestionnaires et des b\u00e9n\u00e9ficiaires de ces instruments. Dans ces deux cas, la gouvernance reste domin\u00e9e par des acteurs du secteur agricole et les programmes sont efficaces dans le sens o\u00f9 ils atteignent des objectifs qui \u00e9taient affich\u00e9s (augmentation des p\u00e2turages am\u00e9lior\u00e9s pour le RBA, diminution de l\u2019usage des pesticides pour les MAE). Cependant, l\u2019additionnalit\u00e9 des programmes est incertaine. Les deux cas \u00e9tudi\u00e9s pr\u00e9sentent des diff\u00e9rences relatives \u00e0 l\u2019\u00e9quit\u00e9 dans la distribution des fonds publics. Alors que le Costa Rica a mis en place des modalit\u00e9s concr\u00e8tes et pr\u00e9cises de plafonnement des aides, en France, dans le cas de la Guadeloupe, la r\u00e9partition des fonds attribu\u00e9s aux MAE reproduit l\u2019in\u00e9galit\u00e9 existante dans la r\u00e9partition des fonds publics (le budget des MAE \u00e9tant concentr\u00e9 sur les principales fili\u00e8res qui b\u00e9n\u00e9ficient d\u00e9j\u00e0 de l\u2019essentiel des subventions). L\u2019\u00e9quit\u00e9 est apparue comme une pr\u00e9occupation des gestionnaires et elle a induit des inflexions dans les modalit\u00e9s de mise en \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ARl-VIoAAAAJ:VOx2b1Wkg3QC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=13398617344146448347",
+    "cites_id": [
+        "13398617344146448347"
+    ],
+    "pub_url": "https://journals.openedition.org/vertigo/18670",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2588T3xz8bkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1
+    }
+}

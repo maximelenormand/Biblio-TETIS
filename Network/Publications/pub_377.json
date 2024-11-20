@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil surface moisture estimation using the synergy S1/S2 data",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Mehrez Zribi and Nicolas Baghdadi and Sofa Bousbih and Mohammad El-Hajj and Qi Gao and Maria Jose Escorihuela and Sekhar Muddu",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "6119-6122",
+        "publisher": "IEEE",
+        "abstract": "The main objective of this study is to analyze the potential use of Sentinel-l (S1) radar data for the estimation of soil moisture in agricultural areas. Simultaneously to several S1 acquisitions made between 2015 and 2017 over different sites, ground measurements of soil roughness, soil water content, LAI and crop height were recorded. The sensitivity of S1 signal to variations in soil moisture is discussed. A modelling based on Water Cloud Model was proposed to simulate radar signal backscattered over covered vegetation surfaces. Three inversion approaches were proposed to retrieve surface soil moisture at field scale."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:wMgC3FpKEyYC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=12790758429143335855",
+    "cites_id": [
+        "12790758429143335855"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8518621/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rwPs4AXngbEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1
+    }
+}

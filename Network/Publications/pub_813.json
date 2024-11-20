@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Applying Machine Learning to predict Hand-Foot-Mouth disease outbreaks in Vietnam",
+        "pub_year": 2021,
+        "citation": "Journal of Health Informatics in Developing Countries 15 (2), 2021",
+        "author": "Thanh Nguyen and Dinh Minh",
+        "journal": "Journal of Health Informatics in Developing Countries",
+        "volume": "15",
+        "number": "2",
+        "abstract": "Applying Machine Learning to find out the patterns of hand foot mouth diseases is critical to understand the impacts of social-natural conditions to the outbreak of the diseases. This paper uses data from Vietnam to find out what factors contribute the most to the increase of cases and what models can help to predict this increase. We identify temperature as the important factors and the Random Forest Regressor is the model that produces best results."
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:sSrBHYA8nusC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=8698685125711787262",
+    "cites_id": [
+        "8698685125711787262"
+    ],
+    "pub_url": "https://www.jhidc.org/index.php/jhidc/article/view/300",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_nQGwwjwt3gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 11
+    }
+}

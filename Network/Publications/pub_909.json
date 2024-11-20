@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Entre int\u00e9grit\u00e9 \u00e9cologique et efficacit\u00e9 \u00e9conomique: analyse d\u2019une politique d\u2019absence de perte nette \u00e9cologique",
+        "pub_year": 2019,
+        "citation": "Revue Juridique de l\u2019Environnement 44 (3), 517-529, 2019",
+        "author": "Coralie Calvet and Jean-Michel Salles",
+        "journal": "Revue Juridique de l\u2019Environnement",
+        "volume": "44",
+        "number": "3",
+        "pages": "517-529",
+        "publisher": "Cairn/Softwin",
+        "abstract": "D\u00e9finir et mettre en \u0153uvre une politique d\u2019absence de perte nette de biodiversit\u00e9 posent de nombreuses questions aussi bien d\u2019ordre \u00e9cologique qu\u2019\u00e9conomique et social. Dans cet article, nous proposons d\u2019analyser trois d\u2019entre elles dans une perspective \u00e9conomique \u00e0 la crois\u00e9e des enjeux \u00e9cologiques et sociaux : Pourquoi mettre en \u0153uvre une politique d\u2019absence de perte nette bas\u00e9e sur une approche purement \u00ab biophysique \u00bb en France ? Comment r\u00e9-interpr\u00e9ter la s\u00e9quence d\u2019att\u00e9nuation en trois temps \u00ab \u00c9viter-R\u00e9duire-Compenser \u00bb, existe-t-elle vraiment ? Comment mettre en \u0153uvre une compensation efficace \u00e0 la fois sur le plan \u00e9conomique et \u00e9cologique ? Les r\u00e9ponses \u00e0 ces questions nous conduisent \u00e0 conclure sur le bien-fond\u00e9 de la politique d\u2019absence de perte nette en mettant au centre la question de la planification territoriale et des besoins \u00e9conomiques."
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=11337323044797695460",
+    "cites_id": [
+        "11337323044797695460"
+    ],
+    "pub_url": "https://www.cairn.info/revue-juridique-de-l-environnement-2019-3-page-517.htm",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5EUE1T1DVp0J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1
+    }
+}

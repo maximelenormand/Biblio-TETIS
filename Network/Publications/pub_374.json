@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Exploring Tropical Forests with GEDI and 3D SAR Tomography",
+        "pub_year": 2023,
+        "citation": "IEEE Geoscience and Remote Sensing Letters, 2023",
+        "author": "Yen-Nhi Ngo and Dinh Ho Tong Minh and Nicolas Baghdadi and Ibrahim Fayad and Laurent Ferro-Famil and Yue Huang",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "publisher": "IEEE",
+        "abstract": "Measuring the vertical structure of tropical forests using remote sensing technology is challenging. To overcome this, active sensors, such as P-band synthetic aperture radar (SAR) and light detection and ranging (LiDAR), are used to penetrate thick vegetation layers. NASA\u2019s global ecosystem dynamics investigation (GEDI) uses spaceborne LiDAR data. In contrast, the European Space Agency\u2019s (ESA) BIOMASS mission uses multiple acquisitions of SAR data to create 3-D images through a technique called SAR tomography (TomoSAR). This letter discusses the forest\u2019s vertical structure, such as volume peak (or volume scattering center), penetration, and reflectivity, using GEDI and airborne P-band TomoSAR by analyzing measurements at tropical forest sites in South America and Africa. It was found that the location of the volume peak in TomoSAR is consistently lower than in GEDI, with a range of 2\u20134 m \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:E7VqQtBCVmcC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10190754/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cg-QsZzJpBsJ:scholar.google.com/",
+    "cites_per_year": {}
+}

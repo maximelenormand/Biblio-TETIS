@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "D\u00e9couverte et extraction d'arguments de relations n-aires corr\u00e9l\u00e9s dans les textes",
+        "pub_year": 2016,
+        "citation": "Revue des Nouvelles Technologies de l'Information, 37-56, 2016",
+        "author": "Soumia Lilia Berrahou and Patrice Buche and Juliette Dibie-Barthelemy and Mathieu Roche",
+        "journal": "Revue des Nouvelles Technologies de l'Information",
+        "pages": "37-56",
+        "abstract": "Dans cet article, nous pr\u00e9sentons une m\u00e9thode hybride combinant des approches de fouille de donn\u00e9es et des analyses syntaxiques afin de d\u00e9couvrir et extraire automatiquement des informations dans les textes. Ces informations sont mod\u00e9lis\u00e9es sous forme de relations n-aires repr\u00e9sent\u00e9es dans une Ressource Termino-Ontologique (RTO). La relation n-aire relie un objet \u00e9tudi\u00e9 (e.g. un emballage) \u00e0 ses caract\u00e9ristiques sous forme d'arguments (e.g. son \u00e9paisseur). Dans les textes, les arguments de l'objet \u00e9tudi\u00e9 sont quantitatifs, associ\u00e9s \u00e0 leurs attributs, une valeur num\u00e9rique et une unit\u00e9 de mesure, \u00e0 extraire pour peupler l'ontologie de nouvelles instances. La m\u00e9thode propos\u00e9e repose sur la d\u00e9couverte de relations implicites d'expression des arguments dans les textes en utilisant les motifs et r\u00e8gles s\u00e9quentiels puis, sur l'int\u00e9gration de relations syntaxiques d'int\u00e9r\u00eat dans les motifs d\u00e9couverts afin de construire des patrons linguistiques d'identification d'arguments corr\u00e9l\u00e9s. Les exp\u00e9rimentations ont \u00e9t\u00e9 men\u00e9es sur un corpus du domaine des emballages et consistent \u00e0 extraire les r\u00e9sultats exp\u00e9rimentaux de perm\u00e9abilit\u00e9s des emballages alimentaires."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:mlAyqtXpCwEC",
+    "num_citations": 0,
+    "pub_url": "https://agroparistech.hal.science/hal-01357720/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ejL0eZZWNooJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,37 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The biodiversity offsetting dilemma: Between economic rationales and ecological dynamics",
+        "pub_year": 2015,
+        "citation": "Sustainability 7 (6), 7357-7378, 2015",
+        "author": "Coralie Calvet and Claude Napol\u00e9one and Jean-Michel Salles",
+        "journal": "Sustainability",
+        "volume": "7",
+        "number": "6",
+        "pages": "7357-7378",
+        "publisher": "MDPI",
+        "abstract": "Although many countries have included biodiversity offsetting (BO) requirements in their environmental regulations over the past four decades, this mechanism has recently been the object of renewed political interest. Incorporated into the mitigation hierarchy in three steps aimed at avoiding, reducing and offsetting residual impacts on biodiversity arising from development projects, BO is promoted as the way to achieve the political goal of No Net Loss of biodiversity (NNL). The recent success of BO is mainly based on its ability to provide economic incentives for biodiversity conservation. However, the diversity of BO mechanisms (direct offsets, banking mechanism and offsetting funds) and the various institutional frameworks within which they are applied generate substantial confusion about their economic and ecological implications. In this article, we first analyze the rationale for the BO approach from the welfare and ecological economics. We show that both these frameworks support the use of BO to address environmental externalities, but that they differ in how they consider the substitutability issue and levels of sustainability with regard to natural and manufactured capital, and in how they address ecological concerns. We then examine the economic and ecological performance criteria of BO from conceptual and empirical perspectives. We highlight that the three BO mechanisms involve different economic and ecological logics and inherent benefits, but also potential risks in meeting biodiversity conservation targets. We lastly investigate the ecological constraints with respect to the BO practice, and economic and organizational limitations of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ohYPTkgAAAAJ:d1gkVwhDpl0C",
+    "num_citations": 82,
+    "citedby_url": "/scholar?hl=en&cites=5051396891535769464",
+    "cites_id": [
+        "5051396891535769464"
+    ],
+    "pub_url": "https://www.mdpi.com/2071-1050/7/6/7357",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:eH-Am7UqGkYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 6,
+        "2017": 3,
+        "2018": 12,
+        "2019": 11,
+        "2020": 11,
+        "2021": 15,
+        "2022": 13,
+        "2023": 9,
+        "2024": 1
+    }
+}

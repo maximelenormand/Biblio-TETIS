@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "VizieR Online Data Catalog: Photometric quasar candidates in Stripe 82 (Pasquet-Itam+, 2018)",
+        "pub_year": 2017,
+        "citation": "VizieR Online Data Catalog, J/A+ A/611/A97, 2017",
+        "author": "J Pasquet-Itam and J Pasquet",
+        "journal": "VizieR Online Data Catalog",
+        "pages": "J/A+ A/611/A97",
+        "abstract": "We present a list of 175 new quasar candidates detected by a convolutional neural network (CNN) in the Sloan Digital Sky Survey Stripe 82 with a fixed recall of 0.97. The imaging data used in our work consists of objects solely from the publicly available variable source catalog (UWVSC; Ivezic et al.(2007, Cat. J/AJ/134/973), Sesar et al.(2007AJ.... 134.2236 S)) constructed by researchers at the University of Washington. This catalog contains 67,507 unresolved, variable candidates with g<= 20.5 mag, at least 10 observations in both g and r bands, and a light curve with a root-mean-scatter (rms)> 0.05 mag and chi2 per degree of freedom> 3 in both g and r bands. The CNN takes the variability of objects into account by converting light curves into images. The CNN provides good results since its precision is 0.988 for a recall of 0.90, compared to a precision of 0.985 for the same recall with a random forest classifier \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:WF5omc3nYNoC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2017yCat..36110097P/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-jpZ-C2nhQsJ:scholar.google.com/",
+    "cites_per_year": {}
+}

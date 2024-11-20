@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "\" A French text-message corpus: 88milSMS. Synthesis and usage\", Corpus [Online], 20| 2020. URL: http://journals. openedition. org/corpus/4852",
+        "pub_year": 2020,
+        "citation": "Corpus, http://journals. openedition. org/corpus/4852, 2020",
+        "author": "Rachel Panckhurst and C\u00e9dric Lopez and Mathieu Roche",
+        "journal": "Corpus",
+        "number": "20",
+        "pages": "http://journals. openedition. org/corpus/4852",
+        "abstract": "In this article, firstly we briefly summarise the sud4science project and data collection (http://sud4science.org), ensuing processing/analysing stages, and the resulting corpus, 88milSMS (http://88milsms.huma-num.fr), through a synthesis of quotes and references to previous articles (\u00a7 1). Secondly, we provide a state of the art on some research initiatives that use 88milSMS in various domains and frameworks, which will enable future cross-disciplinary insight (\u00a7 2). Then, we present other usages of the 88milSMS corpus we identified through surveys (\u00a7 3). Finally, we suggest future paths for textual data collection and analysis."
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:kzcSZmkxUKAC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02467995/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qhIZiqxUUDgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

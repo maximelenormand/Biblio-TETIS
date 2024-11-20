@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Weakly supervised learning for land cover mapping of satellite image time series via attention-based CNN",
+        "pub_year": 2020,
+        "citation": "IEEE Access 8, 179547-179560, 2020",
+        "author": "Dino Ienco and Yawogan Jean Eudes Gbodjo and Raffaele Gaetano and Roberto Interdonato",
+        "journal": "IEEE Access",
+        "volume": "8",
+        "pages": "179547-179560",
+        "publisher": "IEEE",
+        "abstract": "The unprecedented possibility to acquire high resolution Satellite Image Time Series (SITS) data is opening new opportunities to monitor the different aspects of the Earth Surface but, at the same time, it is raising up new challenges in term of suitable methods to analyze and exploit such huge amount of rich image data. One of the main tasks associated to SITS data analysis is related to land cover mapping. Due to operational constraints, the collected label information is often limited in volume and obtained at coarse granularity level carrying out inexact and weak knowledge that can affect the whole process. To cope with such issues, in the context of object-based SITS land cover mapping, we propose a new deep learning framework, named TASSEL (aTtentive weAkly Supervised Satellite image time sEries cLassifier), to deal with the weak supervision provided by the coarse granularity labels. Our framework \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:D03iK_w7-QYC",
+    "num_citations": 25,
+    "citedby_url": "/scholar?hl=en&cites=15352048533281884527",
+    "cites_id": [
+        "15352048533281884527"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9197599/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:b8nSaM1uDdUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 9,
+        "2022": 6,
+        "2023": 6,
+        "2024": 4
+    }
+}

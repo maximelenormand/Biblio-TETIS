@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Rice yield stability compared to major food crops in West Africa",
+        "pub_year": 2021,
+        "citation": "Environmental Research Letters 16 (12), 124005, 2021",
+        "author": "Mathilde Duvallet and Patrice Dumas and David Makowski and Julien Bo\u00e9 and Patricio Mendez del Villar and Tamara Ben-Ari",
+        "journal": "Environmental Research Letters",
+        "volume": "16",
+        "number": "12",
+        "pages": "124005",
+        "publisher": "IOP Publishing",
+        "abstract": "West Africa is one of the regions the most concerned with structural food and nutrition security. Consequently, agricultural development pathways and scenarios are under high scientific and political scrutiny in this region. Rice, as a rapidly growing staple plays a key role in the West African diet representing close to 40% of the total volume of cereal consumed in the region. In the context of the 2008 food price crisis several West African countries have since proclaimed rice self-sufficiency as a target. Here, we show that rice yields tend to be, on average over the entire region, less stable (by a range of 15%\u201330%) than that of alternative crops, possibly substitutable in diets. The regions where yields of alternative crops are more stable than those of rice correspond to the main climatic regions where these crops are grown: sorghum, millet in the Sahelian and Sudanian regions and tubers in the Guinean region. Rice \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nPrjzMgAAAAJ:Fu2w8maKXqMC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=2334295438895535794",
+    "cites_id": [
+        "2334295438895535794"
+    ],
+    "pub_url": "https://iopscience.iop.org/article/10.1088/1748-9326/ac343a/meta",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:stYuhFUVZSAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 5
+    }
+}

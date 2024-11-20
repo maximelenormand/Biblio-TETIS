@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A manually annotated corpus in French for the study of urbanization and the natural risk prevention",
+        "pub_year": 2023,
+        "citation": "Scientific Data 10 (1), 818, 2023",
+        "author": "Maksim Koptelov and Margaux Holveck and Bruno Cremilleux and Justine Reynaud and Mathieu Roche and Maguelonne Teisseire",
+        "journal": "Scientific Data",
+        "volume": "10",
+        "number": "1",
+        "pages": "818",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "Land artificialization is a serious problem of civilization. Urban planning and natural risk management are aimed to improve it. In France, these practices operate the Local Land Plans (PLU \u2013 Plan Local d\u2019Urbanisme) and the Natural risk prevention plans (PPRn \u2013 Plan de Pr\u00e9vention des Risques naturels) containing land use rules. To facilitate automatic extraction of the rules, we manually annotated a number of those documents concerning Montpellier, a rapidly evolving agglomeration exposed to natural risks. We defined a format for labeled examples in which each entry includes title and subtitle. In addition, we proposed a hierarchical representation of class labels to generalize the use of our corpus. Our corpus, consisting of 1934 textual segments, each of which labeled by one of the 4 classes (Verifiable, Non-verifiable, Informative and Not pertinent) is the first corpus in the French language in the fields of urban \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:eO3_k5sD8BwC",
+    "num_citations": 0,
+    "pub_url": "https://www.nature.com/articles/s41597-023-02705-y",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ibmG1OeRH30J:scholar.google.com/",
+    "cites_per_year": {}
+}

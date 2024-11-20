@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PADI-web: A multilingual event-based surveillance system for monitoring animal infectious diseases",
+        "pub_year": 2020,
+        "citation": "Computers and Electronics in Agriculture 169, 105163, 2020",
+        "author": "Sarah Valentin and Elena Arsevska and Sylvain Falala and Jocelyn De Go\u00ebr and Renaud Lancelot and Aliz\u00e9 Mercier and Julien Rabatel and Mathieu Roche",
+        "journal": "Computers and Electronics in Agriculture",
+        "volume": "169",
+        "pages": "105163",
+        "publisher": "Elsevier",
+        "abstract": "Global animal disease outbreak detection and monitoring rely on official sources, such as intergovernmental organisations, as well as digital media and other unofficial outlets. Manually extracting relevant information from unofficial sources is time-consuming. The Platform for Automated extraction of animal Disease Information from the web (PADI-web) is an automated biosurveillance system devoted to online news source monitoring for the detection of emerging/new animal infectious diseases by the French Epidemic Intelligence System. The tool automatically collects news via customised multilingual queries, classifies them and extracts epidemiological information. We detail each step of the PADI-web pipeline, with a focus on the new user-oriented features."
+    },
+    "filled": true,
+    "author_pub_id": "3a8ya88AAAAJ:IjCSPb-OGe4C",
+    "num_citations": 31,
+    "citedby_url": "/scholar?hl=en&cites=16622571083957962435",
+    "cites_id": [
+        "16622571083957962435"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0168169919310646",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:w4b-qFQ8r-YJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 9,
+        "2021": 8,
+        "2022": 6,
+        "2023": 8
+    }
+}

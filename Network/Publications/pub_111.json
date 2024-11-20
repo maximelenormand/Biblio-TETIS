@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Determining Effective Temporal Windows for Rapeseed Detection Using Sentinel-1 Time Series and Machine Learning Algorithms",
+        "pub_year": 2024,
+        "citation": "Remote Sensing 16 (3), 549, 2024",
+        "author": "Saeideh Maleki and Nicolas Baghdadi and Sami Najem and Cassio Fraga Dantas and Hassan Bazzi and Dino Ienco",
+        "journal": "Remote Sensing",
+        "volume": "16",
+        "number": "3",
+        "pages": "549",
+        "publisher": "MDPI",
+        "abstract": "This study investigates the potential of Sentinel-1 (S1) multi-temporal data for the early-season mapping of the rapeseed crop. Additionally, we explore the effectiveness of limiting the portion of a considered time series to map rapeseed fields. To this end, we conducted a quantitative analysis to assess several temporal windows (periods) spanning different phases of the rapeseed phenological cycle in the following two scenarios relating to the availability or constraints of providing ground samples for different years: (i) involving the same year for both training and the test, assuming the availability of ground samples for each year; and (ii) evaluating the temporal transferability of the classifier, considering the constraints of ground sampling. We employed two different classification methods that are renowned for their high performance in land cover mapping: the widely adopted random forest (RF) approach and a deep learning-based convolutional neural network, specifically the InceptionTime algorithm. To assess the classification outcomes, four evaluation metrics (recall, precision, F1 score, and Kappa) were employed. Using S1 time series data covering the entire rapeseed growth cycle, the tested algorithms achieved F1 scores close to 95% on same-year training and testing, and 92.0% when different years were used, both algorithms demonstrated robust performance. For early rapeseed detection within a two-month window post-sowing, RF and InceptionTime achieved F1 scores of 67.5% and 77.2%, respectively, and 79.8% and 88.9% when extended to six months. However, in the context of temporal transferability, both classifiers exhibited \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:7PzlFSSx8tAC",
+    "num_citations": 0,
+    "pub_url": "https://www.mdpi.com/2072-4292/16/3/549",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8KpFpie9OvwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TasselNetv2: in-field counting of wheat spikes with context-augmented local regression networks",
+        "pub_year": 2019,
+        "citation": "Plant methods 15 (1), 1-14, 2019",
+        "author": "Haipeng Xiong and Zhiguo Cao and Hao Lu and Simon Madec and Liang Liu and Chunhua Shen",
+        "journal": "Plant methods",
+        "volume": "15",
+        "number": "1",
+        "pages": "1-14",
+        "publisher": "BioMed Central",
+        "abstract": "Grain yield of wheat is greatly associated with the population of wheat spikes, i.e., . To obtain this index in a reliable and efficient way, it is necessary to count wheat spikes accurately and automatically. Currently computer vision technologies have shown great potential to automate this task effectively in a low-end manner. In particular, counting wheat spikes is a typical visual counting problem, which is substantially studied under the name of object counting in Computer Vision. TasselNet, which represents one of the state-of-the-art counting approaches, is a convolutional neural network-based local regression model, and currently benchmarks the best record on counting maize tassels. However, when applying TasselNet to wheat spikes, it cannot predict accurate counts when spikes partially present. In this paper, we make an important observation that the counting performance of local regression networks can be significantly improved via adding visual context to the local patches. Meanwhile, such context can be treated as part of the receptive field without increasing the model capacity. We thus propose a simple yet effective contextual extension of TasselNet\u2014TasselNetv2. If implementing TasselNetv2 in a fully convolutional form, both training and inference can be greatly sped up by reducing redundant computations. In particular, we collected and labeled a large-scale wheat spikes counting (WSC) dataset, with 1764 high-resolution images and 675,322 manually-annotated instances. Extensive experiments show that, TasselNetv2 not only achieves state-of-the-art performance on the WSC dataset ( counting accuracy) but \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:ufrVoPGSRksC",
+    "num_citations": 109,
+    "citedby_url": "/scholar?hl=en&cites=2749800152906501790",
+    "cites_id": [
+        "2749800152906501790"
+    ],
+    "pub_url": "https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0537-2",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:no5OhatAKSYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 15,
+        "2021": 23,
+        "2022": 33,
+        "2023": 35,
+        "2024": 3
+    }
+}

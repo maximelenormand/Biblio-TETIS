@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Exploiting social and mobility patterns for friendship prediction in location-based social networks",
+        "pub_year": 2016,
+        "citation": "2016 23rd International Conference on Pattern Recognition (ICPR), 2526-2531, 2016",
+        "author": "Jorge Valverde-Rebaza and Mathieu Roche and Pascal Poncelet and Alneu de Andrade Lopes",
+        "conference": "2016 23rd International Conference on Pattern Recognition (ICPR)",
+        "pages": "2526-2531",
+        "publisher": "IEEE",
+        "abstract": "Link prediction is a \u201chot topic\u201d in network analysis and has been largely used for friendship recommendation in social networks. With the increased use of location-based services, it is possible to improve the accuracy of link prediction methods by using the mobility of users. The majority of the link prediction methods focus on the importance of location for their visitors, disregarding the strength of relationships existing between these visitors. We, therefore, propose three new methods for friendship prediction by combining, efficiently, social and mobility patterns of users in location-based social networks (LBSNs). Experiments conducted on real-world datasets demonstrate that our proposals achieve a competitive performance with methods from the literature and, in most of the cases, outperform them. Moreover, our proposals use less computational resources by reducing considerably the number of irrelevant \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "az3JcdEAAAAJ:9c2xU6iGI7YC",
+    "num_citations": 13,
+    "citedby_url": "/scholar?hl=en&cites=1330076835873175617",
+    "cites_id": [
+        "1330076835873175617"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7900016/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QTgyztVhdRIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 1,
+        "2019": 4,
+        "2020": 3,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1
+    }
+}

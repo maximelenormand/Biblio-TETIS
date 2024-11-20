@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Time Series Analysis of Urban Liveability",
+        "pub_year": 2023,
+        "citation": "2023 Joint Urban Remote Sensing Event (JURSE), 1-4, 2023",
+        "author": "Alex Levering and Diego Marcos and Devis Tuia",
+        "conference": "2023 Joint Urban Remote Sensing Event (JURSE)",
+        "pages": "1-4",
+        "publisher": "IEEE",
+        "abstract": "In this paper we explore deep learning models to monitor longitudinal liveability changes in Dutch cities at the neighbourhood level. Our liveability reference data is defined by a country-wise yearly survey based on a set of indicators combined into a liveability score, the Leefbaarometer. We pair this reference data with yearly-available high-resolution aerial images, which creates yearly timesteps at which liveability can be monitored. We deploy a convolutional neural network trained on an aerial image from 2016 and the Leefbaarometer score to predict liveability at new timesteps 2012 and 2020. The results in a city used for training (Amsterdam) and one never seen during training (Eindhoven) show some trends which are difficult to interpret, especially in light of the differences in image acquisitions at the different time steps. This demonstrates the complexity of liveability monitoring across time periods and the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:VOx2b1Wkg3QC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=14090506600274424095",
+    "cites_id": [
+        "14090506600274424095"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10144221/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:H3GnJhmJi8MJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

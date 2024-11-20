@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A weakly supervised framework for high-resolution crop yield forecasts",
+        "pub_year": 2023,
+        "citation": "Environmental Research Letters 18 (9), 094062, 2023",
+        "author": "Dilli Paudel and Diego Marcos and Allard de Wit and Hendrik Boogaard and Ioannis N Athanasiadis",
+        "journal": "Environmental Research Letters",
+        "volume": "18",
+        "number": "9",
+        "pages": "094062",
+        "publisher": "IOP Publishing",
+        "abstract": "Predictor inputs and labels (eg yield data) for crop yield forecasting are not always available at the same spatial resolution. Common statistical and machine learning methods require inputs and labels at the same resolution. Therefore, they cannot produce high resolution (HR) yield forecasts in the absence of HR yield data. We propose a weakly supervised (WS) deep learning framework that uses HR inputs and low resolution (LR) labels (crop areas and yields) to produce HR forecasts. The forecasting model was calibrated by aggregating HR forecasts and comparing with LR crop area and yield statistics. The framework was evaluated by disaggregating yields from parent statistical regions to sub-regions for five countries and two crops in Europe. Similarly, corn yields were disaggregated from counties to 10 km grids in the US. The performance of WS models was compared with naive disaggregation (ND) models \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:u9iWguZQMMsC",
+    "num_citations": 0,
+    "pub_url": "https://iopscience.iop.org/article/10.1088/1748-9326/acf50e/meta",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RNpGFCL5CtQJ:scholar.google.com/",
+    "cites_per_year": {}
+}

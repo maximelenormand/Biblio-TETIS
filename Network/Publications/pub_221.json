@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hamsters in the city: A study on the behaviour of a population of common hamsters (Cricetus cricetus) in urban environment",
+        "pub_year": 2019,
+        "citation": "Plos one 14 (11), e0225347, 2019",
+        "author": "Anna Flamand and Nancy Rebout and Camille Bordes and Laur\u00e9line Guinnefollau and Matthieu Berges and Fanny Ajak and Carina Siutz and Eva Millesi and Christiane Weber and Odile Petit",
+        "journal": "Plos one",
+        "volume": "14",
+        "number": "11",
+        "pages": "e0225347",
+        "publisher": "Public Library of Science",
+        "abstract": "Animals in urban environments face challenging situations and have to cope with human activities. This study investigated the ecology and behaviour of a population of European hamsters (Cricetus cricetus) living in the city centre of Vienna (Austria). We recorded the surface activities of 35 hamsters in May 2015. Each focal animal was observed for 15 minutes, and a total of 66 focal samples were analysable. As a prey species in an environment teeming with human activities, we predicted a high level of vigilance by the hamsters. The results show that while animals dedicated a lot of time to vigilance, most of their time was spent foraging. The study also explores whether the frequency of vigilance behaviours differ between males and females. We found that vigilance behaviours were expressed in a different manner by males and females. Finally, we investigated the distribution of the burrows on green spaces depending on proximity to trees and on noise levels. We found a biased distribution of burrows, with a spatial preference for location protected by the vegetation and distant to noise sources. Although burrows were located preferentially under vegetation cover, levels of noise did not determine their positions. Moreover, this species does not respond to disturbances like daily urban noises, probably due to habituation. The common hamster is an endangered species; our results lead to a greater knowledge of its behaviour in a persistent urban population."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:ODE9OILHJdcC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=15856716550242251821",
+    "cites_id": [
+        "15856716550242251821"
+    ],
+    "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225347",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LTQ_obBfDtwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 8
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Afrisar-Tropisar: Forest Biomass Retrieval by P-Band Sar Tomography",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Y-N Ngo and D Ho Tong Minh and I Moussawi and Ludovic Villard and Laurent Ferro-Famil and M Mariotti d'Alessandro and Stefano Tebaldini and C Albinetv and Klaus Scipal and Thuy Le Toan",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "8675-8678",
+        "publisher": "IEEE",
+        "abstract": "The objective of this paper is to provide a better understanding of tomographic capabilities to estimate above ground biomass (AGB) in dense forested areas at P-band. The analysis is carried out on airborne data acquired over sites in French Guyana and in Gabon during the ESA campaigns TropiSAR and AfriSAR 2015, respectively. Over both sites, P-band tomography allows us to retrieve the vertical structure of the forest, to better characterize the ground and/or volume scattering mechanisms and to provide a unique solution for the AGB retrieval over the full range of biomass. The relationship between AGB and tomography data was found to be highly similar for forests across continents and sites: Paracou (French Guiana), Lope, Rabi and Mondah (Gabon). The developed metrics derived from the tomographic data have been found highly correlated to reference in situ AGB estimates ( R 2 =0.85) and the root \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:g5m5HwL7SMYC",
+    "num_citations": 6,
+    "citedby_url": "/scholar?hl=en&cites=17434125966359670960",
+    "cites_id": [
+        "17434125966359670960"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8517464/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sDBISjJ18vEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 0,
+        "2023": 2
+    }
+}

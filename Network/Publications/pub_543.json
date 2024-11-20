@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The need for integrated spatial assessments in ecosystem service mapping",
+        "pub_year": 2017,
+        "citation": "Review of Agricultural, Food and Environmental Studies, 1-28, 2017",
+        "author": "L\u00e9a Tardieu",
+        "journal": "Review of Agricultural, Food and Environmental Studies",
+        "pages": "1-28",
+        "publisher": "Springer Paris",
+        "abstract": "Publications on the modelling and mapping of ecosystem services (ESs) have increased exponentially in recent years. In this literature, a call for integrated environmental assessment is increasingly made, even if, in the ES context, the concept of integration remains fuzzy and can refer to different elements. First, this review paper attempts to clarify to which elements the word \u2018integration\u2019 is attributable in the ES literature. Integrated assessment can refer to the consideration of pluralistic values, the attention paid to several ESs and ecosystems, the accounting for multiple spatial and temporal scales, the implication of different stakeholders or the combination of techniques stemming from different disciplines. Second, this paper provides a review of the latest advances in the literature on mapping ESs, from the ecological to the economic perspective, in order to illustrate what can be done and what progress \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mGPbHIcAAAAJ:8k81kl-MbHgC",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=13361668295561209586",
+    "cites_id": [
+        "13361668295561209586"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s41130-017-0054-5",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8maGi4UubrkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 1,
+        "2020": 4,
+        "2021": 2,
+        "2022": 4,
+        "2023": 3
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Uncertainty in establishing forest reference levels and predicting future forest-based carbon stocks for REDD+",
+        "pub_year": 2018,
+        "citation": "Journal of Land Use Science 13 (1-2), 1-15, 2018",
+        "author": "Ole Mertz and Kenneth Grogan and Dirk Pflugmacher and Guillaume Lestrelin and Jean-Christophe Castella and Thoumthone Vongvisouk and Cornelia Hett and Rasmus Fensholt and Zhanli Sun and Nicholas Berry and Daniel M\u00fcller",
+        "journal": "Journal of Land Use Science",
+        "volume": "13",
+        "number": "1-2",
+        "pages": "1-15",
+        "publisher": "Taylor & Francis",
+        "abstract": "Forest reference levels (FRLs) provide a benchmark for assessing reduced emissions from deforestation and forest degradation (REDD+), and they are central to demonstrate additionality of REDD+. Attaining realistic FRLs, however, is challenging, especially in complex mosaic landscapes. We established FRLs in northern Laos for different reference periods and tested them against actual carbon stock changes. Annual time series of Landsat satellite images were used to capture the subtle changes in carbon stocks in complex landscapes characterized by shifting cultivation. We found that FRLs differ considerably depending on the reference period chosen. Abrupt land-use changes occurred when hybrid maize replaced traditional shifting cultivation and forests, and this invalidated carbon stock trends that would have been predicted had the FRL been projected into the future. We conclude that demonstrating \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:a0OBvERweLwC",
+    "num_citations": 30,
+    "citedby_url": "/scholar?hl=en&cites=13056592100277822219",
+    "cites_id": [
+        "13056592100277822219"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/1747423X.2017.1410242",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CyM7olZVMrUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 10,
+        "2021": 7,
+        "2022": 3,
+        "2023": 5
+    }
+}

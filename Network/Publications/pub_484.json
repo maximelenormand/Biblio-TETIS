@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detecting Irrigation Events Over Several Summer Crops Using Sentinel-1 Data",
+        "pub_year": 2023,
+        "citation": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2023",
+        "author": "Nicolas Baghdadi and Hassan Bazzi and Sami Najem and Hadi Jaafar and Michel Le Page and Mehrez Zribi and Ioannis Faraslis and Marios Spiliotopoulos",
+        "conference": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "2839-2842",
+        "publisher": "IEEE",
+        "abstract": "This study presents the potential of the Sentinel-1 (S1) Synthetic Aperture Radar (SAR) data to detect irrigation events over summer crops, including Maize, Soybean, Sorghum and Potato. The potential of the S1 to detect the irrigation events was carried out using the Irrigation Event Detection Model (IEDM) in five study sites in south Europe and the Middle East. The IEDM is a decision tree model initially developed to detect irrigation events using the change detection algorithm applied to the S1 time series data. Results showed generally good overall accuracy for irrigation detection using the S1 data, reaching 67% for all studied sites together. This accuracy varied according to the studied area, with the highest accuracy for semi-arid areas and lowest for temperate areas. In addition, the accuracy of irrigation detection decreases as the vegetation becomes well developed."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:hHIA4WEVY-EC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10282768/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:80swPWa8AucJ:scholar.google.com/",
+    "cites_per_year": {}
+}

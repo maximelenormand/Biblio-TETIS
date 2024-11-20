@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A deep learning framework for the estimation of forest height from bistatic TanDEM-X data",
+        "pub_year": 2023,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023",
+        "author": "Daniel Carcereri and Paola Rizzoli and Dino Ienco and Lorenzo Bruzzone",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "publisher": "IEEE",
+        "abstract": "Up-to-date canopy height model (CHM) estimates are of key importance for forest resource monitoring and disturbance analysis. In this article, we present a study on the potential of deep learning (DL) for the regression of forest height from TanDEM-X bistatic interferometric synthetic aperture radar (InSAR) data. We propose a novel fully convolutional neural network framework, trained in a supervised manner using reference CHM measurements derived from the LiDAR LVIS airborne sensor from NASA. The reference measurements were acquired during the joint NASA\u2013ESA 2016 AfriSAR campaign over five sites in Gabon, Africa, characterized by the presence of different kinds of vegetation, spanning from tropical primary forests to mangroves. Together with the DL architecture and training strategy, we present a series of experiments to assess the impact of different input features on the network estimation accuracy \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:eAUscmXIlQ8C",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=16321346848183072798",
+    "cites_id": [
+        "16321346848183072798"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10234548/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Hrjk9XsSgeIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    }
+}

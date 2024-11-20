@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "To trust or not to trust lurkers?: Evaluation of lurking and trustworthiness in ranking problems",
+        "pub_year": 2016,
+        "citation": "Advances in Network Science: 12th International Conference and School \u2026, 2016",
+        "author": "Roberto Interdonato and Andrea Tagarelli",
+        "conference": "Advances in Network Science: 12th International Conference and School, NetSci-X 2016, Wroclaw, Poland, January 11-13, 2016, Proceedings 12",
+        "pages": "43-56",
+        "publisher": "Springer International Publishing",
+        "abstract": "Research on social trust analysis has traditionally focused on the trustworthy/untrustworthy behaviors that are exhibited by active users. By contrast, due to their inherent reticence to regularly contribute to the online community life, the silent users in a social network, a.k.a. lurkers, have been taken out of consideration so far. Nevertheless, analysis and mining of lurkers in social networks has been recently recognized as an important problem. Determining trust/distrust relationships that involve lurkers can provide a unique opportunity to understand whether and to what extent such users can be trusted or distrusted from the other users. This is important from both the perspective of protecting the active users from untrustworthy or undesired interactions, and the perspective of encouraging lurkers to more actively participate in the community life through the guidance of active users. In this paper we aim at \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:Y0pCki6q_DkC",
+    "num_citations": 15,
+    "citedby_url": "/scholar?hl=en&cites=16381515240050642644",
+    "cites_id": [
+        "16381515240050642644"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-28361-6_4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1M7dXVHVVuMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 5,
+        "2018": 4,
+        "2019": 3,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    }
+}

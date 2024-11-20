@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring vegetation dynamics with open earth observation tools: the case of fire-modulated savanna to forest transitions in Central Africa",
+        "pub_year": 2022,
+        "citation": "ISPRS Journal of Photogrammetry and Remote Sensing 188, 142-156, 2022",
+        "author": "Pierre Ploton and Ga\u00eblle Viennois and Jean-Baptiste F\u00e9ret and Bonaventure Sonk\u00e9 and Pierre Couteron and Nicolas Barbier",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "volume": "188",
+        "pages": "142-156",
+        "publisher": "Elsevier",
+        "abstract": "Woody encroachment and forest progression are widespread in forest-savanna transitional areas in Central Africa. Quantifying these dynamics and understanding their drivers at relevant spatial scales has long been a challenge. Recent progress in open access imagery sources with improved spatial, spectral and temporal resolution combined with cloud computing resources, and the advent of relatively cheap solutions to deploy laser sensors in the field, have transformed this domain of study. We present a study case in the Mpem & Djim National Park (MDNP), a 1,000 km2 protected area in the Centre region of Cameroon. Using open source algorithms in Google Earth Engine (GEE), we characterized vegetation dynamics and the fire regime based on Landsat multispectral imagery archive (1975\u20132020). Current species assemblages were estimated from Sentinel 2 imagery and the open source biodivMapR \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:sSrBHYA8nusC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=14419351922314056087,3146994796818081647",
+    "cites_id": [
+        "14419351922314056087",
+        "3146994796818081647"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0924271622001071",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lxHgJC3UG8gJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 8,
+        "2024": 4
+    }
+}

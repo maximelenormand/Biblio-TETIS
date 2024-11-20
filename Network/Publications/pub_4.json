@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-Sensor Temporal Unsupervised Domain Adaptation for Land Cover Mapping with spatial pseudo labelling and adversarial learning",
+        "pub_year": 2023,
+        "citation": "IEEE Transactions on Geoscience and Remote Sensing, 2023",
+        "author": "Emmanuel Capliez and Dino Ienco and Raffaele Gaetano and Nicolas Baghdadi and Adrien Hadj Salah and Matthieu Le Goff and Florient Chouteau",
+        "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+        "publisher": "IEEE",
+        "abstract": "With the huge variety of Earth observation satellite missions available nowadays, the collection of multisensor remote sensing information depicting the same geographical area has become systematic in practice, paving the way to the further breakthroughs in automatic land cover mapping with the aim to support decision makers in a variety of land management applications. In this context, along with the increase in the volume of data available, the availability of ground-truth (GT) data to train supervised models, which is usually time-consuming and costly, may even be more critical. In this scenario, the possibility to transfer a model learned on a particular time span (source domain) to a different period of time (target domain), over the same geographical area, can be advantageous in terms of both cost and time efforts. However, such model transfer is challenging due to different climate, weather, or environmental \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:r0BpntZqJG4C",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10192456/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:93yamj4PRzMJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,26 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Channel-based attention for land cover classification using Sentinel-2 time series",
+        "pub_year": 2021,
+        "citation": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 1077 \u2026, 2021",
+        "author": "Hermann Courteille and Alexandre Beno\u00eet and Nicolas M\u00e9ger and A Atto and Dino Ienco",
+        "conference": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+        "pages": "1077-1080",
+        "publisher": "IEEE",
+        "abstract": "Deep Neural Networks (DNNs) are getting increasing attention to deal with land cover classification relying on Satellite Image Time Series (SITS). Though high performances can be achieved, the rationale of a prediction yielded by a DNN often remains unclear. An architecture expressing predictions with respect to input channels is thus proposed in this paper. It relies on convolutional layers and an attention mechanism weighting the importance of each channel in the final classification decision. The correlation between channels is taken into account to set up shared kernels and lower model complexity. Experiments based on Sentinel-2 SITS show promising results."
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:1EqfMoDn7-AC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4299022039765740083",
+    "cites_id": [
+        "4299022039765740083"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9554205/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:M-rPmcQxqTsJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 2
+    }
+}

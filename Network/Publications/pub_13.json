@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Extracting multilayer networks from Sentinel-2 satellite image time series",
+        "pub_year": 2020,
+        "citation": "Network Science 8 (S1), S26-S42, 2020",
+        "author": "Roberto Interdonato and Raffaele Gaetano and Danny Lo Seen and Mathieu Roche and Giuseppe Scarpa",
+        "journal": "Network Science",
+        "volume": "8",
+        "number": "S1",
+        "pages": "S26-S42",
+        "publisher": "Cambridge University Press",
+        "abstract": "Nowadays, modern Earth Observation systems continuously generate huge amounts of data. A notable example is the Sentinel-2 Earth Observation mission, developed by the European Space Agency as part of the Copernicus Programme, which supplies images from the whole planet at high spatial resolution (up to 10 m) with unprecedented revisit time (every 5 days at the equator). In this data-rich scenario, the remote sensing community is showing a growing interest toward modern supervised machine learning techniques (e.g., deep learning) to perform information extraction, often underestimating the need for reference data that this framework implies. Conversely, few attention is being devoted to the use of network analysis techniques, which can provide a set of powerful tools for unsupervised information discovery, subject to the definition of a suitable strategy to build a network-like representation of image \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:f2IySw72cVMC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=16099457243514326976",
+    "cites_id": [
+        "16099457243514326976"
+    ],
+    "pub_url": "https://www.cambridge.org/core/journals/network-science/article/extracting-multilayer-networks-from-sentinel2-satellite-image-time-series/70161B61F44DC0120E8DC3659E3D018B",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wM9CfBDDbN8J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1
+    }
+}

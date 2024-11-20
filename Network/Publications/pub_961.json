@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Epi_DCA: Adaptation et mise en \u0153uvre de la th\u00e9orie du danger pour la veille \u00e9pid\u00e9miologique",
+        "pub_year": 2023,
+        "citation": "Atelier GAST, 2023",
+        "author": "Bahdja Boudoua and Mathieu Roche and Maguelonne Teisseire and Annelise Tran",
+        "journal": "Atelier GAST",
+        "abstract": "Le r\u00f4le des syst\u00e8mes de surveillance bas\u00e9s sur les \u00e9v\u00e8nements (SBE) est de d\u00e9tecter les nouvelles \u00e9pid\u00e9mies en explorant les informations sanitaires publi\u00e9es en ligne dans un large \u00e9ventail de sources formelles et informelles. Les facteurs de risque (environnementaux, climatiques, li\u00e9s aux pratiques d\u2019\u00e9levage etc.) ne sont en g\u00e9n\u00e9ral pas pris en compte par ces syst\u00e8mes. Dans cet article, nous souhaitons poser les premi\u00e8res bases d\u2019une d\u00e9marche g\u00e9n\u00e9rique (ind\u00e9pendante d\u2019une maladie ou d\u2019un h\u00f4te sp\u00e9cifique) qui permet de renforcer ou non un \u00e9v\u00e9nement d\u00e9tect\u00e9 par les syst\u00e8mes de veille en y int\u00e9grant les facteurs de risque disponibles. Epi_DCA est une adaptation de l\u2019algorithme des cellules dendritiques (DCA), inspir\u00e9 de la th\u00e9orie du danger. Il permet de combiner les diff\u00e9rents facteurs de risque aux donn\u00e9es \u00e9pid\u00e9miologiques issues des syst\u00e8mes de veille. Un premier test est effectu\u00e9 sur le cas d\u2019\u00e9tude Influenza aviaire (IA). Par la suite, l\u2019approche propos\u00e9e sera \u00e9valu\u00e9e sur diff\u00e9rents cas d\u2019\u00e9tude (fi\u00e8vre du Nil occidental et peste porcine africaine) afin de tester sa robustesse et sa g\u00e9n\u00e9ricit\u00e9."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:MpfHP-DdYjUC",
+    "num_citations": 0,
+    "pub_url": "https://gt-gast.irisa.fr/files/2023/06/actes_GAST_2023_v0.3.pdf#page=63",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WaIKtITXVdIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

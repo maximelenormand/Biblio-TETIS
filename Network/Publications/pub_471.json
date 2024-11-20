@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Landscape structure estimation using fourier-based textural ordination of high resolution airborne optical image",
+        "pub_year": 2018,
+        "citation": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2018",
+        "author": "Marc Lang and Samuel Alleaume and Sandra Luque and Nicolas Baghdadi and Jean-Baptiste F\u00e9ret",
+        "conference": "IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "6600-6603",
+        "publisher": "IEEE",
+        "abstract": "Landscape heterogeneity is a key factor for understanding ecosystems function and is often associated to high biodiversity. Yet, its characterization for biodiversity monitoring still remains challenging, especially for very heterogeneous landscapes mosaics. In this work, we study the potential of Fourier-based Textural Ordination (FOTO) applied on high resolution airborne optical images to provide synthetic information about landscape fragmentation of Mediterranean heterogeneous landscapes. The ability of texture indices resulting from FOTO combined with vegetation indices to predict landscape metrics was also tested using non linear SVM regression. Our research showed that FOTO methods had great potential to finely characterize different vegetation strata organization at large scale with only few synthetic indices. Best regression results were obtained for ligneous and ground strata fragmentation with \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:O3NaXMp0MMsC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=15670126700070804327",
+    "cites_id": [
+        "15670126700070804327"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8518640/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Z5sVtzV5d9kJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 2
+    }
+}

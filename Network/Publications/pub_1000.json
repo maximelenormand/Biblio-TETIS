@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "WEIR-P: An Information Extraction Pipeline for the Wastewater Domain",
+        "pub_year": 2021,
+        "citation": "International Conference on Research Challenges in Information Science, 171-188, 2021",
+        "author": "Nan\u00e9e Chahinian and Thierry Bonnabaud La Bruy\u00e8re and Francesca Frontini and Carole Delenne and Marin Julien and Rachel Panckhurst and Mathieu Roche and Lucile Sautot and Laurent Deruelle and Maguelonne Teisseire",
+        "conference": "International Conference on Research Challenges in Information Science",
+        "pages": "171-188",
+        "publisher": "Springer, Cham",
+        "abstract": "We present the MeDO project, aimed at developing resources for text mining and information extraction in the wastewater domain. We developed a specific Natural Language Processing (NLP) pipeline named WEIR-P (WastewatEr InfoRmation extraction Platform) which identifies the entities and relations to be extracted from texts, pertaining to information, wastewater treatment, accidents and works, organizations, spatio-temporal information, measures and water quality. We present and evaluate the first version of the NLP system which was developed to automate the extraction of the aforementioned annotation from texts and its integration with existing domain knowledge. The preliminary results obtained on the Montpellier corpus are encouraging and show how a mix of supervised and rule-based techniques can be used to extract useful information and reconstruct the various phases of the extension of a given \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:3NQIlFlcGxIC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=7672343143052078300",
+    "cites_id": [
+        "7672343143052078300"
+    ],
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-75018-3_11",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3OyFVHCjeWoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Environmental factors and public health policy associated with human and rodent infection by leptospirosis: a land cover-based study in Nan province, Thailand",
+        "pub_year": 2016,
+        "citation": "Epidemiology & Infection 144 (7), 1550-1562, 2016",
+        "author": "Pauline Della Rossa and Kraichat Tantrakarnapa and D Sutdan and K Kasetsinsombat and J-F Cosson and Y Supputamongkol and Kittipong Chaisiri and Annelise Tran and S Supputamongkol and Aur\u00e9lie Binot and Claire Lajaunie and Serge Morand",
+        "journal": "Epidemiology & Infection",
+        "volume": "144",
+        "number": "7",
+        "pages": "1550-1562",
+        "publisher": "Cambridge University Press",
+        "abstract": "Leptospirosis incidence has increased markedly since 1995 in Thailand, with the eastern and northern parts being the most affected regions, particularly during flooding events. Here, we attempt to overview the evolution of human prevalence during the past decade and identify the environmental factors that correlate with the incidence of leptospirosis and the clinical incidence in humans. We used an extensive survey of Leptospira infection in rodents conducted in 2008 and 2009 and the human incidence of the disease from 2003 to 2012 in 168 villages of two districts of Nan province in Northern Thailand. Using an ad-hoc developed land-use cover implemented in a geographical information system we showed that humans and rodents were not infected in the same environment/habitat in the land-use cover. High village prevalence was observed in open habitat near rivers for the whole decade, or in 2008\u20132009 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:e5wmG9Sq2KIC",
+    "num_citations": 45,
+    "citedby_url": "/scholar?hl=en&cites=14125619075428477856",
+    "cites_id": [
+        "14125619075428477856"
+    ],
+    "pub_url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/environmental-factors-and-public-health-policy-associated-with-human-and-rodent-infection-by-leptospirosis-a-land-coverbased-study-in-nan-province-thailand/169A4083F3886BCC69BFBB9771B1F587",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oGtlV7VHCMQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 5,
+        "2018": 3,
+        "2019": 12,
+        "2020": 4,
+        "2021": 7,
+        "2022": 8,
+        "2023": 4,
+        "2024": 1
+    }
+}

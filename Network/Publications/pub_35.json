@@ -1,0 +1,23 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Reunion island-2019",
+        "pub_year": 2020,
+        "citation": "Land Cover Map (Spot6/7)-1.5 m, 2020",
+        "author": "St\u00e9phane Dupuy and Raffaele Gaetano",
+        "journal": "Land Cover Map (Spot6/7)-1.5 m"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:_Qo2XoVZTnwC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=2674505648911444338",
+    "cites_id": [
+        "2674505648911444338"
+    ],
+    "pub_url": "https://scholar.google.com/scholar?cluster=2674505648911444338&hl=en&oi=scholarr",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cmkksbfAHSUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

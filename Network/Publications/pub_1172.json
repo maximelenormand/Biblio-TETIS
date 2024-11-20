@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture estimation using CYGNSS constellation",
+        "pub_year": 2019,
+        "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019",
+        "author": "Mehrez Zribi and Mireille Huc and Sebastian Antokoletz and Michel Le Page and Nazzareno Pierdicca and Nicolas Baghdadi",
+        "conference": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "7014-7017",
+        "publisher": "IEEE",
+        "abstract": "The main objective of this study is to propose an inversion algorithm for the estimation of soil moisture from CYGNSS data. The algorithm based on the change detection technique is applied to CYGNSS data after several corrections taking in account the incidence effects as well as different noises. The algorithm is validated on a one study site in North Africa. Comparisons with field data and ASCAT products illustrate a strong potential for CYGNSS products."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:rHJHxKgnXwkC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=36284111400839892",
+    "cites_id": [
+        "36284111400839892"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8898643/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1KoJAzXogAAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

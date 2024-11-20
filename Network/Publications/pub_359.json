@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparing geomorphological maps made manually and by deep learning",
+        "pub_year": 2022,
+        "citation": "Earth Surface Processes and Landforms 47 (4), 1089-1107, 2022",
+        "author": "W Marijn van der Meij and Erik W Meijles and Diego Marcos and Tom TL Harkema and Jasper HJ Candel and Gilbert J Maas",
+        "journal": "Earth Surface Processes and Landforms",
+        "volume": "47",
+        "number": "4",
+        "pages": "1089-1107",
+        "abstract": "Geomorphological maps provide information on the relief, genesis and shape of the earth's surface and are widely used in sustainable spatial developments. The quality of geomorphological maps is however rarely assessed or reported, which limits their applicability. Moreover, older geomorphological maps often do not meet current quality requirements and require updating. This updating is time\u2010consuming and because of its qualitative nature difficult to reproduce, but can be supported by novel computational methods. In this paper, we address these issues by (1) quantifying the uncertainty associated with manual geomorphological mapping, (2) exploring the use of convolutional neural networks (CNNs) for semi\u2010automated geomorphological mapping and (3) testing the sensitivity of CNNs to uncertainties in manually created evaluation data.We selected a test area in the Dutch push\u2010moraine district with a \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:OU6Ihb5iCvQC",
+    "num_citations": 14,
+    "citedby_url": "/scholar?hl=en&cites=12636713208393549512",
+    "cites_id": [
+        "12636713208393549512"
+    ],
+    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.5305",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yMbI-rWfXq8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 4,
+        "2023": 5,
+        "2024": 4
+    }
+}

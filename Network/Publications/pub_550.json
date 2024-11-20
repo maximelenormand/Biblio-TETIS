@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimating leaf mass per area and equivalent water thickness based on leaf optical properties: Potential and limitations of physical modeling and machine learning",
+        "pub_year": 2019,
+        "citation": "Remote Sensing of Environment 231, 110959, 2019",
+        "author": "J-B F\u00e9ret and Guerric Le Maire and Sylvain Jay and Daniel Berveiller and Ryad Bendoula and Gabriel Hmimina and Anice Cheraiet and JC Oliveira and Fl\u00e1vio Jorge Ponzoni and T Solanki and Florian De Boissieu and J\u00e9r\u00f4me Chave and Yann Nouvellon and A Porcar-Castell and Christophe Proisy and Kamel Soudani and J-P Gastellu-Etchegorry and M-J Lef\u00e8vre-Fonollosa",
+        "journal": "Remote Sensing of Environment",
+        "volume": "231",
+        "pages": "110959",
+        "publisher": "Elsevier",
+        "abstract": "Leaf mass per area (LMA) and leaf equivalent water thickness (EWT) are key leaf functional traits providing information for many applications including ecosystem functioning modeling and fire risk management. In this paper, we investigate two common conclusions generally made for LMA and EWT estimation based on leaf optical properties in the near-infrared (NIR) and shortwave infrared (SWIR) domains: (1) physically-based approaches estimate EWT accurately and LMA poorly, while (2) statistically-based and machine learning (ML) methods provide accurate estimates of both LMA and EWT.Using six experimental datasets including broadleaf species samples of >150 species collected over tropical, temperate and boreal ecosystems, we compared the performances of a physically-based method (PROSPECT model inversion) and a ML algorithm (support vector machine regression, SVM) to infer EWT and \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:lSLTfruPkqcC",
+    "num_citations": 126,
+    "citedby_url": "/scholar?hl=en&cites=13873209348438512390",
+    "cites_id": [
+        "13873209348438512390"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425718305030",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BlNOJGaKh8AJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 7,
+        "2020": 19,
+        "2021": 34,
+        "2022": 25,
+        "2023": 35,
+        "2024": 6
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Apports de la combinaison d\u2019images satellites optique et RADAR dans l\u2019\u00e9tude des maladies \u00e0 transmission vectorielle: cas du paludisme \u00e0 la fronti\u00e8re Guyane fran\u00e7aise\u2013Br\u00e9sil",
+        "pub_year": 2018,
+        "citation": "Confins. Revue franco-br\u00e9silienne de g\u00e9ographie/Revista franco-brasilera de \u2026, 2018",
+        "author": "Thibault Catry and Aur\u00e9a Pottier and Renaud Marti and Zhichao Li and Emmanuel Roux and Vincent Herbreteau and Morgan Mangeas and Laurent Demagistri and Helen Gurgel and Nadine Dessay",
+        "journal": "Confins. Revue franco-br\u00e9silienne de g\u00e9ographie/Revista franco-brasilera de geografia",
+        "number": "37",
+        "publisher": "Th\u00e9ry, Herv\u00e9",
+        "abstract": "La distribution des moustiques vecteurs du paludisme est contr\u00f4l\u00e9e par divers facteurs comme le climat, les types d\u2019occupation du sol, ou les activit\u00e9s humaines. Dans la r\u00e9gion amazonienne, des foyers end\u00e9miques de paludisme subsistent, notamment \u00e0 la fronti\u00e8re entre la Guyane fran\u00e7aise et l\u2019\u00e9tat d\u2019Amapa au Br\u00e9sil. Cette zone, longue de plus de 300 km, pr\u00e9sente de nombreuses difficult\u00e9s dans la collecte des informations n\u00e9cessaires \u00e0 la gestion sanitaire des populations pr\u00e9sentes. Dans ce type de contexte g\u00e9ographique b\u00e9n\u00e9ficiant de peu de donn\u00e9es, isol\u00e9 et transfrontalier, une m\u00e9thodologie fond\u00e9e sur l\u2019exploitation d\u2019images de t\u00e9l\u00e9d\u00e9tection est particuli\u00e8rement adapt\u00e9e. Les donn\u00e9es de t\u00e9l\u00e9d\u00e9tection pr\u00e9sentent une large couverture spatiale, et une gamme importante de r\u00e9solutions spatiales. Nous pr\u00e9sentons ici une approche combinant des donn\u00e9es satellite optiques et RADAR \u00e0 haute et tr\u00e8s haute r\u00e9solution spatiale. Notre m\u00e9thode permet de cartographier les diff\u00e9rents types d\u2019occupation du sol dans le contexte tropical frontalier Guyane fran\u00e7aise \u2013 Br\u00e9sil, caract\u00e9ris\u00e9 par un fort ennuagement. Les r\u00e9sultats montrent que la compl\u00e9mentarit\u00e9 des capteurs optiques et RADAR permet de r\u00e9soudre en grande partie la question de l\u2019ennuagement persistant. En particulier, les classifications des diff\u00e9rentes occupations du sol obtenues permettent de construire des indicateurs spatialis\u00e9s en lien avec les espaces favorables \u00e0 l\u2019existence de g\u00eetes larvaires et de zones de repos du vecteur du paludisme. A travers une discussion sur l\u2019application de ces classifications composites \u00e0 l\u2019estimation du risque d\u2019exposition vectoriel consid\u00e9r\u00e9 \u00e0 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "9Hy7dPoAAAAJ:_FxGoFyzp5QC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=486254011277359292",
+    "cites_id": [
+        "486254011277359292"
+    ],
+    "pub_url": "https://journals.openedition.org/confins/15027",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vLjLbHKFvwYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 3,
+        "2021": 0,
+        "2022": 3,
+        "2023": 1
+    }
+}

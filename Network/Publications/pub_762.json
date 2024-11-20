@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysing plausible futures from past patterns of land change in West Burkina Faso",
+        "pub_year": 2018,
+        "citation": "Land Use Policy 71, 60-74, 2018",
+        "author": "Camille Jahel and Eric Vall and Zerme\u00f1o Rodriguez and Agn\u00e8s B\u00e9gu\u00e9 and Christian Baron and Xavier Augusseau and Danny Lo Seen",
+        "journal": "Land Use Policy",
+        "volume": "71",
+        "pages": "60-74",
+        "publisher": "Pergamon",
+        "abstract": "In a context of fast land changes due to human activity, the old \u201cMalthus vs. Boserup\u201d debate about human pressure on natural resources is more than ever a prevalent subject. We illustrate this debate with an example based on the Tuy Province in West Burkina Faso, which has known an important development these last fifteen years, as mainly observable in the major regression of its natural vegetation.The objective of this article is to question the possible future scenarios of this region, by using a spatial model to understand past land change mechanisms and prospect plausible future ways of development. In particular, the spatial model describes the vegetation clearance processes identified during field campaigns, which we used to draw prospective scenarios and assess their possible effect on natural vegetation evolution.The processing of remote sensing images helped us reveal that one quarter of the total \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "OIko0mMAAAAJ:GnPB-g6toBAC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=12003312676965689129",
+    "cites_id": [
+        "12003312676965689129"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S026483771631081X",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Kad7jkhVlKYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 1,
+        "2020": 1,
+        "2021": 3,
+        "2022": 2,
+        "2023": 2
+    }
+}

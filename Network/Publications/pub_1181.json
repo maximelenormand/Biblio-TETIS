@@ -1,0 +1,37 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "All in one: mining multiple movement patterns",
+        "pub_year": 2016,
+        "citation": "International Journal of Information Technology & Decision Making 15 (05 \u2026, 2016",
+        "author": "Nhathai Phan and Pascal Poncelet and Maguelonne Teisseire",
+        "journal": "International Journal of Information Technology & Decision Making",
+        "volume": "15",
+        "number": "05",
+        "pages": "1115-1156",
+        "publisher": "World Scientific Publishing Company",
+        "abstract": "Recent improvements in positioning technology have led to a much wider availability of massive moving object data. A crucial task is to find the moving objects that travel together. In common, these object sets are called object movement patterns. Due to the emergence of many different kinds of object movement patterns in recent years, different approaches have been proposed to extract them. However, each approach only focuses on mining a specific kind of patterns. It is costly and time consuming to mine and manage various number of patterns, since we have to execute a large number of different pattern mining algorithms. Moreover, we have to execute these algorithms again whenever new data are added to the existing database. To address these issues, we first redefine movement patterns in the itemset context. Second, we propose a unifying approach, named GeT_Move, which uses a frequent closed \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ZC5cTtAMFr4C:PoWvk5oyLR8C",
+    "num_citations": 16,
+    "citedby_url": "/scholar?hl=en&cites=14789419394094310020",
+    "cites_id": [
+        "14789419394094310020"
+    ],
+    "pub_url": "https://www.worldscientific.com/doi/abs/10.1142/S0219622016500280",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hKJDy5SSPs0J:scholar.google.com/",
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 1,
+        "2017": 3,
+        "2018": 3,
+        "2019": 2,
+        "2020": 3,
+        "2021": 1,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1
+    }
+}

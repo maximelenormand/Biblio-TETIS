@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "On the importance of trip destination for modeling individual human mobility patterns",
+        "pub_year": 2020,
+        "citation": "Journal of The Royal Society Interface 17, 20200673, 2020",
+        "author": "Maxime Lenormand and Juan Murillo Arias and Maxi San Miguel and Jos\u00e9 J Ramasco",
+        "journal": "Journal of The Royal Society Interface",
+        "volume": "17",
+        "pages": "20200673",
+        "abstract": "Obtaining insights into human mobility patterns and being able to reproduce them accurately is of the utmost importance in a wide range of applications from public health, to transport and urban planning. Still the relationship between the effort individuals will invest in a trip and the importance of its purpose is not taken into account in individual mobility models that can be found in the recent literature. Here, we address this issue by introducing a model hypothesizing a relation between the importance of a trip and the distance travelled. In most practical cases, quantifying such importance is undoable. We overcome this difficulty by focusing on shopping trips (for which we have empirical data) and by taking the price of items as a proxy. Our model is able to reproduce the long-tailed distribution in travel distances empirically observed and to explain the scaling relationship between distance travelled and item value \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:GnPB-g6toBAC",
+    "num_citations": 7,
+    "citedby_url": "/scholar?hl=en&cites=12875794442897245360",
+    "cites_id": [
+        "12875794442897245360"
+    ],
+    "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2020.0673",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sMTWsdMCsLIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 6,
+        "2023": 1
+    }
+}

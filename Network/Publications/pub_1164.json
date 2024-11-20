@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multifunctional urban spaces a solution to increase the quality of urban life in dense cities",
+        "pub_year": 2020,
+        "citation": "Manzar, The Iranian Academic Open Access Journal of Landscape 12 (51), 34-45, 2020",
+        "author": "Atieh Ghafouri and Christiane Weber",
+        "journal": "Manzar, The Iranian Academic Open Access Journal of Landscape",
+        "volume": "12",
+        "number": "51",
+        "pages": "34-45",
+        "abstract": "As urban population increases, cities face a dilemma on one hand, the horizontal growth causes devastating effects on the environment, and on the other hand, vertical growth leads to a decrease in the quality of life of citizens and causes a variety of mental illnesses. This dilemma has left city managers with a complex puzzle: a city that must be able to accommodate more people with minimal interference ensuring their optimum quality of life. This research presents the idea of multifunctional urban space design as a solution to the mentioned problem. The definition of multifunctional spaces in this research has been investigated using its definition in agriculture and environmental studies. The hypothesis of this research is based on the fact that the comprehensive definition can take a new perspective on urban design, improving the functional performance of existing urban spaces and thus reducing the need to build new facilities while maintaining the quality of life in dense cities. The research method is qualitative and based on bibliographic studies. First, the notion of functional performance and multifunctional space definition are examined in disciplines that produce a more specific interpretation of the subject, and then the definition of concepts is extended to urban design and urban space, highlighted and discussed."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:GFxP56DSvIMC",
+    "num_citations": 17,
+    "citedby_url": "/scholar?hl=en&cites=5128990339818277913",
+    "cites_id": [
+        "5128990339818277913"
+    ],
+    "pub_url": "https://hal.science/hal-02914038/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GUxHHYrVLUcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 2,
+        "2022": 7,
+        "2023": 5,
+        "2024": 1
+    }
+}

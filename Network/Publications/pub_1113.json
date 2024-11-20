@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture retrieval at 1-km resolution making a synergistic use of Sentinel-1/2/3 data",
+        "pub_year": 2022,
+        "citation": "EGUsphere 2022, 1-29, 2022",
+        "author": "Remi Madelon and Nemesio J Rodr\u00edguez-Fern\u00e1ndez and Hassan Bazzi and Nicolas Baghdadi and Clement Albergel and Wouter Dorigo and Mehrez Zribi",
+        "journal": "EGUsphere",
+        "volume": "2022",
+        "pages": "1-29",
+        "publisher": "Copernicus Publications",
+        "abstract": "High-resolution (HR) surface soil moisture (SM) observations are important for applications in hydrology and agriculture, among other purposes. For instance, the S2MP (Sentinel-1/Sentinel-2 derived Soil Moisture Product) algorithm was designed to retrieve surface SM at agricultural plot scale using simultaneously Sentinel-1 (S1) backscatter coefficients and Sentinel-2 (S2) NDVI (Normalized Difference Vegetation Index) as inputs to a neural network trained with Water Cloud Model simulations. However, for many applications, including future climate impact assessment at regional level, a resolution of 1 km is already a significant improvement with respect to most of the publicly available SM data sets, which have resolutions of about 25 km. Therefore, in this study, the S2MP algorithm was adapted to work at a resolution of 1 km and extended from croplands (cereals and grasslands) to herbaceous vegetation types. A target resolution of 1 km also allows to explore the use of NDVI derived from Sentinel-3 (S3) instead of S2. The algorithm improvements are evaluated both over Europe and other regions of the globe, for which S1 coverage is poorer. Two sets of SM maps at 1-km resolution were produced with S2MP over six regions of about 104 km2 in the southwest and southeast of France, Spain, Tunisia, North America, as well as Australia from 2017 to 2019. The first set of maps was derived from the combination of S1 and S2 data (S1+S2 maps), while the second one was derived from the combination of S1 and S3 (S1+S3 maps). S1+S2 and S1+S3 SM maps were compared to each other and to those of the 1-km resolution Copernicus Global \u2026High-resolution (HR) surface soil moisture (SM) observations are important for applications in hydrology and agriculture, among other purposes. For instance, the S2MP (Sentinel-1/Sentinel-2 derived Soil Moisture Product) algorithm was designed to retrieve surface SM at agricultural plot scale using simultaneously Sentinel-1 (S1) backscatter coefficients and Sentinel-2 (S2) NDVI (Normalized Difference Vegetation Index) as inputs to a neural network trained with Water Cloud Model simulations. However, for many applications, including future climate impact assessment at regional level, a resolution of 1 km is already a significant improvement with respect to most of the publicly available SM data sets, which have resolutions of about 25 km. Therefore, in this study, the S2MP algorithm was adapted to work at a resolution of 1 km and extended from croplands (cereals and grasslands) to herbaceous vegetation types. A target resolution of 1 km also allows to explore the use of NDVI derived from Sentinel-3 (S3) instead of S2. The algorithm improvements are evaluated both over Europe and other regions of the globe, for which S1 coverage is poorer.Two sets of SM maps at 1-km resolution were produced with S2MP over six regions of about 104 km2 in the southwest and southeast of France, Spain, Tunisia, North America, as well as Australia from 2017 to 2019. The first set of maps was derived from the combination of S1 and S2 data (S1+S2 maps), while the second one was derived from the combination of S1 and S3 (S1+S3 maps). S1+S2 and S1+S3 SM maps were compared to each other and to those of the 1-km resolution Copernicus Global \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:FsLZdJ3BAzkC",
+    "num_citations": 0,
+    "pub_url": "https://egusphere.copernicus.org/preprints/2022/egusphere-2022-558/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XpkRBHd0-60J:scholar.google.com/",
+    "cites_per_year": {}
+}

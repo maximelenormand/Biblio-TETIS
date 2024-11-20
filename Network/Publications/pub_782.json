@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A double swath configuration for improving throughput and accuracy of trait estimate from UAV images",
+        "pub_year": 2021,
+        "citation": "Plant Phenomics, 2021",
+        "author": "Wenjuan Li and Alexis Comar and Marie Weiss and Sylvain Jay and Gallian Colombeau and Raul Lopez-Lozano and Simon Madec and Fr\u00e9d\u00e9ric Baret",
+        "journal": "Plant Phenomics",
+        "publisher": "AAAS",
+        "abstract": "Multispectral observations from unmanned aerial vehicles (UAVs) are currently used for precision agriculture and crop phenotyping applications to monitor a series of traits allowing the characterization of the vegetation status. However, the limited autonomy of UAVs makes the completion of flights difficult when sampling large areas. Increasing the throughput of data acquisition while not degrading the ground sample distance (GSD) is, therefore, a critical issue to be solved. We propose here a new image acquisition configuration based on the combination of two focal length (f) optics: an optics with f= 4.2 mm is added to the standard f= 8 mm (SS: single swath) of the multispectral camera (DS: double swath, double of the standard one). Two flights were completed consecutively in 2018 over a maize field using the AIRPHEN multispectral camera at 52 m altitude. The DS flight plan was designed to get 80% overlap \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "tRQI7j4AAAAJ:Wp0gIr-vW9MC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=10911786331709486011",
+    "cites_id": [
+        "10911786331709486011"
+    ],
+    "pub_url": "https://spj.science.org/doi/full/10.34133/2021/9892647",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:u7OBBttzbpcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping the diversity of land uses following deforestation across Africa",
+        "pub_year": 2024,
+        "citation": "Scientific Reports 14 (1), 1681, 2024",
+        "author": "Robert N Masolele and Diego Marcos and Veronique De Sy and Itohan-Osa Abu and Jan Verbesselt and Johannes Reiche and Martin Herold",
+        "journal": "Scientific Reports",
+        "volume": "14",
+        "number": "1",
+        "pages": "1681",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "African forest are increasingly in decline as a result of land-use conversion due to human activities. However, a consistent and detailed characterization and mapping of land-use change that results in forest loss is not available at the spatial-temporal resolution and thematic levels suitable for decision-making at the local and regional scales; so far they have only been provided on coarser scales and restricted to humid forests. Here we present the first high-resolution (5 m) and continental-scale mapping of land use following deforestation in Africa, which covers an estimated 13.85% of the global forest area, including humid and dry forests. We use reference data for 15 different land-use types from 30 countries and implement an active learning framework to train a deep learning model for predicting land-use following deforestation with an F1-score of  for the whole of Africa. Our results show that the causes of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:HE397vMXCloC",
+    "num_citations": 0,
+    "pub_url": "https://www.nature.com/articles/s41598-024-52138-9",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Uz78U74LA2gJ:scholar.google.com/",
+    "cites_per_year": {}
+}

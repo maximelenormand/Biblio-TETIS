@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A New Reflectivity Index for Surface Soil Moisture Estimation",
+        "pub_year": 2022,
+        "citation": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2022",
+        "author": "M Zribi and N Baghdadi",
+        "conference": "IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium",
+        "pages": "6100-6103",
+        "publisher": "IEEE",
+        "abstract": "In this study, we propose a new approach to surface soil moisture (SSM) monitoring using the change detection technique applied to Sentinel-1 radar dataset. This involves testing a new reflectivity index (IR) deduced from the Fresnel coefficients, directly linked to soil moisture. It is between 0 and 1, 0 for the driest context (weakest radar signal), and 1 for the wettest context (highest radar signal). Simulations using the Integral Equation Model (IEM) model are proposed to confirm the usefulness of this index before real applications on different sites in Africa. Comparisons are also made with the classical index based on the detection approach habitually used."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:KTwcwpFFj4wC",
+    "num_citations": 0,
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9883756/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Eiy1zrZJrIcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep recurrent neural networks for winter vegetation quality mapping via multitemporal SAR Sentinel-1",
+        "pub_year": 2018,
+        "citation": "IEEE Geoscience and Remote Sensing Letters 15 (3), 464-468, 2018",
+        "author": "Dinh Ho Tong Minh and Dino Ienco and Raffaele Gaetano and Nathalie Lalande and Emile Ndikumana and Faycal Osman and Pierre Maurel",
+        "journal": "IEEE Geoscience and Remote Sensing Letters",
+        "volume": "15",
+        "number": "3",
+        "pages": "464-468",
+        "publisher": "IEEE",
+        "abstract": "Mapping winter vegetation quality is a challenging problem in remote sensing. This is due to cloud coverage in winter periods, leading to a more intensive use of radar rather than optical images. The aim of this letter is to provide a better understanding of the capabilities of Sentinel-1 radar images for winter vegetation quality mapping through the use of deep learning techniques. Analysis is carried out on a multitemporal Sentinel-1 data over an area around Charentes-Maritimes, France. This data set was processed in order to produce an intensity radar data stack from October 2016 to February 2017. Two deep recurrent neural network (RNN)-based classifiers were employed. Our work revealed that the results of the proposed RNN models clearly outperformed classical machine learning approaches (support vector machine and random forest)."
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:M05iB0D1s5AC",
+    "num_citations": 118,
+    "citedby_url": "/scholar?hl=en&cites=10795445159951501695",
+    "cites_id": [
+        "10795445159951501695"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8277174/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:f4keHy0g0ZUJ:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 11,
+        "2019": 11,
+        "2020": 24,
+        "2021": 32,
+        "2022": 22,
+        "2023": 16,
+        "2024": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new french infrastructure for satellite and in situ data and services on the earth system",
+        "pub_year": 2019,
+        "citation": "27th IUGG (International Union of Geodesy and Geophysics) General Assembly, 1, 2019",
+        "author": "M Diament and F Huynh and R Moreno and N Baghdadi and C Blanke and E Deschamps Ostanciaux and G Maudire and N Papineau and A Chambodut",
+        "conference": "27th IUGG (International Union of Geodesy and Geophysics) General Assembly",
+        "pages": "1",
+        "abstract": "Studying the structure and understanding processes acting in the Earth system at various temporal and spatial scales in order also to predict its evolution and extreme events demand an easy and interoperable access to the numerous observation data acquired on ground, in oceans, from space,... regardless their nature and mode of collection. Indeed, to study the Earth System today requires to take into account processes acting in each terrestrial component but also to understand how they interact. In the meantime, the fantastic evolution of the observation techniques results in an unprecedented increase of the rate and volume of data acquisition. This requires innovative plan easing analysis, dissemination and smart use of data and models from national and international observing systems on the entire Earth System and their access by the scientific community, public policy actors and citizens. This is why we are \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:65Yg0jNCQDAC",
+    "num_citations": 0,
+    "pub_url": "http://hal.cirad.fr/hal-02609808/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0CVJPSDNCVgJ:scholar.google.com/",
+    "cites_per_year": {}
+}

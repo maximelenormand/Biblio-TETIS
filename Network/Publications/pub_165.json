@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Geospatial Correspondences for Multimodal Registration",
+        "pub_year": 2016,
+        "citation": "Computer Vision and Pattern Recognition (CVPR), 2016",
+        "author": "Diego Marcos and Raffay Hamid and Devis Tuia",
+        "conference": "Computer Vision and Pattern Recognition (CVPR)",
+        "abstract": "The growing availability of very high resolution (< 1 m/pixel) satellite and aerial images has opened up unprecedented opportunities to monitor and analyze the evolution of land-cover and land-use across the world. To do so, images of the same geographical areas acquired at different times and, potentially, with different sensors must be efficiently parsed to update maps and detect land-cover changes. However, a naive transfer of ground truth labels from one location in the source image to the corresponding location in the target image is not generally feasible, as these images are often only loosely registered (with up to+-50m of non-uniform errors). Furthermore, land-cover changes in an area over time must be taken into account for an accurate ground truth transfer. To tackle these challenges, we propose a mid-level sensor-invariant representation that encodes image regions in terms of the spatial distribution of their spectral neighbors. We incorporate this representation in a Markov Random Field to simultaneously account for nonlinear mis-registrations and enforce locality priors to find matches between multi-sensor images. We show how our approach can be used to assist in several multimodal land-cover update and change detection problems."
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:IjCSPb-OGe4C",
+    "num_citations": 38,
+    "citedby_url": "/scholar?hl=en&cites=17430382208161442971",
+    "cites_id": [
+        "17430382208161442971"
+    ],
+    "pub_url": "https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Marcos_Geospatial_Correspondences_for_CVPR_2016_paper.html",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:m2zAqEQo5fEJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 1,
+        "2018": 7,
+        "2019": 8,
+        "2020": 6,
+        "2021": 6,
+        "2022": 4,
+        "2023": 2,
+        "2024": 1
+    }
+}

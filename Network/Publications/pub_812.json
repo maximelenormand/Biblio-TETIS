@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The influence of the calibration interval on simulating non-stationary urban growth dynamic using CA-Markov model",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (3), 468, 2021",
+        "author": "Rahim Aguejdad",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "3",
+        "pages": "468",
+        "publisher": "MDPI",
+        "abstract": "The temporal non-stationarity of land use and cover change (LUCC) processes is one of the main sources of uncertainty that may influence the calibration and the validation of spatial path-dependent LUCC models. In relation to that, this research aims to investigate the influence of the temporal non-stationarity of land change on urban growth modeling accuracy based on an empirical approach that uses past LUCC. Accordingly, the urban development in Rennes Metropolitan (France) was simulated using fifteen past calibration intervals which are set from six training dates. The study used Idrisi\u2019s Cellular Automata-Markov model (CA-Markov) which is an inductive pattern-based LUCC software package. The land demand for the simulation year was estimated using the Markov Chain method. Model validation was carried out by assessing the quantity of change, allocation, and spatial patterns accuracy. The quantity disagreement was analyzed by taking into consideration the temporal non-stationarity of change rate over the calibration and the prediction intervals, the model ability to reproduce the past amount of change in the future, and the time duration of the prediction interval. The results show that the calibration interval significantly influenced the amount and the spatial allocation of the estimated change. In addition to that, the spatial allocation of change using CA-Markov depended highly on the basis land cover image rather than the observed transition during the calibration period. Therefore, this study provides useful insights on the role of the training dates in the simulation of non-stationary LUCC."
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:ns9cj8rnVeAC",
+    "num_citations": 27,
+    "citedby_url": "/scholar?hl=en&cites=15717593012841994993",
+    "cites_id": [
+        "15717593012841994993"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/3/468",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8dqb3pEbINoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 13,
+        "2023": 8,
+        "2024": 4
+    }
+}

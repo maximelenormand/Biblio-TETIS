@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Monitoring tropical forest structure using SAR tomography at L-and P-band",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (16), 1934, 2019",
+        "author": "Ibrahim El Moussawi and Dinh Ho Tong Minh and Nicolas Baghdadi and Chadi Abdallah and Jalal Jomaah and Olivier Strauss and Marco Lavalle and Yen-Nhi Ngo",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "16",
+        "pages": "1934",
+        "publisher": "MDPI",
+        "abstract": "Our study aims to provide a comparison of the P- and L-band TomoSAR profiles, Land Vegetation and Ice Sensor (LVIS), and discrete return LiDAR to assess the ability for TomoSAR to monitor and estimate the tropical forest structure parameters for enhanced forest management and to support biomass missions. The comparison relies on the unique UAVSAR Jet propulsion Laboratory (JPL)/NASA L-band data, P-band data acquired by ONERA airborne system (SETHI), Small Footprint LiDAR (SFL), and NASA Land, Vegetation and Ice Sensor (LVIS) LiDAR datasets acquired in 2015 and 2016 in the frame of the AfriSAR campaign. Prior to multi-baseline data processing, a phase residual correction methodology based on phase calibration via phase center double localization has been implemented to improve the phase measurements and compensate for the phase perturbations, and disturbances originated from uncertainties in allocating flight trajectories. First, the vertical structure was estimated from L- and P-band corrected Tomography SAR data measurements, then compared with the canopy height model from SFL data. After that, the SAR and LiDAR three-dimensional (3D) datasets are compared and discussed at a qualitative basis at the region of interest. The L- and P-band\u2019s performance for canopy penetration was assessed to determine the underlying ground locations. Additionally, the 3D records for each configuration were compared with their ability to derive forest vertical structure. Finally, the vertical structure extracted from the 3D radar reflectivity from L- and P-band are compared with SFL data, resulting in a root mean square \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:prdVHNxh-e8C",
+    "num_citations": 22,
+    "citedby_url": "/scholar?hl=en&cites=6153038761817408641",
+    "cites_id": [
+        "6153038761817408641"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/16/1934",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gQRWVyf8Y1UJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 7,
+        "2022": 2,
+        "2023": 8,
+        "2024": 1
+    }
+}

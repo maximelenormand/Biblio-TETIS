@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Nexus thinking\u2013how ecosystem services can contribute to enhancing the cross-scale and cross-sectoral coherence between land use, spatial planning and policy-making",
+        "pub_year": 2017,
+        "citation": "International Journal of Biodiversity Science, Ecosystem Services \u2026, 2017",
+        "author": "Christine F\u00fcrst and Sandra Luque and Davide Geneletti",
+        "journal": "International Journal of Biodiversity Science, Ecosystem Services & Management",
+        "volume": "13",
+        "number": "1",
+        "pages": "412-421",
+        "publisher": "Taylor & Francis",
+        "abstract": "The ecosystem service (ES) concept is acknowledged for its potential to support decision-making on various scales. Still, it lacks in practical implementation, particularly concerning spatial planning and land management \u2013 key aspects that lead to criticism in its applicability. ES in planning and decision-making can contribute to improve the quality of land use and management by integrating synergies, trade-offs and conflicts among economy, environment and societal goals. This opinion paper suggests a nexus approach that shows how ES can contribute to characterize the interactions between humans and nature on different temporal and spatial scales while integrating cross-scale effects in trade-off analyses. We discuss how our nexus approach can be implemented and contribute to revealing the interdependencies between policy sectors, spatial and land-use planning. We argue that thinking in terms of a nexus \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:Amrzk_ktLr0C",
+    "num_citations": 71,
+    "citedby_url": "/scholar?hl=en&cites=16006935313034778966",
+    "cites_id": [
+        "16006935313034778966"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/21513732.2017.1396257",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VhkY3NsOJN4J:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 7,
+        "2019": 14,
+        "2020": 12,
+        "2021": 13,
+        "2022": 15,
+        "2023": 8
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Novelty detection in very high resolution urban scenes with density forests",
+        "pub_year": 2019,
+        "citation": "2019 Joint Urban Remote Sensing Event (JURSE), 1-4, 2019",
+        "author": "Cyril Wendl and Diego Marcos and Devis Tuia",
+        "conference": "2019 Joint Urban Remote Sensing Event (JURSE)",
+        "pages": "1-4",
+        "publisher": "IEEE",
+        "abstract": "Uncertainty in deep learning has recently received a lot of attention. While deep neural networks have shown better accuracy than other competing methods in many benchmarks, it has been shown that they may yield wrong predictions with unreasonably high confidence. This has increased the interest in methods that help providing better confidence estimates in neural networks, some using specifically designed architectures with probabilistic building blocks, and others using a standard architecture with an additional confidence estimation step based on its output. This work proposes a confidence estimation method for Convolutional Neural Networks based on fitting a forest of randomized density estimation decision trees to the network activations before the final classification layer and compares it to other confidence estimation methods based on standard architectures. The methods are compared on a semantic \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "IUqydU0AAAAJ:iH-uZ7U-co4C",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=5722870947305500543",
+    "cites_id": [
+        "5722870947305500543"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/8808974/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fy-MNc64a08J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 1
+    }
+}

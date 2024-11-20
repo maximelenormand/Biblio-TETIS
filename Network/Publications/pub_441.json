@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "R05. 1 How to integrate satellite-derived indicators into models of animal mobility?",
+        "pub_year": 2023,
+        "citation": "GeoVet 2023 International Conference, 2023",
+        "author": "Florent Rumiano and Victor Dufleit and Alexandre Caron and Eve Miguel and Pascal Degenne and C\u00e9dric Gaucherel and Hugo Valls-Fox and Michel de Garine-Wichatitsky and Annelise Tran",
+        "journal": "GeoVet 2023 International Conference",
+        "abstract": "In a context of increasing anthropization at the interface between protected areas and rural communal areas in southern Africa, the multiplication of interactions between wildlife and livestock may generate conflicts such as competition for natural resources, predation, crop destruction by wildlife, or the risk of pathogen transmission. To better understand these potential contacts, we have developed a method combining remote sensing and spatial modelling to simulate the movements of domestic ruminants (cattle) and wild animals (buffaloes)."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:AHdEip9mkN0C",
+    "num_citations": 0,
+    "pub_url": "https://www.veterinariaitaliana.izs.it/index.php/GEOVET23/article/view/3281",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2o5QGYU6spIJ:scholar.google.com/",
+    "cites_per_year": {}
+}

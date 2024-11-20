@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil texture estimation using radar and optical data from Sentinel-1 and Sentinel-2",
+        "pub_year": 2019,
+        "citation": "Remote Sensing 11 (13), 1520, 2019",
+        "author": "Safa Bousbih and Mehrez Zribi and Charlotte Pelletier and Azza Gorrab and Zohra Lili-Chabaane and Nicolas Baghdadi and Nadhira Ben Aissa and Bernard Mougenot",
+        "journal": "Remote Sensing",
+        "volume": "11",
+        "number": "13",
+        "pages": "1520",
+        "publisher": "MDPI",
+        "abstract": "This paper discusses the combined use of remotely sensed optical and radar data for the estimation and mapping of soil texture. The study is based on Sentinel-1 (S-1) and Sentinel-2 (S-2) data acquired between July and early December 2017, on a semi-arid area about 3000 km2 in central Tunisia. In addition to satellite acquisitions, texture measurement samples were taken in several agricultural fields, characterized by a large range of clay contents (between 13% and 60%). For the period between July and August, various optical indicators of clay content Short-Wave Infrared (SWIR) bands and soil indices) were tested over bare soils. Satellite moisture products, derived from combined S-1 and S-2 data, were also tested as an indicator of soil texture. Algorithms based on the support vector machine (SVM) and random forest (RF) methods are proposed for the classification and mapping of clay content and a three-fold cross-validation is used to evaluate both approaches. The classifications with the best performance are achieved using the soil moisture indicator derived from combined S-1 and S-2 data, with overall accuracy (OA) of 63% and 65% for the SVM and RF classifications, respectively."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:CB2v5VPnA5kC",
+    "num_citations": 96,
+    "citedby_url": "/scholar?hl=en&cites=18316267458846895221",
+    "cites_id": [
+        "18316267458846895221"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/11/13/1520",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:daydxzV0MP4J:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 8,
+        "2021": 26,
+        "2022": 33,
+        "2023": 20,
+        "2024": 7
+    }
+}

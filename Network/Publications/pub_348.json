@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "L\u2019information g\u00e9ospatiale au service de l\u2019agriculture africaine, un investissement essentiel pour les politiques agricoles",
+        "pub_year": 2019,
+        "citation": "Perspective 51, 1-4, 2019",
+        "author": "Jean-Philippe Tonneau and Agne\u0300s Be\u0301gue\u0301 and Louise Leroux and Xavier Augusseau and Jean-Fran\u00e7ois Faure and Benoit Mertens and Camille Pinet and Linda Tomasini",
+        "journal": "Perspective",
+        "volume": "51",
+        "pages": "1-4",
+        "abstract": "Les informations g\u00e9ospatiales et leurs produits d\u00e9riv\u00e9s, con\u00e7us pour contribuer \u00e0 la d\u00e9finition des politiques publiques agricoles, sont peu utilis\u00e9s en Afrique. Les infrastructures, la formation et les comp\u00e9tences manquent ; les activit\u00e9s de recherche et d\u00e9veloppement sont dispers\u00e9es et insuffisantes. Mais, surtout, les besoins restent mal formalis\u00e9s et l\u2019offre technologique, impuls\u00e9e par les pays industrialis\u00e9s, est peu adapt\u00e9e aux caract\u00e9ristiques des agricultures africaines. Par ailleurs, pour que des services op\u00e9rationnels produisent de l\u2019information pertinente et utile, un environnement stable doit \u00eatre garanti aux entreprises, aux institutions et aux projets. Ces services co-construits naissent dans le cadre d\u2019un partenariat p\u00e9renne entre les chercheurs, les op\u00e9rateurs charg\u00e9s des \u00e9tudes et les utilisateurs finaux. La recherche ouvre alors d\u2019autres voies d\u2019exploitation des images satellitaires pour documenter et expliciter les processus de transformation de l\u2019agriculture. Enfin, des r\u00e9seaux de comp\u00e9tences interdisciplinaires structur\u00e9s sur le temps long sont n\u00e9cessaires pour favoriser les \u00e9changes m\u00e9thodologiques et th\u00e9matiques."
+    },
+    "filled": true,
+    "author_pub_id": "OIko0mMAAAAJ:M3ejUd6NZC8C",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=4878610169206415461",
+    "cites_id": [
+        "4878610169206415461"
+    ],
+    "pub_url": "http://hal.cirad.fr/cirad-02139055/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZSAo1RlOtEMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1
+    }
+}

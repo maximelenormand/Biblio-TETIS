@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial validation of land use change models using multiple assessment techniques: A case study of transition potential models",
+        "pub_year": 2017,
+        "citation": "Environmental Modeling & Assessment 22, 591-606, 2017",
+        "author": "Rahim Aguejdad and Thomas Houet and Laurence Hubert-Moy",
+        "journal": "Environmental Modeling & Assessment",
+        "volume": "22",
+        "pages": "591-606",
+        "publisher": "Springer International Publishing",
+        "abstract": "Using land use and cover change (LUCC) models for the urban growth planning, environmental assessment, and decision-making needs the establishment of an appropriate level of confidence in their performance. The objective of this research is to explore the importance of using multiple assessment techniques in order to fairly evaluate the performance of land use models. An application is conducted by using the Land Change Modeler for Ecological Sustainability (LCM) which is an empirical and transition potential model. LCM is applied to model the agricultural to developed areas transition in Rennes metropolitan area (France). The land demand is estimated using the Markov Chain model; whereas, the transition potential map is implemented using the Multi-Layer Perceptron Neural Network (MLP) method based on historical changes and driving variables. The model performance is assessed based \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "xO572bUAAAAJ:QIV2ME_5wuYC",
+    "num_citations": 26,
+    "citedby_url": "/scholar?hl=en&cites=3295400547342029774",
+    "cites_id": [
+        "3295400547342029774"
+    ],
+    "pub_url": "https://link.springer.com/article/10.1007/s10666-017-9564-4",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zhPziFaduy0J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 4,
+        "2020": 5,
+        "2021": 5,
+        "2022": 4,
+        "2023": 5
+    }
+}

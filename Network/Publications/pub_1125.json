@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation mapping using products derived from Sentinel-1 and Sentinel-2 time series over a Mediterranean semi-arid region.",
+        "pub_year": 2019,
+        "citation": "Geophysical Research Abstracts 21, 2019",
+        "author": "Safa Bousbih and Mehrez Zribi and Zohra Lili-Chabaane and Nicolas Baghdadi and Qi Gao",
+        "journal": "Geophysical Research Abstracts",
+        "volume": "21",
+        "abstract": "In order to ensure food security, semi-arid Mediterranean regions are largely dependent on irrigated agriculture. Irrigated agriculture in such areas can be highly productive and can also provide congenial living conditions. Because of the high contribution of irrigation, monitoring of it actual state is the major issue in these regions and knowing the spatial distribution and year-to-year variability in irrigated areas could be imperative for water resources management. With the arrival of Sentinel-1 and Sentinel-2 satellite, operational approaches are developed for monitoring surface states at the field scale with high spatial and temporal resolution. This present paper develops a methodology based on high spatial resolution remote sensing data for irrigation mapping. The inputs of the approach are the Normalized Difference Vegetation Index (NDVI) derived from Sentinel-2 data every 10 days, and soil moisture time series \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:1Ye0OR6EYb4C",
+    "num_citations": 0,
+    "pub_url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10297006&AN=140488116&h=hE413qL26D8Q%2FN2PcUWni7Xx80JuvZv4Jtp0ay%2FYqycWNaKpTVrMsqw7C%2F2B8SBFDccB28o1EFRqVJVdliGHlg%3D%3D&crl=c",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:TioPOmOcQxwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

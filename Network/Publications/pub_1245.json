@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The challenge of reconciling conservation and development in the tropics: Lessons from Brazil\u2019s oil palm governance model",
+        "pub_year": 2021,
+        "citation": "World Development 139, 105268, 2021",
+        "author": "Frederico Brand\u00e3o and George Schoneveld and Pablo Pacheco and Ima Vieira and Marc Piraux and Dalva Mota",
+        "journal": "World Development",
+        "volume": "139",
+        "pages": "105268",
+        "publisher": "Pergamon",
+        "abstract": "Due to its controversies, oil palm cultivation has been targeted by regulatory innovations. Among these, transnational efforts\u2014such as the Roundtable on Sustainable Palm Oil (RSPO) and corporate commitments to zero deforestation have been highly influential but often tend to overvalue environmental over socio-economic outcomes. This article discusses to what extent domestic governance models of palm oil producing countries can be better equipped to reconcile domestic demands such as economic development and poverty alleviation, and transnational concerns about forest conservation. We do so by looking into the Brazilian case, where the government intended to drive oil palm expansion in the Amazon through a program launched in 2010 that simultaneously only allowed expansion into already deforested areas and offered companies incentives to engage smallholder farmers in their supply chains \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "zyyKR-cAAAAJ:YohjEiUPhakC",
+    "num_citations": 23,
+    "citedby_url": "/scholar?hl=en&cites=2573308466112578464",
+    "cites_id": [
+        "2573308466112578464"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0305750X20303958",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oEMlfGo6tiMJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 5,
+        "2022": 9,
+        "2023": 8,
+        "2024": 1
+    }
+}

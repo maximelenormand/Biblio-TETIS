@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Quality assessment of acquired gedi waveforms: Case study over france, tunisia and french guiana",
+        "pub_year": 2021,
+        "citation": "Remote Sensing 13 (16), 3144, 2021",
+        "author": "Ibrahim Fayad and Nicolas Baghdadi and J\u00e9r\u00f4me Riedi",
+        "journal": "Remote Sensing",
+        "volume": "13",
+        "number": "16",
+        "pages": "3144",
+        "publisher": "MDPI",
+        "abstract": "The Global Ecosystem Dynamics Investigation (GEDI) full-waveform (FW) LiDAR instrument on board the International Space Station (ISS) has acquired in its first 18 months of operation more than 25 billion shots globally, presenting a unique opportunity for the analysis of LiDAR data across multiple domains (e.g., forestry, hydrology). Nonetheless, not all acquired GEDI shots provide exploitable waveforms due to instrumental (e.g., transmitted energy, viewing angle) and atmospheric conditions (e.g., clouds, aerosols). In this study, we analyzed the quality of all available GEDI acquisitions over France, Tunisia, and French Guiana, in order to determine the extent of the impact of instrumental and climatic factors on the viability of these acquisitions. Results showed that with favorable acquisition conditions (i.e., cloud-free acquisitions), the factor with the highest impact on the viability of GEDI data is the acquisition time, as acquisitions around noon were the least viable due to higher solar noise. In addition to acquisition time, the viewing angle, the transmitted energy, and the aerosol optical depth all affected, to a lesser extent, the viability of GEDI data. Nonetheless, the percentage of exploitable cloud-free GEDI acquisitions ranged from 75 to 91% of all total acquisitions, depending on the acquisition site. The analysis of the quality of GEDI shots acquired in the presence of clouds showed that clouds have a greater impact on their exploitability, with sometimes as much as 69% of acquired data being unusable. For cloudy acquisitions, the two factors that mostly affect the LiDAR signal are the cloud optical depth (or cloud opacity) and cloud water content \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:QVtou7C4vgoC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=8812850179748138645",
+    "cites_id": [
+        "8812850179748138645"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/13/16/3144",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lQ6gxouITXoJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 4,
+        "2023": 4,
+        "2024": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sphere Refinement in Gap Safe Screening",
+        "pub_year": 2023,
+        "citation": "IEEE Signal Processing Letters, 2023",
+        "author": "Cassio F Dantas and Emmanuel Soubies and C\u00e9dric F\u00e9votte",
+        "journal": "IEEE Signal Processing Letters",
+        "publisher": "IEEE",
+        "abstract": "The Gap safe screening technique is a powerful tool to accelerate the convergence of sparse optimization solvers. Its performance is largely based on the ability to determine the smallest \u201csphere\u201d, centered at a given feasible dual point, that contains the dual solution. This can be achieved through an inner sphere refinement loop, applied at each screening step. In this work, we show that this refinement loop actually converges to the solution of a fixed-point equation for which we derive a closed-form expression for two common loss functions. This allows us to develop an analytic (i.e., non iterative), more concise and theoretically-grounded variant of the sphere refinement step."
+    },
+    "filled": true,
+    "author_pub_id": "YgcZQpgAAAAJ:_kc_bZDykSQC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=1136852513369404987",
+    "cites_id": [
+        "1136852513369404987"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/10129010/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:O7ZkbVbpxg8J:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 1
+    }
+}

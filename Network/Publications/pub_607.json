@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-camera system calibration of a low-cost remotely operated vehicle for underwater cave exploration",
+        "pub_year": 2018,
+        "citation": "International Archives of the Photogrammetry, Remote Sensing and Spatial \u2026, 2018",
+        "author": "Erica Nocerino and Mohamad M Nawaf and Mauro Saccone and Mohamed B Ellefi and J\u00e9r\u00f4me Pasquet and Jean-Philip Royer and Pierre Drap",
+        "journal": "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "volume": "42",
+        "number": "1",
+        "pages": "329-337",
+        "publisher": "International Society for Photogrammetry and Remote Sensing (ISPRS)",
+        "abstract": "Exploration, documentation and mapping of underwater environment is one of the biggest open challenges for science and engineering. Humankind is not naturally designed to operate in water and, despite the enormous technological advancement that offers nowadays unprecedented opportunities, diving and working underwater is still very dangerous, especially in confined spaces such as underwater caves. Great research efforts are currently devoted to underwater autonomous navigation, but available solutions still mainly rely on complex and expensive systems, due to the difficulty of adapting localization and mapping sensors and algorithms suited for terrestrial or aerial applications. However, small and affordable underwater remotely operated vehicles (ROVs) are available, which offer good opportunities for underwater exploration and mapping. This paper focuses on the development of a small, low-cost ROV designed for 3D mapping of underwater environments, like caves. The system is based on a commercially available vehicle, the BluRov2, and relies on the use of up to 12 action cameras (GoPro) mounted on it. A trifocal camera system for underwater real-time visual odometry can also be included. The work describes the photogrammetric procedure developed for the synchronization and calibration of the GoPro cameras and provides a thorough analysis on the achievable results."
+    },
+    "filled": true,
+    "author_pub_id": "CcxRcBcAAAAJ:LkGwnXOMwfcC",
+    "num_citations": 12,
+    "citedby_url": "/scholar?hl=en&cites=6293989115249202924",
+    "cites_id": [
+        "6293989115249202924"
+    ],
+    "pub_url": "https://www.research-collection.ethz.ch/handle/20.500.11850/304138",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7Jaa2sC9WFcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 3,
+        "2021": 1,
+        "2022": 3,
+        "2023": 2,
+        "2024": 2
+    }
+}

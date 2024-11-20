@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining LiDAR metrics and sentinel-2 imagery to estimate basal area and wood volume in complex forest environment via neural networks",
+        "pub_year": 2022,
+        "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2022",
+        "author": "Kamel Lahssini and Florian Teste and Karun Reuel Dayal and Sylvie Durrieu and Dino Ienco and Jean-Matthieu Monnet",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "volume": "15",
+        "pages": "4337-4348",
+        "publisher": "IEEE",
+        "abstract": "Forest ecosystems play a fundamental role in natural balances and climate mechanisms through their contribution to global carbon storage. Their sustainable management and conservation is crucial in the current context of global warming and biodiversity conservation. To tackle such challenges, earth observation data have been identified as a valuable source of information. While earth observation data constitute an unprecedented opportunity to monitor forest ecosystems, its effective exploitation still poses serious challenges since multimodal information needs to be combined to describe complex natural phenomena. To deal with this particular issue in the context of structure and biophysical variables estimation for forest characterization, we propose a new deep learning-based fusion strategy to combine together high density three-dimensional (3-D) point clouds acquired by airborne laser scanning with high \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ike4tikAAAAJ:dQ2og3OwTAUC",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=10355385146809275361",
+    "cites_id": [
+        "10355385146809275361"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9779099/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4VPsA-23tY8J:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 5
+    }
+}

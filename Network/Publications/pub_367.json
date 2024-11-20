@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation of the Above Ground Biomass of Tropical Forests using Polarimetric and Tomographic SAR Data Acquired at P Band and 3-D Imaging Techniques",
+        "pub_year": 2016,
+        "citation": "AGU Fall Meeting Abstracts 2016, GC41D-1118, 2016",
+        "author": "Laurent Ferro-Famil and B El Hajj Chehade and D Ho Tong Minh and Stefano Tebaldini and T LE Toan",
+        "journal": "AGU Fall Meeting Abstracts",
+        "volume": "2016",
+        "pages": "GC41D-1118",
+        "abstract": "Developing and improving methods to monitor forest biomass in space and time is a timely challenge, especially for tropical forests, for which SAR imaging at larger wavelength presents an interesting potential. Nevertheless, directly estimating tropical forest biomass from classical 2-D SAR images may reveal a very complex and ill-conditioned problem, since a SAR echo is composed of numerous contributions, whose features and importance depend on many geophysical parameters, such has ground humidity, roughness, topography\u2026 that are not related to biomass. Recent studies showed that SAR modes of diversity, ie polarimetric intensity ratios or interferometric phase centers, do not fully resolve this under-determined problem, whereas Pol-InSAR tree height estimates may be related to biomass through allometric relationships, with, in general over tropical forests, significant levels of uncertainty and lack of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "nInz-UwAAAAJ:R3hNpaxXUhUC",
+    "num_citations": 0,
+    "pub_url": "https://ui.adsabs.harvard.edu/abs/2016AGUFMGC41D1118F/abstract",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-kSAxUqokGcJ:scholar.google.com/",
+    "cites_per_year": {}
+}

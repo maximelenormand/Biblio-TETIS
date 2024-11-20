@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-annual Satellite Image Time Series Analysis using an Object-Oriented Approach",
+        "pub_year": 2018,
+        "citation": "GEOBIA 2018-From pixels to ecosystems and global sustainability\u200b, 2018",
+        "author": "Lynda Khiali and Dino Ienco and Maguelonne Teisseire and Samuel Alleaume and Mamadou Ndiath",
+        "conference": "GEOBIA 2018-From pixels to ecosystems and global sustainability\u200b",
+        "abstract": "Nowadays, satellite images are widely exploited in many fields including agriculture, cartography, regional planning, etc. The various advancement in satellite technologies have made satellite images abundantly available. In addition to the specificity and complexity of remote sensing data (spatial and temporal dimensions), the huge amount of this data makes its analysis challenging. Hence, data mining approaches are more adapted to satellite image analysis. In this article, we propose an unsupervised method that combines an object-oriented analysis with a clustering approach to characterize the evolutions in satellite image time series. Our objective is to track the evolutions of land use from satellite image time series. Our framework takes as input raw satellite image time series and their segmentation to highlight spatio-temporal entities that evolve similarly. The method first analyses the segments to detect reference objects among them. The reference objects are meaningful structures of the landscape we want to track. Once they are selected, their evolution over time is then described using a graph-based representation. The spatial extent of the reference object is used to describe its evolution over time. For each reference object, we select the image segments it overlaps and use them to create a graph, named evolution graph. The idea is to represent the state of the reference object on each image in the time series. Finally, the resulting evolution graphs are transformed to synopsis before clustering. The synopsis aims to synthesize the radiometric information contained in the evolution graphs. While the clustering algorithm organizes them in \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "MiYK27AAAAAJ:Wp0gIr-vW9MC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-01958952/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sACgdgG9UHAJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Explorer l\u2019impact environnemental des transformations agraires en Asie du Sud-Est gr\u00e2ce \u00e0 l\u2019\u00e9valuation participative des services \u00e9cosyst\u00e9miques",
+        "pub_year": 2021,
+        "citation": "Cahiers Agricultures 30, 3, 2021",
+        "author": "Jean-Christophe Castella and Guillaume Lestrelin",
+        "journal": "Cahiers Agricultures",
+        "volume": "30",
+        "pages": "3",
+        "publisher": "EDP Sciences",
+        "abstract": "Diff\u00e9rents m\u00e9canismes d\u2019intervention sont propos\u00e9s pour transformer les paysages agricoles de mani\u00e8re \u00e0 ce qu\u2019ils remplissent de multiples fonctions, compatibles avec les objectifs du d\u00e9veloppement durable. Dans le cas de l\u2019att\u00e9nuation et de l\u2019adaptation au changement climatique, des politiques incitatives et des m\u00e9canismes de r\u00e9mun\u00e9ration des acteurs locaux sont promues dans le cadre des initiatives REDD+. Sur le terrain, ces interventions visent \u00e0 assurer simultan\u00e9ment la fourniture de services \u00e9cosyst\u00e9miques et le maintien, voire l\u2019am\u00e9lioration, des moyens d\u2019existence locaux. Dans cet article, nous explorons le r\u00f4le que peut jouer l\u2019\u00e9valuation participative dans la mise en \u0153uvre de paiements pour services environnementaux au sein de communaut\u00e9s rurales d\u2019Indon\u00e9sie, du Laos, du Vietnam et de Chine. Engag\u00e9es dans un processus d\u2019int\u00e9gration rapide \u00e0 l\u2019\u00e9conomie de march\u00e9, ces communaut\u00e9s ont \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:K3LRdlH-MEoC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=16290433977114142881,1791923080827793992",
+    "cites_id": [
+        "16290433977114142881",
+        "1791923080827793992"
+    ],
+    "pub_url": "https://www.edp-open.org/articles/cagri/pdf/2021/01/cagri200088.pdf",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oajXSmQ_E-IJ:scholar.google.com/",
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    }
+}

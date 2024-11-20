@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Exploring the potential of PROCOSINE and close-range hyperspectral imaging to study the effects of fungal diseases on leaf physiology",
+        "pub_year": 2018,
+        "citation": "Scientific Reports 8 (1), 15933, 2018",
+        "author": "Julien Morel and Sylvain Jay and Jean-Baptiste F\u00e9ret and Adel Bakache and Ryad Bendoula and Francoise Carreel and Nathalie Gorretta",
+        "journal": "Scientific Reports",
+        "volume": "8",
+        "number": "1",
+        "pages": "15933",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "The detection of plant diseases, including fungi, is a major challenge for reducing yield gaps of crops across the world. We explored the potential of the PROCOSINE radiative transfer model to assess the effect of the fungus Pseudocercospora fijiensis on leaf tissues using laboratory-acquired submillimetre-scale hyperspectral images in the visible and near-infrared spectral range. The objectives were (i) to assess the dynamics of leaf biochemical and biophysical parameters estimated using PROCOSINE inversion as a function of the disease stages, and (ii) to discriminate the disease stages by using a Linear Discriminant Analysis model built from the inversion results. The inversion results show that most of the parameter dynamics are consistent with expectations: for example, the chlorophyll content progressively decreased as the disease spreads, and the brown pigments content increased. An overall accuracy of \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "LVmWs2Ay7ukC:NaGl4SEjCO4C",
+    "num_citations": 28,
+    "citedby_url": "/scholar?hl=en&cites=11622568011395432948",
+    "cites_id": [
+        "11622568011395432948"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-018-34429-0",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9AELAQeoS6EJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 5,
+        "2021": 8,
+        "2022": 7,
+        "2023": 7
+    }
+}

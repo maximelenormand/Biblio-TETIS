@@ -1,0 +1,19 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comment estimer l'humidit\u00e9 des sols \u00e0 partir des images Sentinel (s)?",
+        "pub_year": 2018,
+        "citation": "Sentinel, quelles opportunit\u00e9s pour l'agriculture?, 15, 2018",
+        "author": "N Baghdadi and M El Hajj and H Bazzi and Mehrez Zribi",
+        "conference": "Sentinel, quelles opportunit\u00e9s pour l'agriculture?",
+        "pages": "15",
+        "abstract": "Cette communication pr\u00e9sentait une m\u00e9thode op\u00e9rationnelle pour l'estimation de l'humidit\u00e9 des sols en milieux agricoles \u00e0 partir d'images Sentinel-1 et Sentinel-2."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:PkcyUWeTMh0C",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02607412/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5l49mro-MywJ:scholar.google.com/",
+    "cites_per_year": {}
+}

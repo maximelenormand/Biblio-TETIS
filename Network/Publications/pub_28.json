@@ -1,0 +1,21 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A multi-year land use trajectory strategy for non-active agricultural land mapping in sub-humid West Africa",
+        "pub_year": 2023,
+        "citation": "International Journal of Applied Earth Observation and Geoinformation 122 \u2026, 2023",
+        "author": "Enzo Castro Alvarado and Agn\u00e8s B\u00e9gu\u00e9 and Louise Leroux and Raffaele Gaetano",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "122",
+        "pages": "103398",
+        "publisher": "Elsevier",
+        "abstract": "Non-active agricultural land (NAAL) mapping in West Africa is essential to accurately assess agricultural systems and its contribution to food security and agro-ecological sustainability of current practices, and yet the available mapping methodologies are not adapted to the environmental and cropping conditions encountered when addressing tropical smallholder agriculture. In this study we present a strategy that makes use of Sentinel-2 image time series, CHIRPS monthly rainfall data and multiple years of in-situ data obtained from the JECAM database to map NAAL in a Soudanian site in Burkina Faso (Koumbia) between the years 2016 and 2021. In a first step we generated annual land use maps in four broad classes (managed, unmanaged, evergreen and non-vegetated) to detect fields being actively cultivated in a given year, and in a second step, we used these annual land use maps to differentiate non \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d-I1U1gAAAAJ:fPk4N6BV_jEC",
+    "num_citations": 0,
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1569843223002224",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2j1V9PJ0AccJ:scholar.google.com/",
+    "cites_per_year": {}
+}

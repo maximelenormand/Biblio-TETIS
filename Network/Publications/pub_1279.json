@@ -1,0 +1,30 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Environmental evaluation of MODIS-derived land units",
+        "pub_year": 2017,
+        "citation": "GIScience & Remote Sensing 54 (1), 64-77, 2017",
+        "author": "Mar Bisquert and Agn\u00e8s B\u00e9gu\u00e9 and Michel Deshayes and Danielle Ducrot",
+        "journal": "GIScience & Remote Sensing",
+        "volume": "54",
+        "number": "1",
+        "pages": "64-77",
+        "publisher": "Taylor & Francis",
+        "abstract": "A land stratification of the French territory had been previously performed based on time series of vegetation and texture indices. This stratification led to 300 radiometrically homogenous regions that were considered as land units (LUs). In this paper, we present a quantitative analysis of the LUs, with the aim of testing if these LUs are linked to landscape. In this sense, an evaluation of their thematic meaning in terms of environmental variables and land cover was performed. In order to achieve this, we first conducted a statistical analysis at national scale using a set of environmental variables and land cover by means of Moran\u2019s autocorrelation index and Spearman rank correlation index. Second, to analyze the quality of the boundaries between neighboring LUs, we developed a method based on the Spearman rank correlation index calculated on test areas across the boundaries. The first analyses showed that the \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "ecx11oYAAAAJ:HbR8gkJAVGIC",
+    "num_citations": 4,
+    "citedby_url": "/scholar?hl=en&cites=1800553453625601156",
+    "cites_id": [
+        "1800553453625601156"
+    ],
+    "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/15481603.2016.1256861",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hOx0itPZ_BgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 1,
+        "2019": 2
+    }
+}

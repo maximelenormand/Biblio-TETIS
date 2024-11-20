@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Stakeholder expectations of future policy implementation compared to formal policy trajectories: Scenarios for agricultural food systems in the Mekong Delta",
+        "pub_year": 2021,
+        "citation": "Sustainability 13 (10), 5534, 2021",
+        "author": "Craig W Hutton and Oliver Hensengerth and Tristan Berchoux and Van PD Tri and Thi Tong and Nghia Hung and Hal Voepel and Stephen E Darby and Duong Bui and Thi N Bui and Nguyen Huy and Daniel Parsons",
+        "journal": "Sustainability",
+        "volume": "13",
+        "number": "10",
+        "pages": "5534",
+        "publisher": "MDPI",
+        "abstract": "The development of a coherent and coordinated policy for the management of large socio-agricultural systems, such as the Mekong delta in southern Vietnam, is reliant on aligning the development, delivery, and implementation of policy on national to local scales. Effective decision making is linked to a coherent, broadly-shared vision of the strategic management of socio-agricultural systems. However, when policies are ambiguous, and at worst contradictory, long-term management and planning can consequently suffer. These potential adverse impacts may be compounded if stakeholders have divergent visions of the current and future states of socio-agricultural systems. Herein we used a transferable, scenario-based methodology which uses a standard quadrant matrix in order to explore both anticipated and idealized future states. Our case study was the Mekong delta. The scenario matrix was based upon two key strategic choices (axis) for the delta, derived from analysis of policy documents, literature, stakeholder engagement, and land use models. These are: (i) who will run agriculture in the future, agri-business or the established commune system; and (ii) to what degree sustainability will be incorporated into production. During a workshop meeting, stakeholders identified that agri-business will dominate future agricultural production in the delta but showed a clear concern that sustainability might consequently be undermined despite policy claims of the contrary. As such, our study highlights an important gap between national expectations and regional perspectives. Our results suggest that the new development plans for the Mekong \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "shdhPjcAAAAJ:Y0pCki6q_DkC",
+    "num_citations": 11,
+    "citedby_url": "/scholar?hl=en&cites=11839565781545625509,14196763399932168590",
+    "cites_id": [
+        "11839565781545625509",
+        "14196763399932168590"
+    ],
+    "pub_url": "https://www.mdpi.com/2071-1050/13/10/5534",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:paflf1mWTqQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 1,
+        "2023": 7
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of frozen soil using Sentinel-1 SAR data",
+        "pub_year": 2018,
+        "citation": "Remote Sensing 10 (8), 1182, 2018",
+        "author": "Nicolas Baghdadi and Hassan Bazzi and Mohammad El Hajj and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "10",
+        "number": "8",
+        "pages": "1182",
+        "publisher": "MDPI",
+        "abstract": "The objective of this paper is to evaluate the potential of Sentinel-1 Synthetic Aperture Radar \u201cSAR\u201d data (C-band) for monitoring agricultural frozen soils. First, investigations were conducted from simulated radar signal data using a SAR backscattering model combined with a dielectric mixing model. Then, Sentinel-1 images acquired at a study site near Paris, France were analyzed using temperature data to investigate the potential of the new Sentinel-1 SAR sensor for frozen soil mapping. The results show that the SAR backscattering coefficient decreases when the soil temperature drops below 0 \u00b0C. This decrease in signal is the most important for temperatures that ranges between 0 and \u22125 \u00b0C. A difference of at least 2 dB is observed between unfrozen soils and frozen soils. This difference increases under freezing condition when the temperature at the image acquisition date decreases. In addition, results show that the potential of the C-band radar signal for the discrimination of frozen soils slightly decreases when the soil moisture decreases (simulated data were used with soil moisture contents of 20 and 30 vol%). The difference between the backscattering coefficient of unfrozen soil and the backscattering coefficient of frozen soil decreases by approximately 1 dB when the soil moisture decreases from 30 to 20 vol%). Finally, the results show that both VV and VH allow a good detection of frozen soils but the sensitivity of VH is higher by approximately 1.5 dB. In conclusion, this study shows that the difference between a reference image acquired without freezing and an image acquired under freezing conditions is a good tool for detecting \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:u-coK7KVo8oC",
+    "num_citations": 32,
+    "citedby_url": "/scholar?hl=en&cites=7665987319801702440",
+    "cites_id": [
+        "7665987319801702440"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/10/8/1182",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KOht6dkOY2oJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 9,
+        "2020": 6,
+        "2021": 4,
+        "2022": 6,
+        "2023": 6,
+        "2024": 1
+    }
+}

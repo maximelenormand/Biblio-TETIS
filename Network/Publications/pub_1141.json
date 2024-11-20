@@ -1,0 +1,31 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessment of congruence between co-occurrence and functional networks: A new framework for revealing community assembly rules",
+        "pub_year": 2019,
+        "citation": "Scientific Reports 9 (1), 19996, 2019",
+        "author": "Ga\u00eblle Legras and Nicolas Loiseau and Jean-Claude Gaertner and Jean-Christophe Poggiale and Dino Ienco and Nabila Mazouni and Bastien M\u00e9rigot",
+        "journal": "Scientific Reports",
+        "volume": "9",
+        "number": "1",
+        "pages": "19996",
+        "publisher": "Nature Publishing Group UK",
+        "abstract": "Describing how communities change over space and time is crucial to better understand and predict the functioning of ecosystems. We propose a new methodological framework, based on network theory and modularity concept, to determine which type of mechanisms (i.e. deterministic versus stochastic processes) has the strongest influence on structuring communities. This framework is based on the computation and comparison of two networks: the co-occurrence (based on species abundances) and the functional networks (based on the species traits values). In this way we can assess whether the species belonging to a given functional group also belong to the same co-occurrence group. We adapted the Dg index of Gauzens et al. (2015) to analyze congruence between both networks. This offers the opportunity to identify which assembly rule(s) play(s) the major role in structuring the community. We illustrate \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:DquSII9TDu4C",
+    "num_citations": 8,
+    "citedby_url": "/scholar?hl=en&cites=6305546990703705452",
+    "cites_id": [
+        "6305546990703705452"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-019-56515-7",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bH1tb5TNgVcJ:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 2,
+        "2022": 2,
+        "2023": 1
+    }
+}

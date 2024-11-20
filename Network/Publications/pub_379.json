@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison between The\u00efa and Copernicus surface soil moisture products over southern France",
+        "pub_year": 2020,
+        "citation": "IEEE Geoscience and Remote Sensing Society (M2GARSS 2020), 2020",
+        "author": "Nicolas Baghdadi and Hassan Bazzi and Mohammad El Hajj and Mehrez Zribi",
+        "conference": "IEEE Geoscience and Remote Sensing Society (M2GARSS 2020)",
+        "abstract": "A comparison between the Sentinel-1/Sentinel-2-derived Soil Moisture Product at plot scale (S 2 MP) and the new Copernicus Surface Soil Moisture \"C-SSM\" product at 1-km scale over a wide region in southern France was carried out. Both products show generally good agreement with in situ measurements. The results show that using in situ measurements collected over agricultural areas and grasslands, the accuracy of the C-SSM is good (RMSD = 6.0 vol.%, ubRMSD = 6.0 vol.% and R=0.48) but less accurate than the S 2 MP (RMSD = 4.0 vol.%, ubRMSD = 3.9 vol.% and R=0.77). The intercomparison between the two SSM products shows that both products are highly correlated over areas mainly used for cereals (R value between 0.5 and 0.9 and RMSE between 4 vol.% and 6 vol.%). Over areas containing forests and vineyards, the C-SSM values tend to overestimate the S 2 MP values (beyond 5 vol.%). In the case of well-developed vegetation cover the S 2 MP doesn't provide SSM estimations while C-SSM sometimes provides underestimated SSM values."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:qE4H1tSSYIIC",
+    "num_citations": 0,
+    "pub_url": "https://hal.science/hal-02631897/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DGEbjL6x_xkJ:scholar.google.com/",
+    "cites_per_year": {}
+}

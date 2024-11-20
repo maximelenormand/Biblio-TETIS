@@ -1,0 +1,25 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping urban impervious surfaces from an airborne hyperspectral imagery using the object-oriented classification approach",
+        "pub_year": 2017,
+        "citation": "International Conference on Advances in Sustainable Construction Materials \u2026, 2017",
+        "author": "Rahim Aguejdad and Aziz Serradj and Christiane Weber",
+        "conference": "International Conference on Advances in Sustainable Construction Materials & Civil Engineering Systems (ASCMCES-17)",
+        "volume": "120",
+        "abstract": "The objective of this research is to explore the capabilities of the hyperspectral imagery in mapping the urban impervious objects and identifying the surface materials using an object-oriented approach. The application is conducted to Toulouse city (France) within the HYEP research project in charge of using hyperspectral imagery for the environmental urban planning. The method uses the multi-resolution segmentation and classification algorithms. The first results highlight a high potential of the hyperspectral imagery in land cover mapping of the urban environment, especially the extraction of impervious surfaces. They, also, illustrate, that the object-oriented approach by means of the fuzzy logic classifier yields promising results in distinguishing the mean roofing materials based only on the spectral information. Conversely to the red clay tiles and metal roofs, which are easily identified, the concrete, gravel and asphalt roofs are still confused with roads."
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:HbR8gkJAVGIC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=7630277274299022081",
+    "cites_id": [
+        "7630277274299022081"
+    ],
+    "pub_url": "https://hal.science/hal-01854890/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ATtUCMEw5GkJ:scholar.google.com/",
+    "cites_per_year": {
+        "2019": 2
+    }
+}

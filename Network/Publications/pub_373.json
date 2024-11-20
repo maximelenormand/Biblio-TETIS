@@ -1,0 +1,34 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Property rights regimes and natural resources: a conceptual analysis revisited",
+        "pub_year": 2017,
+        "citation": "World Development 93, 337-349, 2017",
+        "author": "Thomas Sikor and JUN He and Guillaume Lestrelin",
+        "journal": "World Development",
+        "volume": "93",
+        "pages": "337-349",
+        "publisher": "Pergamon",
+        "abstract": "More than two decades ago, Schlager and Ostrom (1992) developed \u2018a conceptual schema for arraying property-rights regimes that distinguishes among diverse bundles of rights\u2019. The conceptual framework has profoundly influenced research on natural resource governance, common property, and community resource management. However, currently natural resource governance has changed dramatically, challenging the applicability of the conceptual schema. There are now many more social actors involved in resource management than the local communities at the focus of original analysis. Additionally, resource management increasingly provides access to various kinds of benefits from outside the immediate context, including indirect benefits such as payments for environmental services and results-based payments for REDD+. These changes demand addition of new property rights to the original \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "w3EhJBcAAAAJ:HoB7MX3m0LUC",
+    "num_citations": 206,
+    "citedby_url": "/scholar?hl=en&cites=1167941403200985042",
+    "cites_id": [
+        "1167941403200985042"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0305750X16305800",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0hdEqIRcNRAJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 22,
+        "2019": 28,
+        "2020": 36,
+        "2021": 48,
+        "2022": 33,
+        "2023": 33,
+        "2024": 2
+    }
+}

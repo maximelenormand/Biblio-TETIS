@@ -1,0 +1,20 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Delurking",
+        "pub_year": 2018,
+        "citation": "Mining Lurkers in Online Social Networks: Principles, Models, and \u2026, 2018",
+        "author": "Andrea Tagarelli and Roberto Interdonato and Andrea Tagarelli and Roberto Interdonato",
+        "journal": "Mining Lurkers in Online Social Networks: Principles, Models, and Computational Methods",
+        "pages": "47-65",
+        "publisher": "Springer International Publishing",
+        "abstract": "Encouraging lurkers to more actively participate in the OSN life, a.k.a. delurking, is desirable in order to make lurkers\u2019 social capital available to other users. In this chapter, we discuss in detail the delurking problem and computational approaches to solve it. We first provide an overview of works focusing on user engagement methodologies to understand how users can be motivated to participate and contribute to the community living in a social environment. Then we concentrate on the presentation of algorithmic solutions to support the task of persuading lurkers to become active participants in their OSN."
+    },
+    "filled": true,
+    "author_pub_id": "GWACYGoAAAAJ:4TOpqqG69KYC",
+    "num_citations": 0,
+    "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-00229-9_6",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lxOycxZA38AJ:scholar.google.com/",
+    "cites_per_year": {}
+}

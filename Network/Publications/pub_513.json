@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture monitoring at kilometer scale: assimilation of sentinel-1 products in ISBA",
+        "pub_year": 2023,
+        "citation": "Remote Sensing 15 (17), 4329, 2023",
+        "author": "Oscar Rojas-Munoz and Jean-Christophe Calvet and Bertrand Bonan and Nicolas Baghdadi and Catherine Meurey and Adrien Napoly and Jean-Pierre Wigneron and Mehrez Zribi",
+        "journal": "Remote Sensing",
+        "volume": "15",
+        "number": "17",
+        "pages": "4329",
+        "publisher": "MDPI",
+        "abstract": "Observed by satellites for more than a decade, surface soil moisture (SSM) is an essential component of the Earth system. Today, with the Sentinel missions, SSM can be derived at a sub-kilometer spatial resolution. In this work, aggregated 1 km \u00d7 1 km SSM observations combining Sentinel-1 (S1) and Sentinel-2 (S2) data are assimilated for the first time into the Interactions between Soil, Biosphere, and Atmosphere (ISBA) land surface model using the global Land Data Assimilation System (LDAS-Monde) tool of Meteo-France. The ISBA simulations are driven by atmospheric variables from the Application of Research to Operations at Mesoscale (AROME) numerical weather prediction model for the period 2017\u20132019 for two regions in Southern France, Toulouse and Montpellier, and for the Salamanca region in Spain. The S1 SSM shows a good agreement with in situ SSM observations. The S1 SSM is assimilated either alone or together with leaf area index (LAI) observations from the PROBA-V satellite. The assimilation of S1 SSM alone has a small impact on the simulated root zone soil moisture. On the other hand, a marked impact of the assimilation is observed over agricultural areas when LAI is assimilated, and the impact is larger when S1 SSM and LAI are assimilated together."
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Ej9njvOgR2oC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=13007069415176935556",
+    "cites_id": [
+        "13007069415176935556"
+    ],
+    "pub_url": "https://www.mdpi.com/2072-4292/15/17/4329",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hBh4_LdkgrQJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}

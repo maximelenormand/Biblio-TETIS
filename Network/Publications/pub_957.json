@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping livestock movements in Sahelian Africa",
+        "pub_year": 2020,
+        "citation": "Scientific Reports 10, 8339, 2020",
+        "author": "Camille Jahel and Maxime Lenormand and Ismaila Seck and Andrea Apolloni and Ibra Toure and Coumba Faye and Baba Sall and Mbargou Lo and C\u00e9cile Squarzoni Diaw and Renaud Lancelot and Caroline Coste",
+        "journal": "Scientific Reports",
+        "volume": "10",
+        "pages": "8339",
+        "abstract": "In the dominant livestock systems of Sahelian countries herds have to move across territories. Their mobility is often a source of conflict with farmers in the areas crossed, and helps spread diseases such as Rift Valley Fever. Knowledge of the routes followed by herds is therefore core to guiding the implementation of preventive and control measures for transboundary animal diseases, land use planning and conflict management. However, the lack of quantitative data on livestock movements, together with the high temporal and spatial variability of herd movements, has so far hampered the production of fine resolution maps of animal movements. This paper proposes a general framework for mapping potential paths for livestock movements and identifying areas of high animal passage potential for those movements. The method consists in combining the information contained in livestock mobility networks with \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "VSyM8fEAAAAJ:maZDTaKrznsC",
+    "num_citations": 18,
+    "citedby_url": "/scholar?hl=en&cites=18334080499249884338",
+    "cites_id": [
+        "18334080499249884338"
+    ],
+    "pub_url": "https://www.nature.com/articles/s41598-020-65132-8",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sqw0cRO9b_4J:scholar.google.com/",
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 6,
+        "2022": 5,
+        "2023": 6
+    }
+}

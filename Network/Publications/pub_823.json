@@ -1,0 +1,18 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Generation of urban objects spectral database using laboratory hyperspectral imager in Kaunas city (Lithuania)",
+        "pub_year": 2016,
+        "citation": "4\u00e8me colloque du Groupe Hyperspectral de la Soci\u00e9t\u00e9 Fran\u00e7aise de \u2026, 2016",
+        "author": "Walid Ouerghemmi and S\u00e9bastien Gadal and Gintautas Mozgeris and Vytaut\u0117 Juodkien\u0117 and Donatas Jonikavi\u010dius and Sergiy Zinko and Grzegorz Skupinski and Christiane Weber",
+        "conference": "4\u00e8me colloque du Groupe Hyperspectral de la Soci\u00e9t\u00e9 Fran\u00e7aise de Photogramm\u00e9trie et T\u00e9l\u00e9d\u00e9tection (SFPT-GH)",
+        "abstract": "Urban territories are composed by a large panel of geographic objects characterising the socio-economics uses, the urban structures, urban and architectural spaces, dynamics, evolutions and transformations of the cities. Mineral urban objects as the built-ups, blocks, houses, industrial zones, commercial centres, streets, roads, etc., or vegetal as gardens, parks, etc., are results of modes of lifestyles, societal conceptualisation or uses of the geographic space. Complexity, heterogeneity, and multiplicity of the geographic objects are the footprints of the models of territorialisation and urban management. The gradient of spectral and geometric mosaics detected by the hyperspectral sensors are measuring urban structures\u2019 and geographic objects organising the territories. Hyperspectral airborne imagers are proposing some promising monitoring systems for the characterisation of the cities. Spectral formalisation and systematisation of the urban objects detected are the necessary first step to develop tools for urban management. Cataloguing and generation of a spectral database over the city of Kaunas (Lithuania) is the first phase. The spectral database will be used to characterise precisely the urban objects, according to their spectral reflectance. Each urban object is defined by a number of typical spectra. The spectral Library generated, the Kaunas Urban Spectral Library (KUSL), was created in the framework of the ANR HYEP (HYperspectral imagery for Environnemental urban Planning) following two parts: an objects collection of Kaurna's city, and Laboratory hyperspectral measurements made at Aleksandras Stulginskis University. The KUSL \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "d7eGnUsAAAAJ:YohjEiUPhakC",
+    "num_citations": 0,
+    "pub_url": "https://amu.hal.science/hal-01819945/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qnuvsufQtxwJ:scholar.google.com/",
+    "cites_per_year": {}
+}

@@ -1,0 +1,32 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping and assessing ecosystem services in the EU-Lessons learned from the ESMERALDA approach of integration",
+        "pub_year": 2018,
+        "citation": "One Ecosystem 3, 2018",
+        "author": "Benjamin Burkhard and Joachim Maes and Marion B Potschin-Young and Fernando Santos-Mart\u00edn and Davide Geneletti and Pavel Stoev and Leena Kopperoinen and Cristian Mihai Adamescu and Blal Adem Esmail and Ildik\u00f3 Arany and Andy Arnell and Mario Balzan and David N Barton and Pieter Van Beukering and Sabine Bicking and Paulo Alexandre Vieira Borges and Bilyana Borisova and Leon Braat and Luke M Brander and Svetla Bratanova-Doncheva and Steven Broekx and Claire Brown and Constantin Cazacu and Neville Crossman and B\u00e1lint Cz\u00facz and Jan Dan\u0115k and Rudolf de Groot and Daniel Depellegrin and Panayotis Dimopoulos and Nora Elvinger and Markus Erhard and Nora Fagerholm and Jana Fr\u00e9lichov\u00e1 and Adrienne Gr\u00eat-Regamey and Margarita Grudova and Roy Haines-Young and Ola Inghe and Tamas Kristof Kallay and Tamara Kirin and Hermann Klug and Ioannis P Kokkoris and Iskra Konovska and Marion Kruse and Iliyana41 Kuzmova and Manfred Lange and Inge Liekens and Alon Lotan and Damian Roman \u0141owicki and Sandra Luque and Cristina Marta-Pedroso and Andrzej Jan Mizgajski and Laura Mononen and Sara Mulder and Felix M\u00fcller and Stoyan Nedkov and Mariana Nikolova and Hannah \u00d6sterg\u00e5rd and Lyubomir Penev and Paulo Pereira and Kati Pitk\u00e4nen and Tobias Plieninger and Sven-Erik Rabe and Steffen Reichel and Philip K Roche and Graciela Rusch and Anda Ruskule and Anna41 Sapundzhieva and Kalev Sepp and Ina Maren Sieber and Mateja \u0160mid Hribar and Simona Sta\u0161ov\u00e1 and Bastian Steinhoff-Knopp and Ma\u0142gorzata St\u0119pniewska and Anne Teller and David Vackar and Martine Van Weelden and Kristina Veidemane and Henrik Vejre and Petteri Vihervaara and Arto Viinikka and Miguel Villoslada and Bettina Weibel and Grazia Zulian",
+        "journal": "One Ecosystem",
+        "volume": "3",
+        "abstract": "The European Union (EU) Horizon 2020 Coordination and Support Action ESMERALDA aimed at developing guidance and a flexible methodology for Mapping and Assessment of Ecosystems and their Services (MAES) to support the EU member states in the implementation of the EU Biodiversity Strategy\u2019s Target 2 Action 5. ESMERALDA\u2019s key tasks included network creation, stakeholder engagement, enhancing ecosystem services mapping and assessment methods across various spatial scales and value domains, work in case studies and support of EU member states in MAES implementation. Thus ESMERALDA aimed at integrating various project outcomes around four major strands: i) Networking, ii) Policy, iii) Research and iv) Application. The objective was to provide guidance for integrated ecosystem service mapping and assessment that can be used for sustainable decision-making in policy, business, society, practice and science at EU, national and regional levels. This article presents the overall ESMERALDA approach of integrating the above-mentioned project components and outcomes and provides an overview of how the enhanced methods were applied and how they can be used to support MAES implementation in the EU member states. Experiences with implementing such a large pan-European Coordination and Support Action in the context of EU policy are discussed and recommendations for future actions are given."
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:Wqn_fehR_TUC",
+    "num_citations": 36,
+    "citedby_url": "/scholar?hl=en&cites=2271176835806269123,17648233426557212972",
+    "cites_id": [
+        "2271176835806269123",
+        "17648233426557212972"
+    ],
+    "pub_url": "https://researchportal.amu.edu.pl/info.seam?id=UAMbc5913141ccf40438baa8ba127a84ce3",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ww5UiEzXhB8J:scholar.google.com/",
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 8,
+        "2020": 6,
+        "2021": 10,
+        "2022": 5,
+        "2023": 4,
+        "2024": 2
+    }
+}

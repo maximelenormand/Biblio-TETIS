@@ -1,0 +1,28 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Drivers of diversity gradients of a highly mobile marine assemblage in a mesoscale seascape",
+        "pub_year": 2020,
+        "citation": "Marine Ecology Progress Series, 2020",
+        "author": "Guillermo Mart\u00edn Svendsen and Ocampo Reinaldo Mat\u00edas and Romero Maria Alejandra and Williams Gabriela Noem\u00ed and Anne Magurran and Sandra Luque and Raul Gonzales",
+        "journal": "Marine Ecology Progress Series",
+        "number": "https://doi.org/10.3354/meps13264",
+        "publisher": "John Wiley & Sons",
+        "abstract": "With the unprecedented rate of biodiversity change in the world today, understanding how diversity gradients are maintained at mesoscales is a key challenge. Drawing on information provided by 3 comprehensive fishery surveys (conducted in different years but in the same season and with the same sampling design), we used boosted regression tree (BRT) models in order to relate spatial patterns of \u03b1-diversity in a demersal fish assemblage to environmental variables in the San Matias Gulf (Patagonia, Argentina). We found that, over a 4 yr period, persistent diversity gradients of species richness and probability of an interspecific encounter (PIE) were shaped by 3 main environmental gradients: bottom depth, connectivity with the open ocean, and proximity to a thermal front. The 2 main patterns we observed were: a monotonic increase in PIE with proximity to fronts, which had a stronger effect at greater depths \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "GtJ4HDAAAAAJ:xckinRaLORAC",
+    "num_citations": 10,
+    "citedby_url": "/scholar?hl=en&cites=3961688266100600929",
+    "cites_id": [
+        "3961688266100600929"
+    ],
+    "pub_url": "https://www.int-res.com/abstracts/meps/v638/p149-164/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YXDC83y--jYJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 4,
+        "2023": 3
+    }
+}

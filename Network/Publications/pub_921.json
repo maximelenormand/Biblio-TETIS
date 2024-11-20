@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ALBOMAURICE: A predictive model for mapping Aedes albopictus mosquito populations in Mauritius",
+        "pub_year": 2021,
+        "citation": "SoftwareX 13, 100638, 2021",
+        "author": "Diana P Iyaloo and Pascal Degenne and Khouaildi Bin Elahee and Danny Lo Seen and Ambicadutt Bheecarry and Annelise Tran",
+        "journal": "SoftwareX",
+        "volume": "13",
+        "pages": "100638",
+        "publisher": "Elsevier",
+        "abstract": "The ALBOMAURICE software runs a mosquito population dynamics model to predict the temporal and spatial abundance of Aedes albopictus, the dengue disease vector in Mauritius. For each vector surveillance zone, it solves a system of ordinary differential equations describing different stages of the mosquito life cycle. ALBOMAURICE uses daily rainfall and temperature input data to produce abundance maps used operationally by health services for targeting areas where to apply vector surveillance and control measures. Model simulations were validated against entomological data acquired weekly during a year at nine locations. Different control options can also be simulated and their effects compared."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:FPJr55Dyh1AC",
+    "num_citations": 5,
+    "citedby_url": "/scholar?hl=en&cites=5645640573581409852",
+    "cites_id": [
+        "5645640573581409852"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352711020303514",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PD7alTBYWU4J:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 2,
+        "2023": 2
+    }
+}

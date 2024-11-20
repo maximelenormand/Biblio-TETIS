@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of irrigation dates and amounts on maize plots from the integration of Sentinel-2 derived Leaf Area Index values in the Optirrig crop model",
+        "pub_year": 2023,
+        "citation": "Agricultural Water Management 283, 108315, 2023",
+        "author": "Mohamad Hamze and Bruno Cheviron and Nicolas Baghdadi and Madiop Lo and Dominique Courault and Mehrez Zribi",
+        "journal": "Agricultural Water Management",
+        "volume": "283",
+        "pages": "108315",
+        "publisher": "Elsevier",
+        "abstract": "The increase in food production due to the expansion of agricultural lands has led to the intensive use of (mainly) fresh water for irrigation. A key challenge for irrigated agriculture has thus become to optimize the use of available water resources to fit environmental constraints while satisfying the increasing food demand, achieving efficient uses of irrigation water, ie well-thought sequences of irrigation dates and amounts. In coherence, we developed a methodology based on the automated acquisition of Leaf Area Index (LAI) values, derived from remote sensing data, confronted with predictions drawn from the Optirrig crop growth and irrigation model, to solve the inverse problem of detecting irrigation dates and amounts, at the plot scale and for maize crops grown in the Occitanie region, France. The method consisted of seeking possible irrigation events (dates, amounts) between two cloud-free Sentinel-2 (S2 \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:6ZzL7HXColQC",
+    "num_citations": 2,
+    "citedby_url": "/scholar?hl=en&cites=7732442887709004078",
+    "cites_id": [
+        "7732442887709004078"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0378377423001804",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LhHkj9YnT2sJ:scholar.google.com/",
+    "cites_per_year": {
+        "2023": 2
+    }
+}

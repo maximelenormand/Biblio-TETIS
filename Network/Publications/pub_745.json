@@ -1,0 +1,35 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Development and assessment of a geographic knowledge-based model for mapping suitable areas for Rift Valley fever transmission in Eastern Africa",
+        "pub_year": 2016,
+        "citation": "PLoS neglected tropical diseases 10 (9), e0004999, 2016",
+        "author": "Annelise Tran and Carl\u00e8ne Trevennec and Julius Lutwama and Joseph Sserugga and Marie Gely and Claudia Pittiglio and Julio Pinto and V\u00e9ronique Chevalier",
+        "journal": "PLoS neglected tropical diseases",
+        "volume": "10",
+        "number": "9",
+        "pages": "e0004999",
+        "publisher": "Public Library of Science",
+        "abstract": "Rift Valley fever (RVF), a mosquito-borne disease affecting ruminants and humans, is one of the most important viral zoonoses in Africa. The objective of the present study was to develop a geographic knowledge-based method to map the areas suitable for RVF amplification and RVF spread in four East African countries, namely, Kenya, Tanzania, Uganda and Ethiopia, and to assess the predictive accuracy of the model using livestock outbreak data from Kenya and Tanzania. Risk factors and their relative importance regarding RVF amplification and spread were identified from a literature review. A numerical weight was calculated for each risk factor using an analytical hierarchy process. The corresponding geographic data were collected, standardized and combined based on a weighted linear combination to produce maps of the suitability for RVF transmission. The accuracy of the resulting maps was assessed using RVF outbreak locations in livestock reported in Kenya and Tanzania between 1998 and 2012 and the ROC curve analysis. Our results confirmed the capacity of the geographic information system-based multi-criteria evaluation method to synthesize available scientific knowledge and to accurately map (AUC = 0.786; 95% CI [0.730\u20130.842]) the spatial heterogeneity of RVF suitability in East Africa. This approach provides users with a straightforward and easy update of the maps according to data availability or the further development of scientific knowledge."
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:O3NaXMp0MMsC",
+    "num_citations": 57,
+    "citedby_url": "/scholar?hl=en&cites=3671737197220463998",
+    "cites_id": [
+        "3671737197220463998"
+    ],
+    "pub_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004999",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fgXq9Iah9DIJ:scholar.google.com/",
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 7,
+        "2019": 10,
+        "2020": 6,
+        "2021": 17,
+        "2022": 8,
+        "2023": 3,
+        "2024": 1
+    }
+}

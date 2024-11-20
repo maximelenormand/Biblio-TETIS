@@ -1,0 +1,29 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatio-temporal modelling of Culicoides Latreille (Diptera: Ceratopogonidae) populations on Reunion Island (Indian Ocean)",
+        "pub_year": 2021,
+        "citation": "Parasites & Vectors 14 (1), 1-16, 2021",
+        "author": "Yannick Grimaud and Annelise Tran and Samuel Benkimoun and Floriane Boucher and Olivier Esnault and Catherine C\u00eatre-Sossah and Eric Cardinale and Claire Garros and H\u00e9l\u00e8ne Guis",
+        "journal": "Parasites & Vectors",
+        "volume": "14",
+        "number": "1",
+        "pages": "1-16",
+        "publisher": "BioMed Central",
+        "abstract": "Reunion Island regularly faces outbreaks of bluetongue and epizootic hemorrhagic diseases, two insect-borne orbiviral diseases of ruminants. Hematophagous midges of the genus Culicoides (Diptera: Ceratopogonidae) are the vectors of bluetongue (BTV) and epizootic hemorrhagic disease (EHDV) viruses. In a previous study, statistical models based on environmental and meteorological data were developed for the five Culicoides species present in the island to provide a better understanding of their ecology and predict their presence and abundance. The purpose of this study was to couple these statistical models with a Geographic Information System (GIS) to produce dynamic maps of the distribution of Culicoides throughout the island. Based on meteorological data from ground weather stations and satellite-derived environmental data, the abundance of each of the five Culicoides species was estimated for the 2214 husbandry locations on the island for the period ranging from February 2016 to June 2018. A large-scale Culicoides sampling campaign including 100 farms was carried out in March 2018 to validate the model. According to the model predictions, no husbandry location was free of Culicoides throughout the study period. The five Culicoides species were present on average in 57.0% of the husbandry locations for C. bolitinos Meiswinkel, 40.7% for C. enderleini Cornet & Brunhes, 26.5% for C. grahamii Austen, 87.1% for C. imicola Kieffer and 91.8% for C. kibatiensis Goetghebuer. The models also showed high seasonal variations in their distribution. During the validation process, predictions were acceptable for C. bolitinos, C \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "5TvOVpkAAAAJ:edDO8Oi4QzsC",
+    "num_citations": 3,
+    "citedby_url": "/scholar?hl=en&cites=18073842996563151083",
+    "cites_id": [
+        "18073842996563151083"
+    ],
+    "pub_url": "https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-021-04780-9",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6whUMHIw0_oJ:scholar.google.com/",
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 2
+    }
+}

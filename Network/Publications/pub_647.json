@@ -1,0 +1,38 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A semisupervised approach to the detection and characterization of outliers in categorical data",
+        "pub_year": 2016,
+        "citation": "IEEE transactions on neural networks and learning systems 28 (5), 1017-1029, 2016",
+        "author": "Dino Ienco and Ruggero G Pensa and Rosa Meo",
+        "journal": "IEEE transactions on neural networks and learning systems",
+        "volume": "28",
+        "number": "5",
+        "pages": "1017-1029",
+        "publisher": "IEEE",
+        "abstract": "In this paper, we introduce a new approach of semisupervised anomaly detection that deals with categorical data. Given a training set of instances (all belonging to the normal class), we analyze the relationship among features for the extraction of a discriminative characterization of the anomalous instances. Our key idea is to build a model that characterizes the features of the normal instances and then use a set of distance-based techniques for the discrimination between the normal and the anomalous instances. We compare our approach with the state-of-the-art methods for semisupervised anomaly detection. We empirically show that a specifically designed technique for the management of the categorical data outperforms the general-purpose approaches. We also show that, in contrast with other approaches that are opaque because their decision cannot be easily understood, our proposed approach produces \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "C8zfH3kAAAAJ:xGWFX6Gbr9MC",
+    "num_citations": 49,
+    "citedby_url": "/scholar?hl=en&cites=1795822637478922414,14407326038541030432,7154572883915610655",
+    "cites_id": [
+        "1795822637478922414",
+        "14407326038541030432",
+        "7154572883915610655"
+    ],
+    "pub_url": "https://ieeexplore.ieee.org/abstract/document/7412753/",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rkiJkiwL7BgJ:scholar.google.com/",
+    "cites_per_year": {
+        "2016": 4,
+        "2017": 4,
+        "2018": 5,
+        "2019": 6,
+        "2020": 9,
+        "2021": 8,
+        "2022": 8,
+        "2023": 3,
+        "2024": 1
+    }
+}

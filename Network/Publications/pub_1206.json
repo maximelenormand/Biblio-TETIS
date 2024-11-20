@@ -1,0 +1,27 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new global C-band vegetation optical depth product from ASCAT: Description, evaluation, and inter-comparison",
+        "pub_year": 2023,
+        "citation": "Remote Sensing of Environment 299, 113850, 2023",
+        "author": "Xiangzhuo Liu and Jean-Pierre Wigneron and Wolfgang Wagner and Fr\u00e9d\u00e9ric Frappart and Lei Fan and Mariette Vreugdenhil and Nicolas Baghdadi and Mehrez Zribi and Thomas Jagdhuber and Shengli Tao and Xiaojun Li and Huan Wang and Mengjia Wang and Xiaojing Bai and BG Mousa and Philippe Ciais",
+        "journal": "Remote Sensing of Environment",
+        "volume": "299",
+        "pages": "113850",
+        "publisher": "Elsevier",
+        "abstract": "Active microwave measurements have the potential to estimate vegetation optical depth (VOD), an indicator related to vegetation water content and biomass. The Advanced SCATterometer (ASCAT) provides long-term C-band backscatter data at vertical-vertical (VV) polarization from 2007. So far, very few studies have considered retrieving VOD from this active sensor. This study presents a new publicly released global long-term and continuous (2007\u20132020) C-band VOD dataset retrieved from the ASCAT observations, named the ASCAT INRAE-BORDEAUX or ASCAT IB VOD product. The retrieval algorithm is based on the Water Cloud Model (WCM) including the Ulaby bare soil model. The algorithm takes advantage of a multi-temporal (MT) retrieval method relying on a cost function where constraints to the retrieved parameters are implemented and a reanalysis soil moisture (SM) dataset from ERA5-Land is \u2026"
+    },
+    "filled": true,
+    "author_pub_id": "mNDUXp8AAAAJ:Kqc1aDSOPooC",
+    "num_citations": 1,
+    "citedby_url": "/scholar?hl=en&cites=2076863122552706923",
+    "cites_id": [
+        "2076863122552706923"
+    ],
+    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0034425723004017",
+    "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:a9fcmgGA0hwJ:scholar.google.com/",
+    "cites_per_year": {
+        "2024": 1
+    }
+}
