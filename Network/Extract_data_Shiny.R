@@ -2,7 +2,7 @@
 library(DescTools)
 
 # Working directory
-setwd("/home/maxime/mmmycloud/Research/Articles/InProgress/Biblio_TETIS")
+#setwd("")
 
 # Load data
 org_edges <- read.csv2("Network/edges.csv")

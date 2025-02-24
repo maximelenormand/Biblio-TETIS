@@ -47,7 +47,6 @@ function(){
 		     </p>
 		  </div>  
 
-
 		  <span style="color:#64645F;font-weight:bold;font-size:12pt;">Code & Données</span>
 		  <div style="max-width:1000px; word-wrap:break-word;">
 		     <p style="text-align:justify;">
@@ -61,6 +60,14 @@ function(){
 		        GPLv3
 		     </p>
 		  </div> 
+		  
+		  <hr>
+		
+		  <span style="font-size:12px;">Powered by <a href="https://sk8.inrae.fr" target="_blank">SK8</a> since 2021 - </span>
+      <a href="https://sk8.inrae.fr" target="_blank">
+          <img style="vertical-align:middle;height:25px;" src="SK8.png"/>
+      </a>
+		  
 		'),
            value = "about"
   )

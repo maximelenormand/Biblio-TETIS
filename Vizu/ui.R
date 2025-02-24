@@ -1,6 +1,5 @@
-library(shiny)
+# Import packages
 library(shinyWidgets)
-library(visNetwork)
 
 # Source text for the "About" panel
 tabPanelAbout <- source("About.R")$value
@@ -114,6 +113,12 @@ shinyUI(navbarPage(
         
       ),
       
+    ),
+    
+    # SK8 footer
+    div(
+      class="footer",
+      includeHTML("footer.html")
     )
   ),
 
@@ -183,7 +188,12 @@ shinyUI(navbarPage(
      
       ),
       
-      
+    ),
+    
+    # SK8 footer
+    div(
+      class="footer",
+      includeHTML("footer.html")
     )
   ),
   

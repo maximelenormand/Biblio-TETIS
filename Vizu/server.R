@@ -1,6 +1,4 @@
-# Packages
-library(shiny)
-library(visNetwork)
+# Import packages
 library(RColorBrewer)
 
 # Load data
