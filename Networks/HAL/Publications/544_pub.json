@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Graph convolutional and attention models for entity classification in multilayer networks",
+        "pub_year": 2021,
+        "author": "L. ZANGARI and R. INTERDONATO and A. CALIO and A. TAGARELLI",
+        "journal": "Applied Network Science"
+    }
+}

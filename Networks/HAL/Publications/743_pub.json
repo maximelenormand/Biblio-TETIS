@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Extraction et reconstitution de relation n-Aires issues d'articles scientifiques en domaine expérimental guideées par une Ressource Termino-Ontologique",
+        "pub_year": 2022,
+        "author": "M. LENTSCHAT and P. BUCHE and J. DIBIE and M. ROCHE",
+        "journal": "Conférence extraction et gestion des connaissances (EGC 2022)"
+    }
+}

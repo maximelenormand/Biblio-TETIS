@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "VegAnn, Vegetation Annotation of multi-crop RGB images acquired under diverse conditions for segmentation",
+        "pub_year": 2023,
+        "author": "S. MADEC and K. IRFAN and K. VELUMANI and F. BARET and E. DAVID and G. DAUBIGE and L. B. SAMATAN and M. SEROUART and D. SMITH and C. JAMES and F. CAMACHO and W. GUO and B. DE SOLAN and S. CHAPMAN and M. WEISS",
+        "journal": "Scientific Data"
+    }
+}

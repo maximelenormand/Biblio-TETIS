@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Text mining on COVID19 datasets. Terminology extraction",
+        "pub_year": 2021,
+        "author": "M. ROCHE",
+        "journal": "MOOD Science Webinar"
+    }
+}

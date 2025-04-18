@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Food security prediction from heterogeneous data combining machine and deep learning methods",
+        "pub_year": 2022,
+        "author": "H. DELEGLISE and R. INTERDONATO and A. BEGUE and E. MAITRE D'HOTEL and M. TEISSEIRE and M. ROCHE",
+        "journal": "Expert Systems with Applications"
+    }
+}

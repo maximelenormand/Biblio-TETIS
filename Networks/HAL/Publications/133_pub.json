@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Near real-time agriculture monitoring at national scale at parcel resolution: Performance assessment of the Sen2-Agri automated system in various cropping systems around the world",
+        "pub_year": 2019,
+        "author": "P. DEFOURNY and S. BONTEMPS and N. BELLEMANS and C. CARA and G. DEDIEU and E. GUZZONATO and O. HAGOLLE and J. INGLADA and L. NICOLA and T. RABAUTE and M. SAVINAUD and C. UDROIU and S. VALERO and A. BEGUE and J.-F. DEJOUX and A. EL HARTI and J. EZZAHAR and N. KUSSUL and K. LABBASSI and V. LEBOURGEOIS and Z. MIAO and T. NEWBY and A. NYAMUGAMA and N. SALH and A. SHELESTOV and V. SIMONNEAUX and P. TRAORE and S. TRAORE and B. KOETZ",
+        "journal": "Remote Sensing of Environment"
+    }
+}

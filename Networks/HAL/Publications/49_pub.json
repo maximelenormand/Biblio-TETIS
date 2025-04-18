@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Distilling Before Refine: Spatio-Temporal Transfer Learning for Mapping Irrigated Areas Using Sentinel-1 Time Series",
+        "pub_year": 2020,
+        "author": "H. BAZZI and D. IENCO and N. BAGHDADI and M. ZRIBI and V. DEMAREZ",
+        "journal": "IEEE Geoscience and Remote Sensing Letters"
+    }
+}

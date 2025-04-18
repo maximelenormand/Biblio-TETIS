@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TETIS @ Challenge TextMine 2024 : \"Reconnaissance d'entités géographiques dans un corpus des Instructions nautiques",
+        "pub_year": 2024,
+        "author": "R. DECOUPES and R. INTERDONATO and R. KAFANDO and M. ROCHE and M. A. SYED and M. TEISSEIRE and S. VALENTIN",
+        "journal": "Extraction et Gestion des Connaissances (EGC) - Défi textMine"
+    }
+}

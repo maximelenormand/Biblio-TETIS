@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Generating virtual training labels for crop classification from fused Sentinel-1 and Sentinel-2 Time Series",
+        "pub_year": 2023,
+        "author": "M. TEIMOURI and M. MOKHTARZADE and N. BAGHDADI and C. HEIPKE",
+        "journal": "PFG - Journal of photogrammetry remote sensing ang geoinformation science"
+    }
+}

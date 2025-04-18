@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An operational high resolution soil moisture retrieval algorithm using sentinel-1 images",
+        "pub_year": 2019,
+        "author": "N. BAGHDADI and M. EL HAJJ and M. ZRIBI",
+        "journal": "PhotonIcs and Electromagnetics Research Symposium - Spring (PIERS-Spring)"
+    }
+}

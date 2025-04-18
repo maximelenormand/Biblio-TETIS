@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Overview of LifeCLEF 2024: Challenges on Species Distribution Prediction and Identification",
+        "pub_year": 2024,
+        "author": "A. JOLY and L. PICEK and S. KAHL and H. GOEAU and V. ESPITALIER and C. BOTELLA and D. MARCOS and J. ESTOPINAN and C. LEBLANC and T. LARCHER and M. ULC and M. HRUZ and M. SERVAJEAN and H. GLOTIN and R. PLANQUE and W.-P. VELLINGA and H. KLINCK and T. DENTON and I. EGGEL and P. BONNET and H. MULLER",
+        "journal": "CLEF 2024 - 15th International Conference of the Cross-Language Evaluation Forum for European Languages"
+    }
+}

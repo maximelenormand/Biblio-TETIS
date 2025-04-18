@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Orthrus: multi-scale land cover mapping from satellite image time series via 2D encoding and convolutional neural network",
+        "pub_year": 2024,
+        "author": "A. ABIDI and D. IENCO and A. BEN ABBES and I. R. FARAH",
+        "journal": "Neural Computing and Applications"
+    }
+}

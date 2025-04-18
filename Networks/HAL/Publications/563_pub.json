@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Masking Strategies for Background Bias Removal in Computer Vision Models",
+        "pub_year": 2023,
+        "author": "A. ANIRAJ and C. DANTAS and D. IENCO and D. MARCOS",
+        "journal": "Out of Distribution Generalization in Computer Vision workshop  (in conjunction with ICCV 2023)"
+    }
+}

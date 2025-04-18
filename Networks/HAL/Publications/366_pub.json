@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Setting up a user-friendly remote sensing data infrastructure in France",
+        "pub_year": 2019,
+        "author": "P. MAUREL",
+        "journal": "GIM International (Geomatics Info Magazine)"
+    }
+}

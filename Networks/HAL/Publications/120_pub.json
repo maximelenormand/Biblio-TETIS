@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Reuse out-of-year data to enhance land cover mapping via feature disentanglement and contrastive learning",
+        "pub_year": 2024,
+        "author": "C. DANTAS and R. GAETANO and C. PARIS and D. IENCO",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

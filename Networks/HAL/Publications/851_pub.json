@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PADI-web: An event-based surveillance system for detecting, classifying and processing online news",
+        "pub_year": 2020,
+        "author": "S. VALENTIN and E. ARSEVSKA and A. MERCIER and S. FALALA and J. RABATEL and R. LANCELOT and M. ROCHE",
+        "journal": "Language and Technology Conference"
+    }
+}

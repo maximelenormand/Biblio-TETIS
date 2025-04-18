@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Cartographie des surfaces pastorales à l’aide des données Sentinel 2 L3A et des données ouvertes : promesses et réalités",
+        "pub_year": 2022,
+        "author": "U. KALENGA and M. JOUVEN and L. SAUTOT and I. SHAQURA and M. TEISSEIRE",
+        "journal": "Revue Internationale de Géomatique"
+    }
+}

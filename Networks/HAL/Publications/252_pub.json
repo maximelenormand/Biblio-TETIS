@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A Deep Neural Network Framework for Multivariate Time Series Classification With Positive and Unlabeled Data",
+        "pub_year": 2023,
+        "author": "D. IENCO",
+        "journal": "IEEE Access"
+    }
+}

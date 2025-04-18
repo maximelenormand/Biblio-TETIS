@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-1/Sentinel-2-Derived soil moisture product at plot scale (S²MP)",
+        "pub_year": 2020,
+        "author": "L. LOZACH and H. BAZZI and N. BAGHDADI and M. HAJJ and M. ZRIBI and R. CRESSON",
+        "journal": "IEEE Geoscience and Remote Sensing Society (M2GARSS 2020)"
+    }
+}

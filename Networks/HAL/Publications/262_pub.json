@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A lightweight and multilingual framework for crisis information extraction from Twitter data",
+        "pub_year": 2019,
+        "author": "R. INTERDONATO and J.-L. GUILLAUME and A. DOUCET",
+        "journal": "Social Network Analysis and Mining"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Forage Biomass Estimation Using Sentinel-2 Imagery at High Latitudes",
+        "pub_year": 2023,
+        "author": "J. PENG and N. ZEINER and D. PARSONS and J.-B. FERET and M. SODERSTROM and J. MOREL",
+        "journal": "Remote Sensing"
+    }
+}

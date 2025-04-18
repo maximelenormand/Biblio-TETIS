@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "EpiStrat-Eval : outil d'évaluation des stratégies d'extraction d'informations spatiales pour la veille en épidémiologie",
+        "pub_year": 2024,
+        "author": "Y. MAHDOUBI and S. VALENTIN and N. IDRISSI and M. ROCHE",
+        "journal": "Journées francophones d'ingénierie des connaissances (IC 2024)"
+    }
+}

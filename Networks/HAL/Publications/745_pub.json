@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combinaison de mesures lexicales et sémantiques pour l'extraction de données expérimentales dans des articles scientifiques",
+        "pub_year": 2021,
+        "author": "M. LENTSCHAT and P. BUCHE and J. DIBIE-BARTHÉLEMY and M. ROCHE",
+        "journal": "Conférence Extraction et gestion des connaissances (EGC 2021)"
+    }
+}

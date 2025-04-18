@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "LifeCLEF 2023 teaser: Species Identification and Prediction Challenges",
+        "pub_year": 2023,
+        "author": "A. JOLY and S. KAHL and L. PICEK and C. BOTELLA and D. MARCOS and M. ULC and M. HRUZ and S. MOUSSI and M. SERVAJEAN and E. COLE and A. DURSO and H. GLOTIN and R. PLANQUE and W.-P. VELLINGA and H. KLINCK and T. DENTON and I. EGGEL and P. BONNET and H. MULLER",
+        "journal": "ECIR 2023 - 45th European Conference on Information Retrieval"
+    }
+}

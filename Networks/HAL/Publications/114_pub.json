@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A framework for remote sensing images processing using deep learning techniques",
+        "pub_year": 2019,
+        "author": "R. CRESSON",
+        "journal": "IEEE Geoscience and Remote Sensing Letters"
+    }
+}

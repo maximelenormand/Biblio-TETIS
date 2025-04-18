@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison of convolutional neural networks for cloudy optical images reconstruction from single or multitemporal joint SAR and optical images",
+        "pub_year": 2022,
+        "author": "R. CRESSON and N. NARCON and R. GAETANO and A. DUPUIS and Y. TANGUY and S. MAY and B. COMMANDRE",
+        "journal": "XXIV ISPRS Congress (2022 edition)"
+    }
+}

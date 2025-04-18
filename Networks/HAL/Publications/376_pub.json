@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving Heterogeneous Forest Height Maps by Integrating GEDI-Based Forest Height Information in a Multi-Sensor Mapping Process",
+        "pub_year": 2022,
+        "author": "D. MORIN and M. PLANELLS and N. BAGHDADI and A. BOUVET and I. FAYAD and T. LE TOAN and S. MERMOZ and L. VILLARD",
+        "journal": "Remote Sensing"
+    }
+}

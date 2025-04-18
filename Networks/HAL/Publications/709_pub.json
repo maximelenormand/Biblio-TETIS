@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep triplet-driven semi-supervised embedding clustering",
+        "pub_year": 2019,
+        "author": "D. IENCO and R. PENSA",
+        "journal": "DS 2019 - 22nd International Conference on Discovery Science"
+    }
+}

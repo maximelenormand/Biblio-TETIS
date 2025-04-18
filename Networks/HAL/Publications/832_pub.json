@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeoXTag: Relative Spatial Information Extraction and Tagging of Unstructured Text",
+        "pub_year": 2022,
+        "author": "M. A. SYED and E. ARSEVSKA and M. ROCHE and M. TEISSEIRE",
+        "journal": "25th AGILE Conference on Geographic Information Science"
+    }
+}

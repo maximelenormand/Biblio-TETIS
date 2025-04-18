@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeoNLPlify : Une augmentation spatiale de corpus liés aux crises pour des tâches de classification",
+        "pub_year": 2023,
+        "author": "R. DECOUPES and M. ROCHE and M. TEISSEIRE",
+        "journal": "Extraction et Gestion des Connaissances (EGC) 2023"
+    }
+}

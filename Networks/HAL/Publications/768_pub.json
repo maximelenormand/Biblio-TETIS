@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Explaining a deep spatiotemporal land cover classifier with attention and redescription mining",
+        "pub_year": 2022,
+        "author": "N. MEGER and H. COURTEILLE and A. BENOIT and A. ATTO and D. IENCO",
+        "journal": "The XXIV International Society for Photogrammetry and Remote Sensing Congress"
+    }
+}

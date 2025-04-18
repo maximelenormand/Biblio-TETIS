@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "DIAMANTE: A data-centric semantic segmentation approach to map tree dieback induced by bark beetle infestations via satellite images",
+        "pub_year": 2024,
+        "author": "G. ANDRESINI and A. APPICE and D. IENCO and V. RECCHIA",
+        "journal": "Journal of Intelligent Information Systems"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Land use / land cover map of Vavatenina region (Madagascar) produced by object-based analysis of very high spatial resolution satellite images and geospatial reference data.",
+        "pub_year": 2022,
+        "author": "C. LELONG and H. HERIMANDIMBY",
+        "journal": "Data in Brief"
+    }
+}

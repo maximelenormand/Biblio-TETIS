@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of irrigated and rainfed crops in temperate areas using Sentinel-1 and Sentinel-2 time series",
+        "pub_year": 2020,
+        "author": "Y. PAGEOT and F. BAUP and J. INGLADA and N. BAGHDADI and V. DEMAREZ",
+        "journal": "Remote Sensing"
+    }
+}

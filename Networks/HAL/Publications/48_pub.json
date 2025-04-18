@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assimilating Sentinel-2 data in a modified vegetation photosynthesis and respiration model (VPRM) to improve the simulation of croplands CO2 fluxes in Europe",
+        "pub_year": 2024,
+        "author": "H. BAZZI and P. CIAIS and E. ABBESSI and D. MAKOWSKI and D. SANTAREN and E. CESCHIA and A. BRUT and T. TALLEC and N. BUCHMANN and R. MAIER and M. ACOSTA and B. LOUBET and P. BUYSSE and J. LEONARD and F. BORNET and I. FAYAD and J. LIAN and N. BAGHDADI and R. SEGURA BARRERO and C. BRUMMER and M. SCHMIDT and B. HEINESCH and M. MAUDER and T. GRUENWALD",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation"
+    }
+}

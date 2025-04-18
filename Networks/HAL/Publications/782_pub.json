@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Contrastive Pretraining for Visual Concept Explanations of Socioeconomic Outcomes",
+        "pub_year": 2024,
+        "author": "I. OBADIC and A. LEVERING and L. PENNIG and D. OLIVEIRA and D. MARCOS and X. ZHU",
+        "journal": "EarthVision 2024 workshop (in conjuction with CVPR 2024)"
+    }
+}

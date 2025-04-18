@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeospatRE: extraction and geocoding of spatial relation entities in textual documents",
+        "pub_year": 2023,
+        "author": "M. A. SYED and E. ARSEVSKA and M. ROCHE and M. TEISSEIRE",
+        "journal": "Cartography and Geographic Information Science"
+    }
+}

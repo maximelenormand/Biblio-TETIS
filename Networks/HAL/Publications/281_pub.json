@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Spatial Data Lake for Smart Cities: From Design to Implementation",
+        "pub_year": 2020,
+        "author": "R. KAFANDO and R. DECOUPES and L. SAUTOT and M. TEISSEIRE",
+        "journal": "AGILE: GIScience Series"
+    }
+}

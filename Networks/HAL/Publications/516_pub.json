@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "CNN photometric redshifts in the SDSS at $r\\leq 20$",
+        "pub_year": 2023,
+        "author": "M. TREYER and R. AIT OUAHMED and J. PASQUET and S. ARNOUTS and E. BERTIN and D. FOUCHEZ",
+        "journal": "Monthly Notices of the Royal Astronomical Society"
+    }
+}

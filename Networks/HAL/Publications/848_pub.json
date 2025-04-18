@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Collaborative Benchmarking Rule-Reasoners with B-Runner",
+        "pub_year": 2024,
+        "author": "F. ULLIANA and P. BISQUERT and A. CHAROENSIT and R. COLIN and F. TORNIL and Q. YECHE",
+        "journal": "BDA 2024 - 40e Conférence sur la Gestion de Données – Principes, Technologies et Applications"
+    }
+}

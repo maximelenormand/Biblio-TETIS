@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "New approach to discover meaningful terms to specify cause of death from narratives verbal autopsy using TF-IDF and the LDA topic model",
+        "pub_year": 2023,
+        "author": "M. DIOUF and M. THIAM and M. ROCHE",
+        "journal": "International Conference on Smart Technologies (IEEE EUROCON 2023)"
+    }
+}

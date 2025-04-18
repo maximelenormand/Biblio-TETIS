@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An annotated dataset for event-based surveillance of antimicrobial resistance",
+        "pub_year": 2023,
+        "author": "N. ARıNıK and W. VAN BORTEL and B. BOUDOUA and L. BUSANI and R. DECOUPES and R. INTERDONATO and R. KAFANDO and E. VAN KLEEF and M. ROCHE and M. A. SYED and M. TEISSEIRE",
+        "journal": "Data in Brief"
+    }
+}

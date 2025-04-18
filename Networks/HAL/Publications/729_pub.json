@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Joint Use of Airborne LiDAR Metrics and Topography Information to Estimate Forest Parameters via Neural Networks",
+        "pub_year": 2022,
+        "author": "K. LAHSSINI and K. R. DAYAL and S. DURRIEU and J.-M. MONNET",
+        "journal": "2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON)"
+    }
+}

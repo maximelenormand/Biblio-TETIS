@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Astronomical image time series classification using CONVolutional attENTION (ConvEntion)",
+        "pub_year": 2023,
+        "author": "A. BAIROUK and M. CHAUMONT and D. FOUCHEZ and F. COMBY and J. PASQUET and J. BAUTISTA",
+        "journal": "Astronomy & Astrophysics - A&A"
+    }
+}

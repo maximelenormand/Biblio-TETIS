@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PDiscoNet: Semantically consistent part discovery for fine-grained recognition",
+        "pub_year": 2023,
+        "author": "R. VAN DER KLIS and S. ALANIZ and M. MANCINI and C. DANTAS and D. IENCO and Z. AKATA and D. MARCOS",
+        "journal": "ICCV 2023 - International Conference on Computer Vision"
+    }
+}

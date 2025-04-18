@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation events detection over intensively irrigated grassland plots using Sentinel-1 data",
+        "pub_year": 2020,
+        "author": "H. BAZZI and N. BAGHDADI and I. FAYAD and F. CHARRON and M. ZRIBI and H. BELHOUCHETTE",
+        "journal": "Remote Sensing"
+    }
+}

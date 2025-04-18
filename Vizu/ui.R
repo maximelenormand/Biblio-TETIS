@@ -5,16 +5,24 @@ library(shinyWidgets)
 tabPanelAbout <- source("About.R")$value
 
 # Inputs
-years=list(
-  "2016" = 5, 
-  "2017" = 6, 
-  "2018" = 7, 
-  "2019" = 8, 
-  "2020" = 9, 
-  "2021" = 10, 
-  "2022" = 11, 
-  "2023" = 12, 
-  "2024" = 13
+years_gg <- list(
+  "2016" = 4, 
+  "2017" = 5, 
+  "2018" = 6, 
+  "2019" = 7, 
+  "2020" = 8, 
+  "2021" = 9, 
+  "2022" = 10, 
+  "2023" = 11
+)
+
+years_hal <- list(
+  "2019" = 4, 
+  "2020" = 5, 
+  "2021" = 6, 
+  "2022" = 7, 
+  "2023" = 8,
+  "2024" = 9
 )
 
 # UI
@@ -22,9 +30,9 @@ shinyUI(navbarPage(
   title = HTML('<span style="font-size:120%;color:white;font-weight:bold;">Bibliométrie TETIS &nbsp;&nbsp;</span></a>'),
   windowTitle = "Biblio TETIS",
 
-  # Network ####################################################################
+  # Network GG #################################################################
   tabPanel(
-    HTML('<span style="font-size:100%;color:white;font-weight:bold;">Réseaux de copublications</span></a>'),
+    HTML('<span style="font-size:100%;color:white;font-weight:bold;">Réseaux de copublications (Google Scholar)</span></a>'),
     div(
       class = "outer",
 
@@ -34,7 +42,7 @@ shinyUI(navbarPage(
       ),
 
       # Network
-      visNetworkOutput("network", width = "100%", height = "100%"),
+      visNetworkOutput("networkgg", width = "100%", height = "100%"),
 
       absolutePanel( 
         id = "control", class = "panel panel-default", fixed = TRUE,
@@ -43,21 +51,21 @@ shinyUI(navbarPage(
         h2("Explorateur"),
         
         selectInput(
-          inputId = "start",
-          label = strong("Année de début (incluse)"),
-          choices = years,
-          selected = 5
+            inputId = "startgg",
+            label = strong("Année de début (incluse)"),
+            choices = years_gg,
+            selected = 4
         ),
         
         selectInput(
-          inputId = "end",
+          inputId = "endgg",
           label = strong("Année de fin (incluse)"),
-          choices = years,
-          selected = 13
+          choices = years_gg,
+          selected = 11
         ),
         
         selectInput(
-          inputId = "typ",
+          inputId = "typgg",
           label = strong("Groupe"),
           choices = list(
             "Aucun" = "Aucun", 
@@ -70,38 +78,38 @@ shinyUI(navbarPage(
         ),
         
         conditionalPanel(  
-          condition = "input.typ == 'Tutelle'",
+          condition = "input.typgg == 'Tutelle'",
           HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
-          plotOutput("legtut", height = 169)
+          plotOutput("legtutgg", height = 173)
         ),
         
         conditionalPanel(  
-          condition = "input.typ == 'Equipe'",
+          condition = "input.typgg == 'Equipe'",
           HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
-          plotOutput("legteam", height = 108)
+          plotOutput("legteamgg", height = 108)
         ),
         
         conditionalPanel(  
-          condition = "input.typ == 'Ad Hoc'",
+          condition = "input.typgg == 'Ad Hoc'",
           HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
-          plotOutput("leggrp", height = 180)
+          plotOutput("leggrpgg", height = 180)
         ),
         
         conditionalPanel(  
-          condition = "input.typ == 'Ingénierie'",
+          condition = "input.typgg == 'Ingénierie'",
           HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
-          plotOutput("leging", height = 70)
+          plotOutput("leginggg", height = 70)
         ),
         
         chooseSliderSkin("Flat", "#4682B4"),
-        sliderInput(inputId="w", 
+        sliderInput(inputId="wgg", 
                     label="Nombre minimal de publications", 
                     value=1, 
                     min = 1, 
                     max = 10, 
                     step = 1),
         
-        chooseSliderSkin("Flat", "#4682B4"),
+        chooseSliderSkin("Flat", "#4682B4"),  
         sliderInput(inputId="cit", 
                     label="Nombre minimal de citations", 
                     value=0, 
@@ -109,7 +117,7 @@ shinyUI(navbarPage(
                     max = 10, 
                     step = 1),
         
-        checkboxInput("name", "Afficher les noms", value=FALSE)
+        checkboxInput("namegg", "Afficher les noms", value=FALSE)
         
       ),
       
@@ -122,6 +130,98 @@ shinyUI(navbarPage(
     )
   ),
 
+  # Network GG #################################################################
+  tabPanel(
+    HTML('<span style="font-size:100%;color:white;font-weight:bold;">Réseaux de copublications (Hal/Agritrop)</span></a>'),
+    div(
+      class = "outer",
+      
+      # Include custom CSS & logo
+      tags$head(
+        includeCSS("styles.css"), tags$link(rel = "icon", type = "image/png", href = "logo.png")
+      ),
+      
+      # Network
+      visNetworkOutput("networkhal", width = "100%", height = "100%"),
+      
+      absolutePanel( 
+        id = "control", class = "panel panel-default", fixed = TRUE,
+        draggable = FALSE, top = 80, left = "auto", right = 20, bottom = "auto",
+        width = 350, height = "auto",
+        h2("Explorateur"),
+        
+        selectInput(
+          inputId = "starthal",
+          label = strong("Année de début (incluse)"),
+          choices = years_hal,
+          selected = 4
+        ),
+        
+        selectInput(
+          inputId = "endhal",
+          label = strong("Année de fin (incluse)"),
+          choices = years_hal,
+          selected = 9
+        ),
+        
+        selectInput(
+          inputId = "typhal",
+          label = strong("Groupe"),
+          choices = list(
+            "Aucun" = "Aucun", 
+            "Tutelle" = "Tutelle", 
+            "Equipe" = "Equipe", 
+            "Ad Hoc" = "Ad Hoc",
+            "Ingénierie" = "Ingénierie"
+          ),
+          selected = "Aucun"
+        ),
+        
+        conditionalPanel(  
+          condition = "input.typhal == 'Tutelle'",
+          HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
+          plotOutput("legtuthal", height = 173)
+        ),
+        
+        conditionalPanel(  
+          condition = "input.typhal == 'Equipe'",
+          HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
+          plotOutput("legteamhal", height = 108)
+        ),
+        
+        conditionalPanel(  
+          condition = "input.typhal == 'Ad Hoc'",
+          HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
+          plotOutput("leggrphal", height = 180)
+        ),
+        
+        conditionalPanel(  
+          condition = "input.typhal == 'Ingénierie'",
+          HTML('<div style="font-weight:bold;"align="justified">Légende</div>'),
+          plotOutput("leginghal", height = 70)
+        ),
+        
+        chooseSliderSkin("Flat", "#4682B4"),
+        sliderInput(inputId="whal", 
+                    label="Nombre minimal de publications", 
+                    value=1, 
+                    min = 1, 
+                    max = 10, 
+                    step = 1),
+        
+        checkboxInput("namehal", "Afficher les noms", value=FALSE)
+        
+      ),
+      
+    ),
+    
+    # SK8 footer
+    div(
+      class="footer",
+      includeHTML("footer.html")
+    )
+  ),
+  
   # Analysis ###################################################################
   tabPanel(
     HTML('<span style="font-size:100%;color:white;font-weight:bold;">Analyses</span></a>'),
@@ -153,6 +253,13 @@ shinyUI(navbarPage(
         # Analysis 1
         conditionalPanel(
           condition = "input.analysis == 1",
+          selectInput(
+            inputId = "data1",
+            label = strong("Source de données"),
+            choices=list("Google Scholar" = "GG",
+                         "Hal/Agritrop" = "HAL"),
+            selected = 1
+          ),
           strong("Options"),
           checkboxInput("a1beside", "Bars côte-à-côte", value=FALSE),
           checkboxInput("a1prop", "Pourcentage", value=FALSE),
@@ -163,6 +270,13 @@ shinyUI(navbarPage(
         # Analysis 2
         conditionalPanel(
           condition = "input.analysis == 2",
+          selectInput(
+            inputId = "data2",
+            label = strong("Source de données"),
+            choices=list("Google Scholar" = "GG",
+                         "Hal/Agritrop" = "HAL"),
+            selected = 1
+          ),
           selectInput(
             inputId = "a2type",
             label = strong("Options"),

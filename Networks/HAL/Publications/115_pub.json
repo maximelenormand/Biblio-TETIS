@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "VERTIGo: A Visual Platform for Querying and Exploring Large Multilayer Networks",
+        "pub_year": 2022,
+        "author": "E. CUENCA and A. SALLABERRY and D. IENCO and P. PONCELET",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics"
+    }
+}

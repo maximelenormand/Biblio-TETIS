@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Use of Sentinel-2 time-series images for classification and uncertainty analysis of inherent biophysical property: case of soil texture mapping",
+        "pub_year": 2019,
+        "author": "C. GOMEZ and S. DHARUMARAJAN and J.-B. FERET and P. LAGACHERIE and L. RUIZ and M. SEKHAR",
+        "journal": "Remote Sensing"
+    }
+}

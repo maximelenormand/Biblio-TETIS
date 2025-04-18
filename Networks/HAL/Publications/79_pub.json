@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil texture estimation using radar and optical data from Sentinel-1 and Sentinel-2",
+        "pub_year": 2019,
+        "author": "S. BOUSBIH and M. ZRIBI and C. PELLETIER and A. GORRAB and Z. LILI CHABAANE and N. BAGHDADI and N.B. AISSA and B. MOUGENOT",
+        "journal": "Remote Sensing"
+    }
+}

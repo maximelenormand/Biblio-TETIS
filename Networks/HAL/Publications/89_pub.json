@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multisensor temporal unsupervised domain adaptation for land cover mapping with spatial pseudo-labeling and adversarial learning",
+        "pub_year": 2023,
+        "author": "E. CAPLIEZ and D. IENCO and R. GAETANO and N. BAGHDADI and A. HADJ SALAH and M. LE GOFF and F. CHOUTEAU",
+        "journal": "IEEE Transactions on Geoscience and Remote Sensing"
+    }
+}

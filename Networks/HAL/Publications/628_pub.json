@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "WEIR-P: An Information Extraction Pipeline for the Wastewater Domain",
+        "pub_year": 2021,
+        "author": "N. CHAHINIAN and T. BONNABAUD LA BRUYERE and F. FRONTINI and C. DELENNE and M. JULIEN and R. PANCKHURST and M. ROCHE and L. SAUTOT and L. DERUELLE and M. TEISSIERE",
+        "journal": "RCIS 2021 - 5th International Conference on Research Challenges in Information Science"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "COVID-19 and Media datasets: Period- and location-specific textual data mining",
+        "pub_year": 2020,
+        "author": "M. ROCHE",
+        "journal": "Data in Brief"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dealing with missing modalities at test time for land cover mapping: A case study on multi-source optical data",
+        "pub_year": 2022,
+        "author": "Y. J. E. GBODJO and D. IENCO",
+        "journal": "2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON)"
+    }
+}

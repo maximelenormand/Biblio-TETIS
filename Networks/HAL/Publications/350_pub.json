@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Artificial Intelligence Algorithms for Rapeseed Fields Mapping using Sentinel-1 Time Series: Temporal Transfer Scenario and Ground Sampling Constraints",
+        "pub_year": 2023,
+        "author": "S. MALEKI and N. BAGHDADI and C. DANTAS and S. NAJEM and H. BAZZI and N. P. RELUY and D. IENCO and M. ZRIBI",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

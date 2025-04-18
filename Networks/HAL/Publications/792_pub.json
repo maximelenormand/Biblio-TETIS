@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Overview of GeoLifeCLEF 2024: Species Composition Prediction with High Spatial Resolution at Continental Scale using Remote Sensing",
+        "pub_year": 2024,
+        "author": "L. PICEK and C. BOTELLA and M. SERVAJEAN and C. LEBLANC and R. PALARD and T. LARCHER and B. DENEU and D. MARCOS and J. ESTOPINAN and P. BONNET and A. JOLY",
+        "journal": "CLEF 2024 Working Notes - 25th Conference and Labs of the Evaluation Forum"
+    }
+}

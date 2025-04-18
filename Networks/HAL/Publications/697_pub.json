@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ComSAR: A new algorithm for processing Big Data SAR Interferometry",
+        "pub_year": 2021,
+        "author": "D. HO TONG MINH and Y.-N. NGO",
+        "journal": "IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

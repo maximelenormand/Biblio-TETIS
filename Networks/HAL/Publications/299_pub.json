@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Canopy height mapping in French Guiana using multi-source satellite data and environmental information in a U-Net architecture",
+        "pub_year": 2024,
+        "author": "K. LAHSSINI and N. BAGHDADI and G. MAIRE and I. FAYAD and L. VILLARD",
+        "journal": "Frontiers in Remote Sensing"
+    }
+}

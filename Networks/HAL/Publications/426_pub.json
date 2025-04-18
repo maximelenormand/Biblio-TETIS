@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The European Space Agency BIOMASS mission: measuring forest above-ground biomass from space",
+        "pub_year": 2019,
+        "author": "S. QUEGAN and T. LE TOAN and J. CHAVE and J. DALL and J.F. EXBRAYAT and D. HO TONG MINH and M. LOMAS and M.M. D'ALESSANDRO and P. PAILLOU and K. PAPATHANASSIOU and F. ROCCA and S. SAATCHI and K. SCIPAL and H. SHUGART and T.L. SMALLMAN and M.J. SOJA and S. TEBALDINI and L. ULANDER and L. VILLARD and M. WILLIAMS",
+        "journal": "Remote Sensing of Environment"
+    }
+}

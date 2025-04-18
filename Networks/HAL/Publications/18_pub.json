@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An evaluation framework for comparing epidemic intelligence systems",
+        "pub_year": 2023,
+        "author": "N. ARINIK and R. INTERDONATO and M. ROCHE and M. TEISSEIRE",
+        "journal": "IEEE Access"
+    }
+}

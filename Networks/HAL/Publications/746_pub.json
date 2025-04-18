@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SciPuRe: a new Representation of textual data for entity identification from scientific publications",
+        "pub_year": 2020,
+        "author": "M. LENTSCHAT and J. DIBIE-BARTHÉLEMY and P. BUCHE and M. ROCHE",
+        "journal": "International Conference on Wev Intelligence, Mining and Semant (WIMS 20)"
+    }
+}

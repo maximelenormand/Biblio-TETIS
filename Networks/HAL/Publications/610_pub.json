@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mining the miners: acknowledging the magnitude of mining deals through data science",
+        "pub_year": 2020,
+        "author": "J. BOURGOIN and Q. GRISLAIN and R. INTERDONATO and M. ZIGNANI and S. GAITO",
+        "journal": "MARAMI 2020. Modèles & Analyse des Réseaux : Approches Mathématiques and Informatiques"
+    }
+}

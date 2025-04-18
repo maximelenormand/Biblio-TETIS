@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Overview of LifeCLEF 2023: evaluation of AI models for the identification and prediction of birds, plants, snakes and fungi",
+        "pub_year": 2023,
+        "author": "A. JOLY and C. BOTELLA and L. PICEK and S. KAHL and H. GOEAU and B. DENEU and D. MARCOS and J. ESTOPINAN and C. LEBLANC and T. LARCHER",
+        "journal": "CLEF 2023 - 14th International Conference of the Cross-Language Evaluation Forum for European Languages"
+    }
+}

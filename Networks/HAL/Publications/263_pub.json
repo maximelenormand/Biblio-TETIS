@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "DuPLO: A DUal view Point deep Learning architecture for time series classificatiOn",
+        "pub_year": 2019,
+        "author": "R. INTERDONATO and D. IENCO and R. GAETANO and K. OSE",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing"
+    }
+}

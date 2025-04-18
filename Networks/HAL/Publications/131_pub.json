@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeoNLPlify: A spatial data augmentation enhancing text classification for crisis monitoring",
+        "pub_year": 2024,
+        "author": "R. DECOUPES and M. ROCHE and M. TEISSEIRE",
+        "journal": "Intelligent Data Analysis"
+    }
+}

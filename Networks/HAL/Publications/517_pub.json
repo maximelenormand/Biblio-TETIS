@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil Moisture Retrieval Using Multistatic L-Band SAR and Effective Roughness Modeling",
+        "pub_year": 2022,
+        "author": "E. TRONQUO and H. LIEVENS and J. BOUCHAT and P. DEFOURNY and N. BAGHDADI and N. VERHOEST",
+        "journal": "Remote Sensing"
+    }
+}

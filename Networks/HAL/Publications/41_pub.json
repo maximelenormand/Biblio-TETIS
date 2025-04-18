@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping paddy rice using Sentinel-1 SAR time series in Camargue, France",
+        "pub_year": 2019,
+        "author": "H. BAZZI and N. BAGHDADI and M. EL HAJJ and M. ZRIBI and D. HO TONG MINH and E. NDIKUMANA and D. COURAULT and H. BELHOUCHETTE",
+        "journal": "Remote Sensing"
+    }
+}

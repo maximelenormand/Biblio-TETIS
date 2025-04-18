@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "DyHANE: dynamic heterogeneous attributed network embedding through experience node replay",
+        "pub_year": 2024,
+        "author": "L. MARTIRANO and D. IENCO and R. INTERDONATO and A. TAGARELLI",
+        "journal": "Applied Network Science"
+    }
+}

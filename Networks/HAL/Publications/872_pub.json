@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture retrieval using GNSS-R data",
+        "pub_year": 2020,
+        "author": "M. ZRIBI and M. HUC and T. PELLARIN and N. BAGHDADI and N. PIERDICCA",
+        "journal": "IEEE Geoscience and Remote Sensing Society (M2GARSS 2020)"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Near real-time freeze detection over agricultural plots using Sentinel-1 data",
+        "pub_year": 2020,
+        "author": "I. FAYAD and N. BAGHDADI and H. BAZZI and M. ZRIBI",
+        "journal": "Remote Sensing"
+    }
+}

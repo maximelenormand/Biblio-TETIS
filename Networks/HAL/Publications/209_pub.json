@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "EpidNews: Extracting, exploring and annotating news for monitoring animal diseases",
+        "pub_year": 2020,
+        "author": "R. GOEL and S. VALENTIN and A. DELAFORGE and S. FADLOUN and A. SALLABERRY and M. ROCHE and P. PONCELET",
+        "journal": "Journal of Computer Languages"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SENECA: Change detection in optical imagery using Siamese networks with Active-Transfer Learning",
+        "pub_year": 2023,
+        "author": "G. ANDRESINI and A. APPICE and D. IENCO and D. MALERBA",
+        "journal": "Expert Systems with Applications"
+    }
+}

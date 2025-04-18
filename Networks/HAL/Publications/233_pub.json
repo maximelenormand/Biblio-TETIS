@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Plot Scale Irrigation Dates and Amounts Detection using Surface Soil Moisture Derived from Sentinel-1 SAR Data in the Optirrig Crop Model.",
+        "pub_year": 2023,
+        "author": "M. HAMZE and B. CHEVIRON and N. BAGHDADI and D. COURAULT and M. ZRIBI",
+        "journal": "Remote Sensing"
+    }
+}

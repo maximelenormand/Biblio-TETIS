@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A French text-message corpus: 88milSMS. Synthesis and usage",
+        "pub_year": 2020,
+        "author": "R. PANCKHURST and C. LOPEZ and M. ROCHE",
+        "journal": "Corpus"
+    }
+}

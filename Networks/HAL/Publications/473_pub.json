@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "High-resolution canopy height map in the Landes forest (France) based on GEDI, Sentinel-1, and Sentinel-2 data with a deep learning approach",
+        "pub_year": 2024,
+        "author": "M. SCHWARTZ and P. CIAIS and C. OTTLE and A. DE TRUCHIS and C. VEGA and I. FAYAD and M. BRANDT and R. FENSHOLT and N. BAGHDADI and F. MORNEAU and D. MORIN and D. GUYON and S. DAYAU and J.-P. WIGNERON",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation"
+    }
+}

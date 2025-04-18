@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-sensor land cover classification with sparsely annotated data based on Convolutional Neural Networks and Self-Distillation",
+        "pub_year": 2021,
+        "author": "Y. J. E. GBODJO and D. MONTET and D. IENCO and R. GAETANO and S. DUPUY",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

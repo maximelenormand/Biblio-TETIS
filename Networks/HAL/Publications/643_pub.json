@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Semi Supervised Heterogeneous Domain Adaptation via Disentanglement and Pseudo-Labelling",
+        "pub_year": 2024,
+        "author": "C. DANTAS and R. GAETANO and D. IENCO",
+        "journal": "ECML PKDD 2024  - European Conference on Machine Learning and Knowledge Discovery in Databases"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimating 500-m resolution soil moisture using Sentinel-1 and optical data synergy",
+        "pub_year": 2020,
+        "author": "M. FOUCRAS and M. ZRIBI and C. ALBERGEL and N. BAGHDADI and J.-C. CALVET and T. PELLARIN",
+        "journal": "Water"
+    }
+}

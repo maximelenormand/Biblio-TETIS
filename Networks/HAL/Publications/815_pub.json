@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Integrating Textual Data into Heterogeneous Data Ingestion Processing",
+        "pub_year": 2021,
+        "author": "M. ROCHE and M. TEISSEIRE",
+        "journal": "2021 IEEE International Conference on Big Data (Big Data)"
+    }
+}

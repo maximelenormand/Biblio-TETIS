@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of irrigation events on maize plots using Sentinel-1 soil moisture products",
+        "pub_year": 2020,
+        "author": "M. LE PAGE and L. JARLAN and A. BOONE and M. HAJJ and N. BAGHDADI and M. ZRIBI",
+        "journal": "EGU General Assenbly 2020"
+    }
+}

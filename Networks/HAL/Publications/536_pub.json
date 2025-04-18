@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Conflation of expert and crowd reference data to validate global binary thematic maps",
+        "pub_year": 2019,
+        "author": "F. WALDNER and A. SCHUCKNECHT and M. LESIV and J. GALLEGO and L. SEE and A. PEREZ-HOYOS and R. D'ANDRIMONT and T. DE MAET and J. C. L. BAYAS and S. FRITZ and O. LEO and H. KERDILES and M. DIEZ and K. VAN TRICHT and S. GILLIAMS and A. SHELESTOV and M. LAVRENIUK and M. SIMOES and R. FERRAZ and B. BELLON and A. BEGUE and G. HAZEU and V. STONACEK and J. KOLOMAZNIK and J. MISUREC and S. VERON and D. DE ABELLEYRA and D. PLOTNIKOV and L. MINGYONG and M. SINGHA and P. PATIL and M. ZHANG and P. DEFOURNY",
+        "journal": "Remote Sensing of Environment"
+    }
+}

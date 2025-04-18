@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Optical image gap filling using deep convolutional autoencoder from optical and radar images",
+        "pub_year": 2019,
+        "author": "R. CRESSON and D. IENCO and R. GAETANO and K. OSE and D. HO TONG MINH",
+        "journal": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
+    }
+}

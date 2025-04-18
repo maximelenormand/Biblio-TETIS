@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detecting Irrigation Events Over Several Summer Crops Using Sentinel-1 Data",
+        "pub_year": 2023,
+        "author": "N. BAGHDADI and H. BAZZI and S. NAJEM and H. JAAFAR and M. LE PAGE and M. ZRIBI and I. FARASLIS and M. SPILIOTOPOULOS",
+        "journal": "IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

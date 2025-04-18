@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Unsupervised key-phrase extraction from Long texts with multilingual sentence transformers",
+        "pub_year": 2023,
+        "author": "H. DIAS and A. GUIMARÃES and B. MARTINS and M. ROCHE",
+        "journal": "International Conference on Discovery Science (DS 2023)"
+    }
+}

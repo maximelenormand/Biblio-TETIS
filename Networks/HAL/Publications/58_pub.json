@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Retrieval of aboveground crop nitrogen content with a hybrid machine learning method",
+        "pub_year": 2020,
+        "author": "K. BERGER and J. VERRELST and J.-B. FERET and T. HANK and M. WOCHER and W. MAUSER and G. CAMPS-VALLS",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation"
+    }
+}

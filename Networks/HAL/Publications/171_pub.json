@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "EpidVis: A visual web querying tool for animal epidemiology surveillance",
+        "pub_year": 2020,
+        "author": "S. FADLOUN and A. SALLABERRY and A. MERCIER and E. ARSEVSKA and M. ROCHE and P. PONCELET",
+        "journal": "Information Visualization"
+    }
+}

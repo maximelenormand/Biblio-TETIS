@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Desert roughness retrieval using CYGNSS GNSS-R data",
+        "pub_year": 2020,
+        "author": "D. STILLA and M. ZRIBI and N. PIERDICCA and N. BAGHDADI and M. HUC",
+        "journal": "Remote Sensing"
+    }
+}

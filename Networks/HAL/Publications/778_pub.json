@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Benchopt: Reproducible, efficient and collaborative optimization benchmarks",
+        "pub_year": 2022,
+        "author": "T. MOREAU and M. MASSIAS and A. GRAMFORT and P. ABLIN and P.-A. BANNIER and B. CHARLIER and M. DAGREOU and T. DUPRE LA TOUR and G. DURIF and C. DANTAS and Q. KLOPFENSTEIN and J. LARSSON and E. LAI and T. LEFORT and B. MALEZIEUX and B. MOUFAD and B. NGUYEN and A. RAKOTOMAMONJY and Z. RAMZI and J. SALMON and S. VAITER",
+        "journal": "NeurIPS 2022 - 36th Conference on Neural Information Processing Systems"
+    }
+}

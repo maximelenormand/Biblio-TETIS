@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Could key word masking strategy improve language model?",
+        "pub_year": 2023,
+        "author": "M. BOROVIKOVA and A. FERRÉ and R. BOSSY and M. ROCHE and C. NÉDELLEC",
+        "journal": "International Conference on Applications of Natural Language to Information Systems (NLDB 2023)"
+    }
+}

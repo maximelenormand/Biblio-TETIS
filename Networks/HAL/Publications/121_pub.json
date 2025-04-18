@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sphere Refinement in Gap Safe Screening",
+        "pub_year": 2023,
+        "author": "C. DANTAS and E. SOUBIES and C. FEVOTTE",
+        "journal": "IEEE Signal Processing Letters"
+    }
+}

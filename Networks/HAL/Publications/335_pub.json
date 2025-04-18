@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A double swath configuration for improving throughput and accuracy of trait estimate from UAV images",
+        "pub_year": 2021,
+        "author": "W. LI and A. COMAR and M. WEISS and S. JAY and G. COLOMBEAU and P. LOPEZ-LOZANO and S. MADEC and F. BARET",
+        "journal": "Plant Phenomics"
+    }
+}

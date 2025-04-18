@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Application of the symbolic machine learning to copernicus VHR imagery: the european settlement map",
+        "pub_year": 2020,
+        "author": "C. CORBANE and F. SABO and V. SYRRIS and T. KEMPER and P. POLITIS and M. PESARESI and P. SOILLE and K. OSE",
+        "journal": "IEEE Geoscience and Remote Sensing Letters"
+    }
+}

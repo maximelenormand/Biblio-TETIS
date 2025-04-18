@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Gaia-AgStream: An explainable AI platform for mining complex data streams in agriculture",
+        "pub_year": 2021,
+        "author": "J. SCHOENKE and N. ASCHENBRUCK and R. INTERDONATO and R. KANAWATI and A.-C. MEISENER and F. THIERART and G. VIAL and M. ATZMUELLER",
+        "journal": "International Conference on Smart and Sustainable Agriculture (SSA 2021)"
+    }
+}

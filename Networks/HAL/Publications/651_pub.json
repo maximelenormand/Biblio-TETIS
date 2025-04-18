@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "EpidNews : un explorateur de données épidémiologiques pour la surveillance des maladies animales",
+        "pub_year": 2019,
+        "author": "A. DELAFORGE and R. GOEL and S. FADLOUN and S. VALENTIN and A. SALLABERRY and M. ROCHE and P. PONCELET",
+        "journal": "IC 2019 - 30es Journées francophones d'Ingénierie des Connaissances"
+    }
+}

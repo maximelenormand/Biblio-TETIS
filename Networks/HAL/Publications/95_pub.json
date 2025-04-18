@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Attentive spatial temporal graph CNN for land cover mapping from multi temporal remote sensing data",
+        "pub_year": 2021,
+        "author": "A. M. CENSI and D. IENCO and Y. J. E. GBODJO and R. G. PENSA and R. INTERDONATO and R. GAETANO",
+        "journal": "IEEE Access"
+    }
+}

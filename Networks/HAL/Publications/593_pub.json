@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Operative Mapping of Irrigated Areas Using Sentinel-1 and Sentinel-2 Time Series",
+        "pub_year": 2022,
+        "author": "H. BAZZI and N. BAGHDADI and M. ZRIBI",
+        "journal": "IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2022"
+    }
+}

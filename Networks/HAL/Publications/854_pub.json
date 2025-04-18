@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Information retrieval for animal disease surveillance: a pattern-based approach.",
+        "pub_year": 2020,
+        "author": "S. VALENTIN and R. LANCELOT and M. ROCHE",
+        "journal": "Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis"
+    }
+}

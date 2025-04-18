@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Reconstruction of airborne laser scanner trajectory from data",
+        "pub_year": 2019,
+        "author": "F. DE BOISSIEU and M. LANG and J.-B. FERET and J.M. MONNET and S. DURRIEU",
+        "journal": "IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

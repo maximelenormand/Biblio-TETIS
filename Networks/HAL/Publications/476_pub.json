@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SegVeg: Segmenting RGB Images into Green and Senescent Vegetation by Combining Deep and Shallow Methods",
+        "pub_year": 2022,
+        "author": "M. SEROUART and S. MADEC and K. VELUMANI and M. WEISS and F. BARET",
+        "journal": "Plant Phenomics"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PELICAN: deeP architecturE for the LIght Curve ANalysis",
+        "pub_year": 2019,
+        "author": "J. ITAM-PASQUET and J. PASQUET and M. CHAUMONT and D. FOUCHEZ",
+        "journal": "Astronomy & Astrophysics - A&A"
+    }
+}

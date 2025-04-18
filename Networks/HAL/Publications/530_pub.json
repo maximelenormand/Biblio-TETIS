@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Generating high-resolution land use and land cover maps for the greater Mariño watershed in 2019 with machine learning",
+        "pub_year": 2024,
+        "author": "A. VALLET and S. DUPUY and M. VERLYNDE and R. GAETANO",
+        "journal": "Scientific Data"
+    }
+}

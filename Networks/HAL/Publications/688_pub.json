@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The Tucker tensor decomposition for data analysis: capabilities and advantages",
+        "pub_year": 2022,
+        "author": "A. GILLET and E. LECLERCQ and L. SAUTOT",
+        "journal": "38ème Conférence sur la Gestion de Données (BDA)"
+    }
+}

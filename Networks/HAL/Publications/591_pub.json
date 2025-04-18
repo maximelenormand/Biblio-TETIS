@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Irrigation mapping using Sentinel-1 time series",
+        "pub_year": 2020,
+        "author": "H. BAZZI and N. BAGHDADI and D. IENCO and M. ZRIBI and H. BELHOUCHETTE",
+        "journal": "IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

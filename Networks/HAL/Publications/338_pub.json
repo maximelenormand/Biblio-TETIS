@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Photometric redshift estimation with convolutional neural networks and galaxy images: Case study of resolving biases in data-driven methods",
+        "pub_year": 2022,
+        "author": "Q. LIN and D. FOUCHEZ and J. PASQUET and M. TREYER and R. AIT OUAHMED and S. ARNOUTS and O. ILBERT",
+        "journal": "Astronomy & Astrophysics - A&A"
+    }
+}

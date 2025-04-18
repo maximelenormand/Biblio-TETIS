@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Animal daily mobility patterns analysis using resting event networks",
+        "pub_year": 2021,
+        "author": "M. LENORMAND and H. PELLA and H. CAPRA",
+        "journal": "Applied Network Science"
+    }
+}

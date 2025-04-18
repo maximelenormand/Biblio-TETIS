@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Enhancing graph-based semi-supervised learning via knowledge-aware data embedding",
+        "pub_year": 2020,
+        "author": "D. IENCO and R. PENSA",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems"
+    }
+}

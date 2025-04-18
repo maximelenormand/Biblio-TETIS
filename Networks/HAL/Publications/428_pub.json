@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "PADI-web corpus: Labeled textual data in animal health domain",
+        "pub_year": 2019,
+        "author": "J. RABATEL and E. ARSEVSKA and M. ROCHE",
+        "journal": "Data in Brief"
+    }
+}

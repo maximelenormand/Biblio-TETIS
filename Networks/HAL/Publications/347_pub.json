@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Community Detection in Multiplex Networks",
+        "pub_year": 2021,
+        "author": "M. MAGNANI and O. HANTEER and R. INTERDONATO and L. ROSSI and A. TAGARELLI",
+        "journal": "ACM Computing Surveys"
+    }
+}

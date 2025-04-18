@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multiplicity in Signed Graph Partitioning",
+        "pub_year": 2022,
+        "author": "R. FIGUEIREDO and N. ARINIK and V. LABATUT",
+        "journal": "32th European Conference On Operational Research (EURO)"
+    }
+}

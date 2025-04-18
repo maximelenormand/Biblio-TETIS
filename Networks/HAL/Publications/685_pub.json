@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Classification multi-modale de l'occupation du sol à partir de réseaux de neurones convolutifs et de l'auto-distillation",
+        "pub_year": 2021,
+        "author": "Y. J. E. GBODJO and D. IENCO",
+        "journal": "ORASIS 2021"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Improving GEDI Footprint Geolocation Using a High-Resolution Digital Elevation Model",
+        "pub_year": 2023,
+        "author": "A. SCHLEICH and S. DURRIEU and M. SOMA and C. VEGA",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

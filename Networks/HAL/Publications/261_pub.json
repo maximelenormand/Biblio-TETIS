@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Extracting multilayer networks from Sentinel-2 satellite image time series",
+        "pub_year": 2020,
+        "author": "R. INTERDONATO and R. GAETANO and D. LO SEEN and M. ROCHE and G. SCARPA",
+        "journal": "Network Science"
+    }
+}

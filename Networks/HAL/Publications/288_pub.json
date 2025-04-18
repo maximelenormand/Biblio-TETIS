@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Simulation of maize evapotranspiration: An inter-comparison among 29 maize models",
+        "pub_year": 2019,
+        "author": "B. A. KIMBALL and K. J. BOOTE and J. L. HATFIELD and L. R. AHUJA and C. STOCKLE and S. ARCHONTOULIS and C. BARON and B. BASSO and P. BERTUZZI and J. CONSTANTIN and D. DERYNG and B. DUMONT and J.-L. DURAND and F. EWERT and T. GAISER and S. GAYLER and M. P. HOFFMANN and Q. JIANG and S.-H. KIM and J. LIZASO and S. MOULIN and C. NENDEL and P. PARKER and T. PALOSUO and E. PRIESACK and Z. QI and A. SRIVASTAVA and T. STELLA and F. TAO and K. R. THORP and D. TIMLIN and T. E. TWINE and H. WEBBER and M. WILLAUME and K. WILLIAMS",
+        "journal": "Agricultural and Forest Meteorology"
+    }
+}

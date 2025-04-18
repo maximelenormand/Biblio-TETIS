@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "New Active Learning Approach for Seabed Segmentation",
+        "pub_year": 2022,
+        "author": "L. PIBRE and J. PASQUET and V. DOUZAL and C. NOEL",
+        "journal": "29th IEEE International Conference on Image Processing (ICIP 2022)"
+    }
+}

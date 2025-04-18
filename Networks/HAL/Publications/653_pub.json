@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Linking heterogeneous data for food security prediction",
+        "pub_year": 2020,
+        "author": "H. DELEGLISE and A. BEGUE and R. INTERDONATO and E. MAITRE D'HOTEL and M. ROCHE and M. TEISSEIRE",
+        "journal": "Workshops of the 20th Joint European Conference on Machine Learning and Knowledge Discovery in Databases, ECML PKDD"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Un plugin QGIS pour intégrer dynamiquement des séries d'observations hétérogènes",
+        "pub_year": 2020,
+        "author": "P. LEMOISSON and M. DOUCHIN and R.-L. D'HONT",
+        "journal": "GéoDataDays 2020 : Les journées nationales géonumériques de l'Afigeo et Décryptagéo"
+    }
+}

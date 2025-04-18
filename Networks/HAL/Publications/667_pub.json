@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Simulation of Lidar signal with DART for the development of LEAF, a spaceborne Lidar mission for forest ecosystem monitoring",
+        "pub_year": 2019,
+        "author": "S. DURRIEU and F. DE BOISSIEU and J.-P. GASTELLU-ETCHEGORRY and G. VINCENT and C. LAVALLEY and G. COUDERC and S. MPILI and F. HEUSCHMIDT and J. COSTERASTE and J.-B. FERET and D. EBENGO and N. LAURET and M.J. LEFEVRE FONOLLOSA and T. YIN",
+        "journal": "ESA Living Planet Symposium"
+    }
+}

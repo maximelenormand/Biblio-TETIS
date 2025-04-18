@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Supervised level-wise pretraining for sequential data classification",
+        "pub_year": 2020,
+        "author": "D. IENCO and R. INTERDONATO and R. GAETANO",
+        "journal": "ICONIP 2020 - 27th International Conference on Neural Information Processing"
+    }
+}

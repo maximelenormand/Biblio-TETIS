@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The Impact of Acquisition Date on the Prediction Performance of Topsoil Organic Carbon from Sentinel-2 for Croplands",
+        "pub_year": 2019,
+        "author": "E. VAUDOUR and C. GOMEZ and T. LOISEAU and N. BAGHDADI and B. LOUBET and D. ARROUAYS and L. ALI and P. LAGACHERIE",
+        "journal": "Remote Sensing"
+    }
+}

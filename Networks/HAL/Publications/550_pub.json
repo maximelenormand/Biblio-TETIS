@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new reflectivity index for the retrieval of surface soil moisture from radar data",
+        "pub_year": 2021,
+        "author": "M. ZRIBI and M. FOUCRAS and N. BAGHDADI and J. DEMARTY and S. MUDDU",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

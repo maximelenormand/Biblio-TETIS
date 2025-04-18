@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimating Forest Heights and Wood Volume using a Deep Learning Approach from Gedi Waveform Data",
+        "pub_year": 2022,
+        "author": "I. FAYAD and D. IENCO and N. BAGHDADI and R. GAETANO and C. A. ALVARES and J. L. STAPE and H. F. SCOLFORO and G. MAIRE",
+        "journal": "IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

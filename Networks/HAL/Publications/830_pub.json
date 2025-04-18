@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimation of Spatial Distribution of Leaf Area Density in Canopies from Terrestrial LiDAR Point Clouds",
+        "pub_year": 2021,
+        "author": "M. SOMA and F. PIMONT and S. DURRIEU and J.-L. DUPUY",
+        "journal": "Silvilaser"
+    }
+}

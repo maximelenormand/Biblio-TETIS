@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "lidR: An R package for analysis of Airborne Laser Scanning (ALS) data",
+        "pub_year": 2020,
+        "author": "J.-R. ROUSSEL and D. AUTY and N. COOPS and P. TOMPALSKI and T. R. GOODBODY and A. S. MEADOR and J.-F. BOURDON and F. DE BOISSIEU and A. ACHIM",
+        "journal": "Remote Sensing of Environment"
+    }
+}

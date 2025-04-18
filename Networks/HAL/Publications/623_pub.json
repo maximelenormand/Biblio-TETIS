@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Unsupervised Domain Adaptation Methods for Land Cover Mapping with Optical Satellite Image Time Series",
+        "pub_year": 2022,
+        "author": "E. CAPLIEZ and D. IENCO and R. GAETANO and N. BAGHDADI and A. H. SALAH",
+        "journal": "IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

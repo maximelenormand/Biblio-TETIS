@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detecting irrigation events using Sentinel-1 data",
+        "pub_year": 2021,
+        "author": "H. BAZZI and N. BAGHDADI and I. FAYAD and M. ZRIBI and V. DEMAREZ and Y. PAGEOT and H. BELHOUCHETTE",
+        "journal": "IGARSS 2021"
+    }
+}

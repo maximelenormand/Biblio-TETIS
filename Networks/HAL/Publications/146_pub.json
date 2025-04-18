@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Out-of-year corn yield prediction at field-scale using Sentinel-2 satellite imagery and machine learning methods",
+        "pub_year": 2023,
+        "author": "J. DESLOIRES and D. IENCO and A. BOTREL",
+        "journal": "Computers and Electronics in Agriculture"
+    }
+}

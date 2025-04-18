@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A data-driven score model to assess online news articles in event-based surveillance system",
+        "pub_year": 2022,
+        "author": "M.A. SYED and E. ARSEVSKA and M. ROCHE and M. TEISSEIRE",
+        "journal": "Annual International Conference on Information Management and Big Data (SIMBig 2021)"
+    }
+}

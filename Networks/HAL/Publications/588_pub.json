@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ConvEntion: Classification des séries chronologiques d'images astronomiques à l'aide d'attention convolutive",
+        "pub_year": 2022,
+        "author": "A. BAIROUK and M. CHAUMONT and D. FOUCHEZ and J. PASQUET and F. COMBY",
+        "journal": "GRETSI 2022 - 28e Colloque Francophone de Traitement du Signal et des Images"
+    }
+}

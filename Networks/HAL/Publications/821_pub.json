@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A neural network strategy for supervised classification via the learning under privileged information paradigm",
+        "pub_year": 2021,
+        "author": "L. SACCO and D. IENCO and R. INTERDONATO",
+        "journal": "29th Italian Symposium on Advanced Database Systems, SEBD 2021"
+    }
+}

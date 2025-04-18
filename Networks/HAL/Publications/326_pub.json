@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Food packaging permeability and composition dataset dedicated to text-mining",
+        "pub_year": 2021,
+        "author": "M. LENTSCHAT and P. BUCHE and J. DIBIE-BARTHELEMY and L. MENUT and M. ROCHE",
+        "journal": "Data in Brief"
+    }
+}

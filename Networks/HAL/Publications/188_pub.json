@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Estimating leaf mass per area and equivalent water thickness based on leaf optical properties: potential and limitations of physical modeling and machine learning.",
+        "pub_year": 2019,
+        "author": "J.-B. FERET and G. LE MAIRE and S. JAY and D. BERVEILLER and R. BENDOULA and G. HMIMINA and A. CHERAIET and J.C. OLIVEIRA and F.J. PONZONI and T. SOLANKI and F. DE BOISSIEU and J. CHAVE and Y. NOUVELLON and A. PORCAR-CASTELL and C. PROISY and K. SOUDANI and J.-P. GASTELLU-ETCHEGORRY and M.-J. LEFEVRE-FONOLLOSA",
+        "journal": "Remote Sensing of Environment"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluation of sentinel-1 and 2 time series for land cover classification of forest–agriculture mosaics in temperate and tropical landscapes",
+        "pub_year": 2019,
+        "author": "A. MERCIER and J. BETBEDER and F. RUMIANO and J. BAUDRY and V. GOND and L. BLANC and C. BOURGOIN and G. CORNU and C. CIUDAD and M. MARCHAMALO and R. POCCARD-CHAPUIS and L. HUBERT-MOY",
+        "journal": "Remote Sensing"
+    }
+}

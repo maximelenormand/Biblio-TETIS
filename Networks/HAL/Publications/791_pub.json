@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeoPlant: Spatial Plant Species Prediction Dataset",
+        "pub_year": 2024,
+        "author": "L. PICEK and C. BOTELLA and M. SERVAJEAN and C. LEBLANC and R. PALARD and T. LARCHER and B. DENEU and D. MARCOS and P. BONNET and A. JOLY",
+        "journal": "NeurIPS 2024 - 38th Conference on Neural Information Processing Systems"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Fusion of time-series optical and SAR images using 3D convolutional neural networks for crop classification",
+        "pub_year": 2022,
+        "author": "M. TEIMOURI and M. MOKHTARZADE and N. BAGHDADI and C. HEIPKE",
+        "journal": "Geocarto International"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Feature-rich networks: going beyond complex network topologies",
+        "pub_year": 2019,
+        "author": "R. INTERDONATO and M. ATZMUELLER and S. GAITO and R. KANAWATI and C. LARGERON and A. SALA",
+        "journal": "Applied Network Science"
+    }
+}

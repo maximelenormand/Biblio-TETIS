@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessment of GEDI's LiDAR Data for the Estimation of Canopy Heights and Wood Volume of Eucalyptus Plantations in Brazil",
+        "pub_year": 2021,
+        "author": "I. FAYAD and N. BAGHDADI and C. A. ALVARES and J. L. STAPE and J.-S. BAILLY and H. F. SCOLFORO and M. ZRIBI and G. L. MAIRE",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

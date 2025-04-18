@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "How Much Would You Pay for a Satellite Image?: Lessons Learned From French Spatial-Data Infrastructure",
+        "pub_year": 2020,
+        "author": "C. JABBOUR and A. HOAYEK and P. MAUREL and H. REY-VALETTE and J.-M. SALLES",
+        "journal": "IEEE geoscience and remote sensing magazine"
+    }
+}

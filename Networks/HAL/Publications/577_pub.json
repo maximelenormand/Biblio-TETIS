@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Analysis of Sentinel-1 derived soil moisture maps over Occitanie, South France",
+        "pub_year": 2019,
+        "author": "N. BAGHDADI and H. BAZZI and M. EL HAJJ and M. ZRIBI",
+        "journal": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
+    }
+}

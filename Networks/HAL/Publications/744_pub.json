@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards the extraction of partial instances of N-Ary relations in textual data",
+        "pub_year": 2019,
+        "author": "M. LENTSCHAT and P. BUCHE and J. DIBIE-BARTHELEMY and M. ROCHE",
+        "journal": "IN'OVIVE"
+    }
+}

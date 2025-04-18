@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "INRAE TomoSAR service: a free scientific calculation on persistent and distributed scatterers radar interferometry",
+        "pub_year": 2023,
+        "author": "D. HO TONG MINH and M.-P. DOIN and E. PATHIER",
+        "journal": "IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

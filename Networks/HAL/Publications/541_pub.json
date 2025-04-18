@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "FairSwiRL: fair semi-supervised classification with representation learning",
+        "pub_year": 2023,
+        "author": "S. YANG and M. CERRATO and D. IENCO and R. PENSA and R. ESPOSITO",
+        "journal": "Machine Learning"
+    }
+}

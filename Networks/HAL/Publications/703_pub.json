@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation and Adversarial Learning",
+        "pub_year": 2024,
+        "author": "D. IENCO and C. DANTAS",
+        "journal": "BMVC 2024 - 35th British Machine Vision Conference"
+    }
+}

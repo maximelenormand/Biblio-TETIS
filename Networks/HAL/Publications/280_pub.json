@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "SNEToolkit: Spatial named entities disambiguation toolkit",
+        "pub_year": 2023,
+        "author": "R. KAFANDO and R. DECOUPES and M. ROCHE and M. TEISSEIRE",
+        "journal": "SoftwareX"
+    }
+}

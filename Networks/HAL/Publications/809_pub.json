@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Processus de veille et classification automatique de données textuelles",
+        "pub_year": 2021,
+        "author": "M. ROCHE",
+        "journal": "Séminaire Text Mining et Veille Sanitaire pour les plateformes d'épidémiosurveillance - IMOTEP"
+    }
+}

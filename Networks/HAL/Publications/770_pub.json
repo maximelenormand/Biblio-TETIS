@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "EpidGPT: A combined strategy to discriminate between redundant and new information for epidemiological surveillance systems",
+        "pub_year": 2024,
+        "author": "E. MENYA and M. ROCHE and R. INTERDONATO and D. OWUOR",
+        "journal": "Natural Language Processing and Information Systems (NLDB 2024)"
+    }
+}

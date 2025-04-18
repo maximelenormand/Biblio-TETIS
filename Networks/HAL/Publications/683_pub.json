@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "The MORINGA processing chain: Automatic object-based land cover classification of tropical agrosystems using multi-sensor satellite imagery",
+        "pub_year": 2019,
+        "author": "R. GAETANO and S. DUPUY and V. LEBOURGEOIS and G. LE MAIRE and A. TRAN and A. JOLIVOT and A. BEGUE",
+        "journal": "2019 Living Planet Symposium"
+    }
+}

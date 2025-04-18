@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Enhancing forest attribute prediction by considering terrain and scan angles from lidar point clouds: A neural network approach",
+        "pub_year": 2023,
+        "author": "K. R. DAYAL and S. DURRIEU and K. LAHSSINI and D. IENCO and J.-M. MONNET",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

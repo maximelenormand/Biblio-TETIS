@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "First Vegetation Optical Depth Mapping from Sentinel-1 C-band SAR Data over Crop Fields",
+        "pub_year": 2019,
+        "author": "M. HAJJ and N. BAGHDADI and J.-P. WIGNERON and M. ZRIBI and C. ALBERGEL and J.-C. CALVET and I. FAYAD",
+        "journal": "Remote Sensing"
+    }
+}

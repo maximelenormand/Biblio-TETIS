@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hy-TeC: a hybrid vision transformer model for high-resolution and large-scale mapping of canopy height",
+        "pub_year": 2024,
+        "author": "I. FAYAD and P. CIAIS and M. SCHWARTZ and J.-P. WIGNERON and N. BAGHDADI and A. DE TRUCHIS and A. D'ASPREMONT and F. FRAPPART and S. SAATCHI and E. SEAN and A. PELLISSIER-TANON and H. BAZZI",
+        "journal": "Remote Sensing of Environment"
+    }
+}

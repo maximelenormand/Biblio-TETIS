@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "KEOPS-CTS: Knowledge ExtractOr Pipeline System pour l'analyse de Champs Thématiques Stratégiques",
+        "pub_year": 2024,
+        "author": "S. VALENTIN and T. HELMER and X. ROUVIERE and M. ROCHE",
+        "journal": "Journées francophones d'ingénierie des connaissances (IC 2024)"
+    }
+}

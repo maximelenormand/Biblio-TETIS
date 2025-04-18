@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil moisture retrieval algorithm using Sentinel-1 images",
+        "pub_year": 2019,
+        "author": "N. BAGHDADI and M. HAJJ and M. ZRIBI",
+        "journal": "International Scientific and Practical Conference “Problems of Desertification: Dynamics, Assessment, Solutions\""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Evaluate Pseudo Labeling and CNN for Multi-variate Time Series Classification in Low-Data Regimes",
+        "pub_year": 2021,
+        "author": "D. IENCO and D. PEREIRA-SANTOS and A. DE CARVALHO",
+        "journal": "30th International Conference on Artificial Neural Networks, ICANN 2021"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison of GEDI LiDAR Data Capability for Forest Canopy Height Estimation over Broadleaf and Needleleaf Forests",
+        "pub_year": 2023,
+        "author": "M. R. POURRAHMATI and N. BAGHDADI and I. FAYAD",
+        "journal": "Remote Sensing"
+    }
+}

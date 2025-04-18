@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil Moisture Retrieval in Bare Agricultural Areas Using Sentinel-1 Images",
+        "pub_year": 2023,
+        "author": "M. ETTALBI and N. BAGHDADI and P.-A. GARAMBOIS and H. BAZZI and E. FERREIRA and M. ZRIBI",
+        "journal": "Remote Sensing"
+    }
+}

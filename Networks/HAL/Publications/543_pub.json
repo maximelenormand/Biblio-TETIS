@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Globe-LFMC 2.0, an enhanced and updated dataset for live fuel moisture content research",
+        "pub_year": 2024,
+        "author": "M. YEBRA and G. SCORTECHINI and K. ADELINE and N. AKTEPE and T. ALMOUSTAFA and A. BAR-MASSADA and M. BEGET and M. BOER and R. BRADSTOCK and T. BROWN and F. CASTRO and R. CHEN and E. CHUVIECO and M. DANSON and C. DEğIRMENCI and R. DELGADO-DAVILA and P. DENNISON and C. DI BELLA and O. DOMENECH and J.-B. FERET and G. FORSYTH and E. GABRIEL and Z. GAGKAS and F. GHARBI and E. GRANDA and A. GRIEBEL and B. HE and M. JOLLY and I. KOTZUR and T. KRAAIJ and A. KRISTINA and P. KUTKUT and J.-M. LIMOUSIN and M. P. MARTIN and A. MONTEIRO and M. MORAIS and B. MOREIRA and F. MOUILLOT and S. MSWELI and R. NOLAN and G. PELLIZZARO and Y. QI and X. QUAN and V. RESCO DE DIOS and D. ROBERTS and C. TAVşANOğLU and A. TAYLOR and J. TAYLOR and I. TUFEKCIOğLU and A. VENTURA and N. YOUNES CARDENAS",
+        "journal": "Scientific Data"
+    }
+}

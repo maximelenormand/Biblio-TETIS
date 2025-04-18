@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TaeC: A manually annotated text dataset for trait and phenotype extraction and entity linking in wheat breeding literature",
+        "pub_year": 2024,
+        "author": "C. NEDELLEC and C. SAUVION and R. BOSSY and M. BOROVIKOVA and L. DELEGER",
+        "journal": "PLoS ONE"
+    }
+}

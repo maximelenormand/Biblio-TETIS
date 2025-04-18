@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining 2D encoding and convolutional neural network to enhance land cover mapping from Satellite Image Time Series",
+        "pub_year": 2023,
+        "author": "A. ABIDI and D. IENCO and A. BEN ABBES and I. R. FARAH",
+        "journal": "Engineering Applications of Artificial Intelligence"
+    }
+}

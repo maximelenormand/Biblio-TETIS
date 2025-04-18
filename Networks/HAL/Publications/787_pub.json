@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Coarse-to-Fine Concept Bottleneck Models",
+        "pub_year": 2024,
+        "author": "K. PANOUSIS and D. IENCO and D. MARCOS",
+        "journal": "NeurIPS 2024 - 38th Annual Conference on Neural Information Processing Systems"
+    }
+}

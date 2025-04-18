@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An Hybrid Approach for Soil Moisture Estimation with Sentinel Data",
+        "pub_year": 2023,
+        "author": "M. ZRIBI and S. NATIVEL and E. AYARI and S. GASCOIN and C. ALBERGEL and N. BAGHDADI and R. MADELON and N. RODRIGUEZ-FERNANDEZ",
+        "journal": "IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining Sentinel-1 and Sentinel-2 time series via RNN for object-based land cover classification",
+        "pub_year": 2019,
+        "author": "D. IENCO and R. GAETANO and K. OSE and D. HO TONG MINH",
+        "journal": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
+    }
+}

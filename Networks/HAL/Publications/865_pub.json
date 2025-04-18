@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An inductive framework for semi-supervised learning",
+        "pub_year": 2021,
+        "author": "S. YANG and D. IENCO and R. ESPOSITO and R.G. PENSA",
+        "journal": "29th Italian Symposium on Advanced Database Systems, SEBD 2021"
+    }
+}

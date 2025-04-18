@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Using Machine-Learning Algorithms to Predict Soil Organic Carbon Content from Combined Remote Sensing Imagery and Laboratory Vis-NIR Spectral Datasets",
+        "pub_year": 2023,
+        "author": "H. ZAYANI and Y. FOUAD and D. MICHOT and Z. KASSOUK and N. BAGHDADI and E. VAUDOUR and Z. LILI-CHABAANE and C. WALTER",
+        "journal": "Remote Sensing"
+    }
+}

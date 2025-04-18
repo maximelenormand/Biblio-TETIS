@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Explaining the decisions and the functioning of a convolutional spatiotemporal land cover classifier with channel attention and redescription mining",
+        "pub_year": 2024,
+        "author": "E. PELOUS and N. MEGER and A. BENOIT and A. ATTO and D. IENCO and H. COURTEILLE and C. LIN-KWONG-CHON",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing"
+    }
+}

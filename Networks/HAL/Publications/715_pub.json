@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Aligning geo-tagged clip representations and satellite imagery for few-shot land use classification",
+        "pub_year": 2024,
+        "author": "P. JAIN and D. MARCOS and D. IENCO and R. INTERDONATO and A. DHAKAL and N. JACOBS and T. BERCHOUX",
+        "journal": "International Geoscience and Remote Sensing Symposium (IGARSS 2024)"
+    }
+}

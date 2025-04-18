@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection and Mapping of Cover Crops Using Sentinel-1 SAR Remote Sensing Data",
+        "pub_year": 2023,
+        "author": "S. NAJEM and N. BAGHDADI and H. BAZZI and N. LALANDE and L. BOUCHET",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

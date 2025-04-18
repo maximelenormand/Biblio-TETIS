@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sparse Linear Concept Discovery Models",
+        "pub_year": 2023,
+        "author": "K. PANOUSIS and D. IENCO and D. MARCOS",
+        "journal": "ICCVW 2023 - IEEE/CVF International Conference on Computer Vision Workshops"
+    }
+}

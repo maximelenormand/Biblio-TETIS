@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Weakly Supervised learning for land cover mapping of satellite image time series via attention-based CNN",
+        "pub_year": 2020,
+        "author": "D. IENCO and R. GAETANO and Y. J. E. GBODJO and R. INTERDONATO",
+        "journal": "IEEE Access"
+    }
+}

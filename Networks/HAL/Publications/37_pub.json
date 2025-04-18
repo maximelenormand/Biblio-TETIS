@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An operational framework for mapping irrigated areas at plot scale using Sentinel-1 and Sentinel-2 data",
+        "pub_year": 2021,
+        "author": "H. BAZZI and N. BAGHDADI and G. AMIN and I. FAYAD and M. ZRIBI and V. DEMAREZ and H. BELHOUCHETTE",
+        "journal": "Remote Sensing"
+    }
+}

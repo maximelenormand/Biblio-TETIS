@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Bare Soil Surface Moisture Retrieval from Sentinel-1 SAR Data Based on the Calibrated IEM and Dubois Models Using Neural Networks",
+        "pub_year": 2019,
+        "author": "H. REZA MIRSOLEIMANI and M. REZA SAHEBI and N. BAGHDADI and M. EL HAJJ",
+        "journal": "Sensors"
+    }
+}

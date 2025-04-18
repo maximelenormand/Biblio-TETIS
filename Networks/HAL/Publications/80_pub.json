@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Influence of Sampling Design Parameters on Biomass Predictions Derived from Airborne LiDAR Data",
+        "pub_year": 2019,
+        "author": "M. BOUVIER and S. DURRIEU and R. FOURNIER and N. SAINT-GEOURS and D. GUYON and E. GRAU and F. DE BOISSIEU",
+        "journal": "Canadian Journal of Remote Sensing"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Building facade and rooftop segmentation by normal estimation from UAV derived RGB point cloud",
+        "pub_year": 2019,
+        "author": "S. KUSHWAHA and K. R. DAYAL and A. SINGH and K. JAIN",
+        "journal": "6th International Workshop on LowCost 3D - Sensors, Algorithms, Applications"
+    }
+}

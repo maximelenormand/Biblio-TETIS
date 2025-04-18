@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Galaxy Image Translation with Semi-supervised Noise-reconstructed Generative Adversarial Networks",
+        "pub_year": 2021,
+        "author": "Q. LIN and D. FOUCHEZ and J. PASQUET",
+        "journal": "2020 25th International Conference on Pattern Recognition (ICPR)"
+    }
+}

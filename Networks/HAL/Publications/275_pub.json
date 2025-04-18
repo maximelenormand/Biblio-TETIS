@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "From prototype to inference: A pipeline to apply deep learning in sorghum panicle detection",
+        "pub_year": 2023,
+        "author": "C. JAMES and Y. GU and A. POTGIETER and E. DAVID and S. MADEC and W. GUO and F. BARET and A. ERIKSSON and S. CHAPMAN",
+        "journal": "Plant Phenomics"
+    }
+}

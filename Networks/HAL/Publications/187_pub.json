@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "prospect: an R package to link leaf optical properties with their chemical and structural properties with the leaf model PROSPECT",
+        "pub_year": 2024,
+        "author": "J.-B. FERET and F. DE BOISSIEU",
+        "journal": "Journal of Open Source Software"
+    }
+}

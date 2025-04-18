@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "An investigation into lidar scan angle impacts on stand attribute predictions in different forest environments",
+        "pub_year": 2022,
+        "author": "K. R. DAYAL and S. DURRIEU and K. LAHSSINI and S. ALLEAUME and M. BOUVIER and J.-M. MONNET and J.-P. RENAUD and F. REVERS",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing"
+    }
+}

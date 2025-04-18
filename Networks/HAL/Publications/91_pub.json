@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Generation of country-scale canopy height maps over Gabon using deep learning and TanDEM-X InSAR data",
+        "pub_year": 2024,
+        "author": "D. CARCERERI and P. RIZZOLI and L. DELLAMORE and J.-L. BUESO-BELLO and D. IENCO and L. BRUZZONE",
+        "journal": "Remote Sensing of Environment"
+    }
+}

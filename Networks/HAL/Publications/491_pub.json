@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Sentinel-2 Satellite Image Time-Series Land Cover Classification with Bernstein Copula Approach",
+        "pub_year": 2022,
+        "author": "C. TAMBORRINO and R. INTERDONATO and M. TEISSEIRE",
+        "journal": "Remote Sensing"
+    }
+}

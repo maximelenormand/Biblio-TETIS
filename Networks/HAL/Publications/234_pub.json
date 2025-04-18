@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of irrigation dates and amounts on maize plots from the integration of Sentinel-2 derived Leaf Area Index values in the Optirrig crop model",
+        "pub_year": 2023,
+        "author": "M. HAMZE and B. CHEVIRON and N. BAGHDADI and M. LO and D. COURAULT and M. ZRIBI",
+        "journal": "Agricultural Water Management"
+    }
+}

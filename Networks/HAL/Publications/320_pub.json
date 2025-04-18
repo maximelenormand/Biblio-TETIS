@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "TDLM: An R package for a systematic comparison of trip distribution laws and models",
+        "pub_year": 2023,
+        "author": "M. LENORMAND",
+        "journal": "Journal of Open Source Software"
+    }
+}

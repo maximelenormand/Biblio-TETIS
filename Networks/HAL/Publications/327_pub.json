@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A new method to extract n-Ary relation instances from scientific documents",
+        "pub_year": 2022,
+        "author": "M. LENTSCHAT and P. BUCHE and J. DIBIE-BARTHELEMY and M. ROCHE",
+        "journal": "Expert Systems with Applications"
+    }
+}

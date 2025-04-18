@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Volunteer Data Warehouse: State of the Art",
+        "pub_year": 2021,
+        "author": "A. SAKKA and S. BIMONTE and F. PINET and L. SAUTOT",
+        "journal": "International Journal of Data Warehousing and Mining (IJDWM)"
+    }
+}

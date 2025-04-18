@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A CNN adapted to time series for the classification of Supernovae",
+        "pub_year": 2019,
+        "author": "A. BRUNEL and J. PASQUET and J. PASQUET and N. RODRIGUEZ and F. COMBY and D. FOUCHEZ and M. CHAUMONT",
+        "journal": "EI 2019 - IS&T International Symposium on Electronic Imaging"
+    }
+}

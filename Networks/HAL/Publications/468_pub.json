@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A semi-automatic design methodology for (Big) Data Warehouse transforming facts into dimensions",
+        "pub_year": 2021,
+        "author": "L. SAUTOT and S. BIMONTE and L. JOURNAUX",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering"
+    }
+}

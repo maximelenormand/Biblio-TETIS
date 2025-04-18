@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Assessment of Urban Land-Cover Classification: Comparison Between Pixel and Object Scales",
+        "pub_year": 2021,
+        "author": "A. CORNIC and K. OSE and D. IENCO and E. BARBE and R. CRESSON",
+        "journal": "IGARSS 2021 - 2021 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

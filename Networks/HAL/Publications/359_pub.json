@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep convolutional neural networks to monitor coralligenous reefs: Operationalizing biodiversity and ecological assessment",
+        "pub_year": 2020,
+        "author": "G. MARRE and C. DE ALMEIDA BRAGA and D. IENCO and S. LUQUE and F. HOLON and J. DETER",
+        "journal": "Ecological Informatics"
+    }
+}

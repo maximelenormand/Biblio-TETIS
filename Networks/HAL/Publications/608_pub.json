@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Overview of GeoLifeCLEF 2023: Species Composition Prediction with High Spatial Resolution at Continental Scale Using Remote Sensing",
+        "pub_year": 2023,
+        "author": "C. BOTELLA and B. DENEU and D. MARCOS and M. SERVAJEAN and T. LARCHER and C. LEBLANC and J. ESTOPINAN and P. BONNET and A. JOLY",
+        "journal": "CLEF 2023 Working Notes - 24th Conference and Labs of the Evaluation Forum"
+    }
+}

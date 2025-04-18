@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Detection of spatio-temporal evolutions on multi-annual satellite image time series: A clustering based approach",
+        "pub_year": 2019,
+        "author": "L. KHIALI and M. NDIATH and S. ALLEAUME and D. IENCO and K. OSE and M. TEISSEIRE",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation"
+    }
+}

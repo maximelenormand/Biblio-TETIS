@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ASCAT IB: A radar-based vegetation optical depth retrieved from the ASCAT scatterometer satellite",
+        "pub_year": 2021,
+        "author": "X. LIU and J.-P. WIGNERON and L. FAN and F. FRAPPART and P. CIAIS and N. BAGHDADI and M. ZRIBI and T. JAGDHUBER and X. LI and M. WANG and X. BAI and C. MOISY",
+        "journal": "Remote Sensing of Environment"
+    }
+}

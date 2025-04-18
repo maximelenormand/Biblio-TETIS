@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "LifeCLEF 2024 Teaser: Challenges on Species Distribution Prediction and Identification",
+        "pub_year": 2024,
+        "author": "A. JOLY and L. PICEK and S. KAHL and H. GOEAU and V. ESPITALIER and C. BOTELLA and B. DENEU and D. MARCOS and J. ESTOPINAN and C. LEBLANC and T. LARCHER and M. ULC and M. HRUZ and M. SERVAJEAN and J. MATAS and H. GLOTIN and R. PLANQUE and W.-P. VELLINGA and H. KLINCK and T. DENTON and A. DURSO and I. EGGEL and P. BONNET and H. MULLER",
+        "journal": "ECIR 2024 - 46th European Conference on Information Retrieval"
+    }
+}

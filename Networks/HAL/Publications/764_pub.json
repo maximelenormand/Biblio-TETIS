@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "KEOPS: Knowledge ExtractOr Pipeline System",
+        "pub_year": 2021,
+        "author": "P. MARTIN and T. HELMER and J. RABATEL and M. ROCHE",
+        "journal": "15th International Conference on Research Challenges in Information Science"
+    }
+}

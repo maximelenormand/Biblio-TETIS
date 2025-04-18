@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "GeospaCy: A tool for extraction and geographical referencing of spatial expressions in textual data",
+        "pub_year": 2024,
+        "author": "M.A. SYED and E. ARSEVSKA and M. ROCHE and M. TEISSEIRE",
+        "journal": "Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)"
+    }
+}

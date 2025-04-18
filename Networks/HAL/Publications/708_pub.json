@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combine Histogram Matching and Domain Adaptation to Cope with Temporal Transfer Learning for the Semantic Segmentation of VHR Images",
+        "pub_year": 2022,
+        "author": "D. IENCO and K. OSE",
+        "journal": "IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

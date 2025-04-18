@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Towards a (semi-)automatic urban planning rule identification in the french language",
+        "pub_year": 2023,
+        "author": "M. KOPTELOV and M. HOLVECK and B. CRÉMILLEUX and J. REYNAUD and M. ROCHE and M. TEISSEIRE",
+        "journal": "IEEE International Conference on Data Science and Advanced Analytics (DSAA)"
+    }
+}

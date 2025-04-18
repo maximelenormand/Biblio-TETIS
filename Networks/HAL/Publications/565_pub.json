@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Inferring the transmission dynamics of Avian Influenza from news and environmental data",
+        "pub_year": 2022,
+        "author": "N. ARINIK and R. INTERDONATO and M. ROCHE and M. TEISSEIRE",
+        "journal": "International Conference on Complex Networks and their Applications"
+    }
+}

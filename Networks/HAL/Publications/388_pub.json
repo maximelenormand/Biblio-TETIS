@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "BFASTm-L2, an unsupervised LULCC detection based on seasonal change detection - An application to large-scale land acquisitions in Senegal",
+        "pub_year": 2023,
+        "author": "Y. NGADI SCARPETTA and V. LEBOURGEOIS and A.-E. LAQUES and M. DIEYE and J. BOURGOIN and A. BEGUE",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation"
+    }
+}

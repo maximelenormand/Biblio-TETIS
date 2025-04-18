@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Investigating the impact of preprocessing on document embedding: an empirical comparison",
+        "pub_year": 2021,
+        "author": "N. YAHI and H. BELHADEF and M. ROCHE",
+        "journal": "International Journal of Data Mining, Modelling and Management"
+    }
+}

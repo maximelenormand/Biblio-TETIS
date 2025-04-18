@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ALE : active learning extension for object detection",
+        "pub_year": 2024,
+        "author": "T. ORIOL and J. PASQUET and J. CORTET",
+        "journal": "COmpression et REprésentation des Signaux Audiovisuels"
+    }
+}

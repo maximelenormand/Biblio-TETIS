@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Dealing with multipositive unlabeled learning combining metric learning and deep clustering",
+        "pub_year": 2022,
+        "author": "A. RACANATI and R. ESPOSITO and D. IENCO",
+        "journal": "IEEE Access"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Feature selection for sentiment classification of COVID-19 tweets: H-TFIDF featuring BERT",
+        "pub_year": 2022,
+        "author": "M.A. SYED and E. ARSEVSKA and M. ROCHE and M. TEISSEIRE",
+        "journal": "15th International Joint Conference on Biomedical Engineering Systems and Technologies"
+    }
+}

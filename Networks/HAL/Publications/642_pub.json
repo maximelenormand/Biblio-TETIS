@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Counterfactual Explanations for Remote Sensing Time Series Data: an Application to Land Cover Classification",
+        "pub_year": 2023,
+        "author": "C. DANTAS and T. DRUMOND and D. MARCOS and D. IENCO",
+        "journal": "ECML PKDD: Joint European Conference on Machine Learning and Knowledge Discovery in Databases"
+    }
+}

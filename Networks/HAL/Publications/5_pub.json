@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-scale datasets for monitoring Mediterranean oak forests from optical remote sensing during the SENTHYMED/MEDOAK experiment in the north of Montpellier (France)",
+        "pub_year": 2024,
+        "author": "K. ADELINE and J.-B. FERET and H. CLENET and J.-M. LIMOUSIN and J.-M. OURCIVAL and F. MOUILLOT and S. ALLEAUME and A. JOLIVOT and X. BRIOTTET and L. BIDEL and E. ARIA and A. DEFOSSEZ and T. GAUBERT and J. GIFFARD-CARLET and J. KEMPF and D. LONGEPIERRE and F. LOPEZ and T. MIRAGLIO and J. VIGOUROUX and M. DEBUE",
+        "journal": "Data in Brief"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ITEXT-BIO: Intelligent Term EXTraction for BIOmedical Analysis",
+        "pub_year": 2021,
+        "author": "R. KAFANDO and R. DECOUPES and S. VALENTIN and L. SAUTOT and M. TEISSEIRE and M. ROCHE",
+        "journal": "Health Information Science and Systems"
+    }
+}

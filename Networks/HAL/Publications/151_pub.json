@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A survey of the applications of text mining for agriculture",
+        "pub_year": 2019,
+        "author": "B. DRURY and M. ROCHE",
+        "journal": "Computers and Electronics in Agriculture"
+    }
+}

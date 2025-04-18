@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Positive Unlabelled Learning for Satellite Images’Time Series Analysis: An Application to Cereal and Forest Mapping",
+        "pub_year": 2022,
+        "author": "J. DESLOIRES and D. IENCO and A. BOTREL and N. RANC",
+        "journal": "Remote Sensing"
+    }
+}

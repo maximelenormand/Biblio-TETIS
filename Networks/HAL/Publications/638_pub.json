@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "CHANNEL-BASED ATTENTION FOR LCC USING SENTINEL-2 TIME SERIES",
+        "pub_year": 2021,
+        "author": "H. COURTEILLE and A. BENOIT and N. MEGER and A. ATTO and D. IENCO",
+        "journal": "International Geoscience and Remote Sensing Symposium (IGARSS)"
+    }
+}

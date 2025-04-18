@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ESA☆: A generic framework for semi-supervised inductive learning",
+        "pub_year": 2021,
+        "author": "S. YANG and D. IENCO and R. ESPOSITO and R. PENSA",
+        "journal": "Neurocomputing"
+    }
+}

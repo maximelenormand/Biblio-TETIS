@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Comparison of two modeling approaches to simulate rice production in the Camargue region using Sentinel 2 data",
+        "pub_year": 2019,
+        "author": "D. COURAULT and V. DEMAREZ and L. HOSSARD and F. FLAMAIN and E. NDIKUMANA and D. HO TONG MINH and N. BAGHDADI and F. RUGET",
+        "journal": "39. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multilayer network simplification: Approaches, models and methods",
+        "pub_year": 2020,
+        "author": "R. INTERDONATO and M. MAGNANI and D. PERNA and A. TAGARELLI and D. VEGA",
+        "journal": "Computer Science Review"
+    }
+}

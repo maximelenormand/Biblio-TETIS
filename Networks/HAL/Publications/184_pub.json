@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "A CNN-based approach for the estimation of canopy heights and wood volume from GEDI waveforms",
+        "pub_year": 2021,
+        "author": "I. FAYAD and D. IENCO and N. BAGHDADI and R. GAETANO and C. ALVARES and J. STAPE and H. FERRACO SCOLFORO and G. LE MAIRE",
+        "journal": "Remote Sensing of Environment"
+    }
+}

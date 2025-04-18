@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Hybrid methodology using Sentinel-1/Sentinel-2 for soil moisture estimation",
+        "pub_year": 2022,
+        "author": "S. NATIVEL and E. AYARI and N. RODRIGUEZ-FERNANDEZ and N. BAGHDADI and R. MADELON and C. ALBERGEL and M. ZRIBI",
+        "journal": "Remote Sensing"
+    }
+}

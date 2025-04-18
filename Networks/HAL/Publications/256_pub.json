@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining Sentinel-1 and Sentinel-2 Satellite Image Time Series for land cover mapping via a multi-source deep learning architecture",
+        "pub_year": 2019,
+        "author": "D. IENCO and R. INTERDONATO and R. GAETANO and D. HO TONG MINH",
+        "journal": "ISPRS Journal of Photogrammetry and Remote Sensing"
+    }
+}

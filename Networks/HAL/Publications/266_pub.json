@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "ALBOMAURICE: A predictive model for mapping Aedes albopictus mosquito populations in Mauritius",
+        "pub_year": 2021,
+        "author": "D. IYALOO and P. DEGENNE and K. ELAHEE and D. LO SEEN and A. BHEECARRY and A. TRAN",
+        "journal": "SoftwareX"
+    }
+}

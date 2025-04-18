@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Deep semi-supervised clustering for multi-variate time-series",
+        "pub_year": 2022,
+        "author": "D. IENCO and R. INTERDONATO",
+        "journal": "Neurocomputing"
+    }
+}

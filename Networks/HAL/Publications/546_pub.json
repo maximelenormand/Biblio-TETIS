@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Modelling forest volume with small area estimation of forest inventory using GEDI footprints as auxiliary information",
+        "pub_year": 2022,
+        "author": "S. ZHANG and C. VEGA and C. DELEUZE and S. DURRIEU and P. BARBILLON and O. BOURIAUD and J.-P. RENAUD",
+        "journal": "International Journal of Applied Earth Observation and Geoinformation"
+    }
+}

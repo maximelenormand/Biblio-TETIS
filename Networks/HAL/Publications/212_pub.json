@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Topsoil clay content mapping in croplands from Sentinel-2 data: Influence of atmospheric correction methods across a season time series",
+        "pub_year": 2022,
+        "author": "C. GOMEZ and E. VAUDOUR and J.-B. FERET and F. DE BOISSIEU and S. DHARUMARAJAN",
+        "journal": "Geoderma"
+    }
+}

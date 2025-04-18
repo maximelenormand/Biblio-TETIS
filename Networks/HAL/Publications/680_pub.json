@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Soil Moisture Estimation at 500m using Sentinel-1: application to Tunisian sites",
+        "pub_year": 2020,
+        "author": "M. FOUCRAS and M. ZRIBI and N. BAGHDADI",
+        "journal": "IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

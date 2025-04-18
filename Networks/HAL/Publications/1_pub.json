@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Combining pixel- and object-level information for land-cover mapping using time-series of Sentinel-2 satellite data",
+        "pub_year": 2022,
+        "author": "A. ABIDI and I. R. FARAH and Y. J. E. GBODJO and D. IENCO and I. FARAH",
+        "journal": "Remote Sensing Letters"
+    }
+}

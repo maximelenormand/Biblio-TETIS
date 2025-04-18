@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "NDVI estimation using Sentinel-1 data over wheat fields in a semiarid Mediterranean region",
+        "pub_year": 2024,
+        "author": "E. AYARI and Z. KASSOUK and Z. LILI-CHABAANE and N. OUAADI and N. BAGHDADI and M. ZRIBI",
+        "journal": "GIScience and Remote Sensing"
+    }
+}

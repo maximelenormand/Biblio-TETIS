@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Temporal-Domain Adaptation for Satellite Image Time-Series Land-Cover Mapping With Adversarial Learning and Spatially Aware Self-Training",
+        "pub_year": 2023,
+        "author": "E. CAPLIEZ and D. IENCO and R. GAETANO and N. BAGHDADI and A. SALAH",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Machine Learning-Based Summer Crops Mapping Using Sentinel-1 and Sentinel-2 Images",
+        "pub_year": 2024,
+        "author": "S. MALEKI and N. BAGHDADI and H. BAZZI and C. DANTAS and D. IENCO and Y. NASRALLAH and S. NAJEM",
+        "journal": "Remote Sensing"
+    }
+}

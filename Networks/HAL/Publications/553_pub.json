@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Multi-Scale Classification of Sentinel-2 Images for Land Cover Mapping Using Two-Branch Convolutional Neural Network",
+        "pub_year": 2024,
+        "author": "A. A. ABIDI and D. IENCO and C. A. BEN ABBES and D. IMED RIADH FARAH",
+        "journal": "IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Using structural class pairing to address the spatial mismatch between GEDI measurements and NFI plots",
+        "pub_year": 2024,
+        "author": "N. BESIC and S. DURRIEU and A. SCHLEICH and C. VEGA",
+        "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    }
+}

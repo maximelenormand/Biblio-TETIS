@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Determining Effective Temporal Windows for Rapeseed Detection Using Sentinel-1 Time Series and Machine Learning Algorithms",
+        "pub_year": 2024,
+        "author": "S. MALEKI and N. BAGHDADI and S. NAJEM and C. DANTAS and H. BAZZI and D. IENCO",
+        "journal": "Remote Sensing"
+    }
+}

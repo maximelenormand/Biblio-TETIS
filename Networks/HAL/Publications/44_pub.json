@@ -1,0 +1,10 @@
+{
+    "container_type": "Publication",
+    "source": "AUTHOR_PUBLICATION_ENTRY",
+    "bib": {
+        "title": "Mapping irrigated areas using Sentinel-1 Time series in Catalonia, Spain",
+        "pub_year": 2019,
+        "author": "H. BAZZI and N. BAGHDADI and D. IENCO and M. EL HAJJ and M. ZRIBI and H. BELHOUCHETTE and M. JOSE ESCORIHUELA and V. DEMAREZ",
+        "journal": "Remote Sensing"
+    }
+}
