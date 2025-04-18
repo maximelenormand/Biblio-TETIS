@@ -10,7 +10,7 @@ The Google Scholar data
 consist of a list of publications (tagged as 'conference' and 'journal') 
 co-authored by at least one permanent member of TETIS during the 2016–2023
 period. They were 
-[harvested and cleaned](https://github.com/tanodino/biblioLabo/tree/main){:target="_blank"} 
+[harvested and cleaned](https://github.com/tanodino/biblioLabo/tree/main)
 by Dino Ienco.
 
 The HAL/Agritrop data consist of a list of publications (tagged as 'Journal 
@@ -28,7 +28,7 @@ publications per year according to different criteria.
 ## Data & analysis
 
 This repository contains two folders: **Networks** and **Vizu**. The first folder 
-contains the raw data in `.json` format for both data sources 
+contains the raw data in .json format for both data sources 
 (the **GG/Publications** and **HAL/Publications** folders). The Python script 
 can be used to extract the co-publication networks from the raw data:
 
@@ -37,8 +37,8 @@ can be used to extract the co-publication networks from the raw data:
 
 The R script can then be used to extract and format the data for Shiny.
 
-The second folder contains all the materials (R scripts, `.Rdata` file, and the 
-`www` data folder) needed to run [the app](https://biblio-tetis.sk8.inrae.fr).
+The second folder contains all the materials (R scripts, .Rdata file, and the 
+www data folder) needed to run [the app](https://biblio-tetis.sk8.inrae.fr).
 
 ## Contributors
 
